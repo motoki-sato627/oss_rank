@@ -45,6 +45,20 @@ jobs:
           path: frontend/web/api
 
       # ---- 方式A: サービスアカウントでデプロイ（推奨） ----
+      # Flutter セットアップ
+      - name: Set up Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+
+      - name: Flutter pub get
+        working-directory: frontend
+        run: flutter pub get
+
+      - name: Build Flutter Web
+        working-directory: frontend
+        run: flutter build web --release
+
       - name: Deploy to Firebase Hosting (service account)
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
