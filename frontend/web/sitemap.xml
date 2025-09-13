@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://oss-rank.web.app/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
-  <!-- 個別ページ生成時に /p/{slug} を追記していく -->
+  <url>
+    <loc>https://oss-rank.web.app/tool/fastapi</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- 他の人気ツールページも追加していく -->
 </urlset>
