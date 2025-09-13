@@ -52,3 +52,4 @@ jobs:
           firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
           projectId: oss-rank
           channelId: live
+          entryPoint: frontend  
