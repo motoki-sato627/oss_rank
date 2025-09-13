@@ -17,8 +17,7 @@ def _sanitize_slug(s: str) -> str:
 
 def main():
     # 集計（必要に応じて max_pages を増やす）
-    for d in (30, 7, 1):
-        aggregate(days=d, max_pages=100)
+    aggregate(days=30, max_pages=100)
 
     # ランキング & 統計
     for d in (30, 7, 1):
