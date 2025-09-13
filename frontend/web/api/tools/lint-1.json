@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "lint",
+    "name": "lint"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "domainをsharedに入れてはいけない理由",
+      "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+      "likes": 1,
+      "published_at": "2025-09-13T06:39:12+09:00"
+    },
+    {
+      "title": "domainをsharedに入れてはいけない理由",
+      "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+      "likes": 1,
+      "published_at": "2025-09-13T06:39:12+09:00"
+    }
+  ]
+}

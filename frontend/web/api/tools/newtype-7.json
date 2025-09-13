@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "newtype",
+    "name": "newtype"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 21,
+    "score": 21.0
+  },
+  "articles_top": [
+    {
+      "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+      "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+      "likes": 21,
+      "published_at": "2025-09-07T22:39:52+09:00"
+    },
+    {
+      "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+      "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+      "likes": 0,
+      "published_at": "2025-09-07T22:39:52+09:00"
+    }
+  ]
+}

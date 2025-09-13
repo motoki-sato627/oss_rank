@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "git",
+    "name": "git"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 65,
+    "likes_sum": 393,
+    "score": 393.0
+  },
+  "articles_top": [
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 207,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    },
+    {
+      "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
+      "url": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
+      "likes": 86,
+      "published_at": "2025-08-24T17:39:47+09:00"
+    },
+    {
+      "title": "Git Worktree を使いやすくする gw コマンドを作った",
+      "url": "https://zenn.dev/sotarok/articles/0ee334cfd9f9c4",
+      "likes": 31,
+      "published_at": "2025-08-15T11:48:00+09:00"
+    },
+    {
+      "title": "VSCodeによるGitコンフリクト解消",
+      "url": "https://zenn.dev/ikejiri/articles/f10fa96d9a5650",
+      "likes": 7,
+      "published_at": "2025-08-27T13:00:24+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ2025 ジュニア『オリジナルのコマンドを作ろう！』講義資料公開",
+      "url": "https://zenn.dev/asusn/articles/8b19e6110006c7",
+      "likes": 7,
+      "published_at": "2025-08-17T22:32:53+09:00"
+    },
+    {
+      "title": "常に&quot;TODOリストのサイクル&quot;を回しながらAIを働かせたら、コードレビューの認知負荷が激減した話",
+      "url": "https://zenn.dev/lotation/articles/ae314647f06d2c",
+      "likes": 5,
+      "published_at": "2025-09-05T15:06:56+09:00"
+    },
+    {
+      "title": "PRレビューを一括取得して学習資料化するnpmを公開",
+      "url": "https://zenn.dev/dragon1208/articles/1e1917d3c16c72",
+      "likes": 5,
+      "published_at": "2025-09-05T11:12:11+09:00"
+    },
+    {
+      "title": "gitで本文中のメタ情報を無視して原稿をマージしたい",
+      "url": "https://zenn.dev/k16/articles/6de240e6685c92",
+      "likes": 4,
+      "published_at": "2025-08-21T14:43:39+09:00"
+    },
+    {
+      "title": "レビューしやすいフロントエンドPR分割の型",
+      "url": "https://zenn.dev/junk/articles/4b8817ed385a9f",
+      "likes": 3,
+      "published_at": "2025-09-08T23:49:29+09:00"
+    },
+    {
+      "title": "【Git】競合を起こさないためにできるGit以外のこと",
+      "url": "https://zenn.dev/noranuko13/articles/d559beb8f46940",
+      "likes": 3,
+      "published_at": "2025-09-02T12:03:05+09:00"
+    }
+  ]
+}

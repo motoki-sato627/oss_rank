@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vscode",
+    "name": "vscode"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 35,
+    "likes_sum": 44,
+    "score": 44.0
+  },
+  "articles_top": [
+    {
+      "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+      "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+      "likes": 8,
+      "published_at": "2025-09-12T11:15:01+09:00"
+    },
+    {
+      "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+      "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+      "likes": 6,
+      "published_at": "2025-09-06T18:32:07+09:00"
+    },
+    {
+      "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+      "url": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+      "likes": 5,
+      "published_at": "2025-09-11T19:27:28+09:00"
+    },
+    {
+      "title": "Mermaidの拡張機能とConfigと保守性の高い書き方を紹介したい",
+      "url": "https://zenn.dev/tomyn/articles/ba649286a04db0",
+      "likes": 4,
+      "published_at": "2025-09-11T16:24:02+09:00"
+    },
+    {
+      "title": "iPad × GitHub Codespaces でどこでもZenn執筆",
+      "url": "https://zenn.dev/rakuten_tech/articles/ipad-codespaces-zenn",
+      "likes": 4,
+      "published_at": "2025-09-10T07:00:05+09:00"
+    },
+    {
+      "title": "Docker + VSCodeで作るZenn執筆環境（クローンしてすぐ使える）",
+      "url": "https://zenn.dev/watari0408/articles/zenn-docker-vscode-env",
+      "likes": 4,
+      "published_at": "2025-09-08T18:08:36+09:00"
+    },
+    {
+      "title": "ゼロから作る『ローカルMCP』- Azure FunctionsでローカルMCPサーバーを起動する",
+      "url": "https://zenn.dev/yamadakz/articles/mcp-local-server",
+      "likes": 3,
+      "published_at": "2025-09-09T17:17:47+09:00"
+    },
+    {
+      "title": "VS Code v1.104 新機能ざっくりまとめ",
+      "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+      "likes": 2,
+      "published_at": "2025-09-12T18:25:45+09:00"
+    },
+    {
+      "title": "VS Code v1.104 新機能ざっくりまとめ",
+      "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+      "likes": 2,
+      "published_at": "2025-09-12T18:25:45+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    }
+  ]
+}

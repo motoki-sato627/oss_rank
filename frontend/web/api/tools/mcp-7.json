@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "mcp",
+    "name": "mcp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 45,
+    "likes_sum": 441,
+    "score": 441.0
+  },
+  "articles_top": [
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+      "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+      "likes": 68,
+      "published_at": "2025-09-08T18:00:02+09:00"
+    },
+    {
+      "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+      "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+      "likes": 30,
+      "published_at": "2025-09-11T13:01:44+09:00"
+    },
+    {
+      "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+      "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+      "likes": 24,
+      "published_at": "2025-09-10T21:36:48+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 17,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 13,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+      "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+      "likes": 10,
+      "published_at": "2025-09-10T19:12:13+09:00"
+    },
+    {
+      "title": "Zenncafeで初登壇した話",
+      "url": "https://zenn.dev/uniformnext/articles/zenncafe-speaking",
+      "likes": 10,
+      "published_at": "2025-09-09T14:33:06+09:00"
+    },
+    {
+      "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
+      "url": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
+      "likes": 10,
+      "published_at": "2025-09-06T18:40:53+09:00"
+    }
+  ]
+}

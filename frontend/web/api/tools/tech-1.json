@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "tech",
+    "name": "tech"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 5,
+    "score": 5.0
+  },
+  "articles_top": [
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 2,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 1,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - mcpでスライドをつくる",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+      "likes": 1,
+      "published_at": "2025-09-13T05:59:08+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - mcpでスライドをつくる",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+      "likes": 1,
+      "published_at": "2025-09-13T05:59:08+09:00"
+    },
+    {
+      "title": "「Google Cloud最新トレンド、もうキャッチアップしましたか？」～【googlecloud】人気記事TOP5（2025/09/07）",
+      "url": "https://zenn.dev/carenet/articles/zenn-weekly-googlecloud-articles-2025-09",
+      "likes": 0,
+      "published_at": "2025-09-12T11:39:45+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vercel",
+    "name": "vercel"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 23,
+    "likes_sum": 354,
+    "score": 354.0
+  },
+  "articles_top": [
+    {
+      "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+      "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+      "likes": 228,
+      "published_at": "2025-09-08T05:58:04+09:00"
+    },
+    {
+      "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+      "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+      "likes": 70,
+      "published_at": "2025-09-08T12:07:31+09:00"
+    },
+    {
+      "title": "Bluesky をもっと楽しくする新アプリ &quot;SkyBeMoreBlue&quot; を公開しました",
+      "url": "https://zenn.dev/so_asano/articles/cd26a3fde5cfe3",
+      "likes": 11,
+      "published_at": "2025-09-11T00:49:19+09:00"
+    },
+    {
+      "title": "vercelさんのdev3000を試してみた。",
+      "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+      "likes": 6,
+      "published_at": "2025-09-11T17:37:56+09:00"
+    },
+    {
+      "title": "【個人開発】Next.jsで犬タイプ診断アプリを作りました！",
+      "url": "https://zenn.dev/tsunadog/articles/fa489e8f1f6ccc",
+      "likes": 6,
+      "published_at": "2025-08-19T10:32:21+09:00"
+    },
+    {
+      "title": "Vercelデプロイの内部構造",
+      "url": "https://zenn.dev/teradox_blog/articles/fe1542dc960c54",
+      "likes": 5,
+      "published_at": "2025-09-11T12:43:58+09:00"
+    },
+    {
+      "title": "【Nix】`nodePackages`は廃止されていくらしいよ",
+      "url": "https://zenn.dev/kometan/articles/c21fb15c44af79",
+      "likes": 5,
+      "published_at": "2025-08-31T00:26:38+09:00"
+    },
+    {
+      "title": "@duckdb/node-api + next.jsをvercelで動かしたい",
+      "url": "https://zenn.dev/terrierscript/articles/2025-09-10-duckdb-node-api-next-js-vercel",
+      "likes": 4,
+      "published_at": "2025-09-10T21:52:59+09:00"
+    },
+    {
+      "title": "【徹底解説】TRAE:業界初のコンテキストエンジニアツール",
+      "url": "https://zenn.dev/nogu66/articles/4398c95ae92e13",
+      "likes": 3,
+      "published_at": "2025-09-06T10:54:13+09:00"
+    },
+    {
+      "title": "Vercel の Middleware 課金対策",
+      "url": "https://zenn.dev/cp20/articles/vercel-middleware-cost-optimization",
+      "likes": 3,
+      "published_at": "2025-08-31T12:00:02+09:00"
+    }
+  ]
+}

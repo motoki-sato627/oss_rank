@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "computerscience",
+    "name": "computerscience"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 79,
+    "score": 79.0
+  },
+  "articles_top": [
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "ジョージア工科大学院に旅に出る（オンライン）と少し Uopeople の話",
+      "url": "https://zenn.dev/nope_noshishi/articles/1df1b1cf44c05f",
+      "likes": 6,
+      "published_at": "2025-09-07T21:17:29+09:00"
+    },
+    {
+      "title": "『コンピュータシステムの理論と実装』から学ぶ『現代のコンピューターの基本的な仕組みと設計思想』",
+      "url": "https://zenn.dev/masa_and_so_on/articles/5387ee7201c4fb",
+      "likes": 1,
+      "published_at": "2025-09-11T16:20:56+09:00"
+    },
+    {
+      "title": "『コンピュータシステムの理論と実装』から学ぶ『現代のコンピューターの基本的な仕組みと設計思想』",
+      "url": "https://zenn.dev/masa_and_so_on/articles/5387ee7201c4fb",
+      "likes": 0,
+      "published_at": "2025-09-11T16:20:56+09:00"
+    },
+    {
+      "title": "ジョージア工科大学院に旅に出る（オンライン）と少し Uopeople の話",
+      "url": "https://zenn.dev/nope_noshishi/articles/1df1b1cf44c05f",
+      "likes": 0,
+      "published_at": "2025-09-07T21:17:29+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 0,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    }
+  ]
+}

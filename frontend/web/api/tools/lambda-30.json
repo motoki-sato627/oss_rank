@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "lambda",
+    "name": "lambda"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 88,
+    "score": 88.0
+  },
+  "articles_top": [
+    {
+      "title": "Terraform で AWS Lambda をデプロイしようとする際にぶつかる現実",
+      "url": "https://zenn.dev/tkg216/articles/54e8ef75f3fdcc",
+      "likes": 54,
+      "published_at": "2025-09-01T21:13:37+09:00"
+    },
+    {
+      "title": "SnowflakeのWorkload identity federationをAWS Lambdaから利用してみた(Python)",
+      "url": "https://zenn.dev/jimatomo/articles/c514c6e322bf1a",
+      "likes": 7,
+      "published_at": "2025-08-18T07:00:01+09:00"
+    },
+    {
+      "title": "最新AWS情報を公式RSSから自動翻訳してLINEに通知",
+      "url": "https://zenn.dev/t_oishi/articles/10007f6fa2397b",
+      "likes": 5,
+      "published_at": "2025-08-29T19:00:00+09:00"
+    },
+    {
+      "title": "AWS Lambda + API Gateway構成でPydanticを導入して型安全性と可読性を改善した話",
+      "url": "https://zenn.dev/takahashin/articles/8aa84f7759fce6",
+      "likes": 4,
+      "published_at": "2025-08-15T23:15:23+09:00"
+    },
+    {
+      "title": "Lambda SnapStart でベンチマークをとって効果検証をしてみた",
+      "url": "https://zenn.dev/rescuenow/articles/d7a514b090923a",
+      "likes": 3,
+      "published_at": "2025-09-11T08:51:31+09:00"
+    },
+    {
+      "title": "【2025年最新】AWSの通知 LINEに送信する方法",
+      "url": "https://zenn.dev/tamago701/articles/5deef43242fd56",
+      "likes": 3,
+      "published_at": "2025-08-17T18:18:43+09:00"
+    },
+    {
+      "title": "CLI から Go アプリケーションを Lambda にデプロイしてみた",
+      "url": "https://zenn.dev/mn87/articles/110b789a81b120",
+      "likes": 2,
+      "published_at": "2025-09-12T07:30:01+09:00"
+    },
+    {
+      "title": "EventBridge × Lambdaで作る指定したタイミングでAWSリソースを動かす方法",
+      "url": "https://zenn.dev/nari_rina/articles/e87fb18572ff35",
+      "likes": 2,
+      "published_at": "2025-09-10T21:28:46+09:00"
+    },
+    {
+      "title": "AWS Lambdaとfreee APIでPixiv Boothの売上登録を自動化する（S3トリガー・Node.js版）",
+      "url": "https://zenn.dev/qryuu/articles/4d2338dbcecc2d",
+      "likes": 2,
+      "published_at": "2025-09-06T21:05:32+09:00"
+    },
+    {
+      "title": "AWS InspectorがJinja2のXSS脆弱性を検出していたので、autoescapeを使って対応",
+      "url": "https://zenn.dev/taroyamada5963/articles/d82cf9edd073c7",
+      "likes": 2,
+      "published_at": "2025-08-21T06:30:01+09:00"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+name: Update data & Deploy
+
+on:
+  schedule:
+    # JST 深夜0:10 に実行（UTC は -9 時間）
+    - cron: '10 15 * * *'
+  workflow_dispatch:
+
+jobs:
+  build-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install backend deps
+        run: |
+          pip install -r backend/requirements.txt
+
+      - name: Generate JSON (30 -> 7 -> 1)
+        run: |
+          python backend/dump_json.py
+
+      - name: Upload api json as artifact (optional)
+        uses: actions/upload-artifact@v4
+        with:
+          name: api-json
+          path: frontend/web/api/**
+
+  deploy-hosting:
+    needs: build-json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # （artifact を経由したい場合）
+      - uses: actions/download-artifact@v4
+        with:
+          name: api-json
+          path: frontend/web/api
+
+      # ---- 方式A: サービスアカウントでデプロイ（推奨） ----
+      - name: Deploy to Firebase Hosting (service account)
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: '${{ secrets.GITHUB_TOKEN }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT }}'
+          projectId: oss-rank
+          channelId: live

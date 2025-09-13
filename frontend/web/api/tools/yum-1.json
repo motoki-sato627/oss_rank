@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "yum",
+    "name": "yum"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    }
+  ]
+}

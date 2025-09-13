@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "test",
+    "name": "test"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 24,
+    "likes_sum": 381,
+    "score": 381.0
+  },
+  "articles_top": [
+    {
+      "title": "巨人に学ぶテストコードアンチパターン",
+      "url": "https://zenn.dev/rakuten_tech/articles/test_review_best_practices_ja",
+      "likes": 150,
+      "published_at": "2025-08-29T21:00:01+09:00"
+    },
+    {
+      "title": "フロントエンドのテストアーキテクチャ",
+      "url": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
+      "likes": 100,
+      "published_at": "2025-09-06T09:00:01+09:00"
+    },
+    {
+      "title": "QAエンジニアはAIに淘汰されないさ。だって実は、俺たちアーティストだから。",
+      "url": "https://zenn.dev/enjapan/articles/9df195c403730b",
+      "likes": 60,
+      "published_at": "2025-09-03T11:30:37+09:00"
+    },
+    {
+      "title": "Next.jsへの移行をほぼ1週間でやりきる",
+      "url": "https://zenn.dev/socialplus/articles/8bbc6ffb96cacc",
+      "likes": 39,
+      "published_at": "2025-08-21T18:00:01+09:00"
+    },
+    {
+      "title": "フロントエンドのテスト方針はプロダクトの状況に応じて定めるべきという話",
+      "url": "https://zenn.dev/shun91/articles/fe-test-strategy",
+      "likes": 4,
+      "published_at": "2025-08-26T20:03:27+09:00"
+    },
+    {
+      "title": "『WACATE2025 夏〜動かすだけじゃだめですか？〜』に参加しました！",
+      "url": "https://zenn.dev/loglass/articles/0017-wacate2025-summer",
+      "likes": 4,
+      "published_at": "2025-08-26T12:00:02+09:00"
+    },
+    {
+      "title": "【Go】Goのテストに入門してみた！ ~go-cmp編~",
+      "url": "https://zenn.dev/tmyhrn/articles/3a963b94fd847e",
+      "likes": 3,
+      "published_at": "2025-09-04T18:00:02+09:00"
+    },
+    {
+      "title": "Kotlinにおける快適なテスティングエコシステム",
+      "url": "https://zenn.dev/hondaya14/articles/kotlin-testing-ecosystem",
+      "likes": 2,
+      "published_at": "2025-09-05T02:24:44+09:00"
+    },
+    {
+      "title": "【Go】Goのテストに入門してみた！ ~Testify編~",
+      "url": "https://zenn.dev/tmyhrn/articles/4ae17367427b44",
+      "likes": 2,
+      "published_at": "2025-09-03T19:00:01+09:00"
+    },
+    {
+      "title": "【Go】Goのテストに入門してみた！ ~構造体の比較テスト編~",
+      "url": "https://zenn.dev/tmyhrn/articles/0c73bc51456886",
+      "likes": 2,
+      "published_at": "2025-09-02T19:00:02+09:00"
+    }
+  ]
+}

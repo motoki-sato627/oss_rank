@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gpt5",
+    "name": "gpt5"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 27,
+    "likes_sum": 159,
+    "score": 159.0
+  },
+  "articles_top": [
+    {
+      "title": "Codex CLI をプロジェクトに詳しい相棒にする",
+      "url": "https://zenn.dev/innovation/articles/bc05ab1116adb7",
+      "likes": 61,
+      "published_at": "2025-08-20T16:00:01+09:00"
+    },
+    {
+      "title": "GPT-5 の教科書",
+      "url": "https://zenn.dev/microsoft/articles/openai_gpt5_textbook",
+      "likes": 59,
+      "published_at": "2025-08-16T21:09:52+09:00"
+    },
+    {
+      "title": "GPT-5 APIが遅いので応答速度の実験と使用時の注意点について",
+      "url": "https://zenn.dev/gotalab/articles/b361e77b7739ed",
+      "likes": 19,
+      "published_at": "2025-08-14T05:30:01+09:00"
+    },
+    {
+      "title": "[2025年8月15日] Keep4o運動が示す人間とAIの未来 (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/f2984a9e4628f3",
+      "likes": 9,
+      "published_at": "2025-08-15T16:51:21+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "GPT-5でダミーデータのデータ分析の検証",
+      "url": "https://zenn.dev/headwaters/articles/1248fe4abe876a",
+      "likes": 4,
+      "published_at": "2025-08-30T18:00:00+09:00"
+    },
+    {
+      "title": "GPT-5 のコーディングチートシート解説と GPT-4 との比較",
+      "url": "https://zenn.dev/techno_koki/articles/f2b20f950c43c5",
+      "likes": 4,
+      "published_at": "2025-08-22T10:10:36+09:00"
+    },
+    {
+      "title": "GPT-5時代の「大規模言語モデル(LLM)」超入門",
+      "url": "https://zenn.dev/ryofrontenginer/articles/102ae44170f0b1",
+      "likes": 3,
+      "published_at": "2025-08-30T09:48:57+09:00"
+    },
+    {
+      "title": "なぜGPT-5はYesマンをやめたのか ― Sycophancyの功罪",
+      "url": "https://zenn.dev/kt38k/articles/f4dfa128b2e53a",
+      "likes": 3,
+      "published_at": "2025-08-21T11:00:05+09:00"
+    },
+    {
+      "title": "GPT-5 vs Claude Opus 4.1！Cursor AgentとClaude Codeで同じアプリを作って比較してみた",
+      "url": "https://zenn.dev/nonejp/articles/fcdce0098cc06a",
+      "likes": 3,
+      "published_at": "2025-08-18T09:59:55+09:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "pdm",
+    "name": "pdm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 25,
+    "score": 25.0
+  },
+  "articles_top": [
+    {
+      "title": "PdM観点で見たウォーターフォール開発とアジャイル開発の違い",
+      "url": "https://zenn.dev/jinjer_techblog/articles/11957e58e510d1",
+      "likes": 25,
+      "published_at": "2025-09-08T12:00:03+09:00"
+    },
+    {
+      "title": "PdM観点で見たウォーターフォール開発とアジャイル開発の違い",
+      "url": "https://zenn.dev/hidakimariko/articles/be0118312f1a4d",
+      "likes": 0,
+      "published_at": "2025-09-08T12:00:03+09:00"
+    },
+    {
+      "title": "PdM観点で見たウォーターフォール開発とアジャイル開発の違い",
+      "url": "https://zenn.dev/jinjer_techblog/articles/11957e58e510d1",
+      "likes": 0,
+      "published_at": "2025-09-08T12:00:03+09:00"
+    },
+    {
+      "title": "PdM観点で見たウォーターフォール開発とアジャイル開発の違い",
+      "url": "https://zenn.dev/hidakimariko/articles/be0118312f1a4d",
+      "likes": 0,
+      "published_at": "2025-09-08T12:00:03+09:00"
+    }
+  ]
+}

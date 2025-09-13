@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "codex",
+    "name": "codex"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 31,
+    "score": 31.0
+  },
+  "articles_top": [
+    {
+      "title": "AIによって開発生産性という概念が変わったという話",
+      "url": "https://zenn.dev/ji_no_papo/articles/4af0dcecde7579",
+      "likes": 6,
+      "published_at": "2025-09-10T22:25:28+09:00"
+    },
+    {
+      "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+      "likes": 5,
+      "published_at": "2025-09-08T07:47:13+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 4,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "Claude CodeのカスタムコマンドをCodex CLIと共有する",
+      "url": "https://zenn.dev/devtatsu/articles/link-codex-claude",
+      "likes": 3,
+      "published_at": "2025-09-10T20:49:45+09:00"
+    },
+    {
+      "title": "Codex CLIをAzure OpenAIで利用する",
+      "url": "https://zenn.dev/nuits_jp/articles/2025-09-19-using-codex-cli-with-azure-openai",
+      "likes": 2,
+      "published_at": "2025-09-11T06:18:47+09:00"
+    },
+    {
+      "title": "codexに全投げして、北海道ドライブスポットレコメンダーを作った話",
+      "url": "https://zenn.dev/ao_uk/articles/36384d4bcf0d5d",
+      "likes": 2,
+      "published_at": "2025-09-10T13:27:13+09:00"
+    },
+    {
+      "title": "Codex + GPT5 でAWSにwebアプリ作ろ！ （暫定)",
+      "url": "https://zenn.dev/personal/articles/b8e9eee4abd5ba",
+      "likes": 2,
+      "published_at": "2025-09-07T22:41:32+09:00"
+    },
+    {
+      "title": "【検証】Claude Opus 4.1 vs codex-1(high) | プロセス・定量・定性の3軸で比較 2025年9月版",
+      "url": "https://zenn.dev/chibicco/articles/a3e8fa6574a331",
+      "likes": 1,
+      "published_at": "2025-09-07T10:04:21+09:00"
+    }
+  ]
+}

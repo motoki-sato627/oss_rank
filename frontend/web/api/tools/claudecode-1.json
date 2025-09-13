@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "claudecode",
+    "name": "claudecode"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 32,
+    "score": 32.0
+  },
+  "articles_top": [
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+      "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+      "likes": 4,
+      "published_at": "2025-09-12T13:23:26+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    }
+  ]
+}

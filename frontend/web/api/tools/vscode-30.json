@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vscode",
+    "name": "vscode"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 79,
+    "likes_sum": 430,
+    "score": 430.0
+  },
+  "articles_top": [
+    {
+      "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+      "url": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+      "likes": 136,
+      "published_at": "2025-08-26T10:26:05+09:00"
+    },
+    {
+      "title": "Claude Codeをなるべく安全に動かすためのDev Containerを構築した",
+      "url": "https://zenn.dev/backpaper0/articles/038838c4cec2a8",
+      "likes": 78,
+      "published_at": "2025-08-19T06:48:37+09:00"
+    },
+    {
+      "title": "【実例付き】オレオレ！ MCP Server デザインパターン【汎用Agentへの熟練知のプラグイン】",
+      "url": "https://zenn.dev/loglass/articles/b140077acdecab",
+      "likes": 50,
+      "published_at": "2025-09-05T07:53:30+09:00"
+    },
+    {
+      "title": "WSL × Nix × VSCode で作る Zenn ローカル執筆環境",
+      "url": "https://zenn.dev/trifolium/articles/007bff63247432",
+      "likes": 22,
+      "published_at": "2025-08-26T07:00:06+09:00"
+    },
+    {
+      "title": "Github Copilot Chat の Agent モードで Azure をいじってみる",
+      "url": "https://zenn.dev/headwaters/articles/a5f20cabb964bb",
+      "likes": 11,
+      "published_at": "2025-08-23T11:58:44+09:00"
+    },
+    {
+      "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+      "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+      "likes": 8,
+      "published_at": "2025-09-12T11:15:01+09:00"
+    },
+    {
+      "title": "【Playwright】ブラウザの自動操作をしてみようとしたが...",
+      "url": "https://zenn.dev/headwaters/articles/2fba78f05c6644",
+      "likes": 8,
+      "published_at": "2025-08-19T23:24:24+09:00"
+    },
+    {
+      "title": "Devcontainer.jsonの基本的な書き方と設計について",
+      "url": "https://zenn.dev/twatanabe0808/articles/devcontainer-json-basics",
+      "likes": 7,
+      "published_at": "2025-08-17T18:11:44+09:00"
+    },
+    {
+      "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+      "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+      "likes": 6,
+      "published_at": "2025-09-06T18:32:07+09:00"
+    },
+    {
+      "title": "VSCode拡張機能でCursor RulesとVSCode Custom Instructionsを相互変換する仕組みを作る",
+      "url": "https://zenn.dev/dotdtech_blog/articles/9174c50cfabd53",
+      "likes": 6,
+      "published_at": "2025-08-25T10:19:31+09:00"
+    }
+  ]
+}

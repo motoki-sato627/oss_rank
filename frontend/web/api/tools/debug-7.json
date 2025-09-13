@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "debug",
+    "name": "debug"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+      "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+      "likes": 8,
+      "published_at": "2025-09-12T11:15:01+09:00"
+    },
+    {
+      "title": "【Unity x Rider】なぜかコード解析が行われないときに試したこと",
+      "url": "https://zenn.dev/n_hidano/articles/d40430d3237f96",
+      "likes": 2,
+      "published_at": "2025-09-11T14:33:04+09:00"
+    },
+    {
+      "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+      "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+      "likes": 0,
+      "published_at": "2025-09-12T11:15:01+09:00"
+    },
+    {
+      "title": "【Unity x Rider】なぜかコード解析が行われないときに試したこと",
+      "url": "https://zenn.dev/n_hidano/articles/d40430d3237f96",
+      "likes": 0,
+      "published_at": "2025-09-11T14:33:04+09:00"
+    },
+    {
+      "title": "MaintenanceTasks + SolidQueueで「signal 6」エラーが発生した時の解決法",
+      "url": "https://zenn.dev/yamitake/articles/maintenance-tasks-solidqueue-signal6-error",
+      "likes": 0,
+      "published_at": "2025-09-10T02:19:59+09:00"
+    },
+    {
+      "title": "MaintenanceTasks + SolidQueueで「signal 6」エラーが発生した時の解決法",
+      "url": "https://zenn.dev/yamitake/articles/maintenance-tasks-solidqueue-signal6-error",
+      "likes": 0,
+      "published_at": "2025-09-10T02:19:59+09:00"
+    }
+  ]
+}

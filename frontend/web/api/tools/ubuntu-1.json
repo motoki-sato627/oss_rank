@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "ubuntu",
+    "name": "ubuntu"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    },
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    }
+  ]
+}

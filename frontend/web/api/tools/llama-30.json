@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "llama",
+    "name": "llama"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 186,
+    "score": 186.0
+  },
+  "articles_top": [
+    {
+      "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
+      "url": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
+      "likes": 183,
+      "published_at": "2025-09-02T09:53:01+09:00"
+    },
+    {
+      "title": "llama.cppでローカルLLMを超簡単に試す方法（CUDAインストール不要）",
+      "url": "https://zenn.dev/ledmirage/articles/c6aab5ea179acf",
+      "likes": 2,
+      "published_at": "2025-08-24T02:01:26+09:00"
+    },
+    {
+      "title": "最新LLM時代のプロンプトエンジニアリング完全ガイド【GPT-5 / Claude Sonnet4 / Gemini2.5 / Llama4",
+      "url": "https://zenn.dev/ryofrontenginer/articles/a4b5ca9ef41635",
+      "likes": 1,
+      "published_at": "2025-09-01T20:25:15+09:00"
+    },
+    {
+      "title": "2025年8月現在の LLaMAモデル比較表",
+      "url": "https://zenn.dev/nakano_teppei51/articles/17182c7bcfc709",
+      "likes": 0,
+      "published_at": "2025-09-03T15:47:04+09:00"
+    },
+    {
+      "title": "SmoothQuant解説：Transformerモデル量子化を変えた「外れ値移行」技術~中野哲平~",
+      "url": "https://zenn.dev/nakano_teppei51/articles/ad29f585d06abb",
+      "likes": 0,
+      "published_at": "2025-09-02T14:45:29+09:00"
+    }
+  ]
+}

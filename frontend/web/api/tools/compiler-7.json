@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "compiler",
+    "name": "compiler"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 72,
+    "score": 72.0
+  },
+  "articles_top": [
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 0,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    }
+  ]
+}

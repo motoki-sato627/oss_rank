@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "speckit",
+    "name": "speckit"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 13,
+    "likes_sum": 343,
+    "score": 343.0
+  },
+  "articles_top": [
+    {
+      "title": "Spec Kit で仕様書駆動開発を体験する",
+      "url": "https://zenn.dev/rakuten_tech/articles/try-github-spec-kit",
+      "likes": 165,
+      "published_at": "2025-09-04T09:04:12+09:00"
+    },
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+      "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+      "likes": 35,
+      "published_at": "2025-09-09T17:22:06+09:00"
+    },
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 19,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "Spec Kitを使って簡単な家計簿アプリ実装してみた",
+      "url": "https://zenn.dev/acntechjp/articles/1d35658b0114b6",
+      "likes": 14,
+      "published_at": "2025-09-09T14:01:27+09:00"
+    },
+    {
+      "title": "小規模な既存プロジェクトでSpec Kitを使用し仕様書駆動してみる",
+      "url": "https://zenn.dev/crafkaz/articles/0de7d05119659f",
+      "likes": 13,
+      "published_at": "2025-09-05T16:59:33+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 7,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "spec-kit が作成するファイルを眺めてみた",
+      "url": "https://zenn.dev/nshmura/articles/1e4a690f08562c",
+      "likes": 3,
+      "published_at": "2025-09-10T23:22:08+09:00"
+    },
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 0,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "spec-kit が作成するファイルを眺めてみた",
+      "url": "https://zenn.dev/nshmura/articles/1e4a690f08562c",
+      "likes": 0,
+      "published_at": "2025-09-10T23:22:08+09:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "voltagent",
+    "name": "voltagent"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "VoltAgentで作るAIエージェント",
+      "url": "https://zenn.dev/gemcook/articles/507e6b9f538729",
+      "likes": 11,
+      "published_at": "2025-09-10T14:20:39+09:00"
+    },
+    {
+      "title": "VoltAgent V1ついにリリース！  0.1.x → 1.x 移行ポイントまとめ＋VoltOpsの更新点",
+      "url": "https://zenn.dev/110_i/articles/d4580d19820175",
+      "likes": 0,
+      "published_at": "2025-09-12T16:10:40+09:00"
+    },
+    {
+      "title": "VoltAgent V1ついにリリース！  0.1.x → 1.x 移行ポイントまとめ＋VoltOpsの更新点",
+      "url": "https://zenn.dev/110_i/articles/d4580d19820175",
+      "likes": 0,
+      "published_at": "2025-09-12T16:10:40+09:00"
+    },
+    {
+      "title": "VoltAgentで作るAIエージェント",
+      "url": "https://zenn.dev/gemcook/articles/507e6b9f538729",
+      "likes": 0,
+      "published_at": "2025-09-10T14:20:39+09:00"
+    }
+  ]
+}

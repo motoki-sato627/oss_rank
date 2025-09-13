@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "lt",
+    "name": "lt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Zenncafeで初登壇した話",
+      "url": "https://zenn.dev/uniformnext/articles/zenncafe-speaking",
+      "likes": 10,
+      "published_at": "2025-09-09T14:33:06+09:00"
+    },
+    {
+      "title": "Zenncafeで初登壇した話",
+      "url": "https://zenn.dev/uniformnext/articles/zenncafe-speaking",
+      "likes": 0,
+      "published_at": "2025-09-09T14:33:06+09:00"
+    }
+  ]
+}

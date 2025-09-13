@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ai",
+    "name": "ai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 574,
+    "likes_sum": 8182,
+    "score": 8182.0
+  },
+  "articles_top": [
+    {
+      "title": "同じ5行のコードが全く違って見える12の瞬間、なぜ私たちは学ぶのか？",
+      "url": "https://zenn.dev/coconala/articles/reasons-for-continuing-to-learn",
+      "likes": 1805,
+      "published_at": "2025-08-22T07:04:52+09:00"
+    },
+    {
+      "title": "Codex CLIを使いこなすための機能・設定まとめ",
+      "url": "https://zenn.dev/dely_jp/articles/codex-cli-matome",
+      "likes": 529,
+      "published_at": "2025-09-02T17:15:42+09:00"
+    },
+    {
+      "title": "13,600スターのOSSでバーンアウトした俺が、AIでOSSの経済を根本から変えようとしている話",
+      "url": "https://zenn.dev/gunta/articles/a4da171cd06b5a",
+      "likes": 472,
+      "published_at": "2025-08-25T13:33:53+09:00"
+    },
+    {
+      "title": "ObsidianとClaude Codeを使ったドキュメント活用",
+      "url": "https://zenn.dev/oikon/articles/obsidian-claude-code",
+      "likes": 199,
+      "published_at": "2025-08-15T07:01:01+09:00"
+    },
+    {
+      "title": "最近のClaude Codeの使い方",
+      "url": "https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454",
+      "likes": 188,
+      "published_at": "2025-08-29T16:38:59+09:00"
+    },
+    {
+      "title": "Spec Kit で仕様書駆動開発を体験する",
+      "url": "https://zenn.dev/rakuten_tech/articles/try-github-spec-kit",
+      "likes": 165,
+      "published_at": "2025-09-04T09:04:12+09:00"
+    },
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+      "url": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+      "likes": 151,
+      "published_at": "2025-08-26T08:44:47+09:00"
+    },
+    {
+      "title": "Claude Codeを用いて仕様書の自動更新の仕組みを構築した話",
+      "url": "https://zenn.dev/dely_jp/articles/f6a6ce32406851",
+      "likes": 137,
+      "published_at": "2025-09-03T16:08:34+09:00"
+    },
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    }
+  ]
+}

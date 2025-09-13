@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "watsonx",
+    "name": "watsonx"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "LangGraph Supervisorのwatsonxの挙動",
+      "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+      "likes": 2,
+      "published_at": "2025-09-12T20:09:19+09:00"
+    },
+    {
+      "title": "LangGraph Supervisorのwatsonxの挙動",
+      "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+      "likes": 2,
+      "published_at": "2025-09-12T20:09:19+09:00"
+    }
+  ]
+}

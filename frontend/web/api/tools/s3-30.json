@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "s3",
+    "name": "s3"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 19,
+    "likes_sum": 103,
+    "score": 103.0
+  },
+  "articles_top": [
+    {
+      "title": "Amazon S3 の月額コストを約30%削減したアプローチ",
+      "url": "https://zenn.dev/finatext/articles/aws-cost-savings-s3-phase1",
+      "likes": 50,
+      "published_at": "2025-09-01T12:48:56+09:00"
+    },
+    {
+      "title": "WEBサーバの一部として Mountpoint for Amazon S3 を使えないか検討したが、Amazon EFS に落ち着いた。",
+      "url": "https://zenn.dev/levtech/articles/1bb891456680b3",
+      "likes": 19,
+      "published_at": "2025-08-18T14:30:05+09:00"
+    },
+    {
+      "title": "LocalStackでAWSをローカル再現してみた",
+      "url": "https://zenn.dev/weel_techblog/articles/39e3e205d91427",
+      "likes": 18,
+      "published_at": "2025-08-20T10:04:26+09:00"
+    },
+    {
+      "title": "空のパーティションにダミーファイルを置くとAthenaのクエリのパフォーマンスは向上するのか？",
+      "url": "https://zenn.dev/morisawa/articles/examine-partition-projection",
+      "likes": 5,
+      "published_at": "2025-09-05T14:30:29+09:00"
+    },
+    {
+      "title": "[AWS Summit Japan 2025 ] Amazon S3 による データレイク構築と最適化",
+      "url": "https://zenn.dev/sonicmoov/articles/eaef06ac6ee3e2",
+      "likes": 4,
+      "published_at": "2025-08-14T19:50:30+09:00"
+    },
+    {
+      "title": "DuckDB UIをEC2上で使えなかった話",
+      "url": "https://zenn.dev/deltax/articles/20250820-duckdb-non-engineer-deployment",
+      "likes": 3,
+      "published_at": "2025-09-02T11:18:46+09:00"
+    },
+    {
+      "title": "CloudFrontとWAFについてハンズオンで学んでみた",
+      "url": "https://zenn.dev/mocchansun/articles/fcbadc460aa086",
+      "likes": 1,
+      "published_at": "2025-08-26T01:13:22+09:00"
+    },
+    {
+      "title": "TerraformでS3,CloudFront環境をアカウント跨ぎの移行",
+      "url": "https://zenn.dev/tanoyusuke/articles/fa0e0754a69e19",
+      "likes": 1,
+      "published_at": "2025-08-23T15:30:10+09:00"
+    },
+    {
+      "title": "忘れがちなS3バケットへのアクセス許可！クロスアカウントも",
+      "url": "https://zenn.dev/takmiwa/articles/3e9094616a6a4f",
+      "likes": 1,
+      "published_at": "2025-08-21T23:49:18+09:00"
+    },
+    {
+      "title": "React(Vite)をGitHub ActionsでS3に自動デプロイ",
+      "url": "https://zenn.dev/treylink_log/articles/8c2bc9bdd76f06",
+      "likes": 1,
+      "published_at": "2025-08-20T13:37:10+09:00"
+    }
+  ]
+}

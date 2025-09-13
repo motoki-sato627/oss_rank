@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "realtimeapi",
+    "name": "realtimeapi"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "Realtime API 正式版 ( gpt-realtime ) を試す",
+      "url": "https://zenn.dev/dxclab/articles/e78dac9d46e17f",
+      "likes": 4,
+      "published_at": "2025-09-10T17:38:08+09:00"
+    },
+    {
+      "title": "AIおしゃべりロボット・ハロ開発奮闘記(gpt-realtime/google stt/azure speech/voicevox)",
+      "url": "https://zenn.dev/jam0824/articles/dce67854564627",
+      "likes": 3,
+      "published_at": "2025-09-06T00:13:55+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 1,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    },
+    {
+      "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+      "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+      "likes": 0,
+      "published_at": "2025-09-13T21:35:59+09:00"
+    }
+  ]
+}

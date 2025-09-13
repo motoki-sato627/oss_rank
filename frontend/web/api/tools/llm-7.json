@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "llm",
+    "name": "llm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 55,
+    "likes_sum": 209,
+    "score": 209.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+      "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+      "likes": 56,
+      "published_at": "2025-09-11T11:57:48+09:00"
+    },
+    {
+      "title": "AIが“思った通りに動かない”理由とコンテキストエンジニアリング",
+      "url": "https://zenn.dev/knowledgework/articles/learning-context-engineering",
+      "likes": 49,
+      "published_at": "2025-09-06T12:00:05+09:00"
+    },
+    {
+      "title": "AI コーディングエージェントと協働する Design Doc 作成フロー - 実践から学ぶコンテキストエンジニアリング",
+      "url": "https://zenn.dev/ivry/articles/67748e77d726e8",
+      "likes": 21,
+      "published_at": "2025-09-08T15:36:04+09:00"
+    },
+    {
+      "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+      "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+      "likes": 14,
+      "published_at": "2025-09-09T13:12:19+09:00"
+    },
+    {
+      "title": "gpt-2からgpt-ossへの進化をモデル構造から読む",
+      "url": "https://zenn.dev/finatext/articles/evoluation-from-gpt2-to-gptoss",
+      "likes": 13,
+      "published_at": "2025-09-08T15:52:27+09:00"
+    },
+    {
+      "title": "VoltAgentで作るAIエージェント",
+      "url": "https://zenn.dev/gemcook/articles/507e6b9f538729",
+      "likes": 11,
+      "published_at": "2025-09-10T14:20:39+09:00"
+    },
+    {
+      "title": "GoにおけるGemini APIでの検索グラウンディングの活用",
+      "url": "https://zenn.dev/mixi/articles/f8f837812ece10",
+      "likes": 9,
+      "published_at": "2025-09-10T14:31:09+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 6,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    },
+    {
+      "title": "AIによって開発生産性という概念が変わったという話",
+      "url": "https://zenn.dev/ji_no_papo/articles/4af0dcecde7579",
+      "likes": 6,
+      "published_at": "2025-09-10T22:25:28+09:00"
+    },
+    {
+      "title": "続Nano Banana - Gemini 2.5 Flash Imageに渡すプロンプトを最適化するようMCPを改善した",
+      "url": "https://zenn.dev/shinpr_p/articles/9920669ea3e9a9",
+      "likes": 6,
+      "published_at": "2025-09-08T10:59:02+09:00"
+    }
+  ]
+}

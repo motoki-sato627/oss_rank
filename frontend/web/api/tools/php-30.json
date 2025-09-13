@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "php",
+    "name": "php"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 33,
+    "likes_sum": 195,
+    "score": 195.0
+  },
+  "articles_top": [
+    {
+      "title": "なぜSerenaからLaravel Boostに変えるとAIの精度が上がるのか",
+      "url": "https://zenn.dev/aun_phonogram/articles/a602649ff478cf",
+      "likes": 74,
+      "published_at": "2025-08-22T06:19:43+09:00"
+    },
+    {
+      "title": "TempestはPHP界に「嵐」を巻き起こすか？ 新星フレームワークで遊んでみた！",
+      "url": "https://zenn.dev/sonicmoov/articles/5be8bac275d377",
+      "likes": 46,
+      "published_at": "2025-08-24T01:35:34+09:00"
+    },
+    {
+      "title": "[Laravel] 10年付き合うことになるWebAPIをチームで作るときに考えたこと",
+      "url": "https://zenn.dev/coffee_r/articles/e823b964b130e3",
+      "likes": 35,
+      "published_at": "2025-08-31T13:37:30+09:00"
+    },
+    {
+      "title": "Laravel Boost のセットアップ手順と機能まとめ",
+      "url": "https://zenn.dev/fusic/articles/f364a82926a377",
+      "likes": 16,
+      "published_at": "2025-08-14T10:38:23+09:00"
+    },
+    {
+      "title": "開発効率がUPするリファクタリング術！メンテナンス性を劇的に改善した「抽象化」設計とは",
+      "url": "https://zenn.dev/innovation/articles/9e245e52f69365",
+      "likes": 6,
+      "published_at": "2025-08-29T16:00:02+09:00"
+    },
+    {
+      "title": "VLDを使ってPHPのopcodeを出力する",
+      "url": "https://zenn.dev/lamp_inc/articles/44e550e5944604",
+      "likes": 5,
+      "published_at": "2025-08-28T11:36:06+09:00"
+    },
+    {
+      "title": "Laravel11 マルチ認証環境でのセッション管理をカスタマイズ",
+      "url": "https://zenn.dev/369code/articles/82e8c5e90eddae",
+      "likes": 4,
+      "published_at": "2025-09-09T20:09:54+09:00"
+    },
+    {
+      "title": "PHP 5.2からLaravel 11への大規模リニューアル #2 アーキテクチャ設計と技術選定",
+      "url": "https://zenn.dev/abg/articles/041e12df4015b0",
+      "likes": 4,
+      "published_at": "2025-09-08T21:43:17+09:00"
+    },
+    {
+      "title": "WordPressをKamalでVPSにデプロイ",
+      "url": "https://zenn.dev/kaorumori/articles/24632f959f18ba",
+      "likes": 3,
+      "published_at": "2025-09-11T15:41:16+09:00"
+    },
+    {
+      "title": "非数 や -0.0 は truthy?",
+      "url": "https://zenn.dev/nabetani/articles/19591496dfaadb",
+      "likes": 3,
+      "published_at": "2025-09-06T16:57:06+09:00"
+    }
+  ]
+}

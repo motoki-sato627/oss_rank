@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rust",
+    "name": "rust"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 188,
+    "score": 188.0
+  },
+  "articles_top": [
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 41,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 40,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+      "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+      "likes": 21,
+      "published_at": "2025-09-07T22:39:52+09:00"
+    },
+    {
+      "title": "Rustのproc-macroを書き続けて3年が経った",
+      "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+      "likes": 20,
+      "published_at": "2025-09-08T16:53:54+09:00"
+    },
+    {
+      "title": "【Rust】静的ディスパッチと動的ディスパッチの違いについて調査してみた",
+      "url": "https://zenn.dev/fast/articles/c9c204c19e9f20",
+      "likes": 7,
+      "published_at": "2025-09-08T15:00:01+09:00"
+    },
+    {
+      "title": "Sumtype: Rust におけるゼロコスト型和の実現",
+      "url": "https://zenn.dev/yasuo_ozu/articles/sumtype-tech",
+      "likes": 6,
+      "published_at": "2025-09-07T22:39:53+09:00"
+    },
+    {
+      "title": "足を止めて見る #4 〜 RustのSerdeクレート(1) 〜",
+      "url": "https://zenn.dev/doctormate/articles/dive_4_serde_crate",
+      "likes": 5,
+      "published_at": "2025-09-11T12:00:03+09:00"
+    },
+    {
+      "title": "例外代わりの `Result&lt;T, E&gt;`",
+      "url": "https://zenn.dev/doctormate/articles/4d7ef9face7b07",
+      "likes": 5,
+      "published_at": "2025-09-08T12:00:02+09:00"
+    },
+    {
+      "title": "RUST MOON / 例え月が見えなくても",
+      "url": "https://zenn.dev/doctormate/articles/ee2f1f8bc2c76d",
+      "likes": 4,
+      "published_at": "2025-09-12T09:09:45+09:00"
+    },
+    {
+      "title": "rust の vector 操作まとめ",
+      "url": "https://zenn.dev/sawawada8/articles/a44ce136c0fd29",
+      "likes": 4,
+      "published_at": "2025-09-12T00:14:11+09:00"
+    }
+  ]
+}

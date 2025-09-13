@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "bedrock",
+    "name": "bedrock"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 16,
+    "likes_sum": 28,
+    "score": 28.0
+  },
+  "articles_top": [
+    {
+      "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+      "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+      "likes": 7,
+      "published_at": "2025-09-11T22:12:53+09:00"
+    },
+    {
+      "title": "【翻訳】Writing effective tools for agents — with agents",
+      "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+      "likes": 6,
+      "published_at": "2025-09-12T10:42:12+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 6,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    },
+    {
+      "title": "Bedrock&amp;ナレッジベースでRAGを作ったら料金結構かかってた",
+      "url": "https://zenn.dev/hisamitsu/articles/6d791e2c57c5a2",
+      "likes": 5,
+      "published_at": "2025-09-08T11:44:16+09:00"
+    },
+    {
+      "title": "GenU で別 AWS アカウントの Bedrock を利用する手順",
+      "url": "https://zenn.dev/aws_japan/articles/aws-bedrock-genu-crossaccount",
+      "likes": 2,
+      "published_at": "2025-09-07T19:59:35+09:00"
+    },
+    {
+      "title": "Bedrock × Redshift ナレッジベースの説明文記述",
+      "url": "https://zenn.dev/knowledgelabo/articles/20d3c5524144b1",
+      "likes": 1,
+      "published_at": "2025-09-08T18:40:02+09:00"
+    },
+    {
+      "title": "Description Tips for Bedrock × Redshift Knowledge Bases",
+      "url": "https://zenn.dev/knowledgelabo/articles/a0c893fb9545ae",
+      "likes": 1,
+      "published_at": "2025-09-08T18:40:02+09:00"
+    },
+    {
+      "title": "【翻訳】Writing effective tools for agents — with agents",
+      "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+      "likes": 0,
+      "published_at": "2025-09-12T10:42:12+09:00"
+    },
+    {
+      "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+      "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+      "likes": 0,
+      "published_at": "2025-09-11T22:12:53+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 0,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    }
+  ]
+}

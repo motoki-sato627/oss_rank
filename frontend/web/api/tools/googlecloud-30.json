@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "googlecloud",
+    "name": "googlecloud"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 107,
+    "likes_sum": 389,
+    "score": 389.0
+  },
+  "articles_top": [
+    {
+      "title": "マルチエージェントシステムのアーキテクチャーを紐解く",
+      "url": "https://zenn.dev/google_cloud_jp/articles/5410925dc984b1",
+      "likes": 87,
+      "published_at": "2025-08-14T10:43:50+09:00"
+    },
+    {
+      "title": "クエリそのままパフォーマンスを改善 BigQuery パフォーマンス向上テクニック",
+      "url": "https://zenn.dev/google_cloud_jp/articles/bigquery_performance_improvement_features_2ac6f3",
+      "likes": 31,
+      "published_at": "2025-08-28T16:54:54+09:00"
+    },
+    {
+      "title": "A2A リモートエージェント対応のマルチエージェントシステム",
+      "url": "https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8",
+      "likes": 27,
+      "published_at": "2025-08-16T04:30:18+09:00"
+    },
+    {
+      "title": "Virtual Try-On APIをPythonで試す方法",
+      "url": "https://zenn.dev/asap/articles/6889008b8c2cb3",
+      "likes": 21,
+      "published_at": "2025-08-22T23:10:59+09:00"
+    },
+    {
+      "title": "Google Cloud で休眠状態のサービスアカウントを見つける",
+      "url": "https://zenn.dev/fairydevices/articles/70679c69481b7e",
+      "likes": 15,
+      "published_at": "2025-08-25T16:30:53+09:00"
+    },
+    {
+      "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+      "likes": 14,
+      "published_at": "2025-09-10T20:05:03+09:00"
+    },
+    {
+      "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+      "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+      "likes": 13,
+      "published_at": "2025-09-08T16:41:45+09:00"
+    },
+    {
+      "title": "ADK 1.13.0 で追加された BigQueryに自然言語で問い合わせできる ask_data_insights tool",
+      "url": "https://zenn.dev/soundtricker/articles/dfd49e631b23de",
+      "likes": 11,
+      "published_at": "2025-08-28T16:47:33+09:00"
+    },
+    {
+      "title": "可用性、冗長性を考慮したGoogle Cloudのインフラ構築の考え方",
+      "url": "https://zenn.dev/acomo/articles/progress-acomo-2025-07-22-06-39-20",
+      "likes": 11,
+      "published_at": "2025-08-21T15:12:54+09:00"
+    },
+    {
+      "title": "Gemma3 270M がでたらしいのでスペックを見てみる",
+      "url": "https://zenn.dev/satohjohn/articles/0866bbd4b2cefa",
+      "likes": 11,
+      "published_at": "2025-08-18T00:17:18+09:00"
+    }
+  ]
+}

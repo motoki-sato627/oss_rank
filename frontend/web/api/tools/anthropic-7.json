@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "anthropic",
+    "name": "anthropic"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 105,
+    "score": 105.0
+  },
+  "articles_top": [
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "【日本初開催】Claude Hackathon 2025 in Tokyo参加レポート",
+      "url": "https://zenn.dev/hikaru_tell/articles/b62e715c0e41d2",
+      "likes": 4,
+      "published_at": "2025-09-07T21:08:48+09:00"
+    },
+    {
+      "title": "MCPのプロトコルを読み解く",
+      "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+      "likes": 2,
+      "published_at": "2025-09-12T16:52:34+09:00"
+    },
+    {
+      "title": "MCPのプロトコルを読み解く",
+      "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+      "likes": 0,
+      "published_at": "2025-09-12T16:52:34+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 0,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 0,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "【日本初開催】Claude Hackathon 2025 in Tokyo参加レポート",
+      "url": "https://zenn.dev/hikaru_tell/articles/b62e715c0e41d2",
+      "likes": 0,
+      "published_at": "2025-09-07T21:08:48+09:00"
+    }
+  ]
+}

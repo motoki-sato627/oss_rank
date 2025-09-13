@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "lora",
+    "name": "lora"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 86,
+    "score": 86.0
+  },
+  "articles_top": [
+    {
+      "title": "Gemma3:270Mをファインチューニングして使ってみた",
+      "url": "https://zenn.dev/mixi/articles/1a6a7c1856c206",
+      "likes": 83,
+      "published_at": "2025-08-19T21:00:59+09:00"
+    },
+    {
+      "title": "LoRAでMistral-7Bを映画レビュー感情分類にファインチューニングした話",
+      "url": "https://zenn.dev/arai0711/articles/lora_sentiment_eval",
+      "likes": 2,
+      "published_at": "2025-08-25T03:26:54+09:00"
+    },
+    {
+      "title": "LoRA入門：軽量な大規模言語モデルのファインチューニング手法",
+      "url": "https://zenn.dev/japan/articles/82d80f0764ecc2",
+      "likes": 1,
+      "published_at": "2025-09-05T22:51:10+09:00"
+    },
+    {
+      "title": "QLoRA完全ガイド：大規模言語モデル学習を民主化した革新技術~わかりやすい解説を中野哲平が",
+      "url": "https://zenn.dev/nakano_teppei/articles/0452938bc5188e",
+      "likes": 0,
+      "published_at": "2025-09-02T14:37:02+09:00"
+    },
+    {
+      "title": "Qwen Image Lightning 8-Step v1.1 を ComfyUI に導入：8GB VRAM 向けフルワークフローとインス",
+      "url": "https://zenn.dev/aitechtutorials/articles/a70a07ffc8c996",
+      "likes": 0,
+      "published_at": "2025-08-15T10:50:34+09:00"
+    }
+  ]
+}

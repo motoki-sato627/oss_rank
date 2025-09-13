@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "security",
+    "name": "security"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 36,
+    "likes_sum": 217,
+    "score": 217.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+      "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+      "likes": 18,
+      "published_at": "2025-09-09T13:46:16+09:00"
+    },
+    {
+      "title": "Azureで作る Key Vault と Managed Identity — パスワードレスなシークレット運用",
+      "url": "https://zenn.dev/yotan/articles/5ae2497e2bd30d",
+      "likes": 3,
+      "published_at": "2025-09-06T16:38:33+09:00"
+    },
+    {
+      "title": "Copilot Studio AI エージェント実行時のリアルタイム保護",
+      "url": "https://zenn.dev/microsoft/articles/2e8d07ce83939e",
+      "likes": 2,
+      "published_at": "2025-09-10T09:12:42+09:00"
+    },
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "OpenSSLで構築するプライベート認証局とサーバ証明書の発行手順",
+      "url": "https://zenn.dev/meantix/articles/63764b20139bd3",
+      "likes": 1,
+      "published_at": "2025-09-10T18:11:13+09:00"
+    },
+    {
+      "title": "thinkpadの指紋認証をArchLinuxで使えるようにする",
+      "url": "https://zenn.dev/locu/articles/fc75822e488118",
+      "likes": 1,
+      "published_at": "2025-09-09T10:31:03+09:00"
+    },
+    {
+      "title": "MCP の OAuth 2.1 PKCE 対応ガイド",
+      "url": "https://zenn.dev/toccasystems/articles/mcp-oauth21-pkce-guide",
+      "likes": 1,
+      "published_at": "2025-09-07T10:43:06+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    }
+  ]
+}

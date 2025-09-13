@@ -1,0 +1,3458 @@
+[
+  {
+    "slug": "zennfes2025ai",
+    "name": "zennfes2025ai",
+    "articles": 100,
+    "likes_sum": 1130,
+    "score": 1130.0,
+    "articles_top5": [
+      {
+        "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+        "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+        "likes": 283,
+        "published_at": "2025-09-08T17:44:49+09:00"
+      },
+      {
+        "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+        "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+        "likes": 228,
+        "published_at": "2025-09-08T05:58:04+09:00"
+      },
+      {
+        "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+        "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+        "likes": 135,
+        "published_at": "2025-09-09T18:39:36+09:00"
+      },
+      {
+        "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+        "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+        "likes": 87,
+        "published_at": "2025-09-06T14:07:20+09:00"
+      },
+      {
+        "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+        "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+        "likes": 75,
+        "published_at": "2025-09-09T19:28:06+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ai",
+    "name": "ai",
+    "articles": 187,
+    "likes_sum": 961,
+    "score": 961.0,
+    "articles_top5": [
+      {
+        "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+        "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+        "likes": 155,
+        "published_at": "2025-09-10T12:00:02+09:00"
+      },
+      {
+        "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+        "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+        "likes": 135,
+        "published_at": "2025-09-09T18:39:36+09:00"
+      },
+      {
+        "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+        "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+        "likes": 87,
+        "published_at": "2025-09-06T14:07:20+09:00"
+      },
+      {
+        "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+        "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+        "likes": 75,
+        "published_at": "2025-09-09T19:28:06+09:00"
+      },
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 70,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "typescript",
+    "name": "typescript",
+    "articles": 79,
+    "likes_sum": 733,
+    "score": 733.0,
+    "articles_top5": [
+      {
+        "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+        "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+        "likes": 283,
+        "published_at": "2025-09-08T17:44:49+09:00"
+      },
+      {
+        "title": "TanStack DB ~状態管理の新しい考え方~",
+        "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+        "likes": 141,
+        "published_at": "2025-09-06T03:06:46+09:00"
+      },
+      {
+        "title": "JavaScript三十六景Tips集",
+        "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+        "likes": 116,
+        "published_at": "2025-09-06T22:47:31+09:00"
+      },
+      {
+        "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+        "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+        "likes": 108,
+        "published_at": "2025-09-11T01:00:02+09:00"
+      },
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 40,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zennfes2025free",
+    "name": "zennfes2025free",
+    "articles": 149,
+    "likes_sum": 506,
+    "score": 506.0,
+    "articles_top5": [
+      {
+        "title": "TanStack DB ~状態管理の新しい考え方~",
+        "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+        "likes": 141,
+        "published_at": "2025-09-06T03:06:46+09:00"
+      },
+      {
+        "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+        "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+        "likes": 72,
+        "published_at": "2025-09-07T17:48:00+09:00"
+      },
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 71,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      },
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 70,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      },
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 46,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "mcp",
+    "name": "mcp",
+    "articles": 45,
+    "likes_sum": 441,
+    "score": 441.0,
+    "articles_top5": [
+      {
+        "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+        "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+        "likes": 155,
+        "published_at": "2025-09-10T12:00:02+09:00"
+      },
+      {
+        "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+        "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+        "likes": 68,
+        "published_at": "2025-09-08T18:00:02+09:00"
+      },
+      {
+        "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+        "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+        "likes": 30,
+        "published_at": "2025-09-11T13:01:44+09:00"
+      },
+      {
+        "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+        "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+        "likes": 24,
+        "published_at": "2025-09-10T21:36:48+09:00"
+      },
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "react",
+    "name": "react",
+    "articles": 59,
+    "likes_sum": 425,
+    "score": 425.0,
+    "articles_top5": [
+      {
+        "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+        "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+        "likes": 283,
+        "published_at": "2025-09-08T17:44:49+09:00"
+      },
+      {
+        "title": "TanStack DB ~状態管理の新しい考え方~",
+        "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+        "likes": 141,
+        "published_at": "2025-09-06T03:06:46+09:00"
+      },
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 70,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      },
+      {
+        "title": "OSS・依存ソフトのサポート期限をまとめて確認できる「EOL Timeline」を作りました",
+        "url": "https://zenn.dev/ksuke_0322/articles/b519896ad1f988",
+        "likes": 7,
+        "published_at": "2025-09-11T20:42:17+09:00"
+      },
+      {
+        "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+        "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+        "likes": 6,
+        "published_at": "2025-09-12T18:29:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "claudecode",
+    "name": "claudecode",
+    "articles": 80,
+    "likes_sum": 396,
+    "score": 396.0,
+    "articles_top5": [
+      {
+        "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+        "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+        "likes": 75,
+        "published_at": "2025-09-09T19:28:06+09:00"
+      },
+      {
+        "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+        "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+        "likes": 56,
+        "published_at": "2025-09-11T11:57:48+09:00"
+      },
+      {
+        "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+        "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+        "likes": 24,
+        "published_at": "2025-09-11T12:00:02+09:00"
+      },
+      {
+        "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+        "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+        "likes": 24,
+        "published_at": "2025-09-10T21:36:48+09:00"
+      },
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "python",
+    "name": "python",
+    "articles": 116,
+    "likes_sum": 377,
+    "score": 377.0,
+    "articles_top5": [
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 207,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+        "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+        "likes": 25,
+        "published_at": "2025-09-11T07:30:38+09:00"
+      },
+      {
+        "title": "動的計画法ベースの数理最適化ソルバDIDPPyで最短共通超配列問題を解く",
+        "url": "https://zenn.dev/okaduki/articles/7f9a3f3c54bc98",
+        "likes": 6,
+        "published_at": "2025-09-09T01:11:06+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "github",
+    "name": "github",
+    "articles": 95,
+    "likes_sum": 371,
+    "score": 371.0,
+    "articles_top5": [
+      {
+        "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+        "url": "https://zenn.dev/azu/articles/ad168118524135",
+        "likes": 192,
+        "published_at": "2025-09-09T23:25:31+09:00"
+      },
+      {
+        "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+        "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+        "likes": 87,
+        "published_at": "2025-09-06T14:07:20+09:00"
+      },
+      {
+        "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+        "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+        "likes": 30,
+        "published_at": "2025-09-11T13:01:44+09:00"
+      },
+      {
+        "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+        "url": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+        "likes": 28,
+        "published_at": "2025-09-10T12:42:39+09:00"
+      },
+      {
+        "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+        "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+        "likes": 18,
+        "published_at": "2025-09-09T13:46:16+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vercel",
+    "name": "vercel",
+    "articles": 10,
+    "likes_sum": 330,
+    "score": 330.0,
+    "articles_top5": [
+      {
+        "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+        "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+        "likes": 228,
+        "published_at": "2025-09-08T05:58:04+09:00"
+      },
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 70,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      },
+      {
+        "title": "Bluesky をもっと楽しくする新アプリ &quot;SkyBeMoreBlue&quot; を公開しました",
+        "url": "https://zenn.dev/so_asano/articles/cd26a3fde5cfe3",
+        "likes": 11,
+        "published_at": "2025-09-11T00:49:19+09:00"
+      },
+      {
+        "title": "vercelさんのdev3000を試してみた。",
+        "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+        "likes": 6,
+        "published_at": "2025-09-11T17:37:56+09:00"
+      },
+      {
+        "title": "Vercelデプロイの内部構造",
+        "url": "https://zenn.dev/teradox_blog/articles/fe1542dc960c54",
+        "likes": 5,
+        "published_at": "2025-09-11T12:43:58+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "usememo",
+    "name": "usememo",
+    "articles": 2,
+    "likes_sum": 283,
+    "score": 283.0,
+    "articles_top5": [
+      {
+        "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+        "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+        "likes": 283,
+        "published_at": "2025-09-08T17:44:49+09:00"
+      },
+      {
+        "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+        "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+        "likes": 0,
+        "published_at": "2025-09-08T17:44:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "claude",
+    "name": "claude",
+    "articles": 27,
+    "likes_sum": 241,
+    "score": 241.0,
+    "articles_top5": [
+      {
+        "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+        "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+        "likes": 135,
+        "published_at": "2025-09-09T18:39:36+09:00"
+      },
+      {
+        "title": "Claudeの学習モードを使ってコードのリファクタリングをした",
+        "url": "https://zenn.dev/hamworks/articles/45053f7c0efef7",
+        "likes": 26,
+        "published_at": "2025-09-09T10:28:28+09:00"
+      },
+      {
+        "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+        "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+        "likes": 17,
+        "published_at": "2025-09-09T11:20:12+09:00"
+      },
+      {
+        "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+        "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+        "likes": 16,
+        "published_at": "2025-09-09T16:25:47+09:00"
+      },
+      {
+        "title": "【翻訳】Writing effective tools for agents — with agents",
+        "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+        "likes": 6,
+        "published_at": "2025-09-12T10:42:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gemini",
+    "name": "gemini",
+    "articles": 14,
+    "likes_sum": 235,
+    "score": 235.0,
+    "articles_top5": [
+      {
+        "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+        "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+        "likes": 135,
+        "published_at": "2025-09-09T18:39:36+09:00"
+      },
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 23,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 22,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+        "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+        "likes": 14,
+        "published_at": "2025-09-10T20:05:03+09:00"
+      },
+      {
+        "title": "GoにおけるGemini APIでの検索グラウンディングの活用",
+        "url": "https://zenn.dev/mixi/articles/f8f837812ece10",
+        "likes": 9,
+        "published_at": "2025-09-10T14:31:09+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "dev3000",
+    "name": "dev3000",
+    "articles": 4,
+    "likes_sum": 234,
+    "score": 234.0,
+    "articles_top5": [
+      {
+        "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+        "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+        "likes": 228,
+        "published_at": "2025-09-08T05:58:04+09:00"
+      },
+      {
+        "title": "vercelさんのdev3000を試してみた。",
+        "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+        "likes": 6,
+        "published_at": "2025-09-11T17:37:56+09:00"
+      },
+      {
+        "title": "vercelさんのdev3000を試してみた。",
+        "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+        "likes": 0,
+        "published_at": "2025-09-11T17:37:56+09:00"
+      },
+      {
+        "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+        "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+        "likes": 0,
+        "published_at": "2025-09-08T05:58:04+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "git",
+    "name": "git",
+    "articles": 15,
+    "likes_sum": 219,
+    "score": 219.0,
+    "articles_top5": [
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 207,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      },
+      {
+        "title": "レビューしやすいフロントエンドPR分割の型",
+        "url": "https://zenn.dev/junk/articles/4b8817ed385a9f",
+        "likes": 3,
+        "published_at": "2025-09-08T23:49:29+09:00"
+      },
+      {
+        "title": "ワンキーでレビュー用 worktree を作成して Cursor で開く（LazyGit＋git worktree／macOS）",
+        "url": "https://zenn.dev/ku_do/articles/lazygit-worktree-cursor-automation",
+        "likes": 2,
+        "published_at": "2025-09-07T17:30:18+09:00"
+      },
+      {
+        "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+        "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+        "likes": 1,
+        "published_at": "2025-09-13T13:36:17+09:00"
+      },
+      {
+        "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+        "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+        "likes": 1,
+        "published_at": "2025-09-13T13:36:17+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "security",
+    "name": "security",
+    "articles": 36,
+    "likes_sum": 217,
+    "score": 217.0,
+    "articles_top5": [
+      {
+        "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+        "url": "https://zenn.dev/azu/articles/ad168118524135",
+        "likes": 192,
+        "published_at": "2025-09-09T23:25:31+09:00"
+      },
+      {
+        "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+        "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+        "likes": 18,
+        "published_at": "2025-09-09T13:46:16+09:00"
+      },
+      {
+        "title": "Azureで作る Key Vault と Managed Identity — パスワードレスなシークレット運用",
+        "url": "https://zenn.dev/yotan/articles/5ae2497e2bd30d",
+        "likes": 3,
+        "published_at": "2025-09-06T16:38:33+09:00"
+      },
+      {
+        "title": "Copilot Studio AI エージェント実行時のリアルタイム保護",
+        "url": "https://zenn.dev/microsoft/articles/2e8d07ce83939e",
+        "likes": 2,
+        "published_at": "2025-09-10T09:12:42+09:00"
+      },
+      {
+        "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+        "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+        "likes": 1,
+        "published_at": "2025-09-13T11:21:42+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cursor",
+    "name": "cursor",
+    "articles": 31,
+    "likes_sum": 210,
+    "score": 210.0,
+    "articles_top5": [
+      {
+        "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+        "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+        "likes": 135,
+        "published_at": "2025-09-09T18:39:36+09:00"
+      },
+      {
+        "title": "デザイナーの Vibe Design を支える「Cursor Design Mode」の紹介",
+        "url": "https://zenn.dev/kikagaku/articles/f96c2f24c24151",
+        "likes": 13,
+        "published_at": "2025-09-08T15:03:45+09:00"
+      },
+      {
+        "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+        "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+        "likes": 11,
+        "published_at": "2025-09-12T08:00:01+09:00"
+      },
+      {
+        "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+        "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+        "likes": 10,
+        "published_at": "2025-09-10T19:12:13+09:00"
+      },
+      {
+        "title": "エンジニアの『情報格差』をなくすためにAIを使って品質マニュアルを作っていくための下準備",
+        "url": "https://zenn.dev/nexta_/articles/3baeb549199ce9",
+        "likes": 6,
+        "published_at": "2025-09-08T10:00:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "llm",
+    "name": "llm",
+    "articles": 55,
+    "likes_sum": 209,
+    "score": 209.0,
+    "articles_top5": [
+      {
+        "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+        "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+        "likes": 56,
+        "published_at": "2025-09-11T11:57:48+09:00"
+      },
+      {
+        "title": "AIが“思った通りに動かない”理由とコンテキストエンジニアリング",
+        "url": "https://zenn.dev/knowledgework/articles/learning-context-engineering",
+        "likes": 49,
+        "published_at": "2025-09-06T12:00:05+09:00"
+      },
+      {
+        "title": "AI コーディングエージェントと協働する Design Doc 作成フロー - 実践から学ぶコンテキストエンジニアリング",
+        "url": "https://zenn.dev/ivry/articles/67748e77d726e8",
+        "likes": 21,
+        "published_at": "2025-09-08T15:36:04+09:00"
+      },
+      {
+        "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+        "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+        "likes": 14,
+        "published_at": "2025-09-09T13:12:19+09:00"
+      },
+      {
+        "title": "gpt-2からgpt-ossへの進化をモデル構造から読む",
+        "url": "https://zenn.dev/finatext/articles/evoluation-from-gpt2-to-gptoss",
+        "likes": 13,
+        "published_at": "2025-09-08T15:52:27+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "pyright",
+    "name": "pyright",
+    "articles": 2,
+    "likes_sum": 207,
+    "score": 207.0,
+    "articles_top5": [
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 207,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      },
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 0,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "uv",
+    "name": "uv",
+    "articles": 2,
+    "likes_sum": 207,
+    "score": 207.0,
+    "articles_top5": [
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 207,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      },
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 0,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ruff",
+    "name": "ruff",
+    "articles": 2,
+    "likes_sum": 207,
+    "score": 207.0,
+    "articles_top5": [
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 207,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      },
+      {
+        "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+        "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+        "likes": 0,
+        "published_at": "2025-09-06T23:16:43+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ddd",
+    "name": "ddd",
+    "articles": 34,
+    "likes_sum": 202,
+    "score": 202.0,
+    "articles_top5": [
+      {
+        "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+        "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+        "likes": 108,
+        "published_at": "2025-09-11T01:00:02+09:00"
+      },
+      {
+        "title": "「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる",
+        "url": "https://zenn.dev/fendo181/articles/6ed5dfc71898da",
+        "likes": 85,
+        "published_at": "2025-09-09T19:23:54+09:00"
+      },
+      {
+        "title": "Luup Serverチームの開発スケールのためのAI活用事例",
+        "url": "https://zenn.dev/luup_developers/articles/server-yasumoto-20250909",
+        "likes": 5,
+        "published_at": "2025-09-09T15:00:01+09:00"
+      },
+      {
+        "title": "Go言語でDDDの値オブジェクトをどう表現するか",
+        "url": "https://zenn.dev/engineer38/articles/8ed57c2c083e6d",
+        "likes": 3,
+        "published_at": "2025-09-07T13:45:52+09:00"
+      },
+      {
+        "title": "関数型ドメインモデリングから学ぶ「エラーの分類」",
+        "url": "https://zenn.dev/yhigo/articles/f2ed4c6a1c6926",
+        "likes": 1,
+        "published_at": "2025-09-07T09:36:00+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cli",
+    "name": "cli",
+    "articles": 32,
+    "likes_sum": 201,
+    "score": 201.0,
+    "articles_top5": [
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 88,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+        "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+        "likes": 68,
+        "published_at": "2025-09-08T18:00:02+09:00"
+      },
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 40,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      },
+      {
+        "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+        "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+        "likes": 6,
+        "published_at": "2025-09-06T15:27:07+09:00"
+      },
+      {
+        "title": "Makefileで開発フローを統一する：そのツール、本当に必要？",
+        "url": "https://zenn.dev/deltax/articles/20250904-make-all-in-one",
+        "likes": 2,
+        "published_at": "2025-09-11T13:56:15+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "npm",
+    "name": "npm",
+    "articles": 10,
+    "likes_sum": 195,
+    "score": 195.0,
+    "articles_top5": [
+      {
+        "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+        "url": "https://zenn.dev/azu/articles/ad168118524135",
+        "likes": 192,
+        "published_at": "2025-09-09T23:25:31+09:00"
+      },
+      {
+        "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+        "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+        "likes": 3,
+        "published_at": "2025-09-07T12:32:00+09:00"
+      },
+      {
+        "title": "【npm公開】React電卓入力フォームプラグインを公開しました！税込税抜計算機能付きで、あらゆる金額入力シーンに対応",
+        "url": "https://zenn.dev/gumigumih/articles/20250908_react-calculator-input-form-plugin",
+        "likes": 0,
+        "published_at": "2025-09-10T11:01:05+09:00"
+      },
+      {
+        "title": "【npm公開】React電卓入力フォームプラグインを公開しました！税込税抜計算機能付きで、あらゆる金額入力シーンに対応",
+        "url": "https://zenn.dev/gumigumih/articles/20250908_react-calculator-input-form-plugin",
+        "likes": 0,
+        "published_at": "2025-09-10T11:01:05+09:00"
+      },
+      {
+        "title": "Firebase Web SDK 初期化設定（firebaseConfigの詳細、コードを書く場所など",
+        "url": "https://zenn.dev/tkmemo/articles/974d65f982f89c",
+        "likes": 0,
+        "published_at": "2025-09-10T10:33:21+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "githubaction",
+    "name": "githubaction",
+    "articles": 16,
+    "likes_sum": 192,
+    "score": 192.0,
+    "articles_top5": [
+      {
+        "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+        "url": "https://zenn.dev/azu/articles/ad168118524135",
+        "likes": 192,
+        "published_at": "2025-09-09T23:25:31+09:00"
+      },
+      {
+        "title": "GitHub Actionsでタグとリリースを作成する",
+        "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+        "likes": 0,
+        "published_at": "2025-09-13T19:26:28+09:00"
+      },
+      {
+        "title": "GitHub Actionsでタグとリリースを作成する",
+        "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+        "likes": 0,
+        "published_at": "2025-09-13T19:26:28+09:00"
+      },
+      {
+        "title": "GitHub Actionsでタグとリリースを作成する",
+        "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+        "likes": 0,
+        "published_at": "2025-09-13T19:26:28+09:00"
+      },
+      {
+        "title": "GitHub Actionsでタグとリリースを作成する",
+        "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+        "likes": 0,
+        "published_at": "2025-09-13T19:26:28+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "playwright",
+    "name": "playwright",
+    "articles": 6,
+    "likes_sum": 189,
+    "score": 189.0,
+    "articles_top5": [
+      {
+        "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+        "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+        "likes": 155,
+        "published_at": "2025-09-10T12:00:02+09:00"
+      },
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "Playwrightで経費精算をやってみる",
+        "url": "https://zenn.dev/machomacho/articles/b74dd07726e743",
+        "likes": 5,
+        "published_at": "2025-09-07T15:37:12+09:00"
+      },
+      {
+        "title": "【Rails】システムスペックでplaywrightドライバとcupriteドライバを比較してみる",
+        "url": "https://zenn.dev/atsumu22/articles/66a27f049ae867",
+        "likes": 3,
+        "published_at": "2025-09-10T00:47:11+09:00"
+      },
+      {
+        "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+        "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+        "likes": 2,
+        "published_at": "2025-09-13T12:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rust",
+    "name": "rust",
+    "articles": 32,
+    "likes_sum": 188,
+    "score": 188.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+        "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+        "likes": 21,
+        "published_at": "2025-09-07T22:39:52+09:00"
+      },
+      {
+        "title": "Rustのproc-macroを書き続けて3年が経った",
+        "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+        "likes": 20,
+        "published_at": "2025-09-08T16:53:54+09:00"
+      },
+      {
+        "title": "【Rust】静的ディスパッチと動的ディスパッチの違いについて調査してみた",
+        "url": "https://zenn.dev/fast/articles/c9c204c19e9f20",
+        "likes": 7,
+        "published_at": "2025-09-08T15:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "javascript",
+    "name": "javascript",
+    "articles": 86,
+    "likes_sum": 187,
+    "score": 187.0,
+    "articles_top5": [
+      {
+        "title": "JavaScript三十六景Tips集",
+        "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+        "likes": 116,
+        "published_at": "2025-09-06T22:47:31+09:00"
+      },
+      {
+        "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
+        "url": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
+        "likes": 36,
+        "published_at": "2025-09-11T00:00:05+09:00"
+      },
+      {
+        "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+        "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+        "likes": 10,
+        "published_at": "2025-09-07T09:14:49+09:00"
+      },
+      {
+        "title": "勝手に「JavaScript三十六景 裏富士」",
+        "url": "https://zenn.dev/aya_koto/articles/33c9a2baf75d8a",
+        "likes": 7,
+        "published_at": "2025-09-10T15:15:33+09:00"
+      },
+      {
+        "title": "ArrayBufferって何なんだろう。",
+        "url": "https://zenn.dev/dotlog_techblog/articles/6e636824e7dd16",
+        "likes": 5,
+        "published_at": "2025-09-08T23:47:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "chatgpt",
+    "name": "chatgpt",
+    "articles": 24,
+    "likes_sum": 178,
+    "score": 178.0,
+    "articles_top5": [
+      {
+        "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+        "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+        "likes": 149,
+        "published_at": "2025-09-09T08:00:05+09:00"
+      },
+      {
+        "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+        "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+        "likes": 5,
+        "published_at": "2025-09-12T00:00:00+09:00"
+      },
+      {
+        "title": "より良いWeb検索を求めてClaude CodeからCodex CLIのWeb検索を使ってみたが、o3-search-mcpに戻った話",
+        "url": "https://zenn.dev/rarandeyo/articles/dbefefb8de5668",
+        "likes": 3,
+        "published_at": "2025-09-09T10:50:01+09:00"
+      },
+      {
+        "title": "ChatGPT MCP Connector フルサポートを試した",
+        "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+        "likes": 2,
+        "published_at": "2025-09-12T08:15:19+09:00"
+      },
+      {
+        "title": "Chat-GPT Plus プランでの Codex CLI 制限",
+        "url": "https://zenn.dev/yueno/articles/a6efb9952123ad",
+        "likes": 2,
+        "published_at": "2025-09-11T06:01:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rag",
+    "name": "rag",
+    "articles": 23,
+    "likes_sum": 175,
+    "score": 175.0,
+    "articles_top5": [
+      {
+        "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+        "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+        "likes": 149,
+        "published_at": "2025-09-09T08:00:05+09:00"
+      },
+      {
+        "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+        "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+        "likes": 13,
+        "published_at": "2025-09-10T16:04:12+09:00"
+      },
+      {
+        "title": "Bedrock&amp;ナレッジベースでRAGを作ったら料金結構かかってた",
+        "url": "https://zenn.dev/hisamitsu/articles/6d791e2c57c5a2",
+        "likes": 5,
+        "published_at": "2025-09-08T11:44:16+09:00"
+      },
+      {
+        "title": "コードをセマンティックに分割するライブラリcode-chopperの紹介と3つの作例",
+        "url": "https://zenn.dev/sirasagi62/articles/60d94029488ad9",
+        "likes": 3,
+        "published_at": "2025-09-10T23:09:24+09:00"
+      },
+      {
+        "title": "RAGの精度改善手法10選【2025年最新版】",
+        "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+        "likes": 2,
+        "published_at": "2025-09-13T02:10:22+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "go",
+    "name": "go",
+    "articles": 66,
+    "likes_sum": 165,
+    "score": 165.0,
+    "articles_top5": [
+      {
+        "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+        "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+        "likes": 72,
+        "published_at": "2025-09-07T17:48:00+09:00"
+      },
+      {
+        "title": "Go の静的解析による影響分析",
+        "url": "https://zenn.dev/knowledgework/articles/e0cd7dfce094d8",
+        "likes": 20,
+        "published_at": "2025-09-08T17:00:05+09:00"
+      },
+      {
+        "title": "Go 1.25以降でのslogについて",
+        "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+        "likes": 13,
+        "published_at": "2025-09-09T07:30:01+09:00"
+      },
+      {
+        "title": "GoにおけるGemini APIでの検索グラウンディングの活用",
+        "url": "https://zenn.dev/mixi/articles/f8f837812ece10",
+        "likes": 9,
+        "published_at": "2025-09-10T14:31:09+09:00"
+      },
+      {
+        "title": "【Go】Goのガベージコレクションについて",
+        "url": "https://zenn.dev/kisaragi71/articles/fc564d5b8c1710",
+        "likes": 6,
+        "published_at": "2025-09-08T12:15:17+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nextjs",
+    "name": "nextjs",
+    "articles": 54,
+    "likes_sum": 160,
+    "score": 160.0,
+    "articles_top5": [
+      {
+        "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+        "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+        "likes": 108,
+        "published_at": "2025-09-11T01:00:02+09:00"
+      },
+      {
+        "title": "Next.jsですごろくゲーム作ってみた",
+        "url": "https://zenn.dev/porche1223/articles/7c9763235ae588",
+        "likes": 6,
+        "published_at": "2025-09-10T18:13:12+09:00"
+      },
+      {
+        "title": "Next.jsでのURL状態管理を楽にするnuqsの使い方",
+        "url": "https://zenn.dev/shintaro/articles/0a3d0f7aabfe85",
+        "likes": 6,
+        "published_at": "2025-09-07T10:40:59+09:00"
+      },
+      {
+        "title": "「ぞうのあしあと」を開発しました",
+        "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+        "likes": 5,
+        "published_at": "2025-09-12T19:52:02+09:00"
+      },
+      {
+        "title": "「ぞうのあしあと」を開発しました",
+        "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+        "likes": 5,
+        "published_at": "2025-09-12T19:52:02+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "e2e",
+    "name": "e2e",
+    "articles": 4,
+    "likes_sum": 155,
+    "score": 155.0,
+    "articles_top5": [
+      {
+        "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+        "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+        "likes": 155,
+        "published_at": "2025-09-10T12:00:02+09:00"
+      },
+      {
+        "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+        "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+        "likes": 0,
+        "published_at": "2025-09-10T12:00:02+09:00"
+      },
+      {
+        "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+        "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+        "likes": 0,
+        "published_at": "2025-09-07T00:41:29+09:00"
+      },
+      {
+        "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+        "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+        "likes": 0,
+        "published_at": "2025-09-07T00:41:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "chatsense",
+    "name": "chatsense",
+    "articles": 2,
+    "likes_sum": 149,
+    "score": 149.0,
+    "articles_top5": [
+      {
+        "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+        "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+        "likes": 149,
+        "published_at": "2025-09-09T08:00:05+09:00"
+      },
+      {
+        "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+        "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+        "likes": 0,
+        "published_at": "2025-09-09T08:00:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "aws",
+    "name": "aws",
+    "articles": 86,
+    "likes_sum": 116,
+    "score": 116.0,
+    "articles_top5": [
+      {
+        "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+        "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+        "likes": 7,
+        "published_at": "2025-09-11T22:12:53+09:00"
+      },
+      {
+        "title": "AWSによるマイクロサービスの基本アーキテクチャ",
+        "url": "https://zenn.dev/rescuenow/articles/4fe4c86cfd1a2c",
+        "likes": 6,
+        "published_at": "2025-09-11T15:07:25+09:00"
+      },
+      {
+        "title": "minimoでのLLMを使った掲載審査の裏側",
+        "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+        "likes": 6,
+        "published_at": "2025-09-11T12:35:57+09:00"
+      },
+      {
+        "title": "【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果",
+        "url": "https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls",
+        "likes": 6,
+        "published_at": "2025-09-11T00:43:15+09:00"
+      },
+      {
+        "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+        "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+        "likes": 6,
+        "published_at": "2025-09-08T05:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "githubactions",
+    "name": "githubactions",
+    "articles": 15,
+    "likes_sum": 113,
+    "score": 113.0,
+    "articles_top5": [
+      {
+        "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+        "url": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+        "likes": 28,
+        "published_at": "2025-09-10T12:42:39+09:00"
+      },
+      {
+        "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+        "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+        "likes": 24,
+        "published_at": "2025-09-11T12:00:02+09:00"
+      },
+      {
+        "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+        "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+        "likes": 16,
+        "published_at": "2025-09-09T16:25:47+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ios",
+    "name": "ios",
+    "articles": 9,
+    "likes_sum": 111,
+    "score": 111.0,
+    "articles_top5": [
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 71,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      },
+      {
+        "title": "Background Tasksフレームワーク入門",
+        "url": "https://zenn.dev/shu223/articles/background-tasks",
+        "likes": 21,
+        "published_at": "2025-09-06T07:27:08+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "[Xcode] SimulatorのiPhoneとApple Watchを連携する",
+        "url": "https://zenn.dev/oka_yuuji/articles/906e1247e44b3c",
+        "likes": 5,
+        "published_at": "2025-09-11T18:42:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "frontend",
+    "name": "frontend",
+    "articles": 15,
+    "likes_sum": 110,
+    "score": 110.0,
+    "articles_top5": [
+      {
+        "title": "フロントエンドのテストアーキテクチャ",
+        "url": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
+        "likes": 100,
+        "published_at": "2025-09-06T09:00:01+09:00"
+      },
+      {
+        "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+        "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+        "likes": 37,
+        "published_at": "2025-09-06T21:41:26+09:00"
+      },
+      {
+        "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+        "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+        "likes": 17,
+        "published_at": "2025-09-09T11:20:12+09:00"
+      },
+      {
+        "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ &amp; ほぼ全資料まとめ",
+        "url": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
+        "likes": 13,
+        "published_at": "2025-09-11T20:09:37+09:00"
+      },
+      {
+        "title": "フロントエンドカンファレンス北海道で登壇してきた",
+        "url": "https://zenn.dev/stafes_blog/articles/nano72mkn-frontend-conference-hokkaido-2025",
+        "likes": 8,
+        "published_at": "2025-09-09T23:53:11+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nestjs",
+    "name": "nestjs",
+    "articles": 2,
+    "likes_sum": 108,
+    "score": 108.0,
+    "articles_top5": [
+      {
+        "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+        "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+        "likes": 108,
+        "published_at": "2025-09-11T01:00:02+09:00"
+      },
+      {
+        "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+        "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+        "likes": 0,
+        "published_at": "2025-09-11T01:00:02+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "anthropic",
+    "name": "anthropic",
+    "articles": 8,
+    "likes_sum": 105,
+    "score": 105.0,
+    "articles_top5": [
+      {
+        "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+        "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+        "likes": 75,
+        "published_at": "2025-09-09T19:28:06+09:00"
+      },
+      {
+        "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+        "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+        "likes": 24,
+        "published_at": "2025-09-11T12:00:02+09:00"
+      },
+      {
+        "title": "【日本初開催】Claude Hackathon 2025 in Tokyo参加レポート",
+        "url": "https://zenn.dev/hikaru_tell/articles/b62e715c0e41d2",
+        "likes": 4,
+        "published_at": "2025-09-07T21:08:48+09:00"
+      },
+      {
+        "title": "MCPのプロトコルを読み解く",
+        "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+        "likes": 2,
+        "published_at": "2025-09-12T16:52:34+09:00"
+      },
+      {
+        "title": "MCPのプロトコルを読み解く",
+        "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+        "likes": 0,
+        "published_at": "2025-09-12T16:52:34+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "management",
+    "name": "management",
+    "articles": 2,
+    "likes_sum": 101,
+    "score": 101.0,
+    "articles_top5": [
+      {
+        "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+        "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+        "likes": 101,
+        "published_at": "2025-09-09T10:37:47+09:00"
+      },
+      {
+        "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+        "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+        "likes": 0,
+        "published_at": "2025-09-09T10:37:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "work",
+    "name": "work",
+    "articles": 2,
+    "likes_sum": 101,
+    "score": 101.0,
+    "articles_top5": [
+      {
+        "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+        "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+        "likes": 101,
+        "published_at": "2025-09-09T10:37:47+09:00"
+      },
+      {
+        "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+        "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+        "likes": 0,
+        "published_at": "2025-09-09T10:37:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "terminal",
+    "name": "terminal",
+    "articles": 10,
+    "likes_sum": 93,
+    "score": 93.0,
+    "articles_top5": [
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 88,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+        "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+        "likes": 3,
+        "published_at": "2025-09-11T14:57:18+09:00"
+      },
+      {
+        "title": "日本語をなんでも猫語に変換するスクリプト",
+        "url": "https://zenn.dev/fygar256/articles/c03746bed331a0",
+        "likes": 2,
+        "published_at": "2025-09-11T06:37:29+09:00"
+      },
+      {
+        "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+        "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+        "likes": 0,
+        "published_at": "2025-09-11T14:57:18+09:00"
+      },
+      {
+        "title": "日本語をなんでも猫語に変換するスクリプト",
+        "url": "https://zenn.dev/fygar256/articles/c03746bed331a0",
+        "likes": 0,
+        "published_at": "2025-09-11T06:37:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "robotics",
+    "name": "robotics",
+    "articles": 3,
+    "likes_sum": 90,
+    "score": 90.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+        "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+        "likes": 9,
+        "published_at": "2025-09-08T01:34:26+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zsh",
+    "name": "zsh",
+    "articles": 4,
+    "likes_sum": 88,
+    "score": 88.0,
+    "articles_top5": [
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 88,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 0,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+        "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+        "likes": 0,
+        "published_at": "2025-09-07T21:39:17+09:00"
+      },
+      {
+        "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+        "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+        "likes": 0,
+        "published_at": "2025-09-07T21:39:17+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "shell",
+    "name": "shell",
+    "articles": 2,
+    "likes_sum": 88,
+    "score": 88.0,
+    "articles_top5": [
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 88,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "楽しく開発するための私のターミナル設定",
+        "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+        "likes": 0,
+        "published_at": "2025-09-09T09:00:01+09:00"
+      },
+      {
+        "title": "Gitのブランチ名にシングルクォーテーションを入れたらコマンドが面倒くさくなった",
+        "url": "https://zenn.dev/pepepepepei/articles/e2d839248d99a1",
+        "likes": 0,
+        "published_at": "2025-09-06T05:27:10+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "terraform",
+    "name": "terraform",
+    "articles": 19,
+    "likes_sum": 88,
+    "score": 88.0,
+    "articles_top5": [
+      {
+        "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+        "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+        "likes": 24,
+        "published_at": "2025-09-11T12:00:02+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "Terraform + Slack + AIで権限管理を自動化",
+        "url": "https://zenn.dev/finatext/articles/0f82881007ac66",
+        "likes": 9,
+        "published_at": "2025-09-09T15:04:25+09:00"
+      },
+      {
+        "title": "Terraform を使いこなすための Tips 集",
+        "url": "https://zenn.dev/enjapan/articles/b488602600a837",
+        "likes": 6,
+        "published_at": "2025-09-08T11:37:43+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zennfes2025infra",
+    "name": "zennfes2025infra",
+    "articles": 52,
+    "likes_sum": 84,
+    "score": 84.0,
+    "articles_top5": [
+      {
+        "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+        "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+        "likes": 18,
+        "published_at": "2025-09-09T13:46:16+09:00"
+      },
+      {
+        "title": "Nx「s1ngularity」攻撃でAIはどのように利用されたか",
+        "url": "https://zenn.dev/sun_asterisk/articles/nx_s1ngularity",
+        "likes": 7,
+        "published_at": "2025-09-08T17:55:10+09:00"
+      },
+      {
+        "title": "Proxmox VE のライブマイグレーションの実力を試す(Proxmox VE インストール ～ ライブマイグレーション実行まで)",
+        "url": "https://zenn.dev/seita621/articles/e0dcd29e8440a0",
+        "likes": 6,
+        "published_at": "2025-09-11T15:56:17+09:00"
+      },
+      {
+        "title": "AWSによるマイクロサービスの基本アーキテクチャ",
+        "url": "https://zenn.dev/rescuenow/articles/4fe4c86cfd1a2c",
+        "likes": 6,
+        "published_at": "2025-09-11T15:07:25+09:00"
+      },
+      {
+        "title": "HashiCorp Vaultユーザ会（第1回）の開催レポート！",
+        "url": "https://zenn.dev/aeonpeople/articles/morihaya-20250907-hcpvault-users-report",
+        "likes": 6,
+        "published_at": "2025-09-08T08:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "android",
+    "name": "android",
+    "articles": 15,
+    "likes_sum": 83,
+    "score": 83.0,
+    "articles_top5": [
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 71,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      },
+      {
+        "title": "GitHubで公開されているOSSのAndroidアプリをGemini Deep Researchにいっぱい探してもらう",
+        "url": "https://zenn.dev/operando_os/articles/49f53cc658a1aa",
+        "likes": 3,
+        "published_at": "2025-09-11T16:01:42+09:00"
+      },
+      {
+        "title": "Predictive back gesture対応のハマりどころ",
+        "url": "https://zenn.dev/k4zy/articles/f9512beebac1be",
+        "likes": 3,
+        "published_at": "2025-09-08T15:57:00+09:00"
+      },
+      {
+        "title": "UnityでつくったAndroidアプリを、Google Playの16KBページサイズ対応にしてアップデートしました",
+        "url": "https://zenn.dev/toto_tantanto/articles/3a3e254a5c2009",
+        "likes": 2,
+        "published_at": "2025-09-11T03:17:00+09:00"
+      },
+      {
+        "title": "【Flutter】モダンなAudioVisualizationのパッケージ audio_flux を試す",
+        "url": "https://zenn.dev/slowhand/articles/c22e59b441d2ae",
+        "likes": 2,
+        "published_at": "2025-09-06T21:00:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "serena",
+    "name": "serena",
+    "articles": 10,
+    "likes_sum": 83,
+    "score": 83.0,
+    "articles_top5": [
+      {
+        "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+        "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+        "likes": 75,
+        "published_at": "2025-09-09T19:28:06+09:00"
+      },
+      {
+        "title": "claude codeにスマホからplanさせて家に帰ったら実装させる",
+        "url": "https://zenn.dev/ushironoko/articles/f3174dc545d4bc",
+        "likes": 4,
+        "published_at": "2025-09-08T20:14:11+09:00"
+      },
+      {
+        "title": "Serena使ってみたらとってもよかった話",
+        "url": "https://zenn.dev/techsword/articles/d2e0e00abe397c",
+        "likes": 2,
+        "published_at": "2025-09-09T09:55:09+09:00"
+      },
+      {
+        "title": "Codex + GPT5 でAWSにwebアプリ作ろ！ （暫定)",
+        "url": "https://zenn.dev/personal/articles/b8e9eee4abd5ba",
+        "likes": 2,
+        "published_at": "2025-09-07T22:41:32+09:00"
+      },
+      {
+        "title": "SerenaをインストールしてClineで使用する方法",
+        "url": "https://zenn.dev/splusl_at/articles/install-serena",
+        "likes": 1,
+        "published_at": "2025-09-06T09:49:15+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "dora",
+    "name": "dora",
+    "articles": 2,
+    "likes_sum": 81,
+    "score": 81.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "physicalai",
+    "name": "physicalai",
+    "articles": 2,
+    "likes_sum": 81,
+    "score": 81.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "computerscience",
+    "name": "computerscience",
+    "articles": 6,
+    "likes_sum": 79,
+    "score": 79.0,
+    "articles_top5": [
+      {
+        "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+        "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+        "likes": 72,
+        "published_at": "2025-09-07T17:48:00+09:00"
+      },
+      {
+        "title": "ジョージア工科大学院に旅に出る（オンライン）と少し Uopeople の話",
+        "url": "https://zenn.dev/nope_noshishi/articles/1df1b1cf44c05f",
+        "likes": 6,
+        "published_at": "2025-09-07T21:17:29+09:00"
+      },
+      {
+        "title": "『コンピュータシステムの理論と実装』から学ぶ『現代のコンピューターの基本的な仕組みと設計思想』",
+        "url": "https://zenn.dev/masa_and_so_on/articles/5387ee7201c4fb",
+        "likes": 1,
+        "published_at": "2025-09-11T16:20:56+09:00"
+      },
+      {
+        "title": "『コンピュータシステムの理論と実装』から学ぶ『現代のコンピューターの基本的な仕組みと設計思想』",
+        "url": "https://zenn.dev/masa_and_so_on/articles/5387ee7201c4fb",
+        "likes": 0,
+        "published_at": "2025-09-11T16:20:56+09:00"
+      },
+      {
+        "title": "ジョージア工科大学院に旅に出る（オンライン）と少し Uopeople の話",
+        "url": "https://zenn.dev/nope_noshishi/articles/1df1b1cf44c05f",
+        "likes": 0,
+        "published_at": "2025-09-07T21:17:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "speckit",
+    "name": "speckit",
+    "articles": 10,
+    "likes_sum": 78,
+    "score": 78.0,
+    "articles_top5": [
+      {
+        "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+        "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+        "likes": 87,
+        "published_at": "2025-09-06T14:07:20+09:00"
+      },
+      {
+        "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+        "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+        "likes": 35,
+        "published_at": "2025-09-09T17:22:06+09:00"
+      },
+      {
+        "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+        "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+        "likes": 19,
+        "published_at": "2025-09-11T11:32:35+09:00"
+      },
+      {
+        "title": "Spec Kitを使って簡単な家計簿アプリ実装してみた",
+        "url": "https://zenn.dev/acntechjp/articles/1d35658b0114b6",
+        "likes": 14,
+        "published_at": "2025-09-09T14:01:27+09:00"
+      },
+      {
+        "title": "Spec Kitを日本語化して試してみる",
+        "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+        "likes": 7,
+        "published_at": "2025-09-09T17:32:27+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "githubcopilot",
+    "name": "githubcopilot",
+    "articles": 20,
+    "likes_sum": 78,
+    "score": 78.0,
+    "articles_top5": [
+      {
+        "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+        "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+        "likes": 11,
+        "published_at": "2025-09-09T08:54:45+09:00"
+      },
+      {
+        "title": "AI駆動開発勉強会の振り返り",
+        "url": "https://zenn.dev/acntechjp/articles/ca581cfda42b45",
+        "likes": 8,
+        "published_at": "2025-09-07T23:36:49+09:00"
+      },
+      {
+        "title": "AzureFunctionsのMCPサーバで生成AIドリブンな一歩を踏み出そう！ ～ManagedIDアクセスを添えて～",
+        "url": "https://zenn.dev/nomhiro/articles/azure-functions-mcp-managed-id",
+        "likes": 6,
+        "published_at": "2025-09-07T21:54:18+09:00"
+      },
+      {
+        "title": "mcp-database-serverを使用してSQL Server を自然言語で操作してみる",
+        "url": "https://zenn.dev/srtia2318/articles/introduce5-mcp-db-sv-eb9c4e72e90760",
+        "likes": 5,
+        "published_at": "2025-09-08T02:57:21+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "expo",
+    "name": "expo",
+    "articles": 4,
+    "likes_sum": 73,
+    "score": 73.0,
+    "articles_top5": [
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 71,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      },
+      {
+        "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+        "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+        "likes": 2,
+        "published_at": "2025-09-08T22:56:25+09:00"
+      },
+      {
+        "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+        "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+        "likes": 0,
+        "published_at": "2025-09-08T22:56:25+09:00"
+      },
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 0,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "reactnative",
+    "name": "reactnative",
+    "articles": 4,
+    "likes_sum": 73,
+    "score": 73.0,
+    "articles_top5": [
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 71,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      },
+      {
+        "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+        "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+        "likes": 2,
+        "published_at": "2025-09-08T22:56:25+09:00"
+      },
+      {
+        "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+        "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+        "likes": 0,
+        "published_at": "2025-09-08T22:56:25+09:00"
+      },
+      {
+        "title": "React Nativeで実現できないことはあるのか？",
+        "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+        "likes": 0,
+        "published_at": "2025-09-08T13:28:07+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "compiler",
+    "name": "compiler",
+    "articles": 2,
+    "likes_sum": 72,
+    "score": 72.0,
+    "articles_top5": [
+      {
+        "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+        "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+        "likes": 72,
+        "published_at": "2025-09-07T17:48:00+09:00"
+      },
+      {
+        "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+        "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+        "likes": 0,
+        "published_at": "2025-09-07T17:48:00+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "streamdown",
+    "name": "streamdown",
+    "articles": 2,
+    "likes_sum": 70,
+    "score": 70.0,
+    "articles_top5": [
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 70,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      },
+      {
+        "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+        "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+        "likes": 0,
+        "published_at": "2025-09-08T12:07:31+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "googlecloud",
+    "name": "googlecloud",
+    "articles": 30,
+    "likes_sum": 68,
+    "score": 68.0,
+    "articles_top5": [
+      {
+        "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+        "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+        "likes": 14,
+        "published_at": "2025-09-10T20:05:03+09:00"
+      },
+      {
+        "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+        "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+        "likes": 13,
+        "published_at": "2025-09-08T16:41:45+09:00"
+      },
+      {
+        "title": "Google CloudのModel Armorを利用してプロンプトのサニタイズをしてみた",
+        "url": "https://zenn.dev/akasan/articles/7ce40551040ccc",
+        "likes": 6,
+        "published_at": "2025-09-06T18:26:26+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "aiagent",
+    "name": "aiagent",
+    "articles": 22,
+    "likes_sum": 63,
+    "score": 63.0,
+    "articles_top5": [
+      {
+        "title": "AIAgentにAI最新情報まとめ資料を作ってもらう会【LangGraph&amp;LangSmith】",
+        "url": "https://zenn.dev/microsoft/articles/create_doc_by_aiagent",
+        "likes": 32,
+        "published_at": "2025-09-06T18:20:08+09:00"
+      },
+      {
+        "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+        "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+        "likes": 16,
+        "published_at": "2025-09-09T16:25:47+09:00"
+      },
+      {
+        "title": "Terraform + Slack + AIで権限管理を自動化",
+        "url": "https://zenn.dev/finatext/articles/0f82881007ac66",
+        "likes": 9,
+        "published_at": "2025-09-09T15:04:25+09:00"
+      },
+      {
+        "title": "[ADK] 1.14.0で追加された require_confirmation を利用したHuman-in-the-Loop",
+        "url": "https://zenn.dev/soundtricker/articles/9c3cf3e265e25d",
+        "likes": 3,
+        "published_at": "2025-09-11T22:17:56+09:00"
+      },
+      {
+        "title": "ADK 1.14.0 で追加された Agent、Runnerに続く新たな概念 App",
+        "url": "https://zenn.dev/soundtricker/articles/f51b9fb4f788d8",
+        "likes": 3,
+        "published_at": "2025-09-11T21:31:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "satto",
+    "name": "satto",
+    "articles": 6,
+    "likes_sum": 57,
+    "score": 57.0,
+    "articles_top5": [
+      {
+        "title": "satto workspaceを支える技術基盤について",
+        "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+        "likes": 27,
+        "published_at": "2025-09-08T15:57:14+09:00"
+      },
+      {
+        "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+        "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+        "likes": 17,
+        "published_at": "2025-09-09T11:20:12+09:00"
+      },
+      {
+        "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+        "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+        "likes": 13,
+        "published_at": "2025-09-10T16:04:12+09:00"
+      },
+      {
+        "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+        "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+        "likes": 0,
+        "published_at": "2025-09-10T16:04:12+09:00"
+      },
+      {
+        "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+        "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+        "likes": 0,
+        "published_at": "2025-09-09T11:20:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "agent",
+    "name": "agent",
+    "articles": 31,
+    "likes_sum": 56,
+    "score": 56.0,
+    "articles_top5": [
+      {
+        "title": "【翻訳】Writing effective tools for agents — with agents",
+        "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+        "likes": 6,
+        "published_at": "2025-09-12T10:42:12+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "devin",
+    "name": "devin",
+    "articles": 16,
+    "likes_sum": 52,
+    "score": 52.0,
+    "articles_top5": [
+      {
+        "title": "レガシーC#開発者がDevinと向き合った現実",
+        "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+        "likes": 20,
+        "published_at": "2025-09-11T15:06:49+09:00"
+      },
+      {
+        "title": "QAエンジニアがDevinで仕様理解を加速させる",
+        "url": "https://zenn.dev/knowledgework/articles/7bd050b8a11193",
+        "likes": 11,
+        "published_at": "2025-09-09T12:00:02+09:00"
+      },
+      {
+        "title": "Luup Serverチームの開発スケールのためのAI活用事例",
+        "url": "https://zenn.dev/luup_developers/articles/server-yasumoto-20250909",
+        "likes": 5,
+        "published_at": "2025-09-09T15:00:01+09:00"
+      },
+      {
+        "title": "レビュー修正を Devin に丸投げできる仕組みを作ったら最高だった件【Claude Code より楽】",
+        "url": "https://zenn.dev/kikagaku/articles/59403a76583d1c",
+        "likes": 5,
+        "published_at": "2025-09-09T10:12:07+09:00"
+      },
+      {
+        "title": "効率的にAIエージェント開発を行うためのリポジトリドキュメント整備方法",
+        "url": "https://zenn.dev/toccasystems/articles/ai-agent-documentation-best-practices",
+        "likes": 4,
+        "published_at": "2025-09-07T12:42:07+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nanobanana",
+    "name": "nanobanana",
+    "articles": 3,
+    "likes_sum": 50,
+    "score": 50.0,
+    "articles_top5": [
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 23,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 22,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+        "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+        "likes": 5,
+        "published_at": "2025-09-08T07:47:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "azure",
+    "name": "azure",
+    "articles": 27,
+    "likes_sum": 49,
+    "score": 49.0,
+    "articles_top5": [
+      {
+        "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+        "url": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+        "likes": 16,
+        "published_at": "2025-09-08T10:29:43+09:00"
+      },
+      {
+        "title": "『エージェンティックWeb』と『MCP 入門』- Azure Functions でハンズオン開発への実践ガイド",
+        "url": "https://zenn.dev/yamadakz/articles/mcp-instraction-guid",
+        "likes": 6,
+        "published_at": "2025-09-08T16:15:19+09:00"
+      },
+      {
+        "title": "AzureFunctionsのMCPサーバで生成AIドリブンな一歩を踏み出そう！ ～ManagedIDアクセスを添えて～",
+        "url": "https://zenn.dev/nomhiro/articles/azure-functions-mcp-managed-id",
+        "likes": 6,
+        "published_at": "2025-09-07T21:54:18+09:00"
+      },
+      {
+        "title": "Auzreのリソースグループに日本語名を付けてはいけない理由",
+        "url": "https://zenn.dev/relims7165/articles/bff6b10b352e4c",
+        "likes": 5,
+        "published_at": "2025-09-11T08:10:09+09:00"
+      },
+      {
+        "title": "【クラウド】IaaSからFaaSまで、5つのサービス形態の違いと使い分け",
+        "url": "https://zenn.dev/n_haru2/articles/1b2a27b447835d",
+        "likes": 5,
+        "published_at": "2025-09-06T04:07:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "tinygo",
+    "name": "tinygo",
+    "articles": 4,
+    "likes_sum": 48,
+    "score": 48.0,
+    "articles_top5": [
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 46,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      },
+      {
+        "title": "TinyGo Keeb in Osaka に参加したぞ！",
+        "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+        "likes": 2,
+        "published_at": "2025-09-10T21:04:45+09:00"
+      },
+      {
+        "title": "TinyGo Keeb in Osaka に参加したぞ！",
+        "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+        "likes": 0,
+        "published_at": "2025-09-10T21:04:45+09:00"
+      },
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 0,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "tinygokeeb",
+    "name": "tinygokeeb",
+    "articles": 4,
+    "likes_sum": 48,
+    "score": 48.0,
+    "articles_top5": [
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 46,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      },
+      {
+        "title": "TinyGo Keeb in Osaka に参加したぞ！",
+        "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+        "likes": 2,
+        "published_at": "2025-09-10T21:04:45+09:00"
+      },
+      {
+        "title": "TinyGo Keeb in Osaka に参加したぞ！",
+        "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+        "likes": 0,
+        "published_at": "2025-09-10T21:04:45+09:00"
+      },
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 0,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "kiro",
+    "name": "kiro",
+    "articles": 10,
+    "likes_sum": 48,
+    "score": 48.0,
+    "articles_top5": [
+      {
+        "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+        "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+        "likes": 87,
+        "published_at": "2025-09-06T14:07:20+09:00"
+      },
+      {
+        "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+        "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+        "likes": 35,
+        "published_at": "2025-09-09T17:22:06+09:00"
+      },
+      {
+        "title": "spec-workflow-mcpとは？Claude CodeでKiroのような仕様駆動開発を実現",
+        "url": "https://zenn.dev/kuronomagi/articles/what-is-spec-workflow-mcp",
+        "likes": 6,
+        "published_at": "2025-09-10T15:40:50+09:00"
+      },
+      {
+        "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+        "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+        "likes": 6,
+        "published_at": "2025-09-06T18:32:07+09:00"
+      },
+      {
+        "title": "Cursorで実践するスペック駆動開発：Kiro流フローを完全再現",
+        "url": "https://zenn.dev/redamoon/articles/article23-cursor-spce",
+        "likes": 5,
+        "published_at": "2025-09-09T00:02:39+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ui",
+    "name": "ui",
+    "articles": 5,
+    "likes_sum": 47,
+    "score": 47.0,
+    "articles_top5": [
+      {
+        "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+        "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+        "likes": 37,
+        "published_at": "2025-09-06T21:41:26+09:00"
+      },
+      {
+        "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+        "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+        "likes": 10,
+        "published_at": "2025-09-10T19:12:13+09:00"
+      },
+      {
+        "title": "エンジニアが楽しくUI設計するならFigJam",
+        "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+        "likes": 0,
+        "published_at": "2025-09-13T01:57:50+09:00"
+      },
+      {
+        "title": "エンジニアが楽しくUI設計するならFigJam",
+        "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+        "likes": 0,
+        "published_at": "2025-09-13T01:57:50+09:00"
+      },
+      {
+        "title": "子ども向け学習アプリ開発ログ：学習カードのUIとDB設計（Next.js + Prisma）",
+        "url": "https://zenn.dev/hyoni/articles/79d5c295aa1191",
+        "likes": 0,
+        "published_at": "2025-09-09T13:48:41+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "accessibility",
+    "name": "accessibility",
+    "articles": 4,
+    "likes_sum": 47,
+    "score": 47.0,
+    "articles_top5": [
+      {
+        "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+        "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+        "likes": 37,
+        "published_at": "2025-09-06T21:41:26+09:00"
+      },
+      {
+        "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+        "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+        "likes": 10,
+        "published_at": "2025-09-07T09:14:49+09:00"
+      },
+      {
+        "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+        "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+        "likes": 0,
+        "published_at": "2025-09-07T09:14:49+09:00"
+      },
+      {
+        "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+        "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+        "likes": 0,
+        "published_at": "2025-09-06T21:41:26+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "umedago",
+    "name": "umedago",
+    "articles": 2,
+    "likes_sum": 46,
+    "score": 46.0,
+    "articles_top5": [
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 46,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      },
+      {
+        "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+        "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+        "likes": 0,
+        "published_at": "2025-09-07T23:34:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cloudflare",
+    "name": "cloudflare",
+    "articles": 22,
+    "likes_sum": 46,
+    "score": 46.0,
+    "articles_top5": [
+      {
+        "title": "Cloudflare Agentsコトハジメ",
+        "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+        "likes": 14,
+        "published_at": "2025-09-07T07:06:15+09:00"
+      },
+      {
+        "title": "週刊Cloudflare - 2025/09/07週",
+        "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2025_0831-0906",
+        "likes": 13,
+        "published_at": "2025-09-11T13:15:44+09:00"
+      },
+      {
+        "title": "OSS・依存ソフトのサポート期限をまとめて確認できる「EOL Timeline」を作りました",
+        "url": "https://zenn.dev/ksuke_0322/articles/b519896ad1f988",
+        "likes": 7,
+        "published_at": "2025-09-11T20:42:17+09:00"
+      },
+      {
+        "title": "Cloudflare Browser Renderingに入門してみる",
+        "url": "https://zenn.dev/oda/articles/0939ce0b844a6f",
+        "likes": 4,
+        "published_at": "2025-09-12T01:31:58+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "openai",
+    "name": "openai",
+    "articles": 12,
+    "likes_sum": 45,
+    "score": 45.0,
+    "articles_top5": [
+      {
+        "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+        "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+        "likes": 14,
+        "published_at": "2025-09-09T13:12:19+09:00"
+      },
+      {
+        "title": "gpt-2からgpt-ossへの進化をモデル構造から読む",
+        "url": "https://zenn.dev/finatext/articles/evoluation-from-gpt2-to-gptoss",
+        "likes": 13,
+        "published_at": "2025-09-08T15:52:27+09:00"
+      },
+      {
+        "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+        "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+        "likes": 6,
+        "published_at": "2025-09-06T15:27:07+09:00"
+      },
+      {
+        "title": "Realtime API 正式版 ( gpt-realtime ) を試す",
+        "url": "https://zenn.dev/dxclab/articles/e78dac9d46e17f",
+        "likes": 4,
+        "published_at": "2025-09-10T17:38:08+09:00"
+      },
+      {
+        "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+        "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+        "likes": 3,
+        "published_at": "2025-09-12T18:02:32+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "copilot",
+    "name": "copilot",
+    "articles": 35,
+    "likes_sum": 45,
+    "score": 45.0,
+    "articles_top5": [
+      {
+        "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+        "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+        "likes": 30,
+        "published_at": "2025-09-11T13:01:44+09:00"
+      },
+      {
+        "title": "GitHub Copilot Agent を初めて使い、寝ている間に Issue を解決してもらった話",
+        "url": "https://zenn.dev/j_sakamoto/articles/8f36048134f867",
+        "likes": 4,
+        "published_at": "2025-09-08T21:34:21+09:00"
+      },
+      {
+        "title": "ゼロから作る『ローカルMCP』- Azure FunctionsでローカルMCPサーバーを起動する",
+        "url": "https://zenn.dev/yamadakz/articles/mcp-local-server",
+        "likes": 3,
+        "published_at": "2025-09-09T17:17:47+09:00"
+      },
+      {
+        "title": "VS Code v1.104 新機能ざっくりまとめ",
+        "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+        "likes": 2,
+        "published_at": "2025-09-12T18:25:45+09:00"
+      },
+      {
+        "title": "VS Code v1.104 新機能ざっくりまとめ",
+        "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+        "likes": 2,
+        "published_at": "2025-09-12T18:25:45+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "prisma",
+    "name": "prisma",
+    "articles": 12,
+    "likes_sum": 44,
+    "score": 44.0,
+    "articles_top5": [
+      {
+        "title": "【Prisma】findFirst をユニーク検索に使うと危ない",
+        "url": "https://zenn.dev/chot/articles/prisma-dangerous-find-first",
+        "likes": 31,
+        "published_at": "2025-09-08T10:37:37+09:00"
+      },
+      {
+        "title": "Prisma で作る ActiveRecord ライクな in_batches: 大量データを効率的に処理しよう",
+        "url": "https://zenn.dev/spacemarket/articles/af0ac52661df50",
+        "likes": 6,
+        "published_at": "2025-09-11T11:36:16+09:00"
+      },
+      {
+        "title": "生成AI「だけ」で作る 〜第二弾: DB設計やれよ〜",
+        "url": "https://zenn.dev/sonicmoov/articles/bad1564f0b266f",
+        "likes": 6,
+        "published_at": "2025-09-10T12:54:44+09:00"
+      },
+      {
+        "title": "Prisma findUniqueの正しい理解 - バッチング最適化とGraphQLでの注意点",
+        "url": "https://zenn.dev/autumn_m/articles/30c218b53d74e9",
+        "likes": 1,
+        "published_at": "2025-09-10T23:17:22+09:00"
+      },
+      {
+        "title": "ログインやアカウント登録も不要なイベントスケジュール公開機能",
+        "url": "https://zenn.dev/benjuwan/articles/e6c5b0ac590d71",
+        "likes": 0,
+        "published_at": "2025-09-12T14:42:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vscode",
+    "name": "vscode",
+    "articles": 35,
+    "likes_sum": 44,
+    "score": 44.0,
+    "articles_top5": [
+      {
+        "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+        "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+        "likes": 8,
+        "published_at": "2025-09-12T11:15:01+09:00"
+      },
+      {
+        "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+        "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+        "likes": 6,
+        "published_at": "2025-09-06T18:32:07+09:00"
+      },
+      {
+        "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+        "url": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+        "likes": 5,
+        "published_at": "2025-09-11T19:27:28+09:00"
+      },
+      {
+        "title": "Mermaidの拡張機能とConfigと保守性の高い書き方を紹介したい",
+        "url": "https://zenn.dev/tomyn/articles/ba649286a04db0",
+        "likes": 4,
+        "published_at": "2025-09-11T16:24:02+09:00"
+      },
+      {
+        "title": "iPad × GitHub Codespaces でどこでもZenn執筆",
+        "url": "https://zenn.dev/rakuten_tech/articles/ipad-codespaces-zenn",
+        "likes": 4,
+        "published_at": "2025-09-10T07:00:05+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vibecoding",
+    "name": "vibecoding",
+    "articles": 9,
+    "likes_sum": 43,
+    "score": 43.0,
+    "articles_top5": [
+      {
+        "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+        "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+        "likes": 19,
+        "published_at": "2025-09-11T11:32:35+09:00"
+      },
+      {
+        "title": "VibeCoding Welcome Party! @Nagoya イベントレポート",
+        "url": "https://zenn.dev/acntechjp/articles/18e5d146f239f6",
+        "likes": 9,
+        "published_at": "2025-09-08T20:27:19+09:00"
+      },
+      {
+        "title": "Spec Kitを日本語化して試してみる",
+        "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+        "likes": 7,
+        "published_at": "2025-09-09T17:32:27+09:00"
+      },
+      {
+        "title": "＃27:冷蔵庫の中身からレシピを提案するツールを作ってみた",
+        "url": "https://zenn.dev/acntechjp/articles/185ad407ea2310",
+        "likes": 3,
+        "published_at": "2025-09-10T19:00:01+09:00"
+      },
+      {
+        "title": "Serena使ってみたらとってもよかった話",
+        "url": "https://zenn.dev/techsword/articles/d2e0e00abe397c",
+        "likes": 2,
+        "published_at": "2025-09-09T09:55:09+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "macro",
+    "name": "macro",
+    "articles": 4,
+    "likes_sum": 41,
+    "score": 41.0,
+    "articles_top5": [
+      {
+        "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+        "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+        "likes": 21,
+        "published_at": "2025-09-07T22:39:52+09:00"
+      },
+      {
+        "title": "Rustのproc-macroを書き続けて3年が経った",
+        "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+        "likes": 20,
+        "published_at": "2025-09-08T16:53:54+09:00"
+      },
+      {
+        "title": "Rustのproc-macroを書き続けて3年が経った",
+        "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+        "likes": 0,
+        "published_at": "2025-09-08T16:53:54+09:00"
+      },
+      {
+        "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+        "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+        "likes": 0,
+        "published_at": "2025-09-07T22:39:52+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "types",
+    "name": "types",
+    "articles": 2,
+    "likes_sum": 40,
+    "score": 40.0,
+    "articles_top5": [
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 40,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      },
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 0,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "parser",
+    "name": "parser",
+    "articles": 2,
+    "likes_sum": 40,
+    "score": 40.0,
+    "articles_top5": [
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 40,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      },
+      {
+        "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+        "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+        "likes": 0,
+        "published_at": "2025-09-11T14:27:21+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ivry",
+    "name": "ivry",
+    "articles": 4,
+    "likes_sum": 39,
+    "score": 39.0,
+    "articles_top5": [
+      {
+        "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+        "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+        "likes": 23,
+        "published_at": "2025-09-10T10:00:01+09:00"
+      },
+      {
+        "title": "LLMの期待外れをプロンプトの継続改善で克服する",
+        "url": "https://zenn.dev/ivry/articles/6505ddd51427d7",
+        "likes": 16,
+        "published_at": "2025-09-11T14:34:48+09:00"
+      },
+      {
+        "title": "LLMの期待外れをプロンプトの継続改善で克服する",
+        "url": "https://zenn.dev/ivry/articles/6505ddd51427d7",
+        "likes": 0,
+        "published_at": "2025-09-11T14:34:48+09:00"
+      },
+      {
+        "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+        "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+        "likes": 0,
+        "published_at": "2025-09-10T10:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "tech",
+    "name": "tech",
+    "articles": 12,
+    "likes_sum": 39,
+    "score": 39.0,
+    "articles_top5": [
+      {
+        "title": "satto workspaceを支える技術基盤について",
+        "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+        "likes": 27,
+        "published_at": "2025-09-08T15:57:14+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 2,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "なぜエンジニアはコードを消せないのか、そして消すべき理由",
+        "url": "https://zenn.dev/hayato98/articles/20250908_20250908_even-ai-cant-answer-5",
+        "likes": 2,
+        "published_at": "2025-09-08T18:03:16+09:00"
+      },
+      {
+        "title": "Claude CodeでSDD入門してみた",
+        "url": "https://zenn.dev/mousi/articles/976358703863d5",
+        "likes": 2,
+        "published_at": "2025-09-07T23:48:30+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 1,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "network",
+    "name": "network",
+    "articles": 8,
+    "likes_sum": 38,
+    "score": 38.0,
+    "articles_top5": [
+      {
+        "title": "中学生がBGPで経路交換して遊んでみた",
+        "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+        "likes": 35,
+        "published_at": "2025-09-08T00:11:04+09:00"
+      },
+      {
+        "title": "自宅ポート開放のためのプロバイダ選び",
+        "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+        "likes": 3,
+        "published_at": "2025-09-11T13:07:33+09:00"
+      },
+      {
+        "title": "自宅ポート開放のためのプロバイダ選び",
+        "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+        "likes": 0,
+        "published_at": "2025-09-11T13:07:33+09:00"
+      },
+      {
+        "title": "1話 ルーティング設定してみた",
+        "url": "https://zenn.dev/karasunomori/articles/42b1e145966a7e",
+        "likes": 0,
+        "published_at": "2025-09-10T01:27:49+09:00"
+      },
+      {
+        "title": "1話 ルーティング設定してみた",
+        "url": "https://zenn.dev/karasunomori/articles/42b1e145966a7e",
+        "likes": 0,
+        "published_at": "2025-09-10T01:27:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "bgp",
+    "name": "bgp",
+    "articles": 4,
+    "likes_sum": 37,
+    "score": 37.0,
+    "articles_top5": [
+      {
+        "title": "中学生がBGPで経路交換して遊んでみた",
+        "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+        "likes": 35,
+        "published_at": "2025-09-08T00:11:04+09:00"
+      },
+      {
+        "title": "AWS Direct Connect と Transit Gateway の運用ベストプラクティス～冗長化からIaC管理まで実践ガイド",
+        "url": "https://zenn.dev/gnc_tech/articles/9140ec34ebd75c",
+        "likes": 2,
+        "published_at": "2025-09-09T18:04:31+09:00"
+      },
+      {
+        "title": "AWS Direct Connect と Transit Gateway の運用ベストプラクティス～冗長化からIaC管理まで実践ガイド",
+        "url": "https://zenn.dev/gnc_tech/articles/9140ec34ebd75c",
+        "likes": 0,
+        "published_at": "2025-09-09T18:04:31+09:00"
+      },
+      {
+        "title": "中学生がBGPで経路交換して遊んでみた",
+        "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+        "likes": 0,
+        "published_at": "2025-09-08T00:11:04+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rails",
+    "name": "rails",
+    "articles": 20,
+    "likes_sum": 37,
+    "score": 37.0,
+    "articles_top5": [
+      {
+        "title": "Campfireのソースコードに学ぶRails Way🚀",
+        "url": "https://zenn.dev/lvflwr/articles/edc586252355fb",
+        "likes": 9,
+        "published_at": "2025-09-11T08:17:12+09:00"
+      },
+      {
+        "title": "Rails World 2025: DHHが示す開発者の完全な自律性",
+        "url": "https://zenn.dev/yamitake/articles/rails-world-2025-dhh-keynote-summary",
+        "likes": 6,
+        "published_at": "2025-09-10T13:37:39+09:00"
+      },
+      {
+        "title": "【Rails】システムスペックでplaywrightドライバとcupriteドライバを比較してみる",
+        "url": "https://zenn.dev/atsumu22/articles/66a27f049ae867",
+        "likes": 3,
+        "published_at": "2025-09-10T00:47:11+09:00"
+      },
+      {
+        "title": "Unicorn の「master と worker」を完全に理解する",
+        "url": "https://zenn.dev/masapon/articles/60684881be584a",
+        "likes": 3,
+        "published_at": "2025-09-09T02:21:08+09:00"
+      },
+      {
+        "title": "[Rails]Active Recordのアソシエーションについて",
+        "url": "https://zenn.dev/kspn/articles/fa6858f69385a4",
+        "likes": 3,
+        "published_at": "2025-09-08T19:07:13+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "mcpserver",
+    "name": "mcpserver",
+    "articles": 4,
+    "likes_sum": 35,
+    "score": 35.0,
+    "articles_top5": [
+      {
+        "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+        "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+        "likes": 24,
+        "published_at": "2025-09-10T21:36:48+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "MCPサーバー - 一時メール",
+        "url": "https://zenn.dev/qoder/articles/fc4f19b89d286f",
+        "likes": 3,
+        "published_at": "2025-09-08T15:05:38+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "csharp",
+    "name": "csharp",
+    "articles": 14,
+    "likes_sum": 34,
+    "score": 34.0,
+    "articles_top5": [
+      {
+        "title": "レガシーC#開発者がDevinと向き合った現実",
+        "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+        "likes": 20,
+        "published_at": "2025-09-11T15:06:49+09:00"
+      },
+      {
+        "title": "最近のSemanticKernel",
+        "url": "https://zenn.dev/yakumo3/articles/902c92641cf7f4",
+        "likes": 3,
+        "published_at": "2025-09-07T12:22:24+09:00"
+      },
+      {
+        "title": "【Unity x Rider】なぜかコード解析が行われないときに試したこと",
+        "url": "https://zenn.dev/n_hidano/articles/d40430d3237f96",
+        "likes": 2,
+        "published_at": "2025-09-11T14:33:04+09:00"
+      },
+      {
+        "title": "Blazor Server でブラウザを閉じても処理を継続する",
+        "url": "https://zenn.dev/tetr4lab/articles/17363f5880f0f2",
+        "likes": 2,
+        "published_at": "2025-09-08T11:28:05+09:00"
+      },
+      {
+        "title": "リファクタリングをソリューションやプロジェクトに一括適用する方法",
+        "url": "https://zenn.dev/semicolon/articles/c20ecc44f4d546",
+        "likes": 1,
+        "published_at": "2025-09-12T19:01:35+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "accenture",
+    "name": "accenture",
+    "articles": 18,
+    "likes_sum": 34,
+    "score": 34.0,
+    "articles_top5": [
+      {
+        "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+        "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+        "likes": 3,
+        "published_at": "2025-09-07T12:32:00+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "databricks",
+    "name": "databricks",
+    "articles": 12,
+    "likes_sum": 33,
+    "score": 33.0,
+    "articles_top5": [
+      {
+        "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+        "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+        "likes": 23,
+        "published_at": "2025-09-10T10:00:01+09:00"
+      },
+      {
+        "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+        "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+        "likes": 7,
+        "published_at": "2025-09-11T08:16:04+09:00"
+      },
+      {
+        "title": "メダリオンアーキテクチャ2.0：次世代データプラットフォームの設計と進化",
+        "url": "https://zenn.dev/suwash/articles/medallion_architecture_2_20250911",
+        "likes": 1,
+        "published_at": "2025-09-11T00:00:00+09:00"
+      },
+      {
+        "title": "DatabricksダッシュボードのAI予測機能ハンズオン",
+        "url": "https://zenn.dev/riwata/articles/70bc4ef124c600",
+        "likes": 1,
+        "published_at": "2025-09-08T19:00:05+09:00"
+      },
+      {
+        "title": "Unity Catalogのメタデータを取得する",
+        "url": "https://zenn.dev/yoshitaka903/articles/65074112c23781",
+        "likes": 1,
+        "published_at": "2025-09-07T17:53:08+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "figma",
+    "name": "figma",
+    "articles": 5,
+    "likes_sum": 33,
+    "score": 33.0,
+    "articles_top5": [
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+        "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+        "likes": 10,
+        "published_at": "2025-09-10T19:12:13+09:00"
+      },
+      {
+        "title": "エンジニアが楽しくUI設計するならFigJam",
+        "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+        "likes": 0,
+        "published_at": "2025-09-13T01:57:50+09:00"
+      },
+      {
+        "title": "エンジニアが楽しくUI設計するならFigJam",
+        "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+        "likes": 0,
+        "published_at": "2025-09-13T01:57:50+09:00"
+      },
+      {
+        "title": "Figma MCPにKiroを接続する方法",
+        "url": "https://zenn.dev/hirosukekayaba/articles/13973e9f6eb54c",
+        "likes": 0,
+        "published_at": "2025-09-08T08:59:39+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "codex",
+    "name": "codex",
+    "articles": 11,
+    "likes_sum": 31,
+    "score": 31.0,
+    "articles_top5": [
+      {
+        "title": "AIによって開発生産性という概念が変わったという話",
+        "url": "https://zenn.dev/ji_no_papo/articles/4af0dcecde7579",
+        "likes": 6,
+        "published_at": "2025-09-10T22:25:28+09:00"
+      },
+      {
+        "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+        "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+        "likes": 5,
+        "published_at": "2025-09-08T07:47:13+09:00"
+      },
+      {
+        "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+        "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+        "likes": 4,
+        "published_at": "2025-09-08T12:55:48+09:00"
+      },
+      {
+        "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+        "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+        "likes": 3,
+        "published_at": "2025-09-12T18:02:32+09:00"
+      },
+      {
+        "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+        "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+        "likes": 3,
+        "published_at": "2025-09-12T18:02:32+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "platform",
+    "name": "platform",
+    "articles": 4,
+    "likes_sum": 30,
+    "score": 30.0,
+    "articles_top5": [
+      {
+        "title": "Turing MLOpsチームの誕生秘話",
+        "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+        "likes": 25,
+        "published_at": "2025-09-10T17:00:01+09:00"
+      },
+      {
+        "title": "SLO のセルフサービス化を推進している話",
+        "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+        "likes": 5,
+        "published_at": "2025-09-12T12:26:50+09:00"
+      },
+      {
+        "title": "SLO のセルフサービス化を推進している話",
+        "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+        "likes": 0,
+        "published_at": "2025-09-12T12:26:50+09:00"
+      },
+      {
+        "title": "Turing MLOpsチームの誕生秘話",
+        "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+        "likes": 0,
+        "published_at": "2025-09-10T17:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "bedrock",
+    "name": "bedrock",
+    "articles": 16,
+    "likes_sum": 28,
+    "score": 28.0,
+    "articles_top5": [
+      {
+        "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+        "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+        "likes": 7,
+        "published_at": "2025-09-11T22:12:53+09:00"
+      },
+      {
+        "title": "【翻訳】Writing effective tools for agents — with agents",
+        "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+        "likes": 6,
+        "published_at": "2025-09-12T10:42:12+09:00"
+      },
+      {
+        "title": "minimoでのLLMを使った掲載審査の裏側",
+        "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+        "likes": 6,
+        "published_at": "2025-09-11T12:35:57+09:00"
+      },
+      {
+        "title": "Bedrock&amp;ナレッジベースでRAGを作ったら料金結構かかってた",
+        "url": "https://zenn.dev/hisamitsu/articles/6d791e2c57c5a2",
+        "likes": 5,
+        "published_at": "2025-09-08T11:44:16+09:00"
+      },
+      {
+        "title": "GenU で別 AWS アカウントの Bedrock を利用する手順",
+        "url": "https://zenn.dev/aws_japan/articles/aws-bedrock-genu-crossaccount",
+        "likes": 2,
+        "published_at": "2025-09-07T19:59:35+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "docker",
+    "name": "docker",
+    "articles": 33,
+    "likes_sum": 28,
+    "score": 28.0,
+    "articles_top5": [
+      {
+        "title": "Full Weak Engineer CTF 2025 インフラ覚書",
+        "url": "https://zenn.dev/tchen/articles/16c36a3c842e84",
+        "likes": 8,
+        "published_at": "2025-09-10T19:31:31+09:00"
+      },
+      {
+        "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+        "url": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+        "likes": 5,
+        "published_at": "2025-09-11T19:27:28+09:00"
+      },
+      {
+        "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+        "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+        "likes": 4,
+        "published_at": "2025-09-12T15:56:05+09:00"
+      },
+      {
+        "title": "Docker + VSCodeで作るZenn執筆環境（クローンしてすぐ使える）",
+        "url": "https://zenn.dev/watari0408/articles/zenn-docker-vscode-env",
+        "likes": 4,
+        "published_at": "2025-09-08T18:08:36+09:00"
+      },
+      {
+        "title": "PostgreSQLのパフォーマンスチューニング入門: インデックスの威力を体感せよ",
+        "url": "https://zenn.dev/urakawa_jinsei/articles/e20e1f76f5109f",
+        "likes": 2,
+        "published_at": "2025-09-10T08:00:06+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "swift",
+    "name": "swift",
+    "articles": 3,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "Background Tasksフレームワーク入門",
+        "url": "https://zenn.dev/shu223/articles/background-tasks",
+        "likes": 21,
+        "published_at": "2025-09-06T07:27:08+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "Scroll-Reverserのようなアプリを自作してみる",
+        "url": "https://zenn.dev/nhirabay/articles/52bb389e68b88b",
+        "likes": 0,
+        "published_at": "2025-09-07T18:38:22+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ruby",
+    "name": "ruby",
+    "articles": 26,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
+        "url": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
+        "likes": 10,
+        "published_at": "2025-09-06T18:40:53+09:00"
+      },
+      {
+        "title": "Campfireのソースコードに学ぶRails Way🚀",
+        "url": "https://zenn.dev/lvflwr/articles/edc586252355fb",
+        "likes": 9,
+        "published_at": "2025-09-11T08:17:12+09:00"
+      },
+      {
+        "title": "Rails World 2025: DHHが示す開発者の完全な自律性",
+        "url": "https://zenn.dev/yamitake/articles/rails-world-2025-dhh-keynote-summary",
+        "likes": 6,
+        "published_at": "2025-09-10T13:37:39+09:00"
+      },
+      {
+        "title": "Unicorn の「master と worker」を完全に理解する",
+        "url": "https://zenn.dev/masapon/articles/60684881be584a",
+        "likes": 3,
+        "published_at": "2025-09-09T02:21:08+09:00"
+      },
+      {
+        "title": "RailsとPostgreSQLのアプリをKamalでVPSにデプロイ",
+        "url": "https://zenn.dev/kaorumori/articles/6e34284ea51961",
+        "likes": 3,
+        "published_at": "2025-09-08T18:00:33+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "scenedelegate",
+    "name": "scenedelegate",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "softbank",
+    "name": "softbank",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "satto workspaceを支える技術基盤について",
+        "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+        "likes": 27,
+        "published_at": "2025-09-08T15:57:14+09:00"
+      },
+      {
+        "title": "satto workspaceを支える技術基盤について",
+        "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+        "likes": 0,
+        "published_at": "2025-09-08T15:57:14+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "appdelegate",
+    "name": "appdelegate",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  }
+]

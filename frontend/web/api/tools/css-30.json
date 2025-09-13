@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "css",
+    "name": "css"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 55,
+    "likes_sum": 85,
+    "score": 85.0
+  },
+  "articles_top": [
+    {
+      "title": "なぜCSS @layerが生まれたのか Cascade Layersの背景と仕組みを理解する",
+      "url": "https://zenn.dev/ryohiy/articles/css-cascade-layers",
+      "likes": 36,
+      "published_at": "2025-08-25T07:43:33+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "Tailwind CSS v4アップデートのリアルな実務課題と対策",
+      "url": "https://zenn.dev/assign/articles/50642865b688f9",
+      "likes": 5,
+      "published_at": "2025-08-27T10:35:50+09:00"
+    },
+    {
+      "title": "View Transitions API（ビュー遷移 API）を使ってみよう！",
+      "url": "https://zenn.dev/sonicmoov/articles/f819f4904e793f",
+      "likes": 4,
+      "published_at": "2025-09-03T12:00:01+09:00"
+    },
+    {
+      "title": "CSS で Tailwind CSS の bg-black/75 みたいなことをする",
+      "url": "https://zenn.dev/lollipop_onl/articles/css-relative-color-syntax",
+      "likes": 4,
+      "published_at": "2025-08-14T22:32:09+09:00"
+    },
+    {
+      "title": "Jetpack compose 1.9.0 でネオンサイン風の枠線を遊びで作った",
+      "url": "https://zenn.dev/u_chan/articles/13237e68600d99",
+      "likes": 4,
+      "published_at": "2025-08-14T11:56:57+09:00"
+    },
+    {
+      "title": "ClaudeとJavaScriptで作るポモドーロタイマー【Webアプリ】",
+      "url": "https://zenn.dev/5naokichi/articles/a16d2d2fd26941",
+      "likes": 3,
+      "published_at": "2025-08-22T14:11:58+09:00"
+    },
+    {
+      "title": "WordPressの記事で縦長の画像がくそでかになるのを防ぐCSS",
+      "url": "https://zenn.dev/atohs/articles/05f01c3d1d675d",
+      "likes": 2,
+      "published_at": "2025-09-11T13:38:21+09:00"
+    },
+    {
+      "title": "Tailwindのz-indexマジックナンバー解決方針",
+      "url": "https://zenn.dev/ho_ri/articles/ddfb47cc81600c",
+      "likes": 2,
+      "published_at": "2025-09-05T22:58:59+09:00"
+    },
+    {
+      "title": "新人エンジニアによくあるHTML/CSSの間違い6選",
+      "url": "https://zenn.dev/northrkyk/articles/3c824f02cad840",
+      "likes": 2,
+      "published_at": "2025-09-05T17:04:32+09:00"
+    }
+  ]
+}

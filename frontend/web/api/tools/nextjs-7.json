@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "nextjs",
+    "name": "nextjs"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 54,
+    "likes_sum": 160,
+    "score": 160.0
+  },
+  "articles_top": [
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "Next.jsですごろくゲーム作ってみた",
+      "url": "https://zenn.dev/porche1223/articles/7c9763235ae588",
+      "likes": 6,
+      "published_at": "2025-09-10T18:13:12+09:00"
+    },
+    {
+      "title": "Next.jsでのURL状態管理を楽にするnuqsの使い方",
+      "url": "https://zenn.dev/shintaro/articles/0a3d0f7aabfe85",
+      "likes": 6,
+      "published_at": "2025-09-07T10:40:59+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "Vercelデプロイの内部構造",
+      "url": "https://zenn.dev/teradox_blog/articles/fe1542dc960c54",
+      "likes": 5,
+      "published_at": "2025-09-11T12:43:58+09:00"
+    },
+    {
+      "title": "@duckdb/node-api + next.jsをvercelで動かしたい",
+      "url": "https://zenn.dev/terrierscript/articles/2025-09-10-duckdb-node-api-next-js-vercel",
+      "likes": 4,
+      "published_at": "2025-09-10T21:52:59+09:00"
+    },
+    {
+      "title": "ブラウザストレージの状態管理をzustandで行うと簡単かつ高機能で便利",
+      "url": "https://zenn.dev/uzu_tech/articles/browser-storage-zustand",
+      "likes": 4,
+      "published_at": "2025-09-08T12:30:05+09:00"
+    },
+    {
+      "title": "会社のLPをノーコードツールからNext.jsのSSG + Strapi(CMS)に移行した話",
+      "url": "https://zenn.dev/yoii/articles/7b11161ba58944",
+      "likes": 3,
+      "published_at": "2025-09-11T10:07:48+09:00"
+    },
+    {
+      "title": "ReactやNext.jsでのステート管理ライブラリの比較",
+      "url": "https://zenn.dev/ren21/articles/baa6271bfbfcd7",
+      "likes": 3,
+      "published_at": "2025-09-08T10:32:42+09:00"
+    }
+  ]
+}

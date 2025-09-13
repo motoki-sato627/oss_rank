@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "gimai",
+    "name": "gimai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+      "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+      "likes": 1,
+      "published_at": "2025-09-12T22:01:02+09:00"
+    },
+    {
+      "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+      "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+      "likes": 1,
+      "published_at": "2025-09-12T22:01:02+09:00"
+    }
+  ]
+}

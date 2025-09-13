@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "mobile",
+    "name": "mobile"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 86,
+    "score": 86.0
+  },
+  "articles_top": [
+    {
+      "title": "スマホのアプリがネイティブ・Flutter・React Native製かをざっくり見分ける方法",
+      "url": "https://zenn.dev/igz0/articles/how-to-identify-native-vs-flutter-vs-react-native",
+      "likes": 77,
+      "published_at": "2025-08-23T14:10:18+09:00"
+    },
+    {
+      "title": "iOSDC Japan 2025 シルバースポンサー実施・社員2名登壇・パンフレット記事寄稿のお知らせ",
+      "url": "https://zenn.dev/genda_jp/articles/ef92574f02b9e2",
+      "likes": 4,
+      "published_at": "2025-09-08T12:59:43+09:00"
+    },
+    {
+      "title": "UnityでつくったAndroidアプリを、Google Playの16KBページサイズ対応にしてアップデートしました",
+      "url": "https://zenn.dev/toto_tantanto/articles/3a3e254a5c2009",
+      "likes": 2,
+      "published_at": "2025-09-11T03:17:00+09:00"
+    },
+    {
+      "title": "250827  Mobile Dev Japan 発表資料",
+      "url": "https://zenn.dev/perksh/articles/e327dcd9e8aaf4",
+      "likes": 2,
+      "published_at": "2025-08-27T20:20:45+09:00"
+    },
+    {
+      "title": "Pixel長期使用レビュー",
+      "url": "https://zenn.dev/fools_gold/articles/3-pixel-long-term-review",
+      "likes": 1,
+      "published_at": "2025-08-19T23:33:18+09:00"
+    },
+    {
+      "title": "UnityでつくったAndroidアプリを、Google Playの16KBページサイズ対応にしてアップデートしました",
+      "url": "https://zenn.dev/toto_tantanto/articles/3a3e254a5c2009",
+      "likes": 0,
+      "published_at": "2025-09-11T03:17:00+09:00"
+    },
+    {
+      "title": "iOSDC Japan 2025 シルバースポンサー実施・社員2名登壇・パンフレット記事寄稿のお知らせ",
+      "url": "https://zenn.dev/genda_jp/articles/ef92574f02b9e2",
+      "likes": 0,
+      "published_at": "2025-09-08T12:59:43+09:00"
+    },
+    {
+      "title": "モバイルアプリCI/CDにおけるランディングゾーン設計と段階的実装戦略",
+      "url": "https://zenn.dev/madaozaku/articles/cac06755e5befe",
+      "likes": 0,
+      "published_at": "2025-08-21T19:00:05+09:00"
+    }
+  ]
+}

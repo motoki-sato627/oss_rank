@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "googlecloud",
+    "name": "googlecloud"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 30,
+    "likes_sum": 68,
+    "score": 68.0
+  },
+  "articles_top": [
+    {
+      "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+      "likes": 14,
+      "published_at": "2025-09-10T20:05:03+09:00"
+    },
+    {
+      "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+      "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+      "likes": 13,
+      "published_at": "2025-09-08T16:41:45+09:00"
+    },
+    {
+      "title": "Google CloudのModel Armorを利用してプロンプトのサニタイズをしてみた",
+      "url": "https://zenn.dev/akasan/articles/7ce40551040ccc",
+      "likes": 6,
+      "published_at": "2025-09-06T18:26:26+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "【Google Cloudでセキュリティの柱を築く】Cloud Identityでのセキュリティ",
+      "url": "https://zenn.dev/dyama666/articles/9a9631cee50e3d",
+      "likes": 5,
+      "published_at": "2025-09-08T14:58:54+09:00"
+    },
+    {
+      "title": "ADK 1.14.0 で追加された Agent、Runnerに続く新たな概念 App",
+      "url": "https://zenn.dev/soundtricker/articles/f51b9fb4f788d8",
+      "likes": 3,
+      "published_at": "2025-09-11T21:31:01+09:00"
+    },
+    {
+      "title": "Google Agentspace を無料トライアルではじめませんか？",
+      "url": "https://zenn.dev/cloud_ace/articles/agentspace-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T18:00:55+09:00"
+    }
+  ]
+}

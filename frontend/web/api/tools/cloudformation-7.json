@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "cloudformation",
+    "name": "cloudformation"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+      "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+      "likes": 6,
+      "published_at": "2025-09-08T05:00:01+09:00"
+    },
+    {
+      "title": "【AWS】TerraformとCFnで違うセキュリティグループのデフォルト挙動",
+      "url": "https://zenn.dev/riza_hawkeye/articles/181ad1a4d95c63",
+      "likes": 2,
+      "published_at": "2025-09-09T01:45:26+09:00"
+    },
+    {
+      "title": "CloudFormation スタック削除保護の自動設定",
+      "url": "https://zenn.dev/lemon_soda/articles/92d1949b5b624c",
+      "likes": 1,
+      "published_at": "2025-09-09T21:44:14+09:00"
+    },
+    {
+      "title": "Microsoft Active Directory + FSx for windows を CloudFormation で構築してみよう",
+      "url": "https://zenn.dev/gnc_tech/articles/c935c8d8050257",
+      "likes": 1,
+      "published_at": "2025-09-09T17:10:58+09:00"
+    },
+    {
+      "title": "CloudFormation スタック削除保護の自動設定",
+      "url": "https://zenn.dev/lemon_soda/articles/92d1949b5b624c",
+      "likes": 0,
+      "published_at": "2025-09-09T21:44:14+09:00"
+    },
+    {
+      "title": "Microsoft Active Directory + FSx for windows を CloudFormation で構築してみよう",
+      "url": "https://zenn.dev/gnc_tech/articles/c935c8d8050257",
+      "likes": 0,
+      "published_at": "2025-09-09T17:10:58+09:00"
+    },
+    {
+      "title": "【AWS】TerraformとCFnで違うセキュリティグループのデフォルト挙動",
+      "url": "https://zenn.dev/riza_hawkeye/articles/181ad1a4d95c63",
+      "likes": 0,
+      "published_at": "2025-09-09T01:45:26+09:00"
+    },
+    {
+      "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+      "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+      "likes": 0,
+      "published_at": "2025-09-08T05:00:01+09:00"
+    }
+  ]
+}

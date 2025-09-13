@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gemini",
+    "name": "gemini"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 235,
+    "score": 235.0
+  },
+  "articles_top": [
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 23,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 22,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+      "likes": 14,
+      "published_at": "2025-09-10T20:05:03+09:00"
+    },
+    {
+      "title": "GoにおけるGemini APIでの検索グラウンディングの活用",
+      "url": "https://zenn.dev/mixi/articles/f8f837812ece10",
+      "likes": 9,
+      "published_at": "2025-09-10T14:31:09+09:00"
+    },
+    {
+      "title": "続Nano Banana - Gemini 2.5 Flash Imageに渡すプロンプトを最適化するようMCPを改善した",
+      "url": "https://zenn.dev/shinpr_p/articles/9920669ea3e9a9",
+      "likes": 6,
+      "published_at": "2025-09-08T10:59:02+09:00"
+    },
+    {
+      "title": "Chrome 141 ベータ版に追加された文章校正機能（Proofreader API）が良さそう",
+      "url": "https://zenn.dev/n_san/articles/5eba381950512b",
+      "likes": 5,
+      "published_at": "2025-09-10T17:38:01+09:00"
+    },
+    {
+      "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+      "likes": 5,
+      "published_at": "2025-09-08T07:47:13+09:00"
+    },
+    {
+      "title": "LangChain.js × Gemini × MCPでハマる「400 Bad Request」をサクッと回避する方法",
+      "url": "https://zenn.dev/h1deya/articles/mcp-langchain-gemini-400-error",
+      "likes": 4,
+      "published_at": "2025-09-10T07:29:26+09:00"
+    },
+    {
+      "title": "Python株価分析【後編】：続・yfinanceで取得したデータをAIアナリストに自動分析させてみた",
+      "url": "https://zenn.dev/investaitech/articles/3ea7c4d8480561",
+      "likes": 4,
+      "published_at": "2025-09-06T12:42:03+09:00"
+    }
+  ]
+}

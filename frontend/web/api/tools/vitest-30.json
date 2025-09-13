@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "vitest",
+    "name": "vitest"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 64,
+    "score": 64.0
+  },
+  "articles_top": [
+    {
+      "title": "CommonJS アプリケーションを ESM に移行する。ついでに Vitest にも移行する",
+      "url": "https://zenn.dev/chot/articles/migrate-from-cjs-jest-to-esm-vitest",
+      "likes": 57,
+      "published_at": "2025-08-25T13:51:34+09:00"
+    },
+    {
+      "title": "【エンジニア必見】テストの真価は安心開発にあり！新人を支える環境づくりの実例",
+      "url": "https://zenn.dev/sakupanda/articles/cee53646e52ed7",
+      "likes": 4,
+      "published_at": "2025-08-19T07:00:05+09:00"
+    },
+    {
+      "title": "ZodやValibotで書いたスキーマの型のテストを書く(Vitestで)",
+      "url": "https://zenn.dev/relayhub/articles/0faf0ab523a841",
+      "likes": 3,
+      "published_at": "2025-08-30T16:22:33+09:00"
+    }
+  ]
+}

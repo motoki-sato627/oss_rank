@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "cline",
+    "name": "cline"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 17,
+    "score": 17.0
+  },
+  "articles_top": [
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 11,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    },
+    {
+      "title": "AIによって開発生産性という概念が変わったという話",
+      "url": "https://zenn.dev/ji_no_papo/articles/4af0dcecde7579",
+      "likes": 6,
+      "published_at": "2025-09-10T22:25:28+09:00"
+    },
+    {
+      "title": "SerenaをインストールしてClineで使用する方法",
+      "url": "https://zenn.dev/splusl_at/articles/install-serena",
+      "likes": 1,
+      "published_at": "2025-09-06T09:49:15+09:00"
+    },
+    {
+      "title": "AIによって開発生産性という概念が変わったという話",
+      "url": "https://zenn.dev/ji_no_papo/articles/4af0dcecde7579",
+      "likes": 0,
+      "published_at": "2025-09-10T22:25:28+09:00"
+    },
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 0,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    }
+  ]
+}

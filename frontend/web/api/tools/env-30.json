@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "env",
+    "name": "env"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 79,
+    "score": 79.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドの .env 管理に疲れた方へ：環境差分を Bundler で吸収する",
+      "url": "https://zenn.dev/ventus/articles/d52fd0325f689f",
+      "likes": 78,
+      "published_at": "2025-08-26T17:07:53+09:00"
+    },
+    {
+      "title": ".envでpassword authentication failed for userにハマった",
+      "url": "https://zenn.dev/iharuoru/articles/adc74adcc4297b",
+      "likes": 1,
+      "published_at": "2025-09-10T20:21:30+09:00"
+    },
+    {
+      "title": "🧼 .env の誤コミット＆履歴削除フロー（実践編）",
+      "url": "https://zenn.dev/0rv3/articles/72044d567ca242",
+      "likes": 0,
+      "published_at": "2025-09-12T09:22:56+09:00"
+    },
+    {
+      "title": "🧼 .env の誤コミット＆履歴削除フロー（実践編）",
+      "url": "https://zenn.dev/0rv3/articles/72044d567ca242",
+      "likes": 0,
+      "published_at": "2025-09-12T09:22:56+09:00"
+    },
+    {
+      "title": ".envでpassword authentication failed for userにハマった",
+      "url": "https://zenn.dev/iharuoru/articles/adc74adcc4297b",
+      "likes": 0,
+      "published_at": "2025-09-10T20:21:30+09:00"
+    },
+    {
+      "title": ".envは無視して.env.exampleはコミットしたい時の.gitignoreの正しい設定とトラブルシューティング",
+      "url": "https://zenn.dev/nukosan/articles/1727b56eb9c179",
+      "likes": 0,
+      "published_at": "2025-08-31T18:59:35+09:00"
+    }
+  ]
+}

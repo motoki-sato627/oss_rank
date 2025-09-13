@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ide",
+    "name": "ide"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 101,
+    "score": 101.0
+  },
+  "articles_top": [
+    {
+      "title": "サブスクリプションが始まったKiroに関する最近の事情",
+      "url": "https://zenn.dev/beagle/articles/5360946ada5607",
+      "likes": 44,
+      "published_at": "2025-08-18T11:34:51+09:00"
+    },
+    {
+      "title": "Alibaba製AI IDEのQoderを試してみる",
+      "url": "https://zenn.dev/beagle/articles/52fb87f10d537f",
+      "likes": 26,
+      "published_at": "2025-08-25T12:00:37+09:00"
+    },
+    {
+      "title": "GitHub Copilotも負けてない！知っておきたいポイント5選＋α！",
+      "url": "https://zenn.dev/mavericks/articles/acdfbe0f7661e4",
+      "likes": 10,
+      "published_at": "2025-09-04T09:25:01+09:00"
+    },
+    {
+      "title": "実務でVimを活用して思考の速度で編集しよう！(プラグイン編)",
+      "url": "https://zenn.dev/bluezz/articles/d8d078b18e8273",
+      "likes": 6,
+      "published_at": "2025-08-23T18:04:56+09:00"
+    },
+    {
+      "title": "VSCodeを魔改造",
+      "url": "https://zenn.dev/kate0418/articles/af8296a96f96e8",
+      "likes": 5,
+      "published_at": "2025-08-29T17:53:31+09:00"
+    },
+    {
+      "title": "Qoder：次世代コーディングプラットフォーム登場！！",
+      "url": "https://zenn.dev/fujiyuu75/articles/495af2344b0692",
+      "likes": 3,
+      "published_at": "2025-09-04T14:47:29+09:00"
+    },
+    {
+      "title": "【プチアップデート】Windsurf で「Grok Code Fast1」が利用可能に",
+      "url": "https://zenn.dev/onionchief/articles/cb7ca1738c2172",
+      "likes": 2,
+      "published_at": "2025-08-27T23:38:18+09:00"
+    },
+    {
+      "title": "Windsurf Wave12 のアップデート内容",
+      "url": "https://zenn.dev/onionchief/articles/a712c6857ff460",
+      "likes": 2,
+      "published_at": "2025-08-22T00:56:32+09:00"
+    },
+    {
+      "title": "【プチメモ】WindsurfBrowserが2025/09/11に非推奨に",
+      "url": "https://zenn.dev/onionchief/articles/ccff802a737ca9",
+      "likes": 1,
+      "published_at": "2025-09-10T00:24:42+09:00"
+    },
+    {
+      "title": "IDE連携AIを活かすためのプロンプトテンプレート設計",
+      "url": "https://zenn.dev/jacksen/articles/cb1b9c9bd06147",
+      "likes": 1,
+      "published_at": "2025-08-29T11:05:01+09:00"
+    }
+  ]
+}

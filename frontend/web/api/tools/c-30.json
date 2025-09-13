@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "c",
+    "name": "c"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 13,
+    "likes_sum": 82,
+    "score": 82.0
+  },
+  "articles_top": [
+    {
+      "title": "セキュリティ・キャンプで Rust 製 RISC-V ターゲットの C コンパイラを開発した",
+      "url": "https://zenn.dev/s7/articles/37071b1a83956a",
+      "likes": 44,
+      "published_at": "2025-09-04T11:35:36+09:00"
+    },
+    {
+      "title": "C/C++の世界に閉じこもっていたオジサンがPythonに触れてみる 　~基礎編~ 第3/10回",
+      "url": "https://zenn.dev/nttdata_tech/articles/b5b597856b0321",
+      "likes": 15,
+      "published_at": "2025-09-01T18:18:22+09:00"
+    },
+    {
+      "title": "C/C++の世界に閉じこもっていたオジサンがPythonに触れてみる 　~基礎編~ 第2/10回",
+      "url": "https://zenn.dev/nttdata_tech/articles/f9307b7ffcdeea",
+      "likes": 15,
+      "published_at": "2025-08-19T16:24:09+09:00"
+    },
+    {
+      "title": "C言語のwrite関数を読む。",
+      "url": "https://zenn.dev/reerishun/articles/4af1f9df84540d",
+      "likes": 2,
+      "published_at": "2025-09-12T05:35:39+09:00"
+    },
+    {
+      "title": "デバイスドライバ開発に入門してみた",
+      "url": "https://zenn.dev/shu_kitamura/articles/3829dc564b007b",
+      "likes": 2,
+      "published_at": "2025-09-01T00:55:18+09:00"
+    },
+    {
+      "title": "C言語でRISCVで動くUNIX like OS作りました。",
+      "url": "https://zenn.dev/ab25cq/articles/6b72a07cf5277e",
+      "likes": 1,
+      "published_at": "2025-09-09T15:02:51+09:00"
+    },
+    {
+      "title": "キャンセル処理を実装するのは難しい",
+      "url": "https://zenn.dev/yam776/articles/bffb8f49085f20",
+      "likes": 1,
+      "published_at": "2025-08-30T11:18:17+09:00"
+    },
+    {
+      "title": "AI開発に適した言語とは？Python以外の最強言語もご紹介！",
+      "url": "https://zenn.dev/kodamaleograph/articles/92b832dac239dd",
+      "likes": 1,
+      "published_at": "2025-08-19T13:50:05+09:00"
+    },
+    {
+      "title": "Pinot Font(PFN)で日本語表示（C/C++）",
+      "url": "https://zenn.dev/satoshi_yoneda/articles/pico_pinot_font",
+      "likes": 1,
+      "published_at": "2025-08-18T16:13:42+09:00"
+    },
+    {
+      "title": "C言語のwrite関数を読む。",
+      "url": "https://zenn.dev/reerishun/articles/4af1f9df84540d",
+      "likes": 0,
+      "published_at": "2025-09-12T05:35:39+09:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "pillow",
+    "name": "pillow"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "claude codeに3次元のフラクタル図形書かせてみた",
+      "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+      "likes": 1,
+      "published_at": "2025-09-12T23:07:09+09:00"
+    },
+    {
+      "title": "claude codeに3次元のフラクタル図形書かせてみた",
+      "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+      "likes": 1,
+      "published_at": "2025-09-12T23:07:09+09:00"
+    }
+  ]
+}

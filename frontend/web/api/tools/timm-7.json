@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "timm",
+    "name": "timm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 23,
+    "score": 23.0
+  },
+  "articles_top": [
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 23,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    },
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 0,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    }
+  ]
+}

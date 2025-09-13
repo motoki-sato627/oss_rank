@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "hono",
+    "name": "hono"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 481,
+    "score": 481.0
+  },
+  "articles_top": [
+    {
+      "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
+      "url": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
+      "likes": 231,
+      "published_at": "2025-08-31T16:46:16+09:00"
+    },
+    {
+      "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
+      "url": "https://zenn.dev/adsholoko/articles/researchly-release",
+      "likes": 91,
+      "published_at": "2025-08-16T14:15:12+09:00"
+    },
+    {
+      "title": "Hono Conference 2025を開催します！",
+      "url": "https://zenn.dev/yusukebe/articles/4d431463b61c6a",
+      "likes": 57,
+      "published_at": "2025-08-19T16:12:14+09:00"
+    },
+    {
+      "title": "Honoでインタラクティブなコンポーネントを作る時、React Server Componentsが良いと思った【ボイラープレートを追加】",
+      "url": "https://zenn.dev/kfly8/articles/hono-meets-vite-rsc",
+      "likes": 46,
+      "published_at": "2025-09-03T02:08:41+09:00"
+    },
+    {
+      "title": "Hatago MCP Hub で始めるマルチMCP運用 - ひとつの設定で全部つながる",
+      "url": "https://zenn.dev/himorishige/articles/introduce-hatago-mcp-hub",
+      "likes": 23,
+      "published_at": "2025-09-01T22:10:55+09:00"
+    },
+    {
+      "title": "React Router + Hono + Cloudflare　のテンプレートを作る",
+      "url": "https://zenn.dev/sora_kumo/articles/react-router-template",
+      "likes": 11,
+      "published_at": "2025-09-03T08:43:17+09:00"
+    },
+    {
+      "title": "Cloudflare Workers Tech Talks in Hokkaido 2025参加してきた！スライドまとめ",
+      "url": "https://zenn.dev/tsuku_dev/articles/6b36ddebdc8798",
+      "likes": 6,
+      "published_at": "2025-09-04T22:56:41+09:00"
+    },
+    {
+      "title": "Angular20 の SSR 時の HttpClient を考える",
+      "url": "https://zenn.dev/nao50/articles/angular20-ssr-httpclient-compare",
+      "likes": 6,
+      "published_at": "2025-08-26T08:29:34+09:00"
+    },
+    {
+      "title": "Clerk × Hono で実現するシンプルで安全なバックエンド認証",
+      "url": "https://zenn.dev/scc_tec_pub/articles/auth-clerk-hono",
+      "likes": 5,
+      "published_at": "2025-09-08T15:59:43+09:00"
+    },
+    {
+      "title": "Angular20 を Hono で SSR する",
+      "url": "https://zenn.dev/nao50/articles/angular20-hono-ssr",
+      "likes": 2,
+      "published_at": "2025-08-25T07:03:15+09:00"
+    }
+  ]
+}

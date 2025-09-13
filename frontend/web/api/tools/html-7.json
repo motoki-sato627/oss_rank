@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "html",
+    "name": "html"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 21,
+    "score": 21.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "映像をAA風にリアルタイムで描画するのを、作った",
+      "url": "https://zenn.dev/locu/articles/ef29702fa56c1e",
+      "likes": 2,
+      "published_at": "2025-09-11T23:23:02+09:00"
+    },
+    {
+      "title": "faviconの404エラーを防ぐ方法",
+      "url": "https://zenn.dev/ket8/articles/cc8b70f56482ea",
+      "likes": 2,
+      "published_at": "2025-09-10T14:03:35+09:00"
+    },
+    {
+      "title": "【初心者向け】HTMLの「id」と「class」の違いを解説！使い分けのポイントも紹介",
+      "url": "https://zenn.dev/monmontraining/articles/5e7b9a5529068a",
+      "likes": 1,
+      "published_at": "2025-09-10T14:28:24+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    }
+  ]
+}

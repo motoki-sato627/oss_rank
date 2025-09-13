@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cloudflare",
+    "name": "cloudflare"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 41,
+    "likes_sum": 414,
+    "score": 414.0
+  },
+  "articles_top": [
+    {
+      "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
+      "url": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
+      "likes": 231,
+      "published_at": "2025-08-31T16:46:16+09:00"
+    },
+    {
+      "title": "【徹底解説】Claude Code UI と Cloudflare Tunnelでスマホから快適にAIコーディング",
+      "url": "https://zenn.dev/nogu66/articles/claudecodeui",
+      "likes": 58,
+      "published_at": "2025-08-30T20:50:12+09:00"
+    },
+    {
+      "title": "Next.js on Cloudflare Workers（OpenNext）でフルスタックアプリケーションを開発した",
+      "url": "https://zenn.dev/shinaps/articles/5806c6579c5aeb",
+      "likes": 18,
+      "published_at": "2025-08-19T05:28:44+09:00"
+    },
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 14,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    },
+    {
+      "title": "週刊Cloudflare - 2025/09/07週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2025_0831-0906",
+      "likes": 13,
+      "published_at": "2025-09-11T13:15:44+09:00"
+    },
+    {
+      "title": "週刊Cloudflare - 2025/08/17週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2025_0810-0816",
+      "likes": 12,
+      "published_at": "2025-08-21T12:53:53+09:00"
+    },
+    {
+      "title": "React Router + Hono + Cloudflare　のテンプレートを作る",
+      "url": "https://zenn.dev/sora_kumo/articles/react-router-template",
+      "likes": 11,
+      "published_at": "2025-09-03T08:43:17+09:00"
+    },
+    {
+      "title": "週刊Cloudflare - 2025/08/31週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2025_0824-0830",
+      "likes": 10,
+      "published_at": "2025-09-04T13:15:32+09:00"
+    },
+    {
+      "title": "週刊Cloudflare - 2025/08/24週",
+      "url": "https://zenn.dev/gemcook/articles/weekly-cloudflare_2025_0817-0823",
+      "likes": 8,
+      "published_at": "2025-08-28T14:21:45+09:00"
+    },
+    {
+      "title": "OSS・依存ソフトのサポート期限をまとめて確認できる「EOL Timeline」を作りました",
+      "url": "https://zenn.dev/ksuke_0322/articles/b519896ad1f988",
+      "likes": 7,
+      "published_at": "2025-09-11T20:42:17+09:00"
+    }
+  ]
+}

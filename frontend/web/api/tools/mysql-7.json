@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "mysql",
+    "name": "mysql"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 16,
+    "score": 16.0
+  },
+  "articles_top": [
+    {
+      "title": "生成AI「だけ」で作る 〜第二弾: DB設計やれよ〜",
+      "url": "https://zenn.dev/sonicmoov/articles/bad1564f0b266f",
+      "likes": 6,
+      "published_at": "2025-09-10T12:54:44+09:00"
+    },
+    {
+      "title": "データベースのトランザクション分離レベルを意識していなくて少し痛い目を見た話",
+      "url": "https://zenn.dev/hisamitsu/articles/16a42f9db7eb22",
+      "likes": 6,
+      "published_at": "2025-09-10T10:57:41+09:00"
+    },
+    {
+      "title": "PHP 5.2からLaravel 11への大規模リニューアル #2 アーキテクチャ設計と技術選定",
+      "url": "https://zenn.dev/abg/articles/041e12df4015b0",
+      "likes": 4,
+      "published_at": "2025-09-08T21:43:17+09:00"
+    },
+    {
+      "title": "PHP 5.2からLaravel 11への大規模リニューアル #3 データ移行戦略と文字コード問題への対処",
+      "url": "https://zenn.dev/abg/articles/4edf62ae98e459",
+      "likes": 0,
+      "published_at": "2025-09-12T13:30:11+09:00"
+    },
+    {
+      "title": "PHP 5.2からLaravel 11への大規模リニューアル #3 データ移行戦略と文字コード問題への対処",
+      "url": "https://zenn.dev/abg/articles/4edf62ae98e459",
+      "likes": 0,
+      "published_at": "2025-09-12T13:30:11+09:00"
+    },
+    {
+      "title": "CentOS 6にRedmine 2.5.3をインストールする実践ガイド",
+      "url": "https://zenn.dev/meantix/articles/bbe844bfb60161",
+      "likes": 0,
+      "published_at": "2025-09-10T13:40:21+09:00"
+    },
+    {
+      "title": "CentOS 6にRedmine 2.5.3をインストールする実践ガイド",
+      "url": "https://zenn.dev/meantix/articles/bbe844bfb60161",
+      "likes": 0,
+      "published_at": "2025-09-10T13:40:21+09:00"
+    },
+    {
+      "title": "EC2 mysql 実装手順",
+      "url": "https://zenn.dev/naonaok/articles/2abc05a12e6957",
+      "likes": 0,
+      "published_at": "2025-09-10T13:28:40+09:00"
+    },
+    {
+      "title": "EC2 mysql 実装手順",
+      "url": "https://zenn.dev/naonaok/articles/2abc05a12e6957",
+      "likes": 0,
+      "published_at": "2025-09-10T13:28:40+09:00"
+    },
+    {
+      "title": "生成AI「だけ」で作る 〜第二弾: DB設計やれよ〜",
+      "url": "https://zenn.dev/sonicmoov/articles/bad1564f0b266f",
+      "likes": 0,
+      "published_at": "2025-09-10T12:54:44+09:00"
+    }
+  ]
+}

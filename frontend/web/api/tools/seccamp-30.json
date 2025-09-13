@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "seccamp",
+    "name": "seccamp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 88,
+    "score": 88.0
+  },
+  "articles_top": [
+    {
+      "title": "セキュリティ・キャンプで Rust 製 RISC-V ターゲットの C コンパイラを開発した",
+      "url": "https://zenn.dev/s7/articles/37071b1a83956a",
+      "likes": 44,
+      "published_at": "2025-09-04T11:35:36+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ2025 全国大会 Bクラス チューター参加記",
+      "url": "https://zenn.dev/alphe/articles/b28bc4e6983d41",
+      "likes": 14,
+      "published_at": "2025-08-19T05:43:32+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプBクラスのすゝめ",
+      "url": "https://zenn.dev/kaito_bq/articles/6ff59ece5e7b07",
+      "likes": 8,
+      "published_at": "2025-08-17T12:47:00+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ 2025 全国大会専門Bに参加しました (プロダクトセキュリティクラス)",
+      "url": "https://zenn.dev/calloc134/articles/seccamp_sanka_blog",
+      "likes": 7,
+      "published_at": "2025-08-22T18:22:18+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ2025 X4ゼミ参加記",
+      "url": "https://zenn.dev/syosyo/articles/6ac2f41e6d5728",
+      "likes": 5,
+      "published_at": "2025-08-26T22:17:25+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ 2025 全国大会 専門B 参加記",
+      "url": "https://zenn.dev/yama_seasky/articles/83a4cdb97da1c0",
+      "likes": 4,
+      "published_at": "2025-08-22T08:32:44+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ2025　ジュニア応募課題晒し",
+      "url": "https://zenn.dev/econanringo/articles/95a13d7f3ad8af",
+      "likes": 4,
+      "published_at": "2025-08-17T20:42:33+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプ 2025 全国大会 参加を決めた理由と応募課題メモ",
+      "url": "https://zenn.dev/yama_seasky/articles/b5d44917d6c9cf",
+      "likes": 2,
+      "published_at": "2025-08-22T08:32:29+09:00"
+    }
+  ]
+}

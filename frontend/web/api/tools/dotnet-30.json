@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "dotnet",
+    "name": "dotnet"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 27,
+    "likes_sum": 70,
+    "score": 70.0
+  },
+  "articles_top": [
+    {
+      "title": "【.NET】ジェネリック共有について【Unity】",
+      "url": "https://zenn.dev/aakei/articles/sharing-generics",
+      "likes": 20,
+      "published_at": "2025-08-20T23:45:22+09:00"
+    },
+    {
+      "title": "C#：P/Invoke 越しに非同期関数を呼ぶ",
+      "url": "https://zenn.dev/ruccho/articles/dc7bc7bb9c0e74",
+      "likes": 20,
+      "published_at": "2025-08-16T22:28:39+09:00"
+    },
+    {
+      "title": ".NETアプリケーションのMSIXインストーラー作成時のエラー対応方法",
+      "url": "https://zenn.dev/luxiar/articles/59bfd1088884b2",
+      "likes": 11,
+      "published_at": "2025-09-05T10:57:25+09:00"
+    },
+    {
+      "title": "C#でSystem.CommandLine v2 previewを試す",
+      "url": "https://zenn.dev/shundeveloper/articles/97211d78b10c3c",
+      "likes": 5,
+      "published_at": "2025-08-14T13:03:40+09:00"
+    },
+    {
+      "title": "Azure OpenAI の Responses API を .NET で使う方法",
+      "url": "https://zenn.dev/microsoft/articles/aoai-response-api-dotnet",
+      "likes": 4,
+      "published_at": "2025-08-31T20:57:49+09:00"
+    },
+    {
+      "title": "Entry→ネイティブコントロールの流れを.NET MAUIのソースコードで確認してみた",
+      "url": "https://zenn.dev/y_a_y/articles/maui_src_b9686efa3cc1eb",
+      "likes": 2,
+      "published_at": "2025-09-02T18:29:31+09:00"
+    },
+    {
+      "title": "Web APIの書き心地のCLI フレームワーク Cocona",
+      "url": "https://zenn.dev/shundeveloper/articles/61fbd9bd3f007a",
+      "likes": 2,
+      "published_at": "2025-08-25T12:00:02+09:00"
+    },
+    {
+      "title": "【C#】同じ5行のコードが全く違って見える12の瞬間、に対するC#での回答",
+      "url": "https://zenn.dev/arika/articles/20250823-csharp-learn-answer",
+      "likes": 2,
+      "published_at": "2025-08-23T23:14:00+09:00"
+    },
+    {
+      "title": ".NET MAUIでカスタムコントロールを作成する方法4選",
+      "url": "https://zenn.dev/y_a_y/articles/maui_custom_b9685efa3cc1e1",
+      "likes": 2,
+      "published_at": "2025-08-23T22:51:22+09:00"
+    },
+    {
+      "title": "【Blazor】バーコードリーダー対応の入力フォームを作成する",
+      "url": "https://zenn.dev/arika/articles/20250910-barcode-reader-with-blazor",
+      "likes": 1,
+      "published_at": "2025-09-11T00:55:29+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "node",
+    "name": "node"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 121,
+    "score": 121.0
+  },
+  "articles_top": [
+    {
+      "title": "Webアプリのベンチマークについて",
+      "url": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
+      "likes": 104,
+      "published_at": "2025-09-03T05:26:52+09:00"
+    },
+    {
+      "title": "npm-check-updates (ncu) が便利だった話",
+      "url": "https://zenn.dev/team_delta/articles/a0e9840ad4dce3",
+      "likes": 6,
+      "published_at": "2025-09-01T17:37:46+09:00"
+    },
+    {
+      "title": "ArrayBufferって何なんだろう。",
+      "url": "https://zenn.dev/dotlog_techblog/articles/6e636824e7dd16",
+      "likes": 5,
+      "published_at": "2025-09-08T23:47:12+09:00"
+    },
+    {
+      "title": "Claude Desktop × DocBase MCP連携でnodebrewユーザーがハマったPATH問題と解決法",
+      "url": "https://zenn.dev/teradox_blog/articles/48de5a5560f86a",
+      "likes": 2,
+      "published_at": "2025-08-25T13:34:09+09:00"
+    },
+    {
+      "title": "ReconnectingWebSocket を使った WebSocket 自動再接続実装",
+      "url": "https://zenn.dev/1stscratch/articles/115d8e513226cb",
+      "likes": 2,
+      "published_at": "2025-08-19T16:40:41+09:00"
+    },
+    {
+      "title": "『Docker使えないのやばい？』と思って始めた Node.js 22 + Express 5.x🐳",
+      "url": "https://zenn.dev/runprogramerbbq/articles/d6e108cb4d1785",
+      "likes": 1,
+      "published_at": "2025-08-27T23:31:51+09:00"
+    },
+    {
+      "title": "サイトの独自アイコン、全部“社内完結”で管理してみた ─ Nodeを使ってSVG → SCSS自動生成",
+      "url": "https://zenn.dev/jabo_sack/articles/0ec852b94b7ce9",
+      "likes": 1,
+      "published_at": "2025-08-26T15:32:59+09:00"
+    },
+    {
+      "title": "ArrayBufferって何なんだろう。",
+      "url": "https://zenn.dev/dotlog_techblog/articles/6e636824e7dd16",
+      "likes": 0,
+      "published_at": "2025-09-08T23:47:12+09:00"
+    },
+    {
+      "title": "Node.jsでEdgeを画面操作する",
+      "url": "https://zenn.dev/noelsun/articles/1df3e2560e0e66",
+      "likes": 0,
+      "published_at": "2025-09-02T09:51:10+09:00"
+    },
+    {
+      "title": "【Claude Code 】npm install -g @anthropic-ai/claude-code で403エラーが返る時の対策",
+      "url": "https://zenn.dev/n_hidano/articles/a8e7e51b5f8a55",
+      "likes": 0,
+      "published_at": "2025-08-18T19:36:07+09:00"
+    }
+  ]
+}

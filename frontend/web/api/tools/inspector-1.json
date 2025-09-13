@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "inspector",
+    "name": "inspector"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "Amazon Inspector の ECR Image スキャンで古いイメージの検出結果を抑制する",
+      "url": "https://zenn.dev/metalels86/articles/846d1f3611bdb3",
+      "likes": 1,
+      "published_at": "2025-09-13T00:57:03+09:00"
+    },
+    {
+      "title": "Amazon Inspector の ECR Image スキャンで古いイメージの検出結果を抑制する",
+      "url": "https://zenn.dev/metalels86/articles/846d1f3611bdb3",
+      "likes": 1,
+      "published_at": "2025-09-13T00:57:03+09:00"
+    }
+  ]
+}

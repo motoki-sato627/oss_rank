@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "mcp",
+    "name": "mcp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 8,
+    "score": 8.0
+  },
+  "articles_top": [
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 2,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "MCPのプロトコルを読み解く",
+      "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+      "likes": 2,
+      "published_at": "2025-09-12T16:52:34+09:00"
+    },
+    {
+      "title": "ChatGPT MCP Connector フルサポートを試した",
+      "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+      "likes": 2,
+      "published_at": "2025-09-12T08:15:19+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 1,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 1,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - mcpでスライドをつくる",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+      "likes": 1,
+      "published_at": "2025-09-13T05:59:08+09:00"
+    }
+  ]
+}

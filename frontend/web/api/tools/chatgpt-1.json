@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "chatgpt",
+    "name": "chatgpt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+      "likes": 5,
+      "published_at": "2025-09-12T00:00:00+09:00"
+    },
+    {
+      "title": "ChatGPT MCP Connector フルサポートを試した",
+      "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+      "likes": 2,
+      "published_at": "2025-09-12T08:15:19+09:00"
+    },
+    {
+      "title": "ChatGPTが書くコードは複雑になりがちなので「手続き型で初心者にもわかりやすく短めに」と伝えるべき！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509130000",
+      "likes": 1,
+      "published_at": "2025-09-13T00:00:05+09:00"
+    },
+    {
+      "title": "ChatGPTが書くコードは複雑になりがちなので「手続き型で初心者にもわかりやすく短めに」と伝えるべき！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509130000",
+      "likes": 1,
+      "published_at": "2025-09-13T00:00:05+09:00"
+    },
+    {
+      "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+      "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+      "likes": 1,
+      "published_at": "2025-09-12T22:01:02+09:00"
+    },
+    {
+      "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+      "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+      "likes": 1,
+      "published_at": "2025-09-12T22:01:02+09:00"
+    },
+    {
+      "title": "なぜ ChatGPT は「賢い」のか？AI の歴史を 70 年遡って見えた真実",
+      "url": "https://zenn.dev/imkohenauser/articles/a774d8ef563d66",
+      "likes": 0,
+      "published_at": "2025-09-13T13:09:03+09:00"
+    },
+    {
+      "title": "なぜ ChatGPT は「賢い」のか？AI の歴史を 70 年遡って見えた真実",
+      "url": "https://zenn.dev/imkohenauser/articles/a774d8ef563d66",
+      "likes": 0,
+      "published_at": "2025-09-13T13:09:03+09:00"
+    },
+    {
+      "title": "AI 革命の中心にある「トランスフォーマー」を、誰でもわかるように解説する",
+      "url": "https://zenn.dev/imkohenauser/articles/6f1ffd606fcddb",
+      "likes": 0,
+      "published_at": "2025-09-13T12:45:14+09:00"
+    },
+    {
+      "title": "AI 革命の中心にある「トランスフォーマー」を、誰でもわかるように解説する",
+      "url": "https://zenn.dev/imkohenauser/articles/6f1ffd606fcddb",
+      "likes": 0,
+      "published_at": "2025-09-13T12:45:14+09:00"
+    }
+  ]
+}

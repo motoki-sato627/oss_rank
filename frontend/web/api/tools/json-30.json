@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "json",
+    "name": "json"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 68,
+    "score": 68.0
+  },
+  "articles_top": [
+    {
+      "title": "Serena有効化でClaude Code実行時にAcceptを求められるのをやめる",
+      "url": "https://zenn.dev/soramarjr/articles/732e16561d6eb6",
+      "likes": 50,
+      "published_at": "2025-08-21T21:46:30+09:00"
+    },
+    {
+      "title": "Rust 小ネタ: serde_dynamo で `#[serde(from = &quot;&amp;str&quot;)]` が動かなくてびっくりした。",
+      "url": "https://zenn.dev/fairydevices/articles/593a73efb2f7e7",
+      "likes": 17,
+      "published_at": "2025-08-18T15:29:52+09:00"
+    },
+    {
+      "title": "[AWS]CloudFormationで使用できるFn::ToJsonStringが便利",
+      "url": "https://zenn.dev/tech_okmn/articles/e05f3f5b169ace",
+      "likes": 1,
+      "published_at": "2025-08-25T19:00:01+09:00"
+    },
+    {
+      "title": "チャットボットフロー設計＆JSON出力OSSをリリースしました",
+      "url": "https://zenn.dev/enumura/articles/3e90d313d79b61",
+      "likes": 0,
+      "published_at": "2025-09-07T17:40:09+09:00"
+    },
+    {
+      "title": "チャットボットフロー設計＆JSON出力OSSをリリースしました",
+      "url": "https://zenn.dev/enumura/articles/3e90d313d79b61",
+      "likes": 0,
+      "published_at": "2025-09-07T17:40:09+09:00"
+    },
+    {
+      "title": "Go × LM Studioで挑戦！壊れないJSON＆爆速応答のローカルLLM実験",
+      "url": "https://zenn.dev/exmedia/articles/go-plus-lmstudio-reliable-json-at-lightning-speed",
+      "likes": 0,
+      "published_at": "2025-09-01T21:26:51+09:00"
+    },
+    {
+      "title": "CaddyでJSON形式のアクセスログをカスタムする",
+      "url": "https://zenn.dev/tkrtmy/articles/2025-08-26-caddy-json-access-log-custom",
+      "likes": 0,
+      "published_at": "2025-08-26T22:30:00+09:00"
+    },
+    {
+      "title": "DatabricksでJSONデータの読込、加工を行ってみた",
+      "url": "https://zenn.dev/data_and_ai/articles/ec2f9514482d0b",
+      "likes": 0,
+      "published_at": "2025-08-15T17:00:23+09:00"
+    }
+  ]
+}

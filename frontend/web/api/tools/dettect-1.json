@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "dettect",
+    "name": "dettect"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0
+  },
+  "articles_top": [
+    {
+      "title": "DeTT&amp;CT入門2",
+      "url": "https://zenn.dev/sesamum/articles/c5c4f5fbb25751",
+      "likes": 0,
+      "published_at": "2025-09-12T16:28:20+09:00"
+    },
+    {
+      "title": "DeTT&amp;CT入門2",
+      "url": "https://zenn.dev/sesamum/articles/c5c4f5fbb25751",
+      "likes": 0,
+      "published_at": "2025-09-12T16:28:20+09:00"
+    }
+  ]
+}

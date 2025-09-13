@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "ranktube-ef18a"
-  }
+    "default": "oss-rank"
+  },
+  "targets": {},
+  "etags": {}
 }

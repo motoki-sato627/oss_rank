@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "android",
+    "name": "android"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 45,
+    "likes_sum": 252,
+    "score": 252.0
+  },
+  "articles_top": [
+    {
+      "title": "スマホのアプリがネイティブ・Flutter・React Native製かをざっくり見分ける方法",
+      "url": "https://zenn.dev/igz0/articles/how-to-identify-native-vs-flutter-vs-react-native",
+      "likes": 77,
+      "published_at": "2025-08-23T14:10:18+09:00"
+    },
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "UI共通化の罠と、「スロット」の推しどころ",
+      "url": "https://zenn.dev/dely_jp/articles/42016786ff2557",
+      "likes": 17,
+      "published_at": "2025-08-31T12:52:25+09:00"
+    },
+    {
+      "title": "首掛け型ウェアラブルカメラ THINKLETのカメラ映像をWebでプレビューしながら写真撮影する",
+      "url": "https://zenn.dev/fairydevices/articles/fa1f6638bb7a99",
+      "likes": 15,
+      "published_at": "2025-08-21T21:00:01+09:00"
+    },
+    {
+      "title": "Claude Code GitHub ActionsでAIレビューを試してみた話",
+      "url": "https://zenn.dev/dely_jp/articles/aa9f6cd5e05a0d",
+      "likes": 14,
+      "published_at": "2025-08-27T14:38:56+09:00"
+    },
+    {
+      "title": "Expo SDK 54 Betaまとめ: iOSビルド爆速化 &amp; Liquid Glass対応など",
+      "url": "https://zenn.dev/gemcook/articles/cdc31522d02339",
+      "likes": 11,
+      "published_at": "2025-08-22T11:54:25+09:00"
+    },
+    {
+      "title": "Androidで「1秒後に実行する」時に出てくるHandlerは何をしているのか？",
+      "url": "https://zenn.dev/aokiti/articles/5aed1cc879fffd",
+      "likes": 7,
+      "published_at": "2025-08-24T12:41:51+09:00"
+    },
+    {
+      "title": "Jetpack Composeでエッジツーエッジの没入感があるスクロールUIを実現する",
+      "url": "https://zenn.dev/sun_asterisk/articles/edge-to-edge-on-compose",
+      "likes": 5,
+      "published_at": "2025-08-22T11:18:01+09:00"
+    },
+    {
+      "title": "Google Playの自動保護機能に引っかかったらどうなるのかやってみた",
+      "url": "https://zenn.dev/timetree/articles/google_play_installer_check_tips",
+      "likes": 4,
+      "published_at": "2025-08-28T18:34:53+09:00"
+    },
+    {
+      "title": "kotlinが文法で優れているところを挙げてみる",
+      "url": "https://zenn.dev/favopg/articles/0689ccd5a999b7",
+      "likes": 4,
+      "published_at": "2025-08-15T10:27:30+09:00"
+    }
+  ]
+}

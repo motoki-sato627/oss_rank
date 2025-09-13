@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "html",
+    "name": "html"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 37,
+    "likes_sum": 87,
+    "score": 87.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "イケてるGo版JSX,templを知っているか!?(feat. neovimでの設定)",
+      "url": "https://zenn.dev/sirasagi62/articles/0f873debabf232",
+      "likes": 17,
+      "published_at": "2025-08-18T00:21:30+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "ClaudeとJavaScriptで作るポモドーロタイマー【Webアプリ】",
+      "url": "https://zenn.dev/5naokichi/articles/a16d2d2fd26941",
+      "likes": 3,
+      "published_at": "2025-08-22T14:11:58+09:00"
+    },
+    {
+      "title": "映像をAA風にリアルタイムで描画するのを、作った",
+      "url": "https://zenn.dev/locu/articles/ef29702fa56c1e",
+      "likes": 2,
+      "published_at": "2025-09-11T23:23:02+09:00"
+    },
+    {
+      "title": "faviconの404エラーを防ぐ方法",
+      "url": "https://zenn.dev/ket8/articles/cc8b70f56482ea",
+      "likes": 2,
+      "published_at": "2025-09-10T14:03:35+09:00"
+    },
+    {
+      "title": "新人エンジニアによくあるHTML/CSSの間違い6選",
+      "url": "https://zenn.dev/northrkyk/articles/3c824f02cad840",
+      "likes": 2,
+      "published_at": "2025-09-05T17:04:32+09:00"
+    },
+    {
+      "title": "🌱 GitHubの草が花に育つ！？「Contribution Flower」を作りました 🌸",
+      "url": "https://zenn.dev/imshota1009/articles/c9a19036c0056d",
+      "likes": 2,
+      "published_at": "2025-09-03T09:02:12+09:00"
+    }
+  ]
+}

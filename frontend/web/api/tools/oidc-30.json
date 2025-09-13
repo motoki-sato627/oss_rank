@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "oidc",
+    "name": "oidc"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 109,
+    "score": 109.0
+  },
+  "articles_top": [
+    {
+      "title": "OAuth 2.0 / OIDCを理解するために、自分でGoで実装してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/25c1b3c182919e",
+      "likes": 91,
+      "published_at": "2025-08-19T16:22:09+09:00"
+    },
+    {
+      "title": "最近のMCPの仕様拡張（2025年9月）",
+      "url": "https://zenn.dev/demouth/articles/99a2fdaf92a71f",
+      "likes": 6,
+      "published_at": "2025-09-04T08:55:04+09:00"
+    },
+    {
+      "title": "OAuth 2.0 / OIDCがよくわかっていなかったので、遊園地のたとえで理解してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/e79d3b29336729",
+      "likes": 5,
+      "published_at": "2025-08-16T12:59:27+09:00"
+    },
+    {
+      "title": "OIDCの仕組みが3分でわかる",
+      "url": "https://zenn.dev/okotokoto/articles/3f0adf45bcc2b1",
+      "likes": 3,
+      "published_at": "2025-08-19T17:07:00+09:00"
+    },
+    {
+      "title": "OAuth 2.0 この流れだけ覚えて！",
+      "url": "https://zenn.dev/okotokoto/articles/68361d551ce129",
+      "likes": 3,
+      "published_at": "2025-08-15T20:25:40+09:00"
+    },
+    {
+      "title": "React(Vite)をGitHub ActionsでS3に自動デプロイ",
+      "url": "https://zenn.dev/treylink_log/articles/8c2bc9bdd76f06",
+      "likes": 1,
+      "published_at": "2025-08-20T13:37:10+09:00"
+    }
+  ]
+}

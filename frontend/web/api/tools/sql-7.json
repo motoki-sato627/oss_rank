@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "sql",
+    "name": "sql"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+      "likes": 7,
+      "published_at": "2025-09-11T08:16:04+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "クエリの可視化で理解を深めるには",
+      "url": "https://zenn.dev/atsushimemet/articles/df2b14d23a7cef",
+      "likes": 1,
+      "published_at": "2025-09-12T11:11:36+09:00"
+    },
+    {
+      "title": "ターミナルだけで完結するデータ分析環境の構築検討：Codex CLI + awk, q, duckdb",
+      "url": "https://zenn.dev/moxak/articles/05ba2a908506c6",
+      "likes": 1,
+      "published_at": "2025-09-09T07:15:48+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "【応用情報】令和６年度秋期（午後：問６ データベース）第２回 - SQL",
+      "url": "https://zenn.dev/agent_grow/articles/93824bec26f969",
+      "likes": 0,
+      "published_at": "2025-09-08T08:00:02+09:00"
+    }
+  ]
+}

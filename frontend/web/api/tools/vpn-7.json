@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vpn",
+    "name": "vpn"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 21,
+    "score": 21.0
+  },
+  "articles_top": [
+    {
+      "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+      "url": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+      "likes": 16,
+      "published_at": "2025-09-08T10:29:43+09:00"
+    },
+    {
+      "title": "自宅ポート開放のためのプロバイダ選び",
+      "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+      "likes": 3,
+      "published_at": "2025-09-11T13:07:33+09:00"
+    },
+    {
+      "title": "TP-Link Wi-Fiルーターを使ってスマホから家のサーバーにSSH接続する",
+      "url": "https://zenn.dev/nijigen_plot/articles/tplink_vpn_server",
+      "likes": 1,
+      "published_at": "2025-09-08T17:57:11+09:00"
+    },
+    {
+      "title": "WireGuardで簡単にVPNを構築する",
+      "url": "https://zenn.dev/ngstk/articles/29f5eb72858062",
+      "likes": 1,
+      "published_at": "2025-09-08T17:04:30+09:00"
+    },
+    {
+      "title": "自宅ポート開放のためのプロバイダ選び",
+      "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+      "likes": 0,
+      "published_at": "2025-09-11T13:07:33+09:00"
+    },
+    {
+      "title": "TP-Link Wi-Fiルーターを使ってスマホから家のサーバーにSSH接続する",
+      "url": "https://zenn.dev/nijigen_plot/articles/tplink_vpn_server",
+      "likes": 0,
+      "published_at": "2025-09-08T17:57:11+09:00"
+    },
+    {
+      "title": "WireGuardで簡単にVPNを構築する",
+      "url": "https://zenn.dev/ngstk/articles/29f5eb72858062",
+      "likes": 0,
+      "published_at": "2025-09-08T17:04:30+09:00"
+    },
+    {
+      "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+      "url": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+      "likes": 0,
+      "published_at": "2025-09-08T10:29:43+09:00"
+    },
+    {
+      "title": "ECS on EC2 で VPN サーバーを構築してみた",
+      "url": "https://zenn.dev/mn87/articles/52bc356adfb7d2",
+      "likes": 0,
+      "published_at": "2025-09-07T07:30:01+09:00"
+    },
+    {
+      "title": "ECS on EC2 で VPN サーバーを構築してみた",
+      "url": "https://zenn.dev/mn87/articles/52bc356adfb7d2",
+      "likes": 0,
+      "published_at": "2025-09-07T07:30:01+09:00"
+    }
+  ]
+}

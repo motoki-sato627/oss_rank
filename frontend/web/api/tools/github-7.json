@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "github",
+    "name": "github"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 95,
+    "likes_sum": 371,
+    "score": 371.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+      "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+      "likes": 30,
+      "published_at": "2025-09-11T13:01:44+09:00"
+    },
+    {
+      "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+      "url": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+      "likes": 28,
+      "published_at": "2025-09-10T12:42:39+09:00"
+    },
+    {
+      "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+      "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+      "likes": 18,
+      "published_at": "2025-09-09T13:46:16+09:00"
+    },
+    {
+      "title": "Spec Kitを使って簡単な家計簿アプリ実装してみた",
+      "url": "https://zenn.dev/acntechjp/articles/1d35658b0114b6",
+      "likes": 14,
+      "published_at": "2025-09-09T14:01:27+09:00"
+    },
+    {
+      "title": "Cursorで実践するスペック駆動開発：Kiro流フローを完全再現",
+      "url": "https://zenn.dev/redamoon/articles/article23-cursor-spce",
+      "likes": 5,
+      "published_at": "2025-09-09T00:02:39+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    }
+  ]
+}

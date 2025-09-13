@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "vibecoding",
+    "name": "vibecoding"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 43,
+    "score": 43.0
+  },
+  "articles_top": [
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 19,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "VibeCoding Welcome Party! @Nagoya イベントレポート",
+      "url": "https://zenn.dev/acntechjp/articles/18e5d146f239f6",
+      "likes": 9,
+      "published_at": "2025-09-08T20:27:19+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 7,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "＃27:冷蔵庫の中身からレシピを提案するツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/185ad407ea2310",
+      "likes": 3,
+      "published_at": "2025-09-10T19:00:01+09:00"
+    },
+    {
+      "title": "Serena使ってみたらとってもよかった話",
+      "url": "https://zenn.dev/techsword/articles/d2e0e00abe397c",
+      "likes": 2,
+      "published_at": "2025-09-09T09:55:09+09:00"
+    },
+    {
+      "title": "複数のAIコーディングアシスタントをプロジェクトで利用してみた所感",
+      "url": "https://zenn.dev/imaichiyyy/articles/597dccbdc814b0",
+      "likes": 1,
+      "published_at": "2025-09-13T11:59:42+09:00"
+    },
+    {
+      "title": "複数のAIコーディングアシスタントをプロジェクトで利用してみた所感",
+      "url": "https://zenn.dev/imaichiyyy/articles/597dccbdc814b0",
+      "likes": 1,
+      "published_at": "2025-09-13T11:59:42+09:00"
+    },
+    {
+      "title": "ターミナルだけで完結するデータ分析環境の構築検討：Codex CLI + awk, q, duckdb",
+      "url": "https://zenn.dev/moxak/articles/05ba2a908506c6",
+      "likes": 1,
+      "published_at": "2025-09-09T07:15:48+09:00"
+    },
+    {
+      "title": "週刊AI駆動開発 - 2025年09月07日",
+      "url": "https://zenn.dev/pppp303/articles/weekly_ai_20250907",
+      "likes": 0,
+      "published_at": "2025-09-07T22:22:16+09:00"
+    }
+  ]
+}

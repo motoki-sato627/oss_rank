@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cli",
+    "name": "cli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 63,
+    "likes_sum": 403,
+    "score": 403.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+      "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+      "likes": 68,
+      "published_at": "2025-09-08T18:00:02+09:00"
+    },
+    {
+      "title": "一行もコード書かずにOSSに貢献する話",
+      "url": "https://zenn.dev/pppp303/articles/c69bb54df98201",
+      "likes": 46,
+      "published_at": "2025-09-01T01:02:30+09:00"
+    },
+    {
+      "title": "rails consoleのようにgolangを扱えるCLIを作った",
+      "url": "https://zenn.dev/yuta_kakiki/articles/5468fe79be932c",
+      "likes": 46,
+      "published_at": "2025-08-22T09:20:29+09:00"
+    },
+    {
+      "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+      "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+      "likes": 40,
+      "published_at": "2025-09-11T14:27:21+09:00"
+    },
+    {
+      "title": "Git Worktree を使いやすくする gw コマンドを作った",
+      "url": "https://zenn.dev/sotarok/articles/0ee334cfd9f9c4",
+      "likes": 31,
+      "published_at": "2025-08-15T11:48:00+09:00"
+    },
+    {
+      "title": "Swiftで自在な開発用スクリプト定義を管理しよう",
+      "url": "https://zenn.dev/nextbeat/articles/01e659e5447252",
+      "likes": 20,
+      "published_at": "2025-09-04T14:56:47+09:00"
+    },
+    {
+      "title": "Optique：型安全なCLIパーサーコンビネーター",
+      "url": "https://zenn.dev/hongminhee/articles/904d9c8511a03b",
+      "likes": 8,
+      "published_at": "2025-08-27T12:55:05+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "Gemini CLI Companion - Gemini CLI用のVSCode拡張機能",
+      "url": "https://zenn.dev/kazuk_super/articles/gemini-cli-companion",
+      "likes": 5,
+      "published_at": "2025-08-28T16:24:36+09:00"
+    }
+  ]
+}

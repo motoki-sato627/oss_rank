@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "tanstackdb",
+    "name": "tanstackdb"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 141,
+    "score": 141.0
+  },
+  "articles_top": [
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    }
+  ]
+}

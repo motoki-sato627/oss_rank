@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "ml",
+    "name": "ml"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 25,
+    "score": 25.0
+  },
+  "articles_top": [
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 25,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    },
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 0,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    }
+  ]
+}

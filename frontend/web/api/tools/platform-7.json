@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "platform",
+    "name": "platform"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 30,
+    "score": 30.0
+  },
+  "articles_top": [
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 25,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 5,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 0,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 0,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "adk",
+    "name": "adk"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 23,
+    "likes_sum": 69,
+    "score": 69.0
+  },
+  "articles_top": [
+    {
+      "title": "マルチエージェントシステムのアーキテクチャーを紐解く",
+      "url": "https://zenn.dev/google_cloud_jp/articles/5410925dc984b1",
+      "likes": 87,
+      "published_at": "2025-08-14T10:43:50+09:00"
+    },
+    {
+      "title": "A2A リモートエージェント対応のマルチエージェントシステム",
+      "url": "https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8",
+      "likes": 27,
+      "published_at": "2025-08-16T04:30:18+09:00"
+    },
+    {
+      "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+      "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+      "likes": 13,
+      "published_at": "2025-09-08T16:41:45+09:00"
+    },
+    {
+      "title": "ADK 1.13.0 で追加された BigQueryに自然言語で問い合わせできる ask_data_insights tool",
+      "url": "https://zenn.dev/soundtricker/articles/dfd49e631b23de",
+      "likes": 11,
+      "published_at": "2025-08-28T16:47:33+09:00"
+    },
+    {
+      "title": "Agent Development Kit 1.12.0で追加された Pythonコード不要でAgentが作成できるAgent Config",
+      "url": "https://zenn.dev/soundtricker/articles/02dec857826f55",
+      "likes": 6,
+      "published_at": "2025-08-21T23:58:38+09:00"
+    },
+    {
+      "title": "A2AプロトコルでCloud Run上のエージェントを連携させる",
+      "url": "https://zenn.dev/takkuhiro/articles/a2a-cloud-run",
+      "likes": 4,
+      "published_at": "2025-08-27T18:09:02+09:00"
+    },
+    {
+      "title": "[ADK] 1.14.0で追加された require_confirmation を利用したHuman-in-the-Loop",
+      "url": "https://zenn.dev/soundtricker/articles/9c3cf3e265e25d",
+      "likes": 3,
+      "published_at": "2025-09-11T22:17:56+09:00"
+    },
+    {
+      "title": "ADK 1.14.0 で追加された Agent、Runnerに続く新たな概念 App",
+      "url": "https://zenn.dev/soundtricker/articles/f51b9fb4f788d8",
+      "likes": 3,
+      "published_at": "2025-09-11T21:31:01+09:00"
+    },
+    {
+      "title": "Agent Development Kit 1.11.0で修正された output_schema と tools の同時利用",
+      "url": "https://zenn.dev/soundtricker/articles/df5e6cf2dba20e",
+      "likes": 2,
+      "published_at": "2025-08-15T23:12:02+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    }
+  ]
+}

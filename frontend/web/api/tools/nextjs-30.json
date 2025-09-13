@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "nextjs",
+    "name": "nextjs"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 128,
+    "likes_sum": 494,
+    "score": 494.0
+  },
+  "articles_top": [
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "Next.js はどうやって React Compiler を実行しているのか",
+      "url": "https://zenn.dev/ishiharu/articles/how-nextjs-uses-react-compiler",
+      "likes": 53,
+      "published_at": "2025-08-22T02:48:28+09:00"
+    },
+    {
+      "title": "[個人開発] YouTubeでいつもの勉強が「楽しみ!!」に変える配信にする Web アプリ",
+      "url": "https://zenn.dev/aew2sbee/articles/personal-development-youtube-nextjs",
+      "likes": 39,
+      "published_at": "2025-08-25T14:35:31+09:00"
+    },
+    {
+      "title": "Next.jsへの移行をほぼ1週間でやりきる",
+      "url": "https://zenn.dev/socialplus/articles/8bbc6ffb96cacc",
+      "likes": 39,
+      "published_at": "2025-08-21T18:00:01+09:00"
+    },
+    {
+      "title": "🤖  AI UX｜AIチャットを“スルスル”動かすSmooth Text Streaming",
+      "url": "https://zenn.dev/n0aaa_eth/articles/8a876265b5e20b",
+      "likes": 26,
+      "published_at": "2025-08-26T07:00:06+09:00"
+    },
+    {
+      "title": "nuqs 2.5.0 アップデート内容のまとめ",
+      "url": "https://zenn.dev/tsuboi/articles/894347fbee6236",
+      "likes": 26,
+      "published_at": "2025-08-24T10:23:45+09:00"
+    },
+    {
+      "title": "Next.jsの15.5でstableになった「Typed Routes」を使って&lt;Link href=&#x27;/hoge&#x27;&gt;を型安全に使う",
+      "url": "https://zenn.dev/shinaps/articles/7da63fd576b413",
+      "likes": 19,
+      "published_at": "2025-08-24T12:37:52+09:00"
+    },
+    {
+      "title": "Next.js on Cloudflare Workers（OpenNext）でフルスタックアプリケーションを開発した",
+      "url": "https://zenn.dev/shinaps/articles/5806c6579c5aeb",
+      "likes": 18,
+      "published_at": "2025-08-19T05:28:44+09:00"
+    },
+    {
+      "title": "AI駆動開発でネットミーム検索サイト作ろうとしたら、結局俺駆動開発だった話",
+      "url": "https://zenn.dev/gen_shun/articles/d349ae906aca73",
+      "likes": 15,
+      "published_at": "2025-09-05T22:20:00+09:00"
+    },
+    {
+      "title": "社内イベントで挑戦！AIだけでモノづくりする縛りプレイ備忘録",
+      "url": "https://zenn.dev/aun_phonogram/articles/1b9165f0e47d49",
+      "likes": 7,
+      "published_at": "2025-09-01T00:05:01+09:00"
+    }
+  ]
+}

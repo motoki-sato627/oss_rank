@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "db",
+    "name": "db"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "データベースのトランザクション分離レベルを意識していなくて少し痛い目を見た話",
+      "url": "https://zenn.dev/hisamitsu/articles/16a42f9db7eb22",
+      "likes": 6,
+      "published_at": "2025-09-10T10:57:41+09:00"
+    },
+    {
+      "title": "【Snowflake World Tour Tokyo】Rookies Camp Demoでみたチャットボットを作ってみよう！",
+      "url": "https://zenn.dev/rookiescamp/articles/cabba71e17578b",
+      "likes": 2,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": "同じカラム名に連番をつける設計がなぜダメなのか",
+      "url": "https://zenn.dev/shimadama/articles/93b2cce75069ab",
+      "likes": 2,
+      "published_at": "2025-09-10T02:02:38+09:00"
+    },
+    {
+      "title": "【Docker】Docker使用時にnodemon反映、ボリュームとバインドマウントの違い",
+      "url": "https://zenn.dev/wyuma/articles/b2c45540e54514",
+      "likes": 2,
+      "published_at": "2025-09-06T15:21:18+09:00"
+    },
+    {
+      "title": ".envでpassword authentication failed for userにハマった",
+      "url": "https://zenn.dev/iharuoru/articles/adc74adcc4297b",
+      "likes": 1,
+      "published_at": "2025-09-10T20:21:30+09:00"
+    },
+    {
+      "title": "【Snowflake World Tour Tokyo】Rookies Camp Demoでみたチャットボットを作ってみよう！",
+      "url": "https://zenn.dev/rookiescamp/articles/cabba71e17578b",
+      "likes": 0,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": ".envでpassword authentication failed for userにハマった",
+      "url": "https://zenn.dev/iharuoru/articles/adc74adcc4297b",
+      "likes": 0,
+      "published_at": "2025-09-10T20:21:30+09:00"
+    },
+    {
+      "title": "データベースのトランザクション分離レベルを意識していなくて少し痛い目を見た話",
+      "url": "https://zenn.dev/hisamitsu/articles/16a42f9db7eb22",
+      "likes": 0,
+      "published_at": "2025-09-10T10:57:41+09:00"
+    },
+    {
+      "title": "同じカラム名に連番をつける設計がなぜダメなのか",
+      "url": "https://zenn.dev/shimadama/articles/93b2cce75069ab",
+      "likes": 0,
+      "published_at": "2025-09-10T02:02:38+09:00"
+    },
+    {
+      "title": "子ども向け学習アプリ開発ログ：学習カードのUIとDB設計（Next.js + Prisma）",
+      "url": "https://zenn.dev/hyoni/articles/79d5c295aa1191",
+      "likes": 0,
+      "published_at": "2025-09-09T13:48:41+09:00"
+    }
+  ]
+}

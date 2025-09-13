@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "windows",
+    "name": "windows"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 46,
+    "likes_sum": 110,
+    "score": 110.0
+  },
+  "articles_top": [
+    {
+      "title": "Windows標準だけでGUIを作成 ― PowerShell＋.NET Framework",
+      "url": "https://zenn.dev/y_a_y/articles/ps_gui_b9685efa3cc1ea",
+      "likes": 44,
+      "published_at": "2025-08-16T18:22:50+09:00"
+    },
+    {
+      "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
+      "url": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
+      "likes": 43,
+      "published_at": "2025-08-25T12:50:00+09:00"
+    },
+    {
+      "title": "自動運転AIチャレンジの描画ありシミュレータをWSL2上で動かしてみた[失敗編]",
+      "url": "https://zenn.dev/headwaters/articles/7beb29658af909",
+      "likes": 7,
+      "published_at": "2025-08-29T00:22:18+09:00"
+    },
+    {
+      "title": "【Powershell】クロージャを自作してみた",
+      "url": "https://zenn.dev/binbin_ftmr_boy/articles/f983bbb4f73922",
+      "likes": 3,
+      "published_at": "2025-08-22T02:08:38+09:00"
+    },
+    {
+      "title": "⚙️ Windows 11のシステムトレイに曜日や秒を追加したり、右クリックメニューを従来に戻して快適にする方法",
+      "url": "https://zenn.dev/km100/articles/556a0c75752a32",
+      "likes": 3,
+      "published_at": "2025-08-15T18:31:19+09:00"
+    },
+    {
+      "title": "WindowsのClaude CodeでSerenaが使いたいんじゃ！！",
+      "url": "https://zenn.dev/sotono/articles/138954772c248b",
+      "likes": 3,
+      "published_at": "2025-08-14T09:59:10+09:00"
+    },
+    {
+      "title": "Macは大文字小文字を区別しない。Linuxは区別する。でハマった話",
+      "url": "https://zenn.dev/toshiki003/articles/2bebff45bbaa78",
+      "likes": 2,
+      "published_at": "2025-09-05T18:09:01+09:00"
+    },
+    {
+      "title": "Windowsで指定したアプリやプロセスを絶対◯すマン",
+      "url": "https://zenn.dev/sharl/articles/4ee9d68731f926",
+      "likes": 1,
+      "published_at": "2025-09-09T20:58:19+09:00"
+    },
+    {
+      "title": "[Windows]業務毎にPythonのバージョンが異なるときの対応",
+      "url": "https://zenn.dev/keyworks/articles/python_00001",
+      "likes": 1,
+      "published_at": "2025-09-01T22:29:35+09:00"
+    },
+    {
+      "title": "Windows UAC と VirtualStore",
+      "url": "https://zenn.dev/chai0917/articles/daf09e9e1527c2",
+      "likes": 1,
+      "published_at": "2025-09-01T13:34:33+09:00"
+    }
+  ]
+}

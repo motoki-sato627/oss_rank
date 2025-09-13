@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "automation",
+    "name": "automation"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 13,
+    "score": 13.0
+  },
+  "articles_top": [
+    {
+      "title": "非技術者のためのn8n入門：AI駆動のインテグレーションをつくる",
+      "url": "https://zenn.dev/xtm_blog/articles/597e2fbc533c67",
+      "likes": 8,
+      "published_at": "2025-09-09T20:54:15+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "Makefileで開発フローを統一する：そのツール、本当に必要？",
+      "url": "https://zenn.dev/deltax/articles/20250904-make-all-in-one",
+      "likes": 2,
+      "published_at": "2025-09-11T13:56:15+09:00"
+    },
+    {
+      "title": "Makefileで開発フローを統一する：そのツール、本当に必要？",
+      "url": "https://zenn.dev/deltax/articles/20250904-make-all-in-one",
+      "likes": 0,
+      "published_at": "2025-09-11T13:56:15+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 0,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "非技術者のためのn8n入門：AI駆動のインテグレーションをつくる",
+      "url": "https://zenn.dev/xtm_blog/articles/597e2fbc533c67",
+      "likes": 0,
+      "published_at": "2025-09-09T20:54:15+09:00"
+    }
+  ]
+}

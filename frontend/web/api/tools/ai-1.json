@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ai",
+    "name": "ai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 83,
+    "likes_sum": 14,
+    "score": 14.0
+  },
+  "articles_top": [
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+      "likes": 5,
+      "published_at": "2025-09-12T00:00:00+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "AI共創論：確率的創造の原理",
+      "url": "https://zenn.dev/eitoatsuta/articles/1fa1116949ba75",
+      "likes": 2,
+      "published_at": "2025-09-13T07:36:20+09:00"
+    }
+  ]
+}

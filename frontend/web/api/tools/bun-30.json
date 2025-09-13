@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "bun",
+    "name": "bun"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 17,
+    "likes_sum": 104,
+    "score": 104.0
+  },
+  "articles_top": [
+    {
+      "title": "Webアプリのベンチマークについて",
+      "url": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
+      "likes": 104,
+      "published_at": "2025-09-03T05:26:52+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    },
+    {
+      "title": "2025年9月時点のBunを試してみる",
+      "url": "https://zenn.dev/numa_san/articles/e4d0bfdca02608",
+      "likes": 0,
+      "published_at": "2025-09-13T14:48:24+09:00"
+    }
+  ]
+}

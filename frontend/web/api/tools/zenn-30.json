@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zenn",
+    "name": "zenn"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 30,
+    "likes_sum": 84,
+    "score": 84.0
+  },
+  "articles_top": [
+    {
+      "title": "ZennのWYSIWYGエディタを作ってみた",
+      "url": "https://zenn.dev/karintou/articles/1ba996a5ca7df8",
+      "likes": 32,
+      "published_at": "2025-08-15T23:30:10+09:00"
+    },
+    {
+      "title": "『家族アルバム みてね』のテックブログをMediumからZennに移行します！",
+      "url": "https://zenn.dev/mitene/articles/202508-medium-to-zenn",
+      "likes": 21,
+      "published_at": "2025-08-22T10:55:01+09:00"
+    },
+    {
+      "title": "ジュニアエンジニアが1ヶ月Zennで記事を書いて得られた3つの学び",
+      "url": "https://zenn.dev/tmyhrn/articles/38f711b65a8687",
+      "likes": 6,
+      "published_at": "2025-09-05T17:00:05+09:00"
+    },
+    {
+      "title": "Zenn WYSIWYGエディタの使い方",
+      "url": "https://zenn.dev/karintou/articles/eabe0354fcc947",
+      "likes": 5,
+      "published_at": "2025-08-21T02:13:19+09:00"
+    },
+    {
+      "title": "iPad × GitHub Codespaces でどこでもZenn執筆",
+      "url": "https://zenn.dev/rakuten_tech/articles/ipad-codespaces-zenn",
+      "likes": 4,
+      "published_at": "2025-09-10T07:00:05+09:00"
+    },
+    {
+      "title": "Docker + VSCodeで作るZenn執筆環境（クローンしてすぐ使える）",
+      "url": "https://zenn.dev/watari0408/articles/zenn-docker-vscode-env",
+      "likes": 4,
+      "published_at": "2025-09-08T18:08:36+09:00"
+    },
+    {
+      "title": "【Amazon Bedrock・SAM】Zennの.mdファイル記事をAIでレビューするVScord拡張機能をつくってみた",
+      "url": "https://zenn.dev/t_oishi/articles/2d7f234ef98073",
+      "likes": 2,
+      "published_at": "2025-09-05T18:00:00+09:00"
+    },
+    {
+      "title": "Zennを始めるにあたって",
+      "url": "https://zenn.dev/asagohan13109/articles/20250901-zenn-begining",
+      "likes": 2,
+      "published_at": "2025-09-01T19:20:23+09:00"
+    },
+    {
+      "title": "ZennとQiitaの記事をGitHubで同時管理",
+      "url": "https://zenn.dev/k42uma/articles/zenn-qiita-sync",
+      "likes": 2,
+      "published_at": "2025-08-18T02:17:45+09:00"
+    },
+    {
+      "title": "Zennではじめる技術ブログ：GitHub連携と初期リポジトリ構成",
+      "url": "https://zenn.dev/arai0711/articles/zenn-github-start-guide",
+      "likes": 2,
+      "published_at": "2025-08-16T23:05:49+09:00"
+    }
+  ]
+}

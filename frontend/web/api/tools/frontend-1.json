@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "frontend",
+    "name": "frontend"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "【React Query】queryFnでundefinedをreturnしてはいけない理由と解決策",
+      "url": "https://zenn.dev/communitio/articles/react-query-queryfn-undefined",
+      "likes": 3,
+      "published_at": "2025-09-12T14:57:27+09:00"
+    },
+    {
+      "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+      "likes": 2,
+      "published_at": "2025-09-13T12:25:40+09:00"
+    },
+    {
+      "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+      "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+      "likes": 2,
+      "published_at": "2025-09-13T12:25:40+09:00"
+    },
+    {
+      "title": "Next.jsアプリケーションにおけるテスト戦略 - Jest・React Testing Library・モック活用術",
+      "url": "https://zenn.dev/ryoushin/articles/fe53f227d57636",
+      "likes": 0,
+      "published_at": "2025-09-12T12:04:00+09:00"
+    }
+  ]
+}

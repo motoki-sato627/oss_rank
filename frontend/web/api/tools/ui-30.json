@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ui",
+    "name": "ui"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 19,
+    "likes_sum": 102,
+    "score": 102.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "ユーザーを「あえて待たせる」UI設計",
+      "url": "https://zenn.dev/omu_tryangle/articles/f209fb5212cf8b",
+      "likes": 12,
+      "published_at": "2025-08-25T17:00:05+09:00"
+    },
+    {
+      "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+      "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+      "likes": 10,
+      "published_at": "2025-09-10T19:12:13+09:00"
+    },
+    {
+      "title": "デザインシステムがあると何が良いんだろう？",
+      "url": "https://zenn.dev/aldagram_tech/articles/design-system-for-what",
+      "likes": 9,
+      "published_at": "2025-09-04T15:00:02+09:00"
+    },
+    {
+      "title": "SVGアイコンのエクスポートを爆速・高品質化するFigmaのテンプレートを作った",
+      "url": "https://zenn.dev/sonicmoov/articles/design-standardization-project-icon-template",
+      "likes": 9,
+      "published_at": "2025-08-19T18:50:01+09:00"
+    },
+    {
+      "title": "【個人開発者必見】もうデザインで悩まない！Mobbinでアプリ開発を加速させる方法",
+      "url": "https://zenn.dev/nogu66/articles/9d881e712c7cc5",
+      "likes": 8,
+      "published_at": "2025-08-26T11:33:47+09:00"
+    },
+    {
+      "title": "WebアプリケーションのUI構築のポイント",
+      "url": "https://zenn.dev/tomokusaba/articles/c37aadf984fcd0",
+      "likes": 4,
+      "published_at": "2025-08-18T21:13:51+09:00"
+    },
+    {
+      "title": "エンジニアがUI/UX力を高めるには？",
+      "url": "https://zenn.dev/atware/articles/bb66136e54b956",
+      "likes": 3,
+      "published_at": "2025-08-20T17:05:35+09:00"
+    },
+    {
+      "title": "2025年8月版React UIライブラリ一覧比較ガイド",
+      "url": "https://zenn.dev/tkmemo/articles/8716b508ad1cc0",
+      "likes": 2,
+      "published_at": "2025-08-19T11:01:34+09:00"
+    },
+    {
+      "title": "hidden属性＋data属性だけでUIを制御する汎用JavaScript",
+      "url": "https://zenn.dev/jabo_sack/articles/bceaa978a30a9e",
+      "likes": 2,
+      "published_at": "2025-08-18T15:16:00+09:00"
+    }
+  ]
+}

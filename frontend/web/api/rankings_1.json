@@ -1,0 +1,2827 @@
+[
+  {
+    "slug": "robotics",
+    "name": "robotics",
+    "articles": 2,
+    "likes_sum": 81,
+    "score": 81.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "dora",
+    "name": "dora",
+    "articles": 2,
+    "likes_sum": 81,
+    "score": 81.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "physicalai",
+    "name": "physicalai",
+    "articles": 2,
+    "likes_sum": 81,
+    "score": 81.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "github",
+    "name": "github",
+    "articles": 64,
+    "likes_sum": 46,
+    "score": 46.0,
+    "articles_top5": [
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gemini",
+    "name": "gemini",
+    "articles": 2,
+    "likes_sum": 45,
+    "score": 45.0,
+    "articles_top5": [
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 23,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 22,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nanobanana",
+    "name": "nanobanana",
+    "articles": 2,
+    "likes_sum": 45,
+    "score": 45.0,
+    "articles_top5": [
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 23,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      },
+      {
+        "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+        "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+        "likes": 22,
+        "published_at": "2025-09-13T12:02:29+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "githubcopilot",
+    "name": "githubcopilot",
+    "articles": 14,
+    "likes_sum": 44,
+    "score": 44.0,
+    "articles_top5": [
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "agent",
+    "name": "agent",
+    "articles": 26,
+    "likes_sum": 42,
+    "score": 42.0,
+    "articles_top5": [
+      {
+        "title": "【翻訳】Writing effective tools for agents — with agents",
+        "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+        "likes": 6,
+        "published_at": "2025-09-12T10:42:12+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      },
+      {
+        "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+        "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+        "likes": 4,
+        "published_at": "2025-09-13T18:33:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "claudecode",
+    "name": "claudecode",
+    "articles": 32,
+    "likes_sum": 32,
+    "score": 32.0,
+    "articles_top5": [
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+        "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+        "likes": 11,
+        "published_at": "2025-09-12T08:00:01+09:00"
+      },
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      },
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      },
+      {
+        "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+        "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+        "likes": 4,
+        "published_at": "2025-09-12T13:23:26+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zennfes2025ai",
+    "name": "zennfes2025ai",
+    "articles": 34,
+    "likes_sum": 31,
+    "score": 31.0,
+    "articles_top5": [
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "生成AI + BIのプロダクト新規開発について赤裸々に紹介します",
+        "url": "https://zenn.dev/fez_tech/articles/5955b9735a1d2a",
+        "likes": 7,
+        "published_at": "2025-09-12T09:30:02+09:00"
+      },
+      {
+        "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+        "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+        "likes": 4,
+        "published_at": "2025-09-12T13:23:26+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "aiagent",
+    "name": "aiagent",
+    "articles": 16,
+    "likes_sum": 28,
+    "score": 28.0,
+    "articles_top5": [
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "accenture",
+    "name": "accenture",
+    "articles": 14,
+    "likes_sum": 28,
+    "score": 28.0,
+    "articles_top5": [
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      },
+      {
+        "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+        "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+        "likes": 2,
+        "published_at": "2025-09-13T14:45:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ios",
+    "name": "ios",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "swift",
+    "name": "swift",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "scenedelegate",
+    "name": "scenedelegate",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "appdelegate",
+    "name": "appdelegate",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0,
+    "articles_top5": [
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 14,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      },
+      {
+        "title": "SceneDelegate対応した手順や参考にした情報",
+        "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+        "likes": 13,
+        "published_at": "2025-09-12T19:20:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "llm",
+    "name": "llm",
+    "articles": 14,
+    "likes_sum": 18,
+    "score": 18.0,
+    "articles_top5": [
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "AI共創論：確率的創造の原理",
+        "url": "https://zenn.dev/eitoatsuta/articles/1fa1116949ba75",
+        "likes": 2,
+        "published_at": "2025-09-13T07:36:20+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gpiozero",
+    "name": "gpiozero",
+    "articles": 13,
+    "likes_sum": 18,
+    "score": 18.0,
+    "articles_top5": [
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "raspberrypi5",
+    "name": "raspberrypi5",
+    "articles": 13,
+    "likes_sum": 18,
+    "score": 18.0,
+    "articles_top5": [
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      },
+      {
+        "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+        "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+        "likes": 2,
+        "published_at": "2025-09-13T18:08:44+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cursor",
+    "name": "cursor",
+    "articles": 20,
+    "likes_sum": 17,
+    "score": 17.0,
+    "articles_top5": [
+      {
+        "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+        "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+        "likes": 11,
+        "published_at": "2025-09-12T08:00:01+09:00"
+      },
+      {
+        "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+        "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+        "likes": 2,
+        "published_at": "2025-09-13T12:00:01+09:00"
+      },
+      {
+        "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+        "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+        "likes": 1,
+        "published_at": "2025-09-13T17:36:28+09:00"
+      },
+      {
+        "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+        "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+        "likes": 1,
+        "published_at": "2025-09-13T17:36:28+09:00"
+      },
+      {
+        "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+        "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+        "likes": 1,
+        "published_at": "2025-09-13T17:36:28+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ai",
+    "name": "ai",
+    "articles": 83,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+        "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+        "likes": 11,
+        "published_at": "2025-09-12T08:00:01+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+        "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+        "likes": 5,
+        "published_at": "2025-09-12T00:00:00+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rds",
+    "name": "rds",
+    "articles": 16,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "postgres",
+    "name": "postgres",
+    "articles": 14,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zennfes2025free",
+    "name": "zennfes2025free",
+    "articles": 66,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+        "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+        "likes": 10,
+        "published_at": "2025-09-12T00:02:05+09:00"
+      },
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      },
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      },
+      {
+        "title": "A/Bテスト理解のための統計学 〜 具体例から専門用語へ、段階的に理解する仮説検定",
+        "url": "https://zenn.dev/assign/articles/ce0b6d63d1c265",
+        "likes": 3,
+        "published_at": "2025-09-12T15:08:15+09:00"
+      },
+      {
+        "title": "z-index の沼から抜け出す",
+        "url": "https://zenn.dev/moderncraft/articles/c65fb2e25ab3b2",
+        "likes": 3,
+        "published_at": "2025-09-12T12:11:39+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rdb",
+    "name": "rdb",
+    "articles": 14,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "python",
+    "name": "python",
+    "articles": 70,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "postgresql",
+    "name": "postgresql",
+    "articles": 16,
+    "likes_sum": 14,
+    "score": 14.0,
+    "articles_top5": [
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      },
+      {
+        "title": "【保存版】PostgreSQLのコマンド集",
+        "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+        "likes": 1,
+        "published_at": "2025-09-13T16:49:54+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "pyo3",
+    "name": "pyo3",
+    "articles": 14,
+    "likes_sum": 12,
+    "score": 12.0,
+    "articles_top5": [
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "apachearrow",
+    "name": "apachearrow",
+    "articles": 14,
+    "likes_sum": 12,
+    "score": 12.0,
+    "articles_top5": [
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "numpy",
+    "name": "numpy",
+    "articles": 14,
+    "likes_sum": 12,
+    "score": 12.0,
+    "articles_top5": [
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      },
+      {
+        "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+        "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+        "likes": 1,
+        "published_at": "2025-09-13T17:02:34+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rust",
+    "name": "rust",
+    "articles": 14,
+    "likes_sum": 12,
+    "score": 12.0,
+    "articles_top5": [
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 41,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+        "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+        "likes": 40,
+        "published_at": "2025-09-12T21:08:47+09:00"
+      },
+      {
+        "title": "RUST MOON / 例え月が見えなくても",
+        "url": "https://zenn.dev/doctormate/articles/ee2f1f8bc2c76d",
+        "likes": 4,
+        "published_at": "2025-09-12T09:09:45+09:00"
+      },
+      {
+        "title": "rust の vector 操作まとめ",
+        "url": "https://zenn.dev/sawawada8/articles/a44ce136c0fd29",
+        "likes": 4,
+        "published_at": "2025-09-12T00:14:11+09:00"
+      },
+      {
+        "title": "ALDS1(01~06)の解説",
+        "url": "https://zenn.dev/hashisato/articles/c7522698276b6c",
+        "likes": 2,
+        "published_at": "2025-09-12T09:27:55+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vscode",
+    "name": "vscode",
+    "articles": 25,
+    "likes_sum": 12,
+    "score": 12.0,
+    "articles_top5": [
+      {
+        "title": "Angular + VS Code デバッグ環境構築での「バインドされていないブレークポイント」解決報告",
+        "url": "https://zenn.dev/fairydevices/articles/83f6d646ffd59d",
+        "likes": 8,
+        "published_at": "2025-09-12T11:15:01+09:00"
+      },
+      {
+        "title": "VS Code v1.104 新機能ざっくりまとめ",
+        "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+        "likes": 2,
+        "published_at": "2025-09-12T18:25:45+09:00"
+      },
+      {
+        "title": "VS Code v1.104 新機能ざっくりまとめ",
+        "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+        "likes": 2,
+        "published_at": "2025-09-12T18:25:45+09:00"
+      },
+      {
+        "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+        "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+        "likes": 1,
+        "published_at": "2025-09-13T17:36:28+09:00"
+      },
+      {
+        "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+        "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+        "likes": 1,
+        "published_at": "2025-09-13T17:36:28+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "githubactions",
+    "name": "githubactions",
+    "articles": 4,
+    "likes_sum": 10,
+    "score": 10.0,
+    "articles_top5": [
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      },
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      },
+      {
+        "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+        "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+        "likes": 4,
+        "published_at": "2025-09-12T13:23:26+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "agentspace",
+    "name": "agentspace",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0,
+    "articles_top5": [
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "agentengine",
+    "name": "agentengine",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0,
+    "articles_top5": [
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      },
+      {
+        "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+        "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+        "likes": 5,
+        "published_at": "2025-09-12T20:33:11+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "firebase",
+    "name": "firebase",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0,
+    "articles_top5": [
+      {
+        "title": "「ぞうのあしあと」を開発しました",
+        "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+        "likes": 5,
+        "published_at": "2025-09-12T19:52:02+09:00"
+      },
+      {
+        "title": "「ぞうのあしあと」を開発しました",
+        "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+        "likes": 5,
+        "published_at": "2025-09-12T19:52:02+09:00"
+      },
+      {
+        "title": "Firebase Authentication Admin SDKによるパスワード強制変更",
+        "url": "https://zenn.dev/actbe_tech/articles/342ccb8660f2b4",
+        "likes": 1,
+        "published_at": "2025-09-12T17:00:02+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "claudecodeaction",
+    "name": "claudecodeaction",
+    "articles": 2,
+    "likes_sum": 8,
+    "score": 8.0,
+    "articles_top5": [
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      },
+      {
+        "title": "Claude Code Actionの初期設定を見直す",
+        "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+        "likes": 4,
+        "published_at": "2025-09-12T19:04:17+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "mcp",
+    "name": "mcp",
+    "articles": 8,
+    "likes_sum": 8,
+    "score": 8.0,
+    "articles_top5": [
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+        "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+        "likes": 4,
+        "published_at": "2025-09-12T18:05:23+09:00"
+      },
+      {
+        "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+        "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+        "likes": 2,
+        "published_at": "2025-09-13T12:00:01+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 2,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cloudflare",
+    "name": "cloudflare",
+    "articles": 18,
+    "likes_sum": 8,
+    "score": 8.0,
+    "articles_top5": [
+      {
+        "title": "Cloudflare Browser Renderingに入門してみる",
+        "url": "https://zenn.dev/oda/articles/0939ce0b844a6f",
+        "likes": 4,
+        "published_at": "2025-09-12T01:31:58+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      },
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "aifoundry",
+    "name": "aifoundry",
+    "articles": 9,
+    "likes_sum": 7,
+    "score": 7.0,
+    "articles_top5": [
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "realtimeapi",
+    "name": "realtimeapi",
+    "articles": 9,
+    "likes_sum": 7,
+    "score": 7.0,
+    "articles_top5": [
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gptrealtime",
+    "name": "gptrealtime",
+    "articles": 9,
+    "likes_sum": 7,
+    "score": 7.0,
+    "articles_top5": [
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      },
+      {
+        "title": "gpt-realtime ver2025-08-28を体験 - Azure AI Foundry",
+        "url": "https://zenn.dev/headwaters/articles/d87bbd10bb4c2f",
+        "likes": 1,
+        "published_at": "2025-09-13T21:35:59+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "architecture",
+    "name": "architecture",
+    "articles": 2,
+    "likes_sum": 6,
+    "score": 6.0,
+    "articles_top5": [
+      {
+        "title": "量子計算を利用した統計モデリングの例",
+        "url": "https://zenn.dev/headwaters/articles/a6b4b2cb195010",
+        "likes": 3,
+        "published_at": "2025-09-13T11:10:43+09:00"
+      },
+      {
+        "title": "量子計算を利用した統計モデリングの例",
+        "url": "https://zenn.dev/headwaters/articles/a6b4b2cb195010",
+        "likes": 3,
+        "published_at": "2025-09-13T11:10:43+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "webassembly",
+    "name": "webassembly",
+    "articles": 2,
+    "likes_sum": 6,
+    "score": 6.0,
+    "articles_top5": [
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      },
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "sqlite",
+    "name": "sqlite",
+    "articles": 2,
+    "likes_sum": 6,
+    "score": 6.0,
+    "articles_top5": [
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      },
+      {
+        "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+        "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+        "likes": 3,
+        "published_at": "2025-09-12T19:16:16+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "tech",
+    "name": "tech",
+    "articles": 4,
+    "likes_sum": 5,
+    "score": 5.0,
+    "articles_top5": [
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 2,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 1,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      },
+      {
+        "title": "「Google Cloud最新トレンド、もうキャッチアップしましたか？」～【googlecloud】人気記事TOP5（2025/09/07）",
+        "url": "https://zenn.dev/carenet/articles/zenn-weekly-googlecloud-articles-2025-09",
+        "likes": 0,
+        "published_at": "2025-09-12T11:39:45+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "graphai",
+    "name": "graphai",
+    "articles": 4,
+    "likes_sum": 5,
+    "score": 5.0,
+    "articles_top5": [
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 2,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 1,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "mulmocast",
+    "name": "mulmocast",
+    "articles": 4,
+    "likes_sum": 5,
+    "score": 5.0,
+    "articles_top5": [
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 2,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - Create Slides with mcp",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+        "likes": 1,
+        "published_at": "2025-09-13T06:52:32+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      },
+      {
+        "title": "MulmoCast Vision - mcpでスライドをつくる",
+        "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+        "likes": 1,
+        "published_at": "2025-09-13T05:59:08+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "frontend",
+    "name": "frontend",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+        "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+        "likes": 6,
+        "published_at": "2025-09-12T18:29:23+09:00"
+      },
+      {
+        "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+        "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+        "likes": 6,
+        "published_at": "2025-09-12T18:29:23+09:00"
+      },
+      {
+        "title": "【React Query】queryFnでundefinedをreturnしてはいけない理由と解決策",
+        "url": "https://zenn.dev/communitio/articles/react-query-queryfn-undefined",
+        "likes": 3,
+        "published_at": "2025-09-12T14:57:27+09:00"
+      },
+      {
+        "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+        "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+        "likes": 2,
+        "published_at": "2025-09-13T12:25:40+09:00"
+      },
+      {
+        "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+        "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+        "likes": 2,
+        "published_at": "2025-09-13T12:25:40+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "supervisor",
+    "name": "supervisor",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "LangGraph Supervisorのwatsonxの挙動",
+        "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+        "likes": 2,
+        "published_at": "2025-09-12T20:09:19+09:00"
+      },
+      {
+        "title": "LangGraph Supervisorのwatsonxの挙動",
+        "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+        "likes": 2,
+        "published_at": "2025-09-12T20:09:19+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nuxt",
+    "name": "nuxt",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "chatgpt",
+    "name": "chatgpt",
+    "articles": 8,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+        "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+        "likes": 5,
+        "published_at": "2025-09-12T00:00:00+09:00"
+      },
+      {
+        "title": "ChatGPT MCP Connector フルサポートを試した",
+        "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+        "likes": 2,
+        "published_at": "2025-09-12T08:15:19+09:00"
+      },
+      {
+        "title": "ChatGPTが書くコードは複雑になりがちなので「手続き型で初心者にもわかりやすく短めに」と伝えるべき！",
+        "url": "https://zenn.dev/tokunagakazuya/articles/202509130000",
+        "likes": 1,
+        "published_at": "2025-09-13T00:00:05+09:00"
+      },
+      {
+        "title": "ChatGPTが書くコードは複雑になりがちなので「手続き型で初心者にもわかりやすく短めに」と伝えるべき！",
+        "url": "https://zenn.dev/tokunagakazuya/articles/202509130000",
+        "likes": 1,
+        "published_at": "2025-09-13T00:00:05+09:00"
+      },
+      {
+        "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+        "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+        "likes": 1,
+        "published_at": "2025-09-12T22:01:02+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "netlify",
+    "name": "netlify",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vercel",
+    "name": "vercel",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "watsonx",
+    "name": "watsonx",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "LangGraph Supervisorのwatsonxの挙動",
+        "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+        "likes": 2,
+        "published_at": "2025-09-12T20:09:19+09:00"
+      },
+      {
+        "title": "LangGraph Supervisorのwatsonxの挙動",
+        "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+        "likes": 2,
+        "published_at": "2025-09-12T20:09:19+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "cybozufrontendweek",
+    "name": "cybozufrontendweek",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+        "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+        "likes": 2,
+        "published_at": "2025-09-13T12:25:40+09:00"
+      },
+      {
+        "title": "Interop 2026提案募集開始など: Cybozu Frontend Weekly (2025-09-09号)",
+        "url": "https://zenn.dev/cybozu_frontend/articles/few-2025-09-09",
+        "likes": 2,
+        "published_at": "2025-09-13T12:25:40+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "terraform",
+    "name": "terraform",
+    "articles": 4,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "tfaction を段階的に導入した",
+        "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+        "likes": 10,
+        "published_at": "2025-09-12T19:00:01+09:00"
+      },
+      {
+        "title": "SLO のセルフサービス化を推進している話",
+        "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+        "likes": 5,
+        "published_at": "2025-09-12T12:26:50+09:00"
+      },
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      },
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "zerotrust",
+    "name": "zerotrust",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      },
+      {
+        "title": "Cloudflare Zero Trust で Worker を保護する",
+        "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+        "likes": 2,
+        "published_at": "2025-09-13T00:31:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "nitro",
+    "name": "nitro",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      },
+      {
+        "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+        "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+        "likes": 2,
+        "published_at": "2025-09-13T10:12:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rag",
+    "name": "rag",
+    "articles": 16,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "RAGの精度改善手法10選【2025年最新版】",
+        "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+        "likes": 2,
+        "published_at": "2025-09-13T02:10:22+09:00"
+      },
+      {
+        "title": "RAGの精度改善手法10選【2025年最新版】",
+        "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+        "likes": 2,
+        "published_at": "2025-09-13T02:10:22+09:00"
+      },
+      {
+        "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+        "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+        "likes": 0,
+        "published_at": "2025-09-13T14:36:03+09:00"
+      },
+      {
+        "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+        "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+        "likes": 0,
+        "published_at": "2025-09-13T14:36:03+09:00"
+      },
+      {
+        "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+        "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+        "likes": 0,
+        "published_at": "2025-09-13T14:36:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "aws",
+    "name": "aws",
+    "articles": 24,
+    "likes_sum": 4,
+    "score": 4.0,
+    "articles_top5": [
+      {
+        "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+        "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+        "likes": 4,
+        "published_at": "2025-09-12T15:56:05+09:00"
+      },
+      {
+        "title": "CLI から Go アプリケーションを Lambda にデプロイしてみた",
+        "url": "https://zenn.dev/mn87/articles/110b789a81b120",
+        "likes": 2,
+        "published_at": "2025-09-12T07:30:01+09:00"
+      },
+      {
+        "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+        "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+        "likes": 1,
+        "published_at": "2025-09-13T14:21:35+09:00"
+      },
+      {
+        "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+        "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+        "likes": 1,
+        "published_at": "2025-09-13T14:21:35+09:00"
+      },
+      {
+        "title": "Amazon Inspector の ECR Image スキャンで古いイメージの検出結果を抑制する",
+        "url": "https://zenn.dev/metalels86/articles/846d1f3611bdb3",
+        "likes": 1,
+        "published_at": "2025-09-13T00:57:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "playwright",
+    "name": "playwright",
+    "articles": 2,
+    "likes_sum": 3,
+    "score": 3.0,
+    "articles_top5": [
+      {
+        "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+        "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+        "likes": 23,
+        "published_at": "2025-09-12T13:45:05+09:00"
+      },
+      {
+        "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+        "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+        "likes": 2,
+        "published_at": "2025-09-13T12:00:01+09:00"
+      },
+      {
+        "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+        "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+        "likes": 1,
+        "published_at": "2025-09-13T12:00:01+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "scheme",
+    "name": "scheme",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      },
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "database",
+    "name": "database",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      },
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      },
+      {
+        "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+        "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+        "likes": 0,
+        "published_at": "2025-09-13T03:06:49+09:00"
+      },
+      {
+        "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+        "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+        "likes": 0,
+        "published_at": "2025-09-13T03:06:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "matplotlib",
+    "name": "matplotlib",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "claude codeに3次元のフラクタル図形書かせてみた",
+        "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+        "likes": 1,
+        "published_at": "2025-09-12T23:07:09+09:00"
+      },
+      {
+        "title": "claude codeに3次元のフラクタル図形書かせてみた",
+        "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+        "likes": 1,
+        "published_at": "2025-09-12T23:07:09+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "sns",
+    "name": "sns",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "IT事情徒然：3章-3: SNSのリスク・規制・安全性の課題",
+        "url": "https://zenn.dev/sesamy_jp/articles/b6f3c3fc228ead",
+        "likes": 1,
+        "published_at": "2025-09-12T21:51:46+09:00"
+      },
+      {
+        "title": "IT事情徒然：3章-3: SNSのリスク・規制・安全性の課題",
+        "url": "https://zenn.dev/sesamy_jp/articles/b6f3c3fc228ead",
+        "likes": 1,
+        "published_at": "2025-09-12T21:51:46+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "git",
+    "name": "git",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+        "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+        "likes": 1,
+        "published_at": "2025-09-13T13:36:17+09:00"
+      },
+      {
+        "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+        "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+        "likes": 1,
+        "published_at": "2025-09-13T13:36:17+09:00"
+      },
+      {
+        "title": "GitHubで公開リポジトリにプライベートなブランチを生やす",
+        "url": "https://zenn.dev/hiroga/articles/github-public-repo-private-branch",
+        "likes": 1,
+        "published_at": "2025-09-12T17:51:53+09:00"
+      },
+      {
+        "title": "GitHubで公開リポジトリにプライベートなブランチを生やす",
+        "url": "https://zenn.dev/hiroga/articles/github-public-repo-private-branch",
+        "likes": 1,
+        "published_at": "2025-09-12T17:51:53+09:00"
+      },
+      {
+        "title": "💻 GitHubアカウントを2つ作ってWindowsとWSLで快適に使い分ける設定 🐧",
+        "url": "https://zenn.dev/saetag/articles/cc6d71562e1cf0",
+        "likes": 0,
+        "published_at": "2025-09-13T05:56:18+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "lint",
+    "name": "lint",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "domainをsharedに入れてはいけない理由",
+        "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+        "likes": 1,
+        "published_at": "2025-09-13T06:39:12+09:00"
+      },
+      {
+        "title": "domainをsharedに入れてはいけない理由",
+        "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+        "likes": 1,
+        "published_at": "2025-09-13T06:39:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ubuntu",
+    "name": "ubuntu",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      },
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "dnf",
+    "name": "dnf",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "pillow",
+    "name": "pillow",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "claude codeに3次元のフラクタル図形書かせてみた",
+        "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+        "likes": 1,
+        "published_at": "2025-09-12T23:07:09+09:00"
+      },
+      {
+        "title": "claude codeに3次元のフラクタル図形書かせてみた",
+        "url": "https://zenn.dev/akasan/articles/f90c2940cf1ef3",
+        "likes": 1,
+        "published_at": "2025-09-12T23:07:09+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "circleci",
+    "name": "circleci",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "【CircleCI】Workflowの自動リトライ機能を試してみた",
+        "url": "https://zenn.dev/cliffstar/articles/d76d5bb7dd80bc",
+        "likes": 1,
+        "published_at": "2025-09-12T20:19:21+09:00"
+      },
+      {
+        "title": "【CircleCI】Workflowの自動リトライ機能を試してみた",
+        "url": "https://zenn.dev/cliffstar/articles/d76d5bb7dd80bc",
+        "likes": 1,
+        "published_at": "2025-09-12T20:19:21+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "jetpackcompose",
+    "name": "jetpackcompose",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      },
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rhel",
+    "name": "rhel",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "Apacheアップデート後に「421 Misdirected Request」が発生した話",
+        "url": "https://zenn.dev/kacchan822/articles/c23c965d0a3312",
+        "likes": 0,
+        "published_at": "2025-09-12T16:07:57+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "rails",
+    "name": "rails",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "なんでなんだよRuby――初めて触って混乱したポイント5つ",
+        "url": "https://zenn.dev/spacemarket/articles/a77ff09c1a0c76",
+        "likes": 2,
+        "published_at": "2025-09-12T17:03:33+09:00"
+      },
+      {
+        "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+        "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+        "likes": 1,
+        "published_at": "2025-09-13T04:42:12+09:00"
+      },
+      {
+        "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+        "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+        "likes": 1,
+        "published_at": "2025-09-13T04:42:12+09:00"
+      },
+      {
+        "title": "Rails N + 1",
+        "url": "https://zenn.dev/tekitou/articles/cc726b55ef5e2f",
+        "likes": 0,
+        "published_at": "2025-09-13T09:53:04+09:00"
+      },
+      {
+        "title": "Rails N + 1",
+        "url": "https://zenn.dev/tekitou/articles/cc726b55ef5e2f",
+        "likes": 0,
+        "published_at": "2025-09-13T09:53:04+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "inspector",
+    "name": "inspector",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "Amazon Inspector の ECR Image スキャンで古いイメージの検出結果を抑制する",
+        "url": "https://zenn.dev/metalels86/articles/846d1f3611bdb3",
+        "likes": 1,
+        "published_at": "2025-09-13T00:57:03+09:00"
+      },
+      {
+        "title": "Amazon Inspector の ECR Image スキャンで古いイメージの検出結果を抑制する",
+        "url": "https://zenn.dev/metalels86/articles/846d1f3611bdb3",
+        "likes": 1,
+        "published_at": "2025-09-13T00:57:03+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "modeling",
+    "name": "modeling",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      },
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "centos",
+    "name": "centos",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "temporal",
+    "name": "temporal",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      },
+      {
+        "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+        "url": "https://zenn.dev/su8/articles/6d87493811052b",
+        "likes": 1,
+        "published_at": "2025-09-13T14:14:36+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "sql",
+    "name": "sql",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+        "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+        "likes": 1,
+        "published_at": "2025-09-13T04:42:12+09:00"
+      },
+      {
+        "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+        "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+        "likes": 1,
+        "published_at": "2025-09-13T04:42:12+09:00"
+      },
+      {
+        "title": "クエリの可視化で理解を深めるには",
+        "url": "https://zenn.dev/atsushimemet/articles/df2b14d23a7cef",
+        "likes": 1,
+        "published_at": "2025-09-12T11:11:36+09:00"
+      },
+      {
+        "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+        "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+        "likes": 0,
+        "published_at": "2025-09-13T03:06:49+09:00"
+      },
+      {
+        "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+        "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+        "likes": 0,
+        "published_at": "2025-09-13T03:06:49+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "yum",
+    "name": "yum",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "domain",
+    "name": "domain",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "domainをsharedに入れてはいけない理由",
+        "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+        "likes": 1,
+        "published_at": "2025-09-13T06:39:12+09:00"
+      },
+      {
+        "title": "domainをsharedに入れてはいけない理由",
+        "url": "https://zenn.dev/nanyanen/articles/c08d2d087a574a",
+        "likes": 1,
+        "published_at": "2025-09-13T06:39:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "ubuntuserver",
+    "name": "ubuntuserver",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      },
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "devsecops",
+    "name": "devsecops",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+        "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+        "likes": 1,
+        "published_at": "2025-09-13T11:21:42+09:00"
+      },
+      {
+        "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+        "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+        "likes": 1,
+        "published_at": "2025-09-13T11:21:42+09:00"
+      },
+      {
+        "title": "マルチステージCIとGitOpsで実現するマイクロサービスのCI/CD戦略",
+        "url": "https://zenn.dev/suwash/articles/microservices_cicd_20250912",
+        "likes": 0,
+        "published_at": "2025-09-12T00:00:00+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "materialdesign",
+    "name": "materialdesign",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      },
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gauche",
+    "name": "gauche",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      },
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "vibecoding",
+    "name": "vibecoding",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "複数のAIコーディングアシスタントをプロジェクトで利用してみた所感",
+        "url": "https://zenn.dev/imaichiyyy/articles/597dccbdc814b0",
+        "likes": 1,
+        "published_at": "2025-09-13T11:59:42+09:00"
+      },
+      {
+        "title": "複数のAIコーディングアシスタントをプロジェクトで利用してみた所感",
+        "url": "https://zenn.dev/imaichiyyy/articles/597dccbdc814b0",
+        "likes": 1,
+        "published_at": "2025-09-13T11:59:42+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "kotlin",
+    "name": "kotlin",
+    "articles": 6,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      },
+      {
+        "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+        "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+        "likes": 1,
+        "published_at": "2025-09-12T21:52:06+09:00"
+      },
+      {
+        "title": "[Android][Kotlin][Vuforia][AR]Vuforia11.4.4の公式サンプルコードを動かしてみた。",
+        "url": "https://zenn.dev/rg687076/articles/1e46e1bd60b2fe",
+        "likes": 0,
+        "published_at": "2025-09-13T13:35:26+09:00"
+      },
+      {
+        "title": "[Android][Kotlin][Vuforia][AR]Vuforia11.4.4の公式サンプルコードを動かしてみた。",
+        "url": "https://zenn.dev/rg687076/articles/1e46e1bd60b2fe",
+        "likes": 0,
+        "published_at": "2025-09-13T13:35:26+09:00"
+      },
+      {
+        "title": "[Android][Kotlin][Vuforia][AR]Vuforiaで動画再生ARを実装してみた。",
+        "url": "https://zenn.dev/rg687076/articles/e382b1224a97dd",
+        "likes": 0,
+        "published_at": "2025-09-13T00:24:19+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "awssap",
+    "name": "awssap",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+        "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+        "likes": 1,
+        "published_at": "2025-09-13T14:21:35+09:00"
+      },
+      {
+        "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+        "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+        "likes": 1,
+        "published_at": "2025-09-13T14:21:35+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "gimai",
+    "name": "gimai",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+        "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+        "likes": 1,
+        "published_at": "2025-09-12T22:01:02+09:00"
+      },
+      {
+        "title": "🌑 魂コード外伝 GIMAI篇【前編】",
+        "url": "https://zenn.dev/noobuu556304/articles/fd4efa72cfd31e",
+        "likes": 1,
+        "published_at": "2025-09-12T22:01:02+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "docker",
+    "name": "docker",
+    "articles": 21,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+        "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+        "likes": 4,
+        "published_at": "2025-09-12T15:56:05+09:00"
+      },
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      },
+      {
+        "title": "Gauche の実行環境を Docker で構築",
+        "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+        "likes": 1,
+        "published_at": "2025-09-13T02:52:27+09:00"
+      },
+      {
+        "title": "【Docker】docker ps と docker ps -a の違いを整理する",
+        "url": "https://zenn.dev/fd2025/articles/980363efbd7fe4",
+        "likes": 0,
+        "published_at": "2025-09-13T17:12:12+09:00"
+      },
+      {
+        "title": "【Docker】docker ps と docker ps -a の違いを整理する",
+        "url": "https://zenn.dev/fd2025/articles/980363efbd7fe4",
+        "likes": 0,
+        "published_at": "2025-09-13T17:12:12+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "security",
+    "name": "security",
+    "articles": 25,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+        "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+        "likes": 1,
+        "published_at": "2025-09-13T11:21:42+09:00"
+      },
+      {
+        "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+        "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+        "likes": 1,
+        "published_at": "2025-09-13T11:21:42+09:00"
+      },
+      {
+        "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+        "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+        "likes": 0,
+        "published_at": "2025-09-13T20:47:59+09:00"
+      },
+      {
+        "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+        "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+        "likes": 0,
+        "published_at": "2025-09-13T20:47:59+09:00"
+      },
+      {
+        "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+        "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+        "likes": 0,
+        "published_at": "2025-09-13T20:47:59+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "linux",
+    "name": "linux",
+    "articles": 18,
+    "likes_sum": 2,
+    "score": 2.0,
+    "articles_top5": [
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      },
+      {
+        "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+        "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+        "likes": 1,
+        "published_at": "2025-09-12T22:55:12+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+        "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+        "likes": 1,
+        "published_at": "2025-09-12T21:07:52+09:00"
+      },
+      {
+        "title": "Debianのスワップサイズを変更",
+        "url": "https://zenn.dev/kaorumori/articles/8d32f011492b4e",
+        "likes": 1,
+        "published_at": "2025-09-12T11:38:22+09:00"
+      }
+    ]
+  },
+  {
+    "slug": "openwebui",
+    "name": "openwebui",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "proceduralmacros",
+    "name": "proceduralmacros",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "scss",
+    "name": "scss",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "context7",
+    "name": "context7",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "debugging",
+    "name": "debugging",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "cpp17",
+    "name": "cpp17",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  },
+  {
+    "slug": "debian",
+    "name": "debian",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0,
+    "articles_top5": []
+  }
+]

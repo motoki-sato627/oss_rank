@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "mastra",
+    "name": "mastra"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 81,
+    "score": 81.0
+  },
+  "articles_top": [
+    {
+      "title": "Mastra × MCPでドキュメント作成を自動化してみる",
+      "url": "https://zenn.dev/forcia_tech/articles/20250815_mastra_agent_creation_tutorial_kontani",
+      "likes": 43,
+      "published_at": "2025-08-29T13:00:01+09:00"
+    },
+    {
+      "title": "MastraのMemory機能を深掘る 〜AIエージェントの記憶システム実践ガイド〜",
+      "url": "https://zenn.dev/nextbeat/articles/mastra-memory-storage",
+      "likes": 30,
+      "published_at": "2025-08-18T13:28:54+09:00"
+    },
+    {
+      "title": "Mastra/Next.jsで作るモデレータAIが治安維持するSNS",
+      "url": "https://zenn.dev/yokomachi/articles/20250830_mastra_moderator_ai_agent",
+      "likes": 4,
+      "published_at": "2025-08-30T19:39:43+09:00"
+    },
+    {
+      "title": "MastraがMCP OAuthに対応してないので自分で書いてみた",
+      "url": "https://zenn.dev/kinon/articles/8845283290c91b",
+      "likes": 2,
+      "published_at": "2025-08-17T00:13:28+09:00"
+    },
+    {
+      "title": "Mastraで会話履歴が保存されるチャットアプリを作るまで(ポスグレに保存)",
+      "url": "https://zenn.dev/fatricepaddyy/articles/mastrasample",
+      "likes": 1,
+      "published_at": "2025-09-04T15:57:49+09:00"
+    },
+    {
+      "title": "Mastraでマルチエージェントワークフローを動かすまでの備忘録",
+      "url": "https://zenn.dev/serio/articles/655673a6b59f66",
+      "likes": 1,
+      "published_at": "2025-09-03T16:20:13+09:00"
+    },
+    {
+      "title": "Mastra WorkflowをHono経由でストリーミングしてフロントで受け取る方法",
+      "url": "https://zenn.dev/hirokisakabe/articles/df5062312776f7",
+      "likes": 0,
+      "published_at": "2025-09-13T21:12:39+09:00"
+    },
+    {
+      "title": "Mastra WorkflowをHono経由でストリーミングしてフロントで受け取る方法",
+      "url": "https://zenn.dev/hirokisakabe/articles/df5062312776f7",
+      "likes": 0,
+      "published_at": "2025-09-13T21:12:39+09:00"
+    },
+    {
+      "title": "Mastra WorkflowをHono経由でストリーミングしてフロントで受け取る方法",
+      "url": "https://zenn.dev/hirokisakabe/articles/df5062312776f7",
+      "likes": 0,
+      "published_at": "2025-09-13T21:12:39+09:00"
+    },
+    {
+      "title": "Mastra WorkflowをHono経由でストリーミングしてフロントで受け取る方法",
+      "url": "https://zenn.dev/hirokisakabe/articles/df5062312776f7",
+      "likes": 0,
+      "published_at": "2025-09-13T21:12:39+09:00"
+    }
+  ]
+}

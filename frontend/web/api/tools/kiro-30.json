@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "kiro",
+    "name": "kiro"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 34,
+    "likes_sum": 280,
+    "score": 280.0
+  },
+  "articles_top": [
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "サブスクリプションが始まったKiroに関する最近の事情",
+      "url": "https://zenn.dev/beagle/articles/5360946ada5607",
+      "likes": 44,
+      "published_at": "2025-08-18T11:34:51+09:00"
+    },
+    {
+      "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+      "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+      "likes": 35,
+      "published_at": "2025-09-09T17:22:06+09:00"
+    },
+    {
+      "title": "Swift × Kiro × ClaudeCode",
+      "url": "https://zenn.dev/jambo_dev/articles/34fe2c1db1ae05",
+      "likes": 24,
+      "published_at": "2025-08-29T12:18:33+09:00"
+    },
+    {
+      "title": "AIコーディングで「保活手帳」というアプリをリリースした",
+      "url": "https://zenn.dev/chiilog/articles/17cb9efc840d3c",
+      "likes": 17,
+      "published_at": "2025-09-01T22:52:14+09:00"
+    },
+    {
+      "title": "Hello Kiro ~要件定義からアプリ起動まで~",
+      "url": "https://zenn.dev/acntechjp/articles/f501c283aecba8",
+      "likes": 8,
+      "published_at": "2025-08-17T00:41:32+09:00"
+    },
+    {
+      "title": "Kiro開発のリアル：開発者が知るべきコスト＆品質の両立法",
+      "url": "https://zenn.dev/nttdata_tech/articles/9697fe27aedf24",
+      "likes": 7,
+      "published_at": "2025-08-26T14:40:18+09:00"
+    },
+    {
+      "title": "spec-workflow-mcpとは？Claude CodeでKiroのような仕様駆動開発を実現",
+      "url": "https://zenn.dev/kuronomagi/articles/what-is-spec-workflow-mcp",
+      "likes": 6,
+      "published_at": "2025-09-10T15:40:50+09:00"
+    },
+    {
+      "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+      "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+      "likes": 6,
+      "published_at": "2025-09-06T18:32:07+09:00"
+    },
+    {
+      "title": "Kiro + Claude Code + CodeRabbit でWordPressのカスタムブロックを作ってみた",
+      "url": "https://zenn.dev/hamworks/articles/6172ae2f9fce99",
+      "likes": 6,
+      "published_at": "2025-08-18T11:42:42+09:00"
+    }
+  ]
+}

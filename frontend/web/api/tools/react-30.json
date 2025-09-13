@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "react",
+    "name": "react"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 167,
+    "likes_sum": 1630,
+    "score": 1630.0
+  },
+  "articles_top": [
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "Figma MCPを攻略して最高のコード生成を実現する",
+      "url": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+      "likes": 139,
+      "published_at": "2025-08-27T10:58:53+09:00"
+    },
+    {
+      "title": "角をとっただけでは勝てないリバーシの亜種を作った",
+      "url": "https://zenn.dev/pepabo/articles/087530fa5ac5ef",
+      "likes": 102,
+      "published_at": "2025-08-26T09:30:01+09:00"
+    },
+    {
+      "title": "【フロントエンド向け】JWTの安全な保管場所とCSRF・XSS対策の技術解説",
+      "url": "https://zenn.dev/wyuma/articles/4c9ca1eedca8e9",
+      "likes": 85,
+      "published_at": "2025-08-31T02:03:40+09:00"
+    },
+    {
+      "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
+      "url": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
+      "likes": 78,
+      "published_at": "2025-08-27T06:59:22+09:00"
+    },
+    {
+      "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+      "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+      "likes": 70,
+      "published_at": "2025-09-08T12:07:31+09:00"
+    },
+    {
+      "title": "コンポーネント指向と「ロジック」「描画」の適切な分離 #ヌーラボブログリレー2025夏",
+      "url": "https://zenn.dev/foo_543674/articles/e41cb604df5d51",
+      "likes": 67,
+      "published_at": "2025-09-03T10:35:45+09:00"
+    },
+    {
+      "title": "🎨Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話",
+      "url": "https://zenn.dev/canly/articles/a40805a70ad59f",
+      "likes": 63,
+      "published_at": "2025-09-04T12:01:21+09:00"
+    },
+    {
+      "title": "Next.js はどうやって React Compiler を実行しているのか",
+      "url": "https://zenn.dev/ishiharu/articles/how-nextjs-uses-react-compiler",
+      "likes": 53,
+      "published_at": "2025-08-22T02:48:28+09:00"
+    }
+  ]
+}

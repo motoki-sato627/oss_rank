@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "iac",
+    "name": "iac"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 20,
+    "score": 20.0
+  },
+  "articles_top": [
+    {
+      "title": "Terraform + Slack + AIで権限管理を自動化",
+      "url": "https://zenn.dev/finatext/articles/0f82881007ac66",
+      "likes": 9,
+      "published_at": "2025-09-09T15:04:25+09:00"
+    },
+    {
+      "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+      "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+      "likes": 6,
+      "published_at": "2025-09-08T05:00:01+09:00"
+    },
+    {
+      "title": "Terraform Google Provider 7.0.0 の新機能と変更点について",
+      "url": "https://zenn.dev/cloud_ace/articles/terraform-google-provider-7",
+      "likes": 3,
+      "published_at": "2025-09-09T12:00:44+09:00"
+    },
+    {
+      "title": "【Azure】BicepからARMテンプレートに変換しAzureにデプロイする方法",
+      "url": "https://zenn.dev/headwaters/articles/cabd8666aad614",
+      "likes": 2,
+      "published_at": "2025-09-09T12:48:11+09:00"
+    },
+    {
+      "title": "Python Flask + Terraform + AWS デプロイガイド",
+      "url": "https://zenn.dev/programing_gym/articles/1ce9f2714f4ca5",
+      "likes": 0,
+      "published_at": "2025-09-13T13:18:48+09:00"
+    },
+    {
+      "title": "Python Flask + Terraform + AWS デプロイガイド",
+      "url": "https://zenn.dev/programing_gym/articles/1ce9f2714f4ca5",
+      "likes": 0,
+      "published_at": "2025-09-13T13:18:48+09:00"
+    }
+  ]
+}

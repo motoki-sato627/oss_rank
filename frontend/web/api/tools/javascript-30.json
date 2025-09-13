@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "javascript",
+    "name": "javascript"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 206,
+    "likes_sum": 904,
+    "score": 904.0
+  },
+  "articles_top": [
+    {
+      "title": "夏休みの終わりこそ復習しておきたい、ES2016以降のモダンJavaScript再入門",
+      "url": "https://zenn.dev/cybozu_frontend/articles/js_after_es7",
+      "likes": 243,
+      "published_at": "2025-08-28T17:18:15+09:00"
+    },
+    {
+      "title": "異世界JavaScript",
+      "url": "https://zenn.dev/mod_poppo/articles/isekai-javascript",
+      "likes": 137,
+      "published_at": "2025-08-31T23:23:22+09:00"
+    },
+    {
+      "title": "JavaScript三十六景Tips集",
+      "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+      "likes": 116,
+      "published_at": "2025-09-06T22:47:31+09:00"
+    },
+    {
+      "title": "角をとっただけでは勝てないリバーシの亜種を作った",
+      "url": "https://zenn.dev/pepabo/articles/087530fa5ac5ef",
+      "likes": 102,
+      "published_at": "2025-08-26T09:30:01+09:00"
+    },
+    {
+      "title": "最近のAIを活用した個人開発をざっくりまとめる",
+      "url": "https://zenn.dev/ryome/articles/793c4352380370",
+      "likes": 44,
+      "published_at": "2025-08-22T06:30:02+09:00"
+    },
+    {
+      "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
+      "url": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
+      "likes": 36,
+      "published_at": "2025-09-11T00:00:05+09:00"
+    },
+    {
+      "title": "Chrome で JavaScript から言語検出・翻訳がブラウザ単独でできるようになった話",
+      "url": "https://zenn.dev/socialplus/articles/2f1a8cba74cb79",
+      "likes": 21,
+      "published_at": "2025-08-29T18:00:01+09:00"
+    },
+    {
+      "title": "React Tokyoフェス2026 参加者募集開始！",
+      "url": "https://zenn.dev/react_tokyo/articles/a910f7999e9bde",
+      "likes": 13,
+      "published_at": "2025-08-23T10:35:32+09:00"
+    },
+    {
+      "title": "【入門】Rails エンジニアが知っておきたい Action Cable で実現するリアルタイム機能",
+      "url": "https://zenn.dev/linkedge/articles/d151bfa92df988",
+      "likes": 11,
+      "published_at": "2025-09-01T18:47:27+09:00"
+    },
+    {
+      "title": "なぜ現代のJavaScriptフレームワークはどれも似てきているのか？",
+      "url": "https://zenn.dev/james_miller/articles/102176714b10d7",
+      "likes": 11,
+      "published_at": "2025-08-27T10:19:05+09:00"
+    }
+  ]
+}

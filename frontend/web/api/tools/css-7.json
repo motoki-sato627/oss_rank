@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "css",
+    "name": "css"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 13,
+    "score": 13.0
+  },
+  "articles_top": [
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "WordPressの記事で縦長の画像がくそでかになるのを防ぐCSS",
+      "url": "https://zenn.dev/atohs/articles/05f01c3d1d675d",
+      "likes": 2,
+      "published_at": "2025-09-11T13:38:21+09:00"
+    },
+    {
+      "title": "CSS Masonryがついに登場!? ネイティブでMasonryレイアウトを実現する新時代",
+      "url": "https://zenn.dev/yuhua_shi/articles/f6a37680957bc0",
+      "likes": 1,
+      "published_at": "2025-09-11T17:00:24+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    },
+    {
+      "title": "アクセシビリティを考慮してCSS単位を見直してみた！",
+      "url": "https://zenn.dev/darse/articles/417a2983023574",
+      "likes": 0,
+      "published_at": "2025-09-13T19:17:26+09:00"
+    }
+  ]
+}

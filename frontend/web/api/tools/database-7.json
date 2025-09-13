@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "database",
+    "name": "database"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 12,
+    "score": 12.0
+  },
+  "articles_top": [
+    {
+      "title": "mcp-database-serverを使用してSQL Server を自然言語で操作してみる",
+      "url": "https://zenn.dev/srtia2318/articles/introduce5-mcp-db-sv-eb9c4e72e90760",
+      "likes": 5,
+      "published_at": "2025-09-08T02:57:21+09:00"
+    },
+    {
+      "title": "PostgreSQLのパフォーマンスチューニング入門: インデックスの威力を体感せよ",
+      "url": "https://zenn.dev/urakawa_jinsei/articles/e20e1f76f5109f",
+      "likes": 2,
+      "published_at": "2025-09-10T08:00:06+09:00"
+    },
+    {
+      "title": "Meta における分散キャッシュの一貫性保証",
+      "url": "https://zenn.dev/ajalab/articles/consistency-guarantee-in-distributed-cache-at-meta",
+      "likes": 2,
+      "published_at": "2025-09-08T21:52:14+09:00"
+    },
+    {
+      "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+      "url": "https://zenn.dev/su8/articles/6d87493811052b",
+      "likes": 1,
+      "published_at": "2025-09-13T14:14:36+09:00"
+    },
+    {
+      "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+      "url": "https://zenn.dev/su8/articles/6d87493811052b",
+      "likes": 1,
+      "published_at": "2025-09-13T14:14:36+09:00"
+    },
+    {
+      "title": "Prisma findUniqueの正しい理解 - バッチング最適化とGraphQLでの注意点",
+      "url": "https://zenn.dev/autumn_m/articles/30c218b53d74e9",
+      "likes": 1,
+      "published_at": "2025-09-10T23:17:22+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "Rails標準migrationからridgepoleへの移行で開発体験を向上させる",
+      "url": "https://zenn.dev/yamitake/articles/rails-migration-to-ridgepole",
+      "likes": 0,
+      "published_at": "2025-09-07T07:00:56+09:00"
+    },
+    {
+      "title": "SQLite Windows セットアップメモ",
+      "url": "https://zenn.dev/bigmac123/articles/14970525435709",
+      "likes": 0,
+      "published_at": "2025-09-06T11:42:37+09:00"
+    }
+  ]
+}

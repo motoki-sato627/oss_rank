@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gas",
+    "name": "gas"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 21,
+    "score": 21.0
+  },
+  "articles_top": [
+    {
+      "title": "Looker Studio / GAS + LINE Bot で趣味のトレーニングを効率的に可視化した",
+      "url": "https://zenn.dev/rehabforjapan/articles/logging-training",
+      "likes": 11,
+      "published_at": "2025-09-09T21:59:55+09:00"
+    },
+    {
+      "title": "「エンジニアじゃないのに書けるのすごい！」から始まったレビューの工夫",
+      "url": "https://zenn.dev/spacemarket/articles/d4124153b4c0c5",
+      "likes": 8,
+      "published_at": "2025-09-10T15:52:17+09:00"
+    },
+    {
+      "title": "DifyとLINEでAIチャットボットをつくる",
+      "url": "https://zenn.dev/timelab/articles/26397f58961210",
+      "likes": 2,
+      "published_at": "2025-09-11T08:30:05+09:00"
+    },
+    {
+      "title": "コマンドラインなし！GASのライブラリ機能を活用した品質と安全を担保する最小構成",
+      "url": "https://zenn.dev/ajike_inc/articles/5f1533d80c40ef",
+      "likes": 0,
+      "published_at": "2025-09-11T17:19:26+09:00"
+    },
+    {
+      "title": "コマンドラインなし！GASのライブラリ機能を活用した品質と安全を担保する最小構成",
+      "url": "https://zenn.dev/ajike_inc/articles/5f1533d80c40ef",
+      "likes": 0,
+      "published_at": "2025-09-11T17:19:26+09:00"
+    },
+    {
+      "title": "DifyとLINEでAIチャットボットをつくる",
+      "url": "https://zenn.dev/timelab/articles/26397f58961210",
+      "likes": 0,
+      "published_at": "2025-09-11T08:30:05+09:00"
+    },
+    {
+      "title": "「エンジニアじゃないのに書けるのすごい！」から始まったレビューの工夫",
+      "url": "https://zenn.dev/spacemarket/articles/d4124153b4c0c5",
+      "likes": 0,
+      "published_at": "2025-09-10T15:52:17+09:00"
+    },
+    {
+      "title": "Google Apps Scriptのシンプルトリガーとは？",
+      "url": "https://zenn.dev/monmontraining/articles/057c393d8f4f02",
+      "likes": 0,
+      "published_at": "2025-09-10T14:38:58+09:00"
+    },
+    {
+      "title": "Google Apps Scriptのシンプルトリガーとは？",
+      "url": "https://zenn.dev/monmontraining/articles/057c393d8f4f02",
+      "likes": 0,
+      "published_at": "2025-09-10T14:38:58+09:00"
+    },
+    {
+      "title": "Looker Studio / GAS + LINE Bot で趣味のトレーニングを効率的に可視化した",
+      "url": "https://zenn.dev/rehabforjapan/articles/logging-training",
+      "likes": 0,
+      "published_at": "2025-09-09T21:59:55+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "oauth2",
+    "name": "oauth2"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 118,
+    "score": 118.0
+  },
+  "articles_top": [
+    {
+      "title": "OAuth 2.0 / OIDCを理解するために、自分でGoで実装してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/25c1b3c182919e",
+      "likes": 91,
+      "published_at": "2025-08-19T16:22:09+09:00"
+    },
+    {
+      "title": "MCP Server の Streamable HTTP に関する技術要素",
+      "url": "https://zenn.dev/demouth/articles/6f6b0a3f67938c",
+      "likes": 9,
+      "published_at": "2025-08-28T08:53:37+09:00"
+    },
+    {
+      "title": "OAuth 2.0 / OIDCがよくわかっていなかったので、遊園地のたとえで理解してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/e79d3b29336729",
+      "likes": 5,
+      "published_at": "2025-08-16T12:59:27+09:00"
+    },
+    {
+      "title": "Python × Microsoft Entra ID で学ぶ OAuth 2.0 OBO フロー [最小実装サンプル付き]",
+      "url": "https://zenn.dev/naokky/articles/202508-onbehalfof-flow",
+      "likes": 4,
+      "published_at": "2025-08-14T19:00:01+09:00"
+    },
+    {
+      "title": "OIDCの仕組みが3分でわかる",
+      "url": "https://zenn.dev/okotokoto/articles/3f0adf45bcc2b1",
+      "likes": 3,
+      "published_at": "2025-08-19T17:07:00+09:00"
+    },
+    {
+      "title": "OAuth 2.0 この流れだけ覚えて！",
+      "url": "https://zenn.dev/okotokoto/articles/68361d551ce129",
+      "likes": 3,
+      "published_at": "2025-08-15T20:25:40+09:00"
+    },
+    {
+      "title": "MCPのプロトコルを読み解く",
+      "url": "https://zenn.dev/sre_holdings/articles/5d061cee4082b4",
+      "likes": 2,
+      "published_at": "2025-09-12T16:52:34+09:00"
+    },
+    {
+      "title": "MCPの認可に画期的な仕様が追加された",
+      "url": "https://zenn.dev/demouth/articles/57f8444c7a487f",
+      "likes": 2,
+      "published_at": "2025-09-07T02:30:50+09:00"
+    },
+    {
+      "title": "トークンは通すがテナントは通さない — OAuth 2.0で“許可外API”を終わらせる【Slack/Box実装】",
+      "url": "https://zenn.dev/naokky/articles/202509-multitenant-oauth",
+      "likes": 2,
+      "published_at": "2025-09-05T18:00:01+09:00"
+    },
+    {
+      "title": "Informatica IICS で Salesforce OAuth を設定する～外部クライアントアプリケーションとPKCE～",
+      "url": "https://zenn.dev/skussun1/articles/0a77f36e80c6e1",
+      "likes": 1,
+      "published_at": "2025-09-07T11:18:27+09:00"
+    }
+  ]
+}

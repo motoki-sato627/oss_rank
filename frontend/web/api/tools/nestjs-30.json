@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "nestjs",
+    "name": "nestjs"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 118,
+    "score": 118.0
+  },
+  "articles_top": [
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "[NestJS] middleware を超えて ─ fastify hook でつくるリクエストロギング実装",
+      "url": "https://zenn.dev/spacemarket/articles/ed25536f86df65",
+      "likes": 7,
+      "published_at": "2025-08-25T09:43:41+09:00"
+    },
+    {
+      "title": "NestJSでOxlintを使う",
+      "url": "https://zenn.dev/emobi_tech/articles/oxlint-with-nestjs",
+      "likes": 3,
+      "published_at": "2025-08-25T12:39:25+09:00"
+    },
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 0,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "にでらのーと開発記録",
+      "url": "https://zenn.dev/jnsy/articles/e81098062d441e",
+      "likes": 0,
+      "published_at": "2025-08-27T23:54:32+09:00"
+    }
+  ]
+}

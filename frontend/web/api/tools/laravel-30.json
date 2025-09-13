@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "laravel",
+    "name": "laravel"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 30,
+    "likes_sum": 215,
+    "score": 215.0
+  },
+  "articles_top": [
+    {
+      "title": "なぜSerenaからLaravel Boostに変えるとAIの精度が上がるのか",
+      "url": "https://zenn.dev/aun_phonogram/articles/a602649ff478cf",
+      "likes": 74,
+      "published_at": "2025-08-22T06:19:43+09:00"
+    },
+    {
+      "title": "TempestはPHP界に「嵐」を巻き起こすか？ 新星フレームワークで遊んでみた！",
+      "url": "https://zenn.dev/sonicmoov/articles/5be8bac275d377",
+      "likes": 46,
+      "published_at": "2025-08-24T01:35:34+09:00"
+    },
+    {
+      "title": "[Laravel] 10年付き合うことになるWebAPIをチームで作るときに考えたこと",
+      "url": "https://zenn.dev/coffee_r/articles/e823b964b130e3",
+      "likes": 35,
+      "published_at": "2025-08-31T13:37:30+09:00"
+    },
+    {
+      "title": "Laravel Boost のセットアップ手順と機能まとめ",
+      "url": "https://zenn.dev/fusic/articles/f364a82926a377",
+      "likes": 16,
+      "published_at": "2025-08-14T10:38:23+09:00"
+    },
+    {
+      "title": "AI時代の新チームへのスムーズなジョイン術",
+      "url": "https://zenn.dev/canly/articles/c4c8b0a332fb57",
+      "likes": 13,
+      "published_at": "2025-08-21T10:20:38+09:00"
+    },
+    {
+      "title": "開発効率がUPするリファクタリング術！メンテナンス性を劇的に改善した「抽象化」設計とは",
+      "url": "https://zenn.dev/innovation/articles/9e245e52f69365",
+      "likes": 6,
+      "published_at": "2025-08-29T16:00:02+09:00"
+    },
+    {
+      "title": "なぜlaravelのbladeで@phpみたいなことができるのか",
+      "url": "https://zenn.dev/lamp_inc/articles/f9ab9659fce614",
+      "likes": 5,
+      "published_at": "2025-09-02T13:23:46+09:00"
+    },
+    {
+      "title": "Laravel11 マルチ認証環境でのセッション管理をカスタマイズ",
+      "url": "https://zenn.dev/369code/articles/82e8c5e90eddae",
+      "likes": 4,
+      "published_at": "2025-09-09T20:09:54+09:00"
+    },
+    {
+      "title": "AWS SES(SNS)×Laravelのバウンスメール対策",
+      "url": "https://zenn.dev/hi_kuma79/articles/8f5a88ed79a1ce",
+      "likes": 4,
+      "published_at": "2025-09-09T04:12:01+09:00"
+    },
+    {
+      "title": "PHP 5.2からLaravel 11への大規模リニューアル #2 アーキテクチャ設計と技術選定",
+      "url": "https://zenn.dev/abg/articles/041e12df4015b0",
+      "likes": 4,
+      "published_at": "2025-09-08T21:43:17+09:00"
+    }
+  ]
+}

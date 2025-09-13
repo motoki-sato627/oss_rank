@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "githubactions",
+    "name": "githubactions"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 48,
+    "likes_sum": 345,
+    "score": 345.0
+  },
+  "articles_top": [
+    {
+      "title": "人生で初めてCI作ったので記事にしてみる",
+      "url": "https://zenn.dev/sa_m/articles/28c32a5f24264b",
+      "likes": 38,
+      "published_at": "2025-08-31T18:29:16+09:00"
+    },
+    {
+      "title": "GitHub Actions の定期実行ワークフローを「時間通り」に実行する",
+      "url": "https://zenn.dev/cybozu_ept/articles/run-github-actions-scheduled-workflows-on-time",
+      "likes": 38,
+      "published_at": "2025-08-27T12:00:01+09:00"
+    },
+    {
+      "title": "組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）",
+      "url": "https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action",
+      "likes": 36,
+      "published_at": "2025-08-20T08:00:06+09:00"
+    },
+    {
+      "title": "GitHub Actions の依存関係を再帰的に出力する「ghatree」の紹介",
+      "url": "https://zenn.dev/kou_pg_0131/articles/ghatree-introduction",
+      "likes": 35,
+      "published_at": "2025-08-25T18:00:01+09:00"
+    },
+    {
+      "title": "GitHub Actions の Enforce SHA Pinning の検証",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/github-actions-enforce-sha-pinning",
+      "likes": 31,
+      "published_at": "2025-08-17T20:50:32+09:00"
+    },
+    {
+      "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+      "url": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+      "likes": 28,
+      "published_at": "2025-09-10T12:42:39+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    }
+  ]
+}

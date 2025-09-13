@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "authorization",
+    "name": "authorization"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 91,
+    "score": 91.0
+  },
+  "articles_top": [
+    {
+      "title": "OAuth 2.0 / OIDCを理解するために、自分でGoで実装してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/25c1b3c182919e",
+      "likes": 91,
+      "published_at": "2025-08-19T16:22:09+09:00"
+    }
+  ]
+}

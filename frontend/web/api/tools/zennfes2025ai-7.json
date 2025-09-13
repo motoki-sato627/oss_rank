@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zennfes2025ai",
+    "name": "zennfes2025ai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 100,
+    "likes_sum": 1130,
+    "score": 1130.0
+  },
+  "articles_top": [
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+      "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+      "likes": 228,
+      "published_at": "2025-09-08T05:58:04+09:00"
+    },
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+      "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+      "likes": 56,
+      "published_at": "2025-09-11T11:57:48+09:00"
+    },
+    {
+      "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+      "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+      "likes": 35,
+      "published_at": "2025-09-09T17:22:06+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 19,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 17,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    }
+  ]
+}

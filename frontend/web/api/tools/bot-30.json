@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "bot",
+    "name": "bot"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 67,
+    "score": 67.0
+  },
+  "articles_top": [
+    {
+      "title": "Discord MCPを使って一撃でバイブコーディングするBot開発術",
+      "url": "https://zenn.dev/discorders/articles/discord-mcp-technique",
+      "likes": 45,
+      "published_at": "2025-08-15T16:44:22+09:00"
+    },
+    {
+      "title": "サーバー負荷の原因はAIクローラー？今こそ知りたいUser-Agent一覧",
+      "url": "https://zenn.dev/linkedge/articles/ff2aebb02f35fb",
+      "likes": 17,
+      "published_at": "2025-09-03T10:30:32+09:00"
+    },
+    {
+      "title": "【導入数500突破！】多機能で読み上げ速度の速いBOT、Vocalisの魅力や使い方を徹底解説！【VOICEVOX対応】",
+      "url": "https://zenn.dev/vocalisapp/articles/d09986999efc2f",
+      "likes": 3,
+      "published_at": "2025-08-22T03:16:23+09:00"
+    },
+    {
+      "title": "Chatworkbot　byめろん",
+      "url": "https://zenn.dev/chatworkmelon/articles/35f5815d3449aa",
+      "likes": 1,
+      "published_at": "2025-09-06T23:31:15+09:00"
+    },
+    {
+      "title": "【2025年最新】Discord読み上げBOT おすすめ8選 - 徹底比較とパフォーマンステスト結果",
+      "url": "https://zenn.dev/wish/articles/3c81080bd381d8",
+      "likes": 1,
+      "published_at": "2025-09-04T20:00:01+09:00"
+    },
+    {
+      "title": "firebase functionsでline worksのBotを作る。",
+      "url": "https://zenn.dev/yoheikusano/articles/fbe2d0850c0503",
+      "likes": 0,
+      "published_at": "2025-09-13T01:07:23+09:00"
+    },
+    {
+      "title": "firebase functionsでline worksのBotを作る。",
+      "url": "https://zenn.dev/yoheikusano/articles/fbe2d0850c0503",
+      "likes": 0,
+      "published_at": "2025-09-13T01:07:23+09:00"
+    },
+    {
+      "title": "Teamsをもっと便利に！Azureで作るセキュアなRAGボット開発",
+      "url": "https://zenn.dev/ryok/articles/develop-teams-rag-bot",
+      "likes": 0,
+      "published_at": "2025-08-27T22:02:33+09:00"
+    },
+    {
+      "title": "Twitter Bot実装でインプレッションが安定化した話",
+      "url": "https://zenn.dev/yamitake/articles/twitter-bot-impression-stability",
+      "likes": 0,
+      "published_at": "2025-08-16T00:02:37+09:00"
+    }
+  ]
+}

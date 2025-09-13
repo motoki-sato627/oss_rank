@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "nvidia",
+    "name": "nvidia"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 60,
+    "score": 60.0
+  },
+  "articles_top": [
+    {
+      "title": "お前もCerebras推しにならないか？",
+      "url": "https://zenn.dev/jnst/articles/cerebras-is-my-fave",
+      "likes": 57,
+      "published_at": "2025-08-23T07:57:17+09:00"
+    },
+    {
+      "title": "NVIDIA GPUアーキテクチャの核心を理解する - なぜGPUはこんなに速いのか？",
+      "url": "https://zenn.dev/nakano_teppei51/articles/038f9af8800f10",
+      "likes": 1,
+      "published_at": "2025-09-08T16:46:20+09:00"
+    },
+    {
+      "title": "NVIDIA DGX Spark か Jetson Thor Dev. Kit か（AI PC)",
+      "url": "https://zenn.dev/19931/articles/99a3398038ab01",
+      "likes": 1,
+      "published_at": "2025-09-06T16:10:39+09:00"
+    },
+    {
+      "title": "CUDAの__sinf()はSASSでFMUL → MUFU.SINに展開される",
+      "url": "https://zenn.dev/toropippi/articles/016f3f36f8c6ce",
+      "likes": 1,
+      "published_at": "2025-08-28T02:38:53+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "NVIDIA GPUアーキテクチャの核心を理解する - なぜGPUはこんなに速いのか？",
+      "url": "https://zenn.dev/nakano_teppei51/articles/038f9af8800f10",
+      "likes": 0,
+      "published_at": "2025-09-08T16:46:20+09:00"
+    },
+    {
+      "title": "PokePal 2台目構築：Jetson Orin NanoでGPU搭載AI対話デバイスを作る",
+      "url": "https://zenn.dev/ktsushima/articles/jetson-orin-nano-pokepal-gpu-build",
+      "likes": 0,
+      "published_at": "2025-09-05T05:03:18+09:00"
+    },
+    {
+      "title": "Jetson ThorのTIPS",
+      "url": "https://zenn.dev/chocolatnya/articles/895b6e25367d07",
+      "likes": 0,
+      "published_at": "2025-09-01T10:10:02+09:00"
+    }
+  ]
+}

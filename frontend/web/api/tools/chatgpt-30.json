@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "chatgpt",
+    "name": "chatgpt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 65,
+    "likes_sum": 347,
+    "score": 347.0
+  },
+  "articles_top": [
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 149,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    },
+    {
+      "title": "AIエージェントに「過去の失敗」を教えて、精度を上げる",
+      "url": "https://zenn.dev/knowledgesense/articles/9f55a757e6af15",
+      "likes": 63,
+      "published_at": "2025-08-26T08:00:06+09:00"
+    },
+    {
+      "title": "Mac miniとcodexで自動リファクタリングPRを量産する仕組み",
+      "url": "https://zenn.dev/noppe/articles/d877f5ba22e3e8",
+      "likes": 47,
+      "published_at": "2025-09-02T01:39:23+09:00"
+    },
+    {
+      "title": "GPT-5 APIが遅いので応答速度の実験と使用時の注意点について",
+      "url": "https://zenn.dev/gotalab/articles/b361e77b7739ed",
+      "likes": 19,
+      "published_at": "2025-08-14T05:30:01+09:00"
+    },
+    {
+      "title": "AIを使ってBacklogの期限をSlackでリマインドする仕組みを作ってみた",
+      "url": "https://zenn.dev/gemcook/articles/19b070c3db8844",
+      "likes": 13,
+      "published_at": "2025-08-26T17:01:51+09:00"
+    },
+    {
+      "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+      "likes": 5,
+      "published_at": "2025-09-12T00:00:00+09:00"
+    },
+    {
+      "title": "ChatGPTやCursorの会話を途中で分岐させる方法",
+      "url": "https://zenn.dev/n_san/articles/e9ac7131a621a9",
+      "likes": 5,
+      "published_at": "2025-09-03T07:00:05+09:00"
+    },
+    {
+      "title": "【コピペOK】Dify『コード実行』ノード｜ChatGPT/Geminiで失敗しないコード生成方法",
+      "url": "https://zenn.dev/lnkiai/articles/3290e1cb2fc7b1",
+      "likes": 5,
+      "published_at": "2025-08-26T00:14:34+09:00"
+    },
+    {
+      "title": "GPT-5でダミーデータのデータ分析の検証",
+      "url": "https://zenn.dev/headwaters/articles/1248fe4abe876a",
+      "likes": 4,
+      "published_at": "2025-08-30T18:00:00+09:00"
+    },
+    {
+      "title": "CodexのVSCode拡張をAPIキーで使うための設定メモ",
+      "url": "https://zenn.dev/laiso/articles/688792c22d04fa",
+      "likes": 4,
+      "published_at": "2025-08-30T17:48:10+09:00"
+    }
+  ]
+}

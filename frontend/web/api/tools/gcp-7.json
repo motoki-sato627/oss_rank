@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gcp",
+    "name": "gcp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "Full Weak Engineer CTF 2025 インフラ覚書",
+      "url": "https://zenn.dev/tchen/articles/16c36a3c842e84",
+      "likes": 8,
+      "published_at": "2025-09-10T19:31:31+09:00"
+    },
+    {
+      "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+      "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+      "likes": 3,
+      "published_at": "2025-09-07T12:32:00+09:00"
+    },
+    {
+      "title": "GCP Google Cloud Digital Leader 受験メモ",
+      "url": "https://zenn.dev/hiroharu8864/articles/28a6565eae68fd",
+      "likes": 2,
+      "published_at": "2025-09-06T11:33:28+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    },
+    {
+      "title": "GCPで学ぶMLOps #1 – GCPへのデプロイを体感する（Cloud Run × Flaskアプリ）",
+      "url": "https://zenn.dev/kyoheyyy/articles/bc6edd5c79075f",
+      "likes": 0,
+      "published_at": "2025-09-13T17:28:22+09:00"
+    }
+  ]
+}

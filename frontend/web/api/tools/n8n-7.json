@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "n8n",
+    "name": "n8n"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 9,
+    "score": 9.0
+  },
+  "articles_top": [
+    {
+      "title": "非技術者のためのn8n入門：AI駆動のインテグレーションをつくる",
+      "url": "https://zenn.dev/xtm_blog/articles/597e2fbc533c67",
+      "likes": 8,
+      "published_at": "2025-09-09T20:54:15+09:00"
+    },
+    {
+      "title": "n8nでAIエージェントを構築する時代が来た - ノーコードで業務自動化を一新する新潮流",
+      "url": "https://zenn.dev/pianomachine/articles/17a99c209aaea8",
+      "likes": 1,
+      "published_at": "2025-09-10T16:47:32+09:00"
+    },
+    {
+      "title": "Snowflake SPCSへのn8nデプロイ手順書📝",
+      "url": "https://zenn.dev/tf_takada/articles/29d7c0283a431a",
+      "likes": 0,
+      "published_at": "2025-09-12T14:01:23+09:00"
+    },
+    {
+      "title": "Snowflake SPCSへのn8nデプロイ手順書📝",
+      "url": "https://zenn.dev/tf_takada/articles/29d7c0283a431a",
+      "likes": 0,
+      "published_at": "2025-09-12T14:01:23+09:00"
+    },
+    {
+      "title": "n8nでAIエージェントを構築する時代が来た - ノーコードで業務自動化を一新する新潮流",
+      "url": "https://zenn.dev/pianomachine/articles/17a99c209aaea8",
+      "likes": 0,
+      "published_at": "2025-09-10T16:47:32+09:00"
+    },
+    {
+      "title": "非技術者のためのn8n入門：AI駆動のインテグレーションをつくる",
+      "url": "https://zenn.dev/xtm_blog/articles/597e2fbc533c67",
+      "likes": 0,
+      "published_at": "2025-09-09T20:54:15+09:00"
+    }
+  ]
+}

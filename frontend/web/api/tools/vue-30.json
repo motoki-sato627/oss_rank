@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vue",
+    "name": "vue"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 72,
+    "score": 72.0
+  },
+  "articles_top": [
+    {
+      "title": "ビルド不要！ Google Apps Script のウェブアプリを Vue.js と Tailwind CSS で実装しよう",
+      "url": "https://zenn.dev/lollipop_onl/articles/nulaber-blog-relay-2025-summer",
+      "likes": 21,
+      "published_at": "2025-08-18T09:00:01+09:00"
+    },
+    {
+      "title": "ユーザーを「あえて待たせる」UI設計",
+      "url": "https://zenn.dev/omu_tryangle/articles/f209fb5212cf8b",
+      "likes": 12,
+      "published_at": "2025-08-25T17:00:05+09:00"
+    },
+    {
+      "title": "なぜ現代のJavaScriptフレームワークはどれも似てきているのか？",
+      "url": "https://zenn.dev/james_miller/articles/102176714b10d7",
+      "likes": 11,
+      "published_at": "2025-08-27T10:19:05+09:00"
+    },
+    {
+      "title": "Nuxt3→Nuxt4変更点【移行ガイド】",
+      "url": "https://zenn.dev/yamu_official/articles/52ca0025a35bae",
+      "likes": 9,
+      "published_at": "2025-08-22T19:24:26+09:00"
+    },
+    {
+      "title": "&quot;Next.jsを理解を深めるためにNuxtを理解しようとしてみる",
+      "url": "https://zenn.dev/te2wow/articles/b0c43c3f525c3a",
+      "likes": 4,
+      "published_at": "2025-08-23T16:28:01+09:00"
+    },
+    {
+      "title": "【2025版】Nuxt 最適フォルダ(ディレクトリ)構成・設計の話",
+      "url": "https://zenn.dev/yamu_official/articles/e14829a81e2d63",
+      "likes": 3,
+      "published_at": "2025-08-23T00:51:47+09:00"
+    },
+    {
+      "title": "マイクロフロントエンドフレームワーク single-spa を使って異なるUIフレームワークを共存させる : その1",
+      "url": "https://zenn.dev/ebi_yu/articles/015b7b00480766",
+      "likes": 2,
+      "published_at": "2025-09-07T19:38:37+09:00"
+    },
+    {
+      "title": "Vue3 shallowRefについて調べてみた",
+      "url": "https://zenn.dev/shunsuke_stack/articles/fd954a3d5e9fd6",
+      "likes": 2,
+      "published_at": "2025-09-04T10:29:55+09:00"
+    },
+    {
+      "title": "Vueのライフサイクルについて",
+      "url": "https://zenn.dev/shunsuke_stack/articles/8b977f2ade2646",
+      "likes": 2,
+      "published_at": "2025-08-25T17:50:37+09:00"
+    },
+    {
+      "title": "Vue3のリストレンダリング",
+      "url": "https://zenn.dev/shunsuke_stack/articles/a1c59a460bf1e5",
+      "likes": 1,
+      "published_at": "2025-09-10T10:02:14+09:00"
+    }
+  ]
+}

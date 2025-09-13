@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cursor",
+    "name": "cursor"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 31,
+    "likes_sum": 210,
+    "score": 210.0
+  },
+  "articles_top": [
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "デザイナーの Vibe Design を支える「Cursor Design Mode」の紹介",
+      "url": "https://zenn.dev/kikagaku/articles/f96c2f24c24151",
+      "likes": 13,
+      "published_at": "2025-09-08T15:03:45+09:00"
+    },
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+      "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+      "likes": 10,
+      "published_at": "2025-09-10T19:12:13+09:00"
+    },
+    {
+      "title": "エンジニアの『情報格差』をなくすためにAIを使って品質マニュアルを作っていくための下準備",
+      "url": "https://zenn.dev/nexta_/articles/3baeb549199ce9",
+      "likes": 6,
+      "published_at": "2025-09-08T10:00:05+09:00"
+    },
+    {
+      "title": "ローカル環境で動作確認しづらいプロジェクトの開発で、AIに結果を検証させてから実際に動作確認してみるようにした",
+      "url": "https://zenn.dev/rescuenow/articles/c130e970629687",
+      "likes": 5,
+      "published_at": "2025-09-11T13:54:26+09:00"
+    },
+    {
+      "title": "Cursorで実践するスペック駆動開発：Kiro流フローを完全再現",
+      "url": "https://zenn.dev/redamoon/articles/article23-cursor-spce",
+      "likes": 5,
+      "published_at": "2025-09-09T00:02:39+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "dev3000: Webアプリケーション開発におけるAI支援デバッグツールの全貌",
+      "url": "https://zenn.dev/kimkiyong/articles/30f2e058225b71",
+      "likes": 2,
+      "published_at": "2025-09-11T17:10:24+09:00"
+    },
+    {
+      "title": "Cursor CLIでPRの説明文を自動投稿する",
+      "url": "https://zenn.dev/bizibl_dev/articles/74c2c54540aa7f",
+      "likes": 2,
+      "published_at": "2025-09-10T09:01:23+09:00"
+    }
+  ]
+}

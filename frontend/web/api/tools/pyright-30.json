@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "pyright",
+    "name": "pyright"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 207,
+    "score": 207.0
+  },
+  "articles_top": [
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 207,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    },
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 0,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    }
+  ]
+}

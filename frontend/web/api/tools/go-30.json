@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "go",
+    "name": "go"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 135,
+    "likes_sum": 689,
+    "score": 689.0
+  },
+  "articles_top": [
+    {
+      "title": "OAuth 2.0 / OIDCを理解するために、自分でGoで実装してみた",
+      "url": "https://zenn.dev/shimpei_takeda/articles/25c1b3c182919e",
+      "likes": 91,
+      "published_at": "2025-08-19T16:22:09+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "保守を1年半サボったExpo製のアプリを、最新化してリリースするのに半年かかった話",
+      "url": "https://zenn.dev/wheatandcat/articles/20250816-expo",
+      "likes": 52,
+      "published_at": "2025-08-25T09:33:14+09:00"
+    },
+    {
+      "title": "rails consoleのようにgolangを扱えるCLIを作った",
+      "url": "https://zenn.dev/yuta_kakiki/articles/5468fe79be932c",
+      "likes": 46,
+      "published_at": "2025-08-22T09:20:29+09:00"
+    },
+    {
+      "title": "さよならCGO/gRPC！Go-Python統合の革命pyprocが変えるマイクロサービスの新常識",
+      "url": "https://zenn.dev/gibbs/articles/go-python-pyproc-revolution",
+      "likes": 43,
+      "published_at": "2025-08-15T15:12:26+09:00"
+    },
+    {
+      "title": "Go1.25 New Features",
+      "url": "https://zenn.dev/koya_iwamura/articles/ea2cf191cdcb2a",
+      "likes": 40,
+      "published_at": "2025-08-23T23:53:53+09:00"
+    },
+    {
+      "title": "Git Worktree を使いやすくする gw コマンドを作った",
+      "url": "https://zenn.dev/sotarok/articles/0ee334cfd9f9c4",
+      "likes": 31,
+      "published_at": "2025-08-15T11:48:00+09:00"
+    },
+    {
+      "title": "Go+Vue2 のOSSデスクトップアプリをRust/tauriに移行した",
+      "url": "https://zenn.dev/hiiraginil/articles/b926c0e94b3fdc",
+      "likes": 22,
+      "published_at": "2025-08-23T02:39:06+09:00"
+    },
+    {
+      "title": "Go の静的解析による影響分析",
+      "url": "https://zenn.dev/knowledgework/articles/e0cd7dfce094d8",
+      "likes": 20,
+      "published_at": "2025-09-08T17:00:05+09:00"
+    },
+    {
+      "title": "MCP Go SDK 入門",
+      "url": "https://zenn.dev/demouth/articles/c0db2e8c0b2612",
+      "likes": 20,
+      "published_at": "2025-08-17T16:00:59+09:00"
+    }
+  ]
+}

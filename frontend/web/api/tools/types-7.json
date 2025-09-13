@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "types",
+    "name": "types"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 40,
+    "score": 40.0
+  },
+  "articles_top": [
+    {
+      "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+      "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+      "likes": 40,
+      "published_at": "2025-09-11T14:27:21+09:00"
+    },
+    {
+      "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+      "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+      "likes": 0,
+      "published_at": "2025-09-11T14:27:21+09:00"
+    }
+  ]
+}

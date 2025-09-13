@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "tanstack",
+    "name": "tanstack"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 142,
+    "score": 142.0
+  },
+  "articles_top": [
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "TanStack Query + Clerk + oRPC で cross-origin なバックエンドにリクエストを送りたい",
+      "url": "https://zenn.dev/tukimin/articles/6e100f87e77ea9",
+      "likes": 1,
+      "published_at": "2025-09-10T15:47:43+09:00"
+    },
+    {
+      "title": "TanStack Query + Clerk + oRPC で cross-origin なバックエンドにリクエストを送りたい",
+      "url": "https://zenn.dev/tukimin/articles/6e100f87e77ea9",
+      "likes": 0,
+      "published_at": "2025-09-10T15:47:43+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "codexcli",
+    "name": "codexcli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 20,
+    "likes_sum": 20,
+    "score": 20.0
+  },
+  "articles_top": [
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 4,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "より良いWeb検索を求めてClaude CodeからCodex CLIのWeb検索を使ってみたが、o3-search-mcpに戻った話",
+      "url": "https://zenn.dev/rarandeyo/articles/dbefefb8de5668",
+      "likes": 3,
+      "published_at": "2025-09-09T10:50:01+09:00"
+    },
+    {
+      "title": "Chat-GPT Plus プランでの Codex CLI 制限",
+      "url": "https://zenn.dev/yueno/articles/a6efb9952123ad",
+      "likes": 2,
+      "published_at": "2025-09-11T06:01:29+09:00"
+    },
+    {
+      "title": "GUI を持たないリモート環境で Codex CLI にログイン",
+      "url": "https://zenn.dev/ginokent/articles/6247919b0c1ce4",
+      "likes": 0,
+      "published_at": "2025-09-13T17:19:49+09:00"
+    },
+    {
+      "title": "GUI を持たないリモート環境で Codex CLI にログイン",
+      "url": "https://zenn.dev/ginokent/articles/6247919b0c1ce4",
+      "likes": 0,
+      "published_at": "2025-09-13T17:19:49+09:00"
+    },
+    {
+      "title": "GUI を持たないリモート環境で Codex CLI にログイン",
+      "url": "https://zenn.dev/ginokent/articles/6247919b0c1ce4",
+      "likes": 0,
+      "published_at": "2025-09-13T17:19:49+09:00"
+    },
+    {
+      "title": "GUI を持たないリモート環境で Codex CLI にログイン",
+      "url": "https://zenn.dev/ginokent/articles/6247919b0c1ce4",
+      "likes": 0,
+      "published_at": "2025-09-13T17:19:49+09:00"
+    },
+    {
+      "title": "GUI を持たないリモート環境で Codex CLI にログイン",
+      "url": "https://zenn.dev/ginokent/articles/6247919b0c1ce4",
+      "likes": 0,
+      "published_at": "2025-09-13T17:19:49+09:00"
+    }
+  ]
+}

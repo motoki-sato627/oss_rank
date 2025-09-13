@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "copilot",
+    "name": "copilot"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 50,
+    "likes_sum": 92,
+    "score": 92.0
+  },
+  "articles_top": [
+    {
+      "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+      "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+      "likes": 30,
+      "published_at": "2025-09-11T13:01:44+09:00"
+    },
+    {
+      "title": "Neovim 0.12（開発版）でcopilot-language-serverを設定してみたぞ（脱copilot.lua）",
+      "url": "https://zenn.dev/vim_jp/articles/a6839f7204a611",
+      "likes": 14,
+      "published_at": "2025-09-01T00:02:01+09:00"
+    },
+    {
+      "title": "Github Copilot Chat の Agent モードで Azure をいじってみる",
+      "url": "https://zenn.dev/headwaters/articles/a5f20cabb964bb",
+      "likes": 11,
+      "published_at": "2025-08-23T11:58:44+09:00"
+    },
+    {
+      "title": "【Microsoft 365 Copilot】- 宣言型エージェントを立ち上げて遊んでみる",
+      "url": "https://zenn.dev/headwaters/articles/981eaa6ec57795",
+      "likes": 7,
+      "published_at": "2025-08-15T21:16:29+09:00"
+    },
+    {
+      "title": "生成 AI アプリのセキュリティを考える (2025.09)",
+      "url": "https://zenn.dev/microsoft/articles/9063cf57041aee",
+      "likes": 5,
+      "published_at": "2025-09-05T16:25:53+09:00"
+    },
+    {
+      "title": "GitHub Copilot Agent を初めて使い、寝ている間に Issue を解決してもらった話",
+      "url": "https://zenn.dev/j_sakamoto/articles/8f36048134f867",
+      "likes": 4,
+      "published_at": "2025-09-08T21:34:21+09:00"
+    },
+    {
+      "title": "ゼロから作る『ローカルMCP』- Azure FunctionsでローカルMCPサーバーを起動する",
+      "url": "https://zenn.dev/yamadakz/articles/mcp-local-server",
+      "likes": 3,
+      "published_at": "2025-09-09T17:17:47+09:00"
+    },
+    {
+      "title": "個人開発でAI Agentを用いた並列開発のためにPR毎の開発環境を作成する",
+      "url": "https://zenn.dev/s_mkt/articles/067ddc6cb05adf",
+      "likes": 3,
+      "published_at": "2025-09-01T08:34:20+09:00"
+    },
+    {
+      "title": "色々ある&quot;Copilot&quot;の違いと、新旧の名称の変化を一覧にする",
+      "url": "https://zenn.dev/progdence/articles/a6354a0e8e6fbe",
+      "likes": 3,
+      "published_at": "2025-08-21T10:30:01+09:00"
+    },
+    {
+      "title": "VS Code v1.104 新機能ざっくりまとめ",
+      "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+      "likes": 2,
+      "published_at": "2025-09-12T18:25:45+09:00"
+    }
+  ]
+}

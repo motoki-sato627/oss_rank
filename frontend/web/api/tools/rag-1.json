@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rag",
+    "name": "rag"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 16,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "RAGの精度改善手法10選【2025年最新版】",
+      "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+      "likes": 2,
+      "published_at": "2025-09-13T02:10:22+09:00"
+    },
+    {
+      "title": "RAGの精度改善手法10選【2025年最新版】",
+      "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+      "likes": 2,
+      "published_at": "2025-09-13T02:10:22+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    }
+  ]
+}

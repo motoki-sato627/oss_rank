@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "cloudflareworkers",
+    "name": "cloudflareworkers"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 14,
+    "score": 14.0
+  },
+  "articles_top": [
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 14,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    },
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 0,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    }
+  ]
+}

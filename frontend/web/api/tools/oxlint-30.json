@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "oxlint",
+    "name": "oxlint"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 57,
+    "score": 57.0
+  },
+  "articles_top": [
+    {
+      "title": "Oxlintがv1になっていたので触ってみた",
+      "url": "https://zenn.dev/chot/articles/01febe09f4a07a",
+      "likes": 54,
+      "published_at": "2025-08-19T13:08:02+09:00"
+    },
+    {
+      "title": "NestJSでOxlintを使う",
+      "url": "https://zenn.dev/emobi_tech/articles/oxlint-with-nestjs",
+      "likes": 3,
+      "published_at": "2025-08-25T12:39:25+09:00"
+    }
+  ]
+}

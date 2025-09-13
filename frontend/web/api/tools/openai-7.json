@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "openai",
+    "name": "openai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 45,
+    "score": 45.0
+  },
+  "articles_top": [
+    {
+      "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+      "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+      "likes": 14,
+      "published_at": "2025-09-09T13:12:19+09:00"
+    },
+    {
+      "title": "gpt-2からgpt-ossへの進化をモデル構造から読む",
+      "url": "https://zenn.dev/finatext/articles/evoluation-from-gpt2-to-gptoss",
+      "likes": 13,
+      "published_at": "2025-09-08T15:52:27+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "Realtime API 正式版 ( gpt-realtime ) を試す",
+      "url": "https://zenn.dev/dxclab/articles/e78dac9d46e17f",
+      "likes": 4,
+      "published_at": "2025-09-10T17:38:08+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "ChatGPT MCP Connector フルサポートを試した",
+      "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+      "likes": 2,
+      "published_at": "2025-09-12T08:15:19+09:00"
+    },
+    {
+      "title": "Codex CLIをAzure OpenAIで利用する",
+      "url": "https://zenn.dev/nuits_jp/articles/2025-09-19-using-codex-cli-with-azure-openai",
+      "likes": 2,
+      "published_at": "2025-09-11T06:18:47+09:00"
+    },
+    {
+      "title": "OpenAIのAPIのresponsesへの変更を体験",
+      "url": "https://zenn.dev/hi/articles/21f0bd089a8cc1",
+      "likes": 2,
+      "published_at": "2025-09-10T15:55:41+09:00"
+    },
+    {
+      "title": "1ソースでMCPもCLIも動く：Hono中心エージェント開発",
+      "url": "https://zenn.dev/kiyo2023/articles/bbb9d84941ac1d",
+      "likes": 1,
+      "published_at": "2025-09-12T17:51:06+09:00"
+    }
+  ]
+}

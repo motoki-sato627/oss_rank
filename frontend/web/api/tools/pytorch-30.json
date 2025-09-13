@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "pytorch",
+    "name": "pytorch"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 118,
+    "score": 118.0
+  },
+  "articles_top": [
+    {
+      "title": "`uv pip install torch --torch-backend=auto`で互換性の高いPyTorchをインストールする流れ",
+      "url": "https://zenn.dev/turing_motors/articles/ab155fe6653660",
+      "likes": 48,
+      "published_at": "2025-08-29T11:30:39+09:00"
+    },
+    {
+      "title": "リアルタイムAIアプリケーションにおけるONNXのチューニング",
+      "url": "https://zenn.dev/parakeet_tech/articles/15d22c8235c576",
+      "likes": 40,
+      "published_at": "2025-09-01T13:23:51+09:00"
+    },
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 23,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    },
+    {
+      "title": "見た目が綺麗なROIベース・階層型インスタンスセグメンテーションモデルの設計",
+      "url": "https://zenn.dev/pinto0309/articles/105f7e73156ace",
+      "likes": 4,
+      "published_at": "2025-08-26T20:10:59+09:00"
+    },
+    {
+      "title": "timm で画像の前処理を定義する",
+      "url": "https://zenn.dev/prgckwb/articles/timm-preprocessing",
+      "likes": 3,
+      "published_at": "2025-09-05T18:39:18+09:00"
+    },
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 0,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    }
+  ]
+}

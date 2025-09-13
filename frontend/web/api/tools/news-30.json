@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "news",
+    "name": "news"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 7,
+    "likes_sum": 163,
+    "score": 163.0
+  },
+  "articles_top": [
+    {
+      "title": "[2025年9月5日] Codexしか勝たん気がしてきた（手のひら返し） (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/051136f8622e05",
+      "likes": 127,
+      "published_at": "2025-09-05T17:57:47+09:00"
+    },
+    {
+      "title": "[2025年8月29日] CLI競争とnano-banana (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/9195959296f87c",
+      "likes": 17,
+      "published_at": "2025-08-29T18:06:55+09:00"
+    },
+    {
+      "title": "[2025年8月15日] Keep4o運動が示す人間とAIの未来 (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/f2984a9e4628f3",
+      "likes": 9,
+      "published_at": "2025-08-15T16:51:21+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "[2025年9月12日] AI小作人にならないために (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/dcacdecb2f94ae",
+      "likes": 3,
+      "published_at": "2025-09-12T18:02:32+09:00"
+    },
+    {
+      "title": "今週の生成AIニュース(9/1 ~ 9/7)",
+      "url": "https://zenn.dev/ugongone/articles/2c11c2f31197a6",
+      "likes": 3,
+      "published_at": "2025-09-08T12:32:32+09:00"
+    },
+    {
+      "title": "# AIニュース自動収集・配信システムの開発記録",
+      "url": "https://zenn.dev/wangsh/articles/9171f520b3de6a",
+      "likes": 1,
+      "published_at": "2025-08-20T23:06:35+09:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "nvim",
+    "name": "nvim"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 87,
+    "score": 87.0
+  },
+  "articles_top": [
+    {
+      "title": "実践Vim 第一部: 何となくVimを使っていた自分が見落としていたVimテクニックと考え方",
+      "url": "https://zenn.dev/cozy_corner/articles/f202dedf604edb",
+      "likes": 84,
+      "published_at": "2025-09-06T01:30:53+09:00"
+    },
+    {
+      "title": "実践Vim 第二部・第三部: 何となくVimを使っていた自分が見落としていたファイル操作とナビゲーション",
+      "url": "https://zenn.dev/cozy_corner/articles/59dcf27fbfff5c",
+      "likes": 3,
+      "published_at": "2025-09-09T22:17:11+09:00"
+    },
+    {
+      "title": "実践Vim 第二部・第三部: 何となくVimを使っていた自分が見落としていたファイル操作とナビゲーション",
+      "url": "https://zenn.dev/cozy_corner/articles/59dcf27fbfff5c",
+      "likes": 0,
+      "published_at": "2025-09-09T22:17:11+09:00"
+    }
+  ]
+}

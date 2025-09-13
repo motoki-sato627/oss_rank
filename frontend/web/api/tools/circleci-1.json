@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "circleci",
+    "name": "circleci"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "【CircleCI】Workflowの自動リトライ機能を試してみた",
+      "url": "https://zenn.dev/cliffstar/articles/d76d5bb7dd80bc",
+      "likes": 1,
+      "published_at": "2025-09-12T20:19:21+09:00"
+    },
+    {
+      "title": "【CircleCI】Workflowの自動リトライ機能を試してみた",
+      "url": "https://zenn.dev/cliffstar/articles/d76d5bb7dd80bc",
+      "likes": 1,
+      "published_at": "2025-09-12T20:19:21+09:00"
+    }
+  ]
+}

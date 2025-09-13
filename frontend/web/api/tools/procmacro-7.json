@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "procmacro",
+    "name": "procmacro"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 20,
+    "score": 20.0
+  },
+  "articles_top": [
+    {
+      "title": "Rustのproc-macroを書き続けて3年が経った",
+      "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+      "likes": 20,
+      "published_at": "2025-09-08T16:53:54+09:00"
+    },
+    {
+      "title": "Rustのproc-macroを書き続けて3年が経った",
+      "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+      "likes": 0,
+      "published_at": "2025-09-08T16:53:54+09:00"
+    }
+  ]
+}

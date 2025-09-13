@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zennfes2025ai",
+    "name": "zennfes2025ai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 217,
+    "likes_sum": 3185,
+    "score": 3185.0
+  },
+  "articles_top": [
+    {
+      "title": "Codex CLIを使いこなすための機能・設定まとめ",
+      "url": "https://zenn.dev/dely_jp/articles/codex-cli-matome",
+      "likes": 529,
+      "published_at": "2025-09-02T17:15:42+09:00"
+    },
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+      "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+      "likes": 228,
+      "published_at": "2025-09-08T05:58:04+09:00"
+    },
+    {
+      "title": "最近のClaude Codeの使い方",
+      "url": "https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454",
+      "likes": 188,
+      "published_at": "2025-08-29T16:38:59+09:00"
+    },
+    {
+      "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+      "url": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+      "likes": 151,
+      "published_at": "2025-08-26T08:44:47+09:00"
+    },
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "私の好きなClaude Codeの使い方",
+      "url": "https://zenn.dev/frontendflat/articles/acc1095edc0d6d",
+      "likes": 129,
+      "published_at": "2025-08-31T18:19:33+09:00"
+    },
+    {
+      "title": "組織で育てるAI活用テスト設計の仕組み",
+      "url": "https://zenn.dev/medley/articles/26a8a5d2c8175f",
+      "likes": 109,
+      "published_at": "2025-08-26T11:13:36+09:00"
+    },
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    }
+  ]
+}

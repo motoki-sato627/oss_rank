@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vite",
+    "name": "vite"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 29,
+    "likes_sum": 111,
+    "score": 111.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドの .env 管理に疲れた方へ：環境差分を Bundler で吸収する",
+      "url": "https://zenn.dev/ventus/articles/d52fd0325f689f",
+      "likes": 78,
+      "published_at": "2025-08-26T17:07:53+09:00"
+    },
+    {
+      "title": "Claude Codeでツール全盛りでReact製グラレコを作る",
+      "url": "https://zenn.dev/denwaya/articles/vibe-vite-code",
+      "likes": 11,
+      "published_at": "2025-09-01T20:56:02+09:00"
+    },
+    {
+      "title": "react-router v6 アプリの起動速度が 10倍 高速化した",
+      "url": "https://zenn.dev/taian/articles/5f351ee54770dd",
+      "likes": 7,
+      "published_at": "2025-08-18T10:03:34+09:00"
+    },
+    {
+      "title": "古いReact環境に最新Storybook(Vite)を導入する！格闘の記録と解決策",
+      "url": "https://zenn.dev/skiyaki_dev/articles/4002494bbc1756",
+      "likes": 7,
+      "published_at": "2025-08-14T18:52:09+09:00"
+    },
+    {
+      "title": "魔法のフォント最適化!?fontless調べてみた",
+      "url": "https://zenn.dev/mavericks/articles/7f9195494ac019",
+      "likes": 3,
+      "published_at": "2025-09-11T09:44:51+09:00"
+    },
+    {
+      "title": "ViteのbaseとReact Routerのbasename問題",
+      "url": "https://zenn.dev/web97learning/articles/1e80654977e42a",
+      "likes": 2,
+      "published_at": "2025-09-06T16:35:37+09:00"
+    },
+    {
+      "title": "Laravel + Vite + α のモダンフロントエンド環境を5分で立ち上げる手順",
+      "url": "https://zenn.dev/meantix/articles/a14aaee82e5d23",
+      "likes": 2,
+      "published_at": "2025-08-31T21:39:17+09:00"
+    },
+    {
+      "title": "久しぶりにフロントエンドのボイラープレートを作ってみた話",
+      "url": "https://zenn.dev/kota057/articles/d260fc8a98cb46",
+      "likes": 2,
+      "published_at": "2025-08-25T15:41:12+09:00"
+    },
+    {
+      "title": "Nuxt × Vite 開発環境で spawn EBADF が出たときの解決法",
+      "url": "https://zenn.dev/tamon_kondo/articles/0dd120a3599a5f",
+      "likes": 2,
+      "published_at": "2025-08-21T14:25:14+09:00"
+    },
+    {
+      "title": "tsconfigファイルのエイリアス問題",
+      "url": "https://zenn.dev/locu/articles/aabd5ec765c823",
+      "likes": 1,
+      "published_at": "2025-09-04T14:33:00+09:00"
+    }
+  ]
+}

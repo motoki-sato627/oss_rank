@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "bedrock",
+    "name": "bedrock"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 123,
+    "score": 123.0
+  },
+  "articles_top": [
+    {
+      "title": "組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）",
+      "url": "https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action",
+      "likes": 36,
+      "published_at": "2025-08-20T08:00:06+09:00"
+    },
+    {
+      "title": "Amazon S3 Vectorsを試してみた",
+      "url": "https://zenn.dev/fusic/articles/14a98be48d9266",
+      "likes": 29,
+      "published_at": "2025-08-25T18:53:26+09:00"
+    },
+    {
+      "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+      "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+      "likes": 7,
+      "published_at": "2025-09-11T22:12:53+09:00"
+    },
+    {
+      "title": "【翻訳】Writing effective tools for agents — with agents",
+      "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+      "likes": 6,
+      "published_at": "2025-09-12T10:42:12+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 6,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    },
+    {
+      "title": "【Go + AWS】 S3 VectorsとBedrockでベクトル検索を実装する",
+      "url": "https://zenn.dev/wasuwa/articles/0d3b89f16bdac0",
+      "likes": 6,
+      "published_at": "2025-08-31T09:18:55+09:00"
+    },
+    {
+      "title": "Bedrock&amp;ナレッジベースでRAGを作ったら料金結構かかってた",
+      "url": "https://zenn.dev/hisamitsu/articles/6d791e2c57c5a2",
+      "likes": 5,
+      "published_at": "2025-09-08T11:44:16+09:00"
+    },
+    {
+      "title": "ZendeskのチケットをAmazon Bedrockで解析した",
+      "url": "https://zenn.dev/mitene/articles/07e5aad5145c5b",
+      "likes": 5,
+      "published_at": "2025-09-02T15:40:11+09:00"
+    },
+    {
+      "title": "AI使ってAWSインフラコスト改善案をレコメンドしてみた！",
+      "url": "https://zenn.dev/sonicmoov/articles/3cd8df03344d63",
+      "likes": 5,
+      "published_at": "2025-08-29T18:57:43+09:00"
+    },
+    {
+      "title": "簡単！AWS BedrockエージェントでWebサーチする方法",
+      "url": "https://zenn.dev/acntechjp/articles/298966441e2ac1",
+      "likes": 4,
+      "published_at": "2025-08-17T11:42:50+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gemini",
+    "name": "gemini"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 82,
+    "likes_sum": 793,
+    "score": 793.0
+  },
+  "articles_top": [
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "[2025年9月5日] Codexしか勝たん気がしてきた（手のひら返し） (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/051136f8622e05",
+      "likes": 127,
+      "published_at": "2025-09-05T17:57:47+09:00"
+    },
+    {
+      "title": "Google公式の Nano Banana プロンプトテンプレートが参考になったので試してみた",
+      "url": "https://zenn.dev/ml_bear/articles/b58004bf5a3e6c",
+      "likes": 123,
+      "published_at": "2025-09-04T08:54:43+09:00"
+    },
+    {
+      "title": "Nano Banana (gemini-2.5-flash-image-preview)APIを無料で使う方法",
+      "url": "https://zenn.dev/asap/articles/a4217c8ba120dd",
+      "likes": 63,
+      "published_at": "2025-09-03T00:55:53+09:00"
+    },
+    {
+      "title": "Gemini 2.5 Flash Imageでアスペクト比を固定する方法と背景を拡張する方法",
+      "url": "https://zenn.dev/nikechan/articles/834a380dd7abe7",
+      "likes": 26,
+      "published_at": "2025-08-27T23:50:49+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 23,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "生成AIで商談メモから「次の一手」を出す",
+      "url": "https://zenn.dev/hacobu/articles/4010bc5b9525af",
+      "likes": 23,
+      "published_at": "2025-08-21T10:31:35+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 22,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "[2025年8月29日] CLI競争とnano-banana (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/9195959296f87c",
+      "likes": 17,
+      "published_at": "2025-08-29T18:06:55+09:00"
+    },
+    {
+      "title": "Nano Banana(gemini-2.5-flash-image-preview) APIを試す。",
+      "url": "https://zenn.dev/asap/articles/8d5af79e40fa4d",
+      "likes": 15,
+      "published_at": "2025-09-02T02:30:01+09:00"
+    }
+  ]
+}

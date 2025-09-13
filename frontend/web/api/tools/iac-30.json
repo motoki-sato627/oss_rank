@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "iac",
+    "name": "iac"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 21,
+    "likes_sum": 124,
+    "score": 124.0
+  },
+  "articles_top": [
+    {
+      "title": "Terraform で AWS Lambda をデプロイしようとする際にぶつかる現実",
+      "url": "https://zenn.dev/tkg216/articles/54e8ef75f3fdcc",
+      "likes": 54,
+      "published_at": "2025-09-01T21:13:37+09:00"
+    },
+    {
+      "title": "【学習ログ】AIに書いてもらったBicepコードを模写する",
+      "url": "https://zenn.dev/headwaters/articles/6329a599c22667",
+      "likes": 10,
+      "published_at": "2025-08-17T17:19:28+09:00"
+    },
+    {
+      "title": "Terraform + Slack + AIで権限管理を自動化",
+      "url": "https://zenn.dev/finatext/articles/0f82881007ac66",
+      "likes": 9,
+      "published_at": "2025-09-09T15:04:25+09:00"
+    },
+    {
+      "title": "【Bicep】PowerShellからデプロイするときに詰まったポイントまとめ",
+      "url": "https://zenn.dev/headwaters/articles/0b3b2733937148",
+      "likes": 9,
+      "published_at": "2025-08-21T23:50:52+09:00"
+    },
+    {
+      "title": "【Bicep】デコレーターとコメントの違い",
+      "url": "https://zenn.dev/headwaters/articles/621956c9d4d315",
+      "likes": 8,
+      "published_at": "2025-08-17T21:33:06+09:00"
+    },
+    {
+      "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+      "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+      "likes": 6,
+      "published_at": "2025-09-08T05:00:01+09:00"
+    },
+    {
+      "title": "【Bicep】AzureOpenAIの診断設定にあるcategoryの設定方法",
+      "url": "https://zenn.dev/headwaters/articles/540419f4edf7d2",
+      "likes": 6,
+      "published_at": "2025-09-05T19:32:43+09:00"
+    },
+    {
+      "title": "【Bicep】昔AIに書いてもらったコードを改修する",
+      "url": "https://zenn.dev/headwaters/articles/657f7004cab14a",
+      "likes": 6,
+      "published_at": "2025-08-29T06:30:01+09:00"
+    },
+    {
+      "title": "Terraform 1.13.0 のリリースを読んでみた (1.13.1 もあるよ)",
+      "url": "https://zenn.dev/cloud_ace/articles/terraform-cli-1-13-0-update",
+      "likes": 5,
+      "published_at": "2025-09-04T16:34:28+09:00"
+    },
+    {
+      "title": "Terraform Google Provider 7.0.0 の新機能と変更点について",
+      "url": "https://zenn.dev/cloud_ace/articles/terraform-google-provider-7",
+      "likes": 3,
+      "published_at": "2025-09-09T12:00:44+09:00"
+    }
+  ]
+}

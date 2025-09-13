@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "raspberrypi5",
+    "name": "raspberrypi5"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 13,
+    "likes_sum": 18,
+    "score": 18.0
+  },
+  "articles_top": [
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 2,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 1,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 1,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 1,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    },
+    {
+      "title": "ラズパイ5のサーボモーターのジッター問題に対処した話",
+      "url": "https://zenn.dev/jam0824/articles/b4861728671c6f",
+      "likes": 1,
+      "published_at": "2025-09-13T18:08:44+09:00"
+    }
+  ]
+}

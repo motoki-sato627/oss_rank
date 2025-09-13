@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zennfes2025free",
+    "name": "zennfes2025free"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 149,
+    "likes_sum": 506,
+    "score": 506.0
+  },
+  "articles_top": [
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+      "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+      "likes": 70,
+      "published_at": "2025-09-08T12:07:31+09:00"
+    },
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 46,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    },
+    {
+      "title": "中学生がBGPで経路交換して遊んでみた",
+      "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+      "likes": 35,
+      "published_at": "2025-09-08T00:11:04+09:00"
+    },
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 25,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    },
+    {
+      "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+      "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+      "likes": 14,
+      "published_at": "2025-09-09T13:12:19+09:00"
+    },
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 13,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "デザイナーの Vibe Design を支える「Cursor Design Mode」の紹介",
+      "url": "https://zenn.dev/kikagaku/articles/f96c2f24c24151",
+      "likes": 13,
+      "published_at": "2025-09-08T15:03:45+09:00"
+    }
+  ]
+}

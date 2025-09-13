@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "npm",
+    "name": "npm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 195,
+    "score": 195.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+      "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+      "likes": 3,
+      "published_at": "2025-09-07T12:32:00+09:00"
+    },
+    {
+      "title": "【npm公開】React電卓入力フォームプラグインを公開しました！税込税抜計算機能付きで、あらゆる金額入力シーンに対応",
+      "url": "https://zenn.dev/gumigumih/articles/20250908_react-calculator-input-form-plugin",
+      "likes": 0,
+      "published_at": "2025-09-10T11:01:05+09:00"
+    },
+    {
+      "title": "【npm公開】React電卓入力フォームプラグインを公開しました！税込税抜計算機能付きで、あらゆる金額入力シーンに対応",
+      "url": "https://zenn.dev/gumigumih/articles/20250908_react-calculator-input-form-plugin",
+      "likes": 0,
+      "published_at": "2025-09-10T11:01:05+09:00"
+    },
+    {
+      "title": "Firebase Web SDK 初期化設定（firebaseConfigの詳細、コードを書く場所など",
+      "url": "https://zenn.dev/tkmemo/articles/974d65f982f89c",
+      "likes": 0,
+      "published_at": "2025-09-10T10:33:21+09:00"
+    },
+    {
+      "title": "Firebase Web SDK 初期化設定（firebaseConfigの詳細、コードを書く場所など",
+      "url": "https://zenn.dev/tkmemo/articles/974d65f982f89c",
+      "likes": 0,
+      "published_at": "2025-09-10T10:33:21+09:00"
+    },
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 0,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "チャットボットフロー設計＆JSON出力OSSをリリースしました",
+      "url": "https://zenn.dev/enumura/articles/3e90d313d79b61",
+      "likes": 0,
+      "published_at": "2025-09-07T17:40:09+09:00"
+    },
+    {
+      "title": "チャットボットフロー設計＆JSON出力OSSをリリースしました",
+      "url": "https://zenn.dev/enumura/articles/3e90d313d79b61",
+      "likes": 0,
+      "published_at": "2025-09-07T17:40:09+09:00"
+    },
+    {
+      "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+      "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+      "likes": 0,
+      "published_at": "2025-09-07T12:32:00+09:00"
+    }
+  ]
+}

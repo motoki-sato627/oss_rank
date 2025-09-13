@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "githubactions",
+    "name": "githubactions"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 113,
+    "score": 113.0
+  },
+  "articles_top": [
+    {
+      "title": "GitHub ActionsのSHA Pinning Enforcementを有効にするまでの道のり",
+      "url": "https://zenn.dev/finatext/articles/gha-sha-pinning-enforcement",
+      "likes": 28,
+      "published_at": "2025-09-10T12:42:39+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "レビュー修正を Devin に丸投げできる仕組みを作ったら最高だった件【Claude Code より楽】",
+      "url": "https://zenn.dev/kikagaku/articles/59403a76583d1c",
+      "likes": 5,
+      "published_at": "2025-09-09T10:12:07+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+      "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+      "likes": 4,
+      "published_at": "2025-09-12T13:23:26+09:00"
+    },
+    {
+      "title": "Cursor CLIでPRの説明文を自動投稿する",
+      "url": "https://zenn.dev/bizibl_dev/articles/74c2c54540aa7f",
+      "likes": 2,
+      "published_at": "2025-09-10T09:01:23+09:00"
+    }
+  ]
+}

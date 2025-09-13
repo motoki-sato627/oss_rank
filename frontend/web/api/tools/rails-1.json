@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "rails",
+    "name": "rails"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "なんでなんだよRuby――初めて触って混乱したポイント5つ",
+      "url": "https://zenn.dev/spacemarket/articles/a77ff09c1a0c76",
+      "likes": 2,
+      "published_at": "2025-09-12T17:03:33+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "Rails N + 1",
+      "url": "https://zenn.dev/tekitou/articles/cc726b55ef5e2f",
+      "likes": 0,
+      "published_at": "2025-09-13T09:53:04+09:00"
+    },
+    {
+      "title": "Rails N + 1",
+      "url": "https://zenn.dev/tekitou/articles/cc726b55ef5e2f",
+      "likes": 0,
+      "published_at": "2025-09-13T09:53:04+09:00"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "atcoder",
+    "name": "atcoder"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 18,
+    "score": 18.0
+  },
+  "articles_top": [
+    {
+      "title": "Haskeller のための AtCoder 言語アップデート 2025",
+      "url": "https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025",
+      "likes": 9,
+      "published_at": "2025-09-12T01:45:50+09:00"
+    },
+    {
+      "title": "AHC052勉強会レポート",
+      "url": "https://zenn.dev/algoartis/articles/report_ahc052",
+      "likes": 3,
+      "published_at": "2025-09-09T17:58:42+09:00"
+    },
+    {
+      "title": "緑コーダーがRustで解説してみた(ABC422 A～E)",
+      "url": "https://zenn.dev/nakst_hide/articles/18eba46f5c0238",
+      "likes": 3,
+      "published_at": "2025-09-08T07:30:05+09:00"
+    },
+    {
+      "title": "視覚的に学ぶヒューリスティック最適化入門 —— 焼きなまし・ビームサーチ・遺伝的アルゴリズム",
+      "url": "https://zenn.dev/polarisai_blog/articles/5d02ee585be0b4",
+      "likes": 2,
+      "published_at": "2025-09-09T18:48:53+09:00"
+    },
+    {
+      "title": "【ABC422】AtCoder Beginner Contest 422【C++】",
+      "url": "https://zenn.dev/testcampus/articles/df554d69bcd6c0",
+      "likes": 1,
+      "published_at": "2025-09-08T13:11:06+09:00"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 051にVibe codingで参加してみた",
+      "url": "https://zenn.dev/vlntr_telco_rd/articles/5458329ea5ca7b",
+      "likes": 0,
+      "published_at": "2025-09-12T20:00:01+09:00"
+    },
+    {
+      "title": "AtCoder Heuristic Contest 051にVibe codingで参加してみた",
+      "url": "https://zenn.dev/vlntr_telco_rd/articles/5458329ea5ca7b",
+      "likes": 0,
+      "published_at": "2025-09-12T20:00:01+09:00"
+    },
+    {
+      "title": "JavaScriptでABC422(A-C)",
+      "url": "https://zenn.dev/aya_koto/articles/5d8044a3aadcf4",
+      "likes": 0,
+      "published_at": "2025-09-07T15:09:48+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "powershell",
+    "name": "powershell"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 61,
+    "score": 61.0
+  },
+  "articles_top": [
+    {
+      "title": "Windows標準だけでGUIを作成 ― PowerShell＋.NET Framework",
+      "url": "https://zenn.dev/y_a_y/articles/ps_gui_b9685efa3cc1ea",
+      "likes": 44,
+      "published_at": "2025-08-16T18:22:50+09:00"
+    },
+    {
+      "title": "【Bicep】PowerShellからデプロイするときに詰まったポイントまとめ",
+      "url": "https://zenn.dev/headwaters/articles/0b3b2733937148",
+      "likes": 9,
+      "published_at": "2025-08-21T23:50:52+09:00"
+    },
+    {
+      "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+      "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+      "likes": 3,
+      "published_at": "2025-09-11T14:57:18+09:00"
+    },
+    {
+      "title": "【Powershell】クロージャを自作してみた",
+      "url": "https://zenn.dev/binbin_ftmr_boy/articles/f983bbb4f73922",
+      "likes": 3,
+      "published_at": "2025-08-22T02:08:38+09:00"
+    },
+    {
+      "title": "Windows上でVoskを動かしてリアルタイム音声認識",
+      "url": "https://zenn.dev/voice_ai_lab/articles/e66144cf697d76",
+      "likes": 1,
+      "published_at": "2025-08-23T00:23:32+09:00"
+    },
+    {
+      "title": "Dockerを使ってローカルホストでn8nを構築してみる【無課金/永続】",
+      "url": "https://zenn.dev/zenn_mita/articles/242bb661568d5a",
+      "likes": 1,
+      "published_at": "2025-08-20T15:22:03+09:00"
+    },
+    {
+      "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+      "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+      "likes": 0,
+      "published_at": "2025-09-11T14:57:18+09:00"
+    },
+    {
+      "title": "PowerShellで進捗表示！プログレスバーを使った自作関数を紹介",
+      "url": "https://zenn.dev/haretokidoki/articles/a49845a1f2a7ca",
+      "likes": 0,
+      "published_at": "2025-09-06T09:27:32+09:00"
+    },
+    {
+      "title": "PowerShellで始めるファイル操作の基本テクニック",
+      "url": "https://zenn.dev/tommykazu/articles/powershell-file-operations",
+      "likes": 0,
+      "published_at": "2025-09-02T16:00:00+09:00"
+    },
+    {
+      "title": "Windows + WSL で GitHub 複数アカウントを SSH で使い分ける方法",
+      "url": "https://zenn.dev/saetag/articles/f6de9e46f49a56",
+      "likes": 0,
+      "published_at": "2025-09-02T07:37:30+09:00"
+    }
+  ]
+}

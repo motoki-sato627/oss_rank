@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "ui",
+    "name": "ui"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 47,
+    "score": 47.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+      "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+      "likes": 10,
+      "published_at": "2025-09-10T19:12:13+09:00"
+    },
+    {
+      "title": "エンジニアが楽しくUI設計するならFigJam",
+      "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+      "likes": 0,
+      "published_at": "2025-09-13T01:57:50+09:00"
+    },
+    {
+      "title": "エンジニアが楽しくUI設計するならFigJam",
+      "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+      "likes": 0,
+      "published_at": "2025-09-13T01:57:50+09:00"
+    },
+    {
+      "title": "子ども向け学習アプリ開発ログ：学習カードのUIとDB設計（Next.js + Prisma）",
+      "url": "https://zenn.dev/hyoni/articles/79d5c295aa1191",
+      "likes": 0,
+      "published_at": "2025-09-09T13:48:41+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "go",
+    "name": "go"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 66,
+    "likes_sum": 165,
+    "score": 165.0
+  },
+  "articles_top": [
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "Go の静的解析による影響分析",
+      "url": "https://zenn.dev/knowledgework/articles/e0cd7dfce094d8",
+      "likes": 20,
+      "published_at": "2025-09-08T17:00:05+09:00"
+    },
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 13,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "GoにおけるGemini APIでの検索グラウンディングの活用",
+      "url": "https://zenn.dev/mixi/articles/f8f837812ece10",
+      "likes": 9,
+      "published_at": "2025-09-10T14:31:09+09:00"
+    },
+    {
+      "title": "【Go】Goのガベージコレクションについて",
+      "url": "https://zenn.dev/kisaragi71/articles/fc564d5b8c1710",
+      "likes": 6,
+      "published_at": "2025-09-08T12:15:17+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを登録する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/33503c8725ca85",
+      "likes": 5,
+      "published_at": "2025-09-08T19:00:05+09:00"
+    },
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを抽出する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/d201ac92fff76d",
+      "likes": 4,
+      "published_at": "2025-09-10T18:30:01+09:00"
+    },
+    {
+      "title": "GORM Genで解決：interface{}を使わない100%型安全なGo ORM",
+      "url": "https://zenn.dev/duckdevv/articles/85c8b8d6962ded",
+      "likes": 3,
+      "published_at": "2025-09-11T08:41:15+09:00"
+    }
+  ]
+}

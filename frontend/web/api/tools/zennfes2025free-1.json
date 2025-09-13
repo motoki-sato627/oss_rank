@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zennfes2025free",
+    "name": "zennfes2025free"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 66,
+    "likes_sum": 14,
+    "score": 14.0
+  },
+  "articles_top": [
+    {
+      "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+      "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+      "likes": 10,
+      "published_at": "2025-09-12T00:02:05+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "A/Bテスト理解のための統計学 〜 具体例から専門用語へ、段階的に理解する仮説検定",
+      "url": "https://zenn.dev/assign/articles/ce0b6d63d1c265",
+      "likes": 3,
+      "published_at": "2025-09-12T15:08:15+09:00"
+    },
+    {
+      "title": "z-index の沼から抜け出す",
+      "url": "https://zenn.dev/moderncraft/articles/c65fb2e25ab3b2",
+      "likes": 3,
+      "published_at": "2025-09-12T12:11:39+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    }
+  ]
+}

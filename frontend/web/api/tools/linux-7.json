@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "linux",
+    "name": "linux"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 34,
+    "likes_sum": 22,
+    "score": 22.0
+  },
+  "articles_top": [
+    {
+      "title": "Proxmox VE のライブマイグレーションの実力を試す(Proxmox VE インストール ～ ライブマイグレーション実行まで)",
+      "url": "https://zenn.dev/seita621/articles/e0dcd29e8440a0",
+      "likes": 6,
+      "published_at": "2025-09-11T15:56:17+09:00"
+    },
+    {
+      "title": "STM32をUbuntuから書き込みたい",
+      "url": "https://zenn.dev/nonnoise/articles/4034cf78955d05",
+      "likes": 3,
+      "published_at": "2025-09-07T22:38:48+09:00"
+    },
+    {
+      "title": "Rust/GoアプリケーションのAWS Lambda向けクロスビルド方法",
+      "url": "https://zenn.dev/lucidfrontier45/articles/8bc8afee49472f",
+      "likes": 3,
+      "published_at": "2025-09-07T01:34:29+09:00"
+    },
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    },
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "Debianのスワップサイズを変更",
+      "url": "https://zenn.dev/kaorumori/articles/8d32f011492b4e",
+      "likes": 1,
+      "published_at": "2025-09-12T11:38:22+09:00"
+    },
+    {
+      "title": "WSL2 で PATH に Windows 側のパスがあると man の起動速度が遅くなる",
+      "url": "https://zenn.dev/kit494way/articles/253773b9c78c08",
+      "likes": 1,
+      "published_at": "2025-09-11T21:52:46+09:00"
+    },
+    {
+      "title": "AlmaLinux で EDAツール が `libkrb5` 周りで落ちた件と、`LD_PRELOAD` で直した記録",
+      "url": "https://zenn.dev/yusukenjp/articles/5b50f8407764ad",
+      "likes": 1,
+      "published_at": "2025-09-11T14:54:36+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gh",
+    "name": "gh"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 92,
+    "score": 92.0
+  },
+  "articles_top": [
+    {
+      "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
+      "url": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
+      "likes": 86,
+      "published_at": "2025-08-24T17:39:47+09:00"
+    },
+    {
+      "title": "gh x AI AgentでTiDD実践",
+      "url": "https://zenn.dev/rio_dev/articles/4ea0c7c1f34851",
+      "likes": 3,
+      "published_at": "2025-09-08T16:45:21+09:00"
+    },
+    {
+      "title": "GitHub CLI で sub-issue を作成する gh-sub-issue extension を作った",
+      "url": "https://zenn.dev/yahsan2/articles/5225afe6bac43d",
+      "likes": 2,
+      "published_at": "2025-08-15T17:45:33+09:00"
+    },
+    {
+      "title": "LLM と組み合わせて GitHub Projects を効率管理するために gh cli 拡張 gh-pm を作ったよ",
+      "url": "https://zenn.dev/yahsan2/articles/c42e05288cfd44",
+      "likes": 1,
+      "published_at": "2025-09-07T09:43:19+09:00"
+    },
+    {
+      "title": "Github Actionsの不要な履歴を削除する方法",
+      "url": "https://zenn.dev/kei/articles/614180c6508b3e",
+      "likes": 0,
+      "published_at": "2025-09-10T17:34:23+09:00"
+    },
+    {
+      "title": "Github Actionsの不要な履歴を削除する方法",
+      "url": "https://zenn.dev/kei/articles/614180c6508b3e",
+      "likes": 0,
+      "published_at": "2025-09-10T17:34:23+09:00"
+    },
+    {
+      "title": "gh x AI AgentでTiDD実践",
+      "url": "https://zenn.dev/rio_dev/articles/4ea0c7c1f34851",
+      "likes": 0,
+      "published_at": "2025-09-08T16:45:21+09:00"
+    },
+    {
+      "title": "gh-cliのマージを信用するな",
+      "url": "https://zenn.dev/dwango/articles/0b42946896593f",
+      "likes": 0,
+      "published_at": "2025-09-08T02:58:10+09:00"
+    },
+    {
+      "title": "gh-cliのマージを信用するな",
+      "url": "https://zenn.dev/dwango/articles/0b42946896593f",
+      "likes": 0,
+      "published_at": "2025-09-08T02:58:10+09:00"
+    },
+    {
+      "title": "LLM と組み合わせて GitHub Projects を効率管理するために gh cli 拡張 gh-pm を作ったよ",
+      "url": "https://zenn.dev/yahsan2/articles/c42e05288cfd44",
+      "likes": 0,
+      "published_at": "2025-09-07T09:43:19+09:00"
+    }
+  ]
+}

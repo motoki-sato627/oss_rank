@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rag",
+    "name": "rag"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 23,
+    "likes_sum": 175,
+    "score": 175.0
+  },
+  "articles_top": [
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 149,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 13,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "Bedrock&amp;ナレッジベースでRAGを作ったら料金結構かかってた",
+      "url": "https://zenn.dev/hisamitsu/articles/6d791e2c57c5a2",
+      "likes": 5,
+      "published_at": "2025-09-08T11:44:16+09:00"
+    },
+    {
+      "title": "コードをセマンティックに分割するライブラリcode-chopperの紹介と3つの作例",
+      "url": "https://zenn.dev/sirasagi62/articles/60d94029488ad9",
+      "likes": 3,
+      "published_at": "2025-09-10T23:09:24+09:00"
+    },
+    {
+      "title": "RAGの精度改善手法10選【2025年最新版】",
+      "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+      "likes": 2,
+      "published_at": "2025-09-13T02:10:22+09:00"
+    },
+    {
+      "title": "RAGの精度改善手法10選【2025年最新版】",
+      "url": "https://zenn.dev/dotconf/articles/2025-09-11-rag-improvement-methods",
+      "likes": 2,
+      "published_at": "2025-09-13T02:10:22+09:00"
+    },
+    {
+      "title": "RAGの検索結果に対する主観評価をLLM as a Judgeで模倣する",
+      "url": "https://zenn.dev/genax_corp/articles/acb75c86d1cc31",
+      "likes": 1,
+      "published_at": "2025-09-09T18:13:58+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    },
+    {
+      "title": "REFRAG: RAGシステムの高速化を実現する革新的な圧縮技術",
+      "url": "https://zenn.dev/cahalinc/articles/b65b67fd44cd6c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:36:03+09:00"
+    }
+  ]
+}

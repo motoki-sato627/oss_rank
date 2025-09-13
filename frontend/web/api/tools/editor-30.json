@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "editor",
+    "name": "editor"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 174,
+    "score": 174.0
+  },
+  "articles_top": [
+    {
+      "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+      "url": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+      "likes": 136,
+      "published_at": "2025-08-26T10:26:05+09:00"
+    },
+    {
+      "title": "ZennのWYSIWYGエディタを作ってみた",
+      "url": "https://zenn.dev/karintou/articles/1ba996a5ca7df8",
+      "likes": 32,
+      "published_at": "2025-08-15T23:30:10+09:00"
+    },
+    {
+      "title": "Zenn WYSIWYGエディタの使い方",
+      "url": "https://zenn.dev/karintou/articles/eabe0354fcc947",
+      "likes": 5,
+      "published_at": "2025-08-21T02:13:19+09:00"
+    },
+    {
+      "title": "Cursor v1.5 で追加された Commands 機能が便利！",
+      "url": "https://zenn.dev/trpd/articles/cursor-commands",
+      "likes": 1,
+      "published_at": "2025-08-28T13:47:27+09:00"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "lgtechblogsprint",
+    "name": "lgtechblogsprint"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 108,
+    "score": 108.0
+  },
+  "articles_top": [
+    {
+      "title": "品質リーダーシップを発揮するエンジニアに対して、QAとしてできること",
+      "url": "https://zenn.dev/loglass/articles/9924012b335cd0",
+      "likes": 51,
+      "published_at": "2025-08-21T12:38:54+09:00"
+    },
+    {
+      "title": "開発メンバーからEMが誕生するまで",
+      "url": "https://zenn.dev/loglass/articles/0ea7027ee634db",
+      "likes": 23,
+      "published_at": "2025-08-29T12:45:02+09:00"
+    },
+    {
+      "title": "過去のBtoC向けのエッジケースを整理し、BtoBサービスとの違いを考える。",
+      "url": "https://zenn.dev/loglass/articles/b77d9f4ca8dca0",
+      "likes": 18,
+      "published_at": "2025-09-04T15:42:58+09:00"
+    },
+    {
+      "title": "自律的組織の設計図：ジャズに学ぶ5つの原則",
+      "url": "https://zenn.dev/loglass/articles/b16719deb45941",
+      "likes": 8,
+      "published_at": "2025-09-12T09:52:24+09:00"
+    },
+    {
+      "title": "106週2年連続記録達成！ Loglass Tech Blog Sprint の2年目を振り返る",
+      "url": "https://zenn.dev/loglass/articles/loglass-tech-blog-sprint-yeart-two-retrospective",
+      "likes": 8,
+      "published_at": "2025-09-04T15:37:42+09:00"
+    },
+    {
+      "title": "自律的組織の設計図：ジャズに学ぶ5つの原則",
+      "url": "https://zenn.dev/loglass/articles/b16719deb45941",
+      "likes": 0,
+      "published_at": "2025-09-12T09:52:24+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "llm",
+    "name": "llm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 224,
+    "likes_sum": 1977,
+    "score": 1977.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Code をブラウザから操作できるクライアントを自作したらめちゃくちゃ捗った",
+      "url": "https://zenn.dev/bm_sms/articles/claude_code_viewer",
+      "likes": 192,
+      "published_at": "2025-09-03T21:23:11+09:00"
+    },
+    {
+      "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
+      "url": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
+      "likes": 183,
+      "published_at": "2025-09-02T09:53:01+09:00"
+    },
+    {
+      "title": "Google公式の Nano Banana プロンプトテンプレートが参考になったので試してみた",
+      "url": "https://zenn.dev/ml_bear/articles/b58004bf5a3e6c",
+      "likes": 123,
+      "published_at": "2025-09-04T08:54:43+09:00"
+    },
+    {
+      "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
+      "url": "https://zenn.dev/adsholoko/articles/researchly-release",
+      "likes": 91,
+      "published_at": "2025-08-16T14:15:12+09:00"
+    },
+    {
+      "title": "シングルエージェント vs マルチエージェントを整理してみる",
+      "url": "https://zenn.dev/asterminds/articles/ea7119d22d4d3c",
+      "likes": 88,
+      "published_at": "2025-09-02T08:10:21+09:00"
+    },
+    {
+      "title": "Gemma3:270Mをファインチューニングして使ってみた",
+      "url": "https://zenn.dev/mixi/articles/1a6a7c1856c206",
+      "likes": 83,
+      "published_at": "2025-08-19T21:00:59+09:00"
+    },
+    {
+      "title": "できるだけ無料でAIコーディング",
+      "url": "https://zenn.dev/marcosan/articles/54b3a01a7e74ca",
+      "likes": 80,
+      "published_at": "2025-08-17T23:24:04+09:00"
+    },
+    {
+      "title": "AIに仕事を奪われる前に、レビュー地獄で死にそうになった話",
+      "url": "https://zenn.dev/naizo01/articles/15cbe0b1145ef9",
+      "likes": 66,
+      "published_at": "2025-08-14T20:00:05+09:00"
+    },
+    {
+      "title": "GPT-5 の教科書",
+      "url": "https://zenn.dev/microsoft/articles/openai_gpt5_textbook",
+      "likes": 59,
+      "published_at": "2025-08-16T21:09:52+09:00"
+    },
+    {
+      "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+      "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+      "likes": 56,
+      "published_at": "2025-09-11T11:57:48+09:00"
+    }
+  ]
+}

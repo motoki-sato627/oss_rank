@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "adk",
+    "name": "adk"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 17,
+    "likes_sum": 19,
+    "score": 19.0
+  },
+  "articles_top": [
+    {
+      "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+      "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+      "likes": 13,
+      "published_at": "2025-09-08T16:41:45+09:00"
+    },
+    {
+      "title": "[ADK] 1.14.0で追加された require_confirmation を利用したHuman-in-the-Loop",
+      "url": "https://zenn.dev/soundtricker/articles/9c3cf3e265e25d",
+      "likes": 3,
+      "published_at": "2025-09-11T22:17:56+09:00"
+    },
+    {
+      "title": "ADK 1.14.0 で追加された Agent、Runnerに続く新たな概念 App",
+      "url": "https://zenn.dev/soundtricker/articles/f51b9fb4f788d8",
+      "likes": 3,
+      "published_at": "2025-09-11T21:31:01+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    },
+    {
+      "title": "Agent EngineにデプロイしたエージェントをSDK経由で呼び出すとAttributeErrorになってしまう",
+      "url": "https://zenn.dev/msd05keisuke/articles/2bd100db4bb7e5",
+      "likes": 0,
+      "published_at": "2025-09-13T14:53:17+09:00"
+    }
+  ]
+}

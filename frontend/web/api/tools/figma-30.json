@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "figma",
+    "name": "figma"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 294,
+    "score": 294.0
+  },
+  "articles_top": [
+    {
+      "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
+      "url": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
+      "likes": 107,
+      "published_at": "2025-08-19T11:13:51+09:00"
+    },
+    {
+      "title": "🎨Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話",
+      "url": "https://zenn.dev/canly/articles/a40805a70ad59f",
+      "likes": 63,
+      "published_at": "2025-09-04T12:01:21+09:00"
+    },
+    {
+      "title": "MCP でアクセシビリティ（ WCAG 2.2 準拠）レビューを爆速自動化： Figmaアノテーション生成",
+      "url": "https://zenn.dev/kikagaku/articles/b01cc77624cf3d",
+      "likes": 44,
+      "published_at": "2025-08-22T12:34:07+09:00"
+    },
+    {
+      "title": "Figma MCPって本当にすごいの？",
+      "url": "https://zenn.dev/sre_holdings/articles/2dc5eb4bf06630",
+      "likes": 34,
+      "published_at": "2025-08-27T19:06:28+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "shadcn/ui × Cursor × Figmaプラグイン × MCP連携で実現する高速UIデザイン",
+      "url": "https://zenn.dev/medirom_tech/articles/b27b3610c61e74",
+      "likes": 10,
+      "published_at": "2025-09-10T19:12:13+09:00"
+    },
+    {
+      "title": "SVGアイコンのエクスポートを爆速・高品質化するFigmaのテンプレートを作った",
+      "url": "https://zenn.dev/sonicmoov/articles/design-standardization-project-icon-template",
+      "likes": 9,
+      "published_at": "2025-08-19T18:50:01+09:00"
+    },
+    {
+      "title": "Codex CLI から Figma MCP サーバーを利用する",
+      "url": "https://zenn.dev/imokeeeenpi/articles/7c42c9f550805a",
+      "likes": 4,
+      "published_at": "2025-09-05T02:58:00+09:00"
+    },
+    {
+      "title": "エンジニアが楽しくUI設計するならFigJam",
+      "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+      "likes": 0,
+      "published_at": "2025-09-13T01:57:50+09:00"
+    },
+    {
+      "title": "エンジニアが楽しくUI設計するならFigJam",
+      "url": "https://zenn.dev/ishiki_a/articles/516bfac5f0db4d",
+      "likes": 0,
+      "published_at": "2025-09-13T01:57:50+09:00"
+    }
+  ]
+}

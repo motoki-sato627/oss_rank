@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "tech",
+    "name": "tech"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 67,
+    "score": 67.0
+  },
+  "articles_top": [
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 27,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    },
+    {
+      "title": "Sigma vs Tableau：Snowflakeに１０億規模のデータ接続で見えたユーザ体験の違い",
+      "url": "https://zenn.dev/truestar/articles/d68a64c55b1b99",
+      "likes": 5,
+      "published_at": "2025-08-29T10:26:12+09:00"
+    },
+    {
+      "title": "API開発におけるスキーマ駆動開発採用の経緯",
+      "url": "https://zenn.dev/superstudio/articles/aed72ad10927d0",
+      "likes": 5,
+      "published_at": "2025-08-25T10:00:02+09:00"
+    },
+    {
+      "title": "Claude CodeのHooksでSlackに会話内容を通知する",
+      "url": "https://zenn.dev/assign/articles/e64037fee4f234",
+      "likes": 4,
+      "published_at": "2025-09-01T16:02:07+09:00"
+    },
+    {
+      "title": "「Laravel開発、まだDocker使ってない？抽象化も重要？」～【laravel】今週の人気記事TOP5（2025/08/31）",
+      "url": "https://zenn.dev/carenet/articles/zenn-weekly-laravel-articles-2025-08",
+      "likes": 3,
+      "published_at": "2025-08-15T10:26:31+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 2,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "なぜエンジニアはコードを消せないのか、そして消すべき理由",
+      "url": "https://zenn.dev/hayato98/articles/20250908_20250908_even-ai-cant-answer-5",
+      "likes": 2,
+      "published_at": "2025-09-08T18:03:16+09:00"
+    },
+    {
+      "title": "Claude CodeでSDD入門してみた",
+      "url": "https://zenn.dev/mousi/articles/976358703863d5",
+      "likes": 2,
+      "published_at": "2025-09-07T23:48:30+09:00"
+    },
+    {
+      "title": "Claude Codeの設定をモジュール化！@import構文でスッキリ管理",
+      "url": "https://zenn.dev/kuronomagi/articles/claude-code-modular-import",
+      "likes": 2,
+      "published_at": "2025-09-04T15:38:58+09:00"
+    },
+    {
+      "title": "複雑なJoin句を使用せず、アプリケーションロジックで構成・集計した",
+      "url": "https://zenn.dev/hayato98/articles/20250903_20250830_even-ai-cant-answer-3",
+      "likes": 2,
+      "published_at": "2025-09-03T10:32:00+09:00"
+    }
+  ]
+}

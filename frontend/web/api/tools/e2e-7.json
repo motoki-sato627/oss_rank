@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "e2e",
+    "name": "e2e"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 155,
+    "score": 155.0
+  },
+  "articles_top": [
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 0,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+      "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+      "likes": 0,
+      "published_at": "2025-09-07T00:41:29+09:00"
+    },
+    {
+      "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+      "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+      "likes": 0,
+      "published_at": "2025-09-07T00:41:29+09:00"
+    }
+  ]
+}

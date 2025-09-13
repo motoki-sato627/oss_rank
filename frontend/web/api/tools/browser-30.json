@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "browser",
+    "name": "browser"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 139,
+    "score": 139.0
+  },
+  "articles_top": [
+    {
+      "title": "パスワードマネージャへのクリックジャッキング攻撃に対して、いま私たちが出来ること",
+      "url": "https://zenn.dev/trustdock/articles/ff2c5282b00fe3",
+      "likes": 134,
+      "published_at": "2025-08-21T20:37:52+09:00"
+    },
+    {
+      "title": "なぜlaravelのbladeで@phpみたいなことができるのか",
+      "url": "https://zenn.dev/lamp_inc/articles/f9ab9659fce614",
+      "likes": 5,
+      "published_at": "2025-09-02T13:23:46+09:00"
+    },
+    {
+      "title": "VASTのテスト画面をテストしやすいよう大きくする方法",
+      "url": "https://zenn.dev/yamaz/articles/db2d55bcd1c214",
+      "likes": 0,
+      "published_at": "2025-08-19T06:20:51+09:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "vertexai",
+    "name": "vertexai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 19,
+    "score": 19.0
+  },
+  "articles_top": [
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "Google Agentspace を無料トライアルではじめませんか？",
+      "url": "https://zenn.dev/cloud_ace/articles/agentspace-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T18:00:55+09:00"
+    },
+    {
+      "title": "Google Cloud 認定資格奮闘記 ~Professional Machine Learning Engineer編~",
+      "url": "https://zenn.dev/akasan/articles/062b9d9e44922a",
+      "likes": 0,
+      "published_at": "2025-09-13T14:17:04+09:00"
+    },
+    {
+      "title": "Google Cloud 認定資格奮闘記 ~Professional Machine Learning Engineer編~",
+      "url": "https://zenn.dev/akasan/articles/062b9d9e44922a",
+      "likes": 0,
+      "published_at": "2025-09-13T14:17:04+09:00"
+    }
+  ]
+}

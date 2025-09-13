@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "performance",
+    "name": "performance"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 62,
+    "score": 62.0
+  },
+  "articles_top": [
+    {
+      "title": "さよならCGO/gRPC！Go-Python統合の革命pyprocが変えるマイクロサービスの新常識",
+      "url": "https://zenn.dev/gibbs/articles/go-python-pyproc-revolution",
+      "likes": 43,
+      "published_at": "2025-08-15T15:12:26+09:00"
+    },
+    {
+      "title": "実務でReact製フォームの初期レンダリングを約6倍速くしました（そこからさらに2倍速くできる方法も見つけました）。",
+      "url": "https://zenn.dev/imeankenshin/articles/90d7d961c3305f",
+      "likes": 6,
+      "published_at": "2025-09-02T18:38:05+09:00"
+    },
+    {
+      "title": "Webアプリのパフォーマンスを(お金をかけずに)定点観測する方法",
+      "url": "https://zenn.dev/forcia_tech/articles/202508_webperformance_kashinoki",
+      "likes": 6,
+      "published_at": "2025-08-14T13:00:05+09:00"
+    },
+    {
+      "title": "SwiftUI.BlurとLazyV(H)Stackの(描画パフォーマンス的)アンチパターン",
+      "url": "https://zenn.dev/sosuiii/articles/a7788f7d627db1",
+      "likes": 5,
+      "published_at": "2025-08-26T17:29:32+09:00"
+    },
+    {
+      "title": "月末月初のサービスダウンからの脱却──SQLとコードの地道な改善で実現した高速化",
+      "url": "https://zenn.dev/tokium_dev/articles/14f5e72695ec54",
+      "likes": 3,
+      "published_at": "2025-09-02T09:51:07+09:00"
+    },
+    {
+      "title": "PostgreSQLのパフォーマンスチューニング入門: インデックスの威力を体感せよ",
+      "url": "https://zenn.dev/urakawa_jinsei/articles/e20e1f76f5109f",
+      "likes": 2,
+      "published_at": "2025-09-10T08:00:06+09:00"
+    },
+    {
+      "title": "Rustにおける動的ディスパッチ vs 静的ディスパッチのパフォーマンス比較",
+      "url": "https://zenn.dev/collabostyle/articles/9e6a972e9866df",
+      "likes": 2,
+      "published_at": "2025-08-18T06:40:45+09:00"
+    },
+    {
+      "title": "パフォーマンスモニターでプロセスごとに監視したい",
+      "url": "https://zenn.dev/marogram/articles/95eb25b809c8ab",
+      "likes": 1,
+      "published_at": "2025-09-02T23:10:00+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    }
+  ]
+}

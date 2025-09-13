@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "webassembly",
+    "name": "webassembly"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 6,
+    "score": 6.0
+  },
+  "articles_top": [
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    },
+    {
+      "title": "【決定版】TypeScriptのSQLタグ付きテンプレートリテラルで10種類のSQLiteドライバー全部試す",
+      "url": "https://zenn.dev/tkithrta/articles/b6606f0c8f0dc1",
+      "likes": 3,
+      "published_at": "2025-09-12T19:16:16+09:00"
+    }
+  ]
+}

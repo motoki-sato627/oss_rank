@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "metro",
+    "name": "metro"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 78,
+    "score": 78.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドの .env 管理に疲れた方へ：環境差分を Bundler で吸収する",
+      "url": "https://zenn.dev/ventus/articles/d52fd0325f689f",
+      "likes": 78,
+      "published_at": "2025-08-26T17:07:53+09:00"
+    }
+  ]
+}

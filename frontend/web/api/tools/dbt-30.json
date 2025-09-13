@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "dbt",
+    "name": "dbt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 33,
+    "likes_sum": 96,
+    "score": 96.0
+  },
+  "articles_top": [
+    {
+      "title": "Tier定義で実現するAI-Readyなデータ利活用",
+      "url": "https://zenn.dev/dely_jp/articles/dely-ai-ready-dataops-tier",
+      "likes": 51,
+      "published_at": "2025-09-01T10:51:05+09:00"
+    },
+    {
+      "title": "SQLGlotで軽やかに越える、SQL方言の壁。",
+      "url": "https://zenn.dev/myshmeh/articles/3286e6f6c285c3",
+      "likes": 25,
+      "published_at": "2025-08-24T22:28:59+09:00"
+    },
+    {
+      "title": "スタースキーマでdimensionテーブルをSCD Type2で実装するアプローチ",
+      "url": "https://zenn.dev/moneyforward/articles/9cd92023e2b43b",
+      "likes": 10,
+      "published_at": "2025-08-29T11:20:26+09:00"
+    },
+    {
+      "title": "古いdbtモデルを一括削除するJinjaマクロをいじってみた",
+      "url": "https://zenn.dev/myshmeh/articles/1bfd29aaff8624",
+      "likes": 7,
+      "published_at": "2025-08-14T01:58:15+09:00"
+    },
+    {
+      "title": "dbtコマンドを制限するマクロで事故を防ぐ",
+      "url": "https://zenn.dev/yuichi_dev/articles/e43983fa441fbc",
+      "likes": 6,
+      "published_at": "2025-08-14T13:55:56+09:00"
+    },
+    {
+      "title": "sqlmeshはdbtの競合になり得るか",
+      "url": "https://zenn.dev/analytics_eng/articles/b928bc3dc777f7",
+      "likes": 2,
+      "published_at": "2025-08-18T07:00:01+09:00"
+    },
+    {
+      "title": "クエリの可視化で理解を深めるには",
+      "url": "https://zenn.dev/atsushimemet/articles/df2b14d23a7cef",
+      "likes": 1,
+      "published_at": "2025-09-12T11:11:36+09:00"
+    },
+    {
+      "title": "dbt Cloud環境で『非推奨の警告』が出てきた時の対処法(dbt Core v1.10.8 汎用テストにおけるTOPレベル引数設定)",
+      "url": "https://zenn.dev/truestar/articles/d07d403d580944",
+      "likes": 1,
+      "published_at": "2025-09-02T16:47:56+09:00"
+    },
+    {
+      "title": "スケーラビリティとアジリティを両立するデータ基盤のアーキテクチャ",
+      "url": "https://zenn.dev/suwash/articles/data_pf_arch_20250902",
+      "likes": 1,
+      "published_at": "2025-09-02T00:00:00+09:00"
+    },
+    {
+      "title": "【dbt cloud】CI/CD機能を試してみました",
+      "url": "https://zenn.dev/truestar/articles/913daef52d19d5",
+      "likes": 1,
+      "published_at": "2025-08-28T18:13:01+09:00"
+    }
+  ]
+}

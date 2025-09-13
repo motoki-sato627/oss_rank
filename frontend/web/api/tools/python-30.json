@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "python",
+    "name": "python"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 331,
+    "likes_sum": 912,
+    "score": 912.0
+  },
+  "articles_top": [
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 207,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    },
+    {
+      "title": "【公開終了】当記事の公開を終了しました（更新履歴のみ）",
+      "url": "https://zenn.dev/studio_prairie/articles/0c0cc762996079",
+      "likes": 79,
+      "published_at": "2025-08-18T09:35:39+09:00"
+    },
+    {
+      "title": "`uv pip install torch --torch-backend=auto`で互換性の高いPyTorchをインストールする流れ",
+      "url": "https://zenn.dev/turing_motors/articles/ab155fe6653660",
+      "likes": 48,
+      "published_at": "2025-08-29T11:30:39+09:00"
+    },
+    {
+      "title": "さよならCGO/gRPC！Go-Python統合の革命pyprocが変えるマイクロサービスの新常識",
+      "url": "https://zenn.dev/gibbs/articles/go-python-pyproc-revolution",
+      "likes": 43,
+      "published_at": "2025-08-15T15:12:26+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 41,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 40,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "Microsoftから登場したVibeVoice凄すぎ",
+      "url": "https://zenn.dev/headwaters/articles/98f63259349ba7",
+      "likes": 34,
+      "published_at": "2025-08-30T19:08:40+09:00"
+    },
+    {
+      "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+      "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+      "likes": 25,
+      "published_at": "2025-09-11T07:30:38+09:00"
+    },
+    {
+      "title": "「カテゴリカル変数の相関係数」をご存知ですか？",
+      "url": "https://zenn.dev/gatechnologies/articles/2025-07-31-ordinalcorr",
+      "likes": 25,
+      "published_at": "2025-08-20T13:23:00+09:00"
+    },
+    {
+      "title": "LocalStackでAWSをローカル再現してみた",
+      "url": "https://zenn.dev/weel_techblog/articles/39e3e205d91427",
+      "likes": 18,
+      "published_at": "2025-08-20T10:04:26+09:00"
+    }
+  ]
+}

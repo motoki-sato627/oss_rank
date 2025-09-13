@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "tailscale",
+    "name": "tailscale"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 17,
+    "score": 17.0
+  },
+  "articles_top": [
+    {
+      "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+      "url": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+      "likes": 16,
+      "published_at": "2025-09-08T10:29:43+09:00"
+    },
+    {
+      "title": "ギークたち、サブスクから脱却せよ。画像・動画・音声のクラウド化は、メディアサーバーで。【immich・Jellyfin】",
+      "url": "https://zenn.dev/rakugan/articles/250911-media-server",
+      "likes": 1,
+      "published_at": "2025-09-11T16:23:22+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    },
+    {
+      "title": "TailscaleでローカルのViteサーバーに繋がらなかった時のメモ",
+      "url": "https://zenn.dev/takezone/articles/tailscale-vite-cors-complete",
+      "likes": 0,
+      "published_at": "2025-09-13T14:31:41+09:00"
+    }
+  ]
+}

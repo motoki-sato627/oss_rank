@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "nlp",
+    "name": "nlp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 24,
+    "score": 24.0
+  },
+  "articles_top": [
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 13,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "Sentence-Transformersで日本語文埋め込みを理解する：可視化からクラスタリングまで",
+      "url": "https://zenn.dev/dxc_ai_driven/articles/22069126393a7d",
+      "likes": 6,
+      "published_at": "2025-09-09T19:46:52+09:00"
+    },
+    {
+      "title": "n-gramをHaskellで実装する",
+      "url": "https://zenn.dev/shundeveloper/articles/ffde255a36a7c0",
+      "likes": 5,
+      "published_at": "2025-09-09T20:27:11+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 0,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "n-gramをHaskellで実装する",
+      "url": "https://zenn.dev/shundeveloper/articles/ffde255a36a7c0",
+      "likes": 0,
+      "published_at": "2025-09-09T20:27:11+09:00"
+    },
+    {
+      "title": "Sentence-Transformersで日本語文埋め込みを理解する：可視化からクラスタリングまで",
+      "url": "https://zenn.dev/dxc_ai_driven/articles/22069126393a7d",
+      "likes": 0,
+      "published_at": "2025-09-09T19:46:52+09:00"
+    }
+  ]
+}

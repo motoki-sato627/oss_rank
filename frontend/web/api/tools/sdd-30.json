@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "sdd",
+    "name": "sdd"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 61,
+    "score": 61.0
+  },
+  "articles_top": [
+    {
+      "title": "「Vibe Coding」から「Spec-Driven Development」仕様駆動開発（SDD）入門",
+      "url": "https://zenn.dev/nogu66/articles/spec-driven-development",
+      "likes": 59,
+      "published_at": "2025-08-31T12:34:17+09:00"
+    },
+    {
+      "title": "Claude CodeでSDD入門してみた",
+      "url": "https://zenn.dev/mousi/articles/976358703863d5",
+      "likes": 2,
+      "published_at": "2025-09-07T23:48:30+09:00"
+    },
+    {
+      "title": "Claude CodeでSDD入門してみた",
+      "url": "https://zenn.dev/mousi/articles/976358703863d5",
+      "likes": 0,
+      "published_at": "2025-09-07T23:48:30+09:00"
+    }
+  ]
+}

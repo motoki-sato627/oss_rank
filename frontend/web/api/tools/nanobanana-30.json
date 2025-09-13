@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "nanobanana",
+    "name": "nanobanana"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 291,
+    "score": 291.0
+  },
+  "articles_top": [
+    {
+      "title": "Google公式の Nano Banana プロンプトテンプレートが参考になったので試してみた",
+      "url": "https://zenn.dev/ml_bear/articles/b58004bf5a3e6c",
+      "likes": 123,
+      "published_at": "2025-09-04T08:54:43+09:00"
+    },
+    {
+      "title": "Nano Banana (gemini-2.5-flash-image-preview)APIを無料で使う方法",
+      "url": "https://zenn.dev/asap/articles/a4217c8ba120dd",
+      "likes": 63,
+      "published_at": "2025-09-03T00:55:53+09:00"
+    },
+    {
+      "title": "Gemini 2.5 Flash Imageでアスペクト比を固定する方法と背景を拡張する方法",
+      "url": "https://zenn.dev/nikechan/articles/834a380dd7abe7",
+      "likes": 26,
+      "published_at": "2025-08-27T23:50:49+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 23,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 22,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "Nano Banana(gemini-2.5-flash-image-preview) APIを試す。",
+      "url": "https://zenn.dev/asap/articles/8d5af79e40fa4d",
+      "likes": 15,
+      "published_at": "2025-09-02T02:30:01+09:00"
+    },
+    {
+      "title": "25:nano-bananaで作る漫画作成ツール",
+      "url": "https://zenn.dev/acntechjp/articles/d5bc45df13b9af",
+      "likes": 6,
+      "published_at": "2025-09-03T18:00:42+09:00"
+    },
+    {
+      "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+      "likes": 5,
+      "published_at": "2025-09-08T07:47:13+09:00"
+    },
+    {
+      "title": "nano bananaがすごい！今すぐ無料で始める方法",
+      "url": "https://zenn.dev/acntechjp/articles/8598b72ff794a8",
+      "likes": 4,
+      "published_at": "2025-08-29T09:47:20+09:00"
+    },
+    {
+      "title": "nano bananaでピザ動物生成会を開いた🍕@第3回札幌すごいAI会",
+      "url": "https://zenn.dev/acntechjp/articles/4169321cded517",
+      "likes": 3,
+      "published_at": "2025-09-03T10:06:17+09:00"
+    }
+  ]
+}

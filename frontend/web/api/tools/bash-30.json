@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "bash",
+    "name": "bash"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 13,
+    "likes_sum": 98,
+    "score": 98.0
+  },
+  "articles_top": [
+    {
+      "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
+      "url": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
+      "likes": 86,
+      "published_at": "2025-08-24T17:39:47+09:00"
+    },
+    {
+      "title": "Self-Host Dify Console APIのワンファイル Dify CLIを作ってみた（bash + curl + jq）",
+      "url": "https://zenn.dev/furunag/articles/dify-cli-onefile-bash",
+      "likes": 4,
+      "published_at": "2025-08-25T20:56:23+09:00"
+    },
+    {
+      "title": "Powerline、Oh My Posh、Starship、あなたに合うプロンプトはどれ？",
+      "url": "https://zenn.dev/hiro345/articles/20250828_prompt",
+      "likes": 2,
+      "published_at": "2025-08-28T09:02:50+09:00"
+    },
+    {
+      "title": "もう迷わない！.bash_profileと.bashrcの使い分けと読み込み順のメモ",
+      "url": "https://zenn.dev/meantix/articles/98a1678841de89",
+      "likes": 1,
+      "published_at": "2025-09-02T21:04:14+09:00"
+    },
+    {
+      "title": "【2025年最新】他のタスク中に要求定義〜実装まで！AI駆動開発のTASK_PLANNERツール",
+      "url": "https://zenn.dev/sakupanda/articles/0baafd50f784cc",
+      "likes": 1,
+      "published_at": "2025-08-21T08:00:00+09:00"
+    },
+    {
+      "title": "【AWS】安全なAWSキーの運用のためにAssumeRoleを活用する方法",
+      "url": "https://zenn.dev/cliffstar/articles/33f4e5299a766b",
+      "likes": 1,
+      "published_at": "2025-08-19T20:00:01+09:00"
+    },
+    {
+      "title": "Bashコマンドは、知らなくても良い",
+      "url": "https://zenn.dev/kotsutsumi/articles/5c3beea101c388",
+      "likes": 1,
+      "published_at": "2025-08-17T19:20:46+09:00"
+    },
+    {
+      "title": "jsonの複数の値を環境変数に設定するワンライナー",
+      "url": "https://zenn.dev/matobaa/articles/envvar_jq_tee",
+      "likes": 1,
+      "published_at": "2025-08-16T15:23:27+09:00"
+    },
+    {
+      "title": "ひとくちメモ: VSCode + Remote-SSH 環境上で動かす Bash をログインシェルにする",
+      "url": "https://zenn.dev/argi_berri/articles/e7dfb29c856b2e",
+      "likes": 1,
+      "published_at": "2025-08-16T15:20:42+09:00"
+    },
+    {
+      "title": "ユニケージを簡単に開発しよう",
+      "url": "https://zenn.dev/mitsuijao/articles/1da1f08e5bf7f7",
+      "likes": 0,
+      "published_at": "2025-09-13T08:24:07+09:00"
+    }
+  ]
+}

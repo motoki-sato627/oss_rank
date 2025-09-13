@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "agent",
+    "name": "agent"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 52,
+    "likes_sum": 124,
+    "score": 124.0
+  },
+  "articles_top": [
+    {
+      "title": "Groq Code CLI の分析",
+      "url": "https://zenn.dev/foxgem/articles/8260121a4b480b",
+      "likes": 35,
+      "published_at": "2025-08-16T20:26:03+09:00"
+    },
+    {
+      "title": "Laravel Boost のセットアップ手順と機能まとめ",
+      "url": "https://zenn.dev/fusic/articles/f364a82926a377",
+      "likes": 16,
+      "published_at": "2025-08-14T10:38:23+09:00"
+    },
+    {
+      "title": "「おっす」で始める！Goの公式MCP SDK × LangChainGoでエージェント実装",
+      "url": "https://zenn.dev/finatext/articles/7b3925be93459d",
+      "likes": 11,
+      "published_at": "2025-08-15T18:45:01+09:00"
+    },
+    {
+      "title": "KARAKURI VLの学習データ準備について",
+      "url": "https://zenn.dev/karakuri_blog/articles/31729dd4915388",
+      "likes": 7,
+      "published_at": "2025-08-22T12:59:32+09:00"
+    },
+    {
+      "title": "【翻訳】Writing effective tools for agents — with agents",
+      "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+      "likes": 6,
+      "published_at": "2025-09-12T10:42:12+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    },
+    {
+      "title": "GitHub CopilotにBeastモードたるものがあるのご存知？",
+      "url": "https://zenn.dev/headwaters/articles/d6d06302c2edbc",
+      "likes": 4,
+      "published_at": "2025-09-13T18:33:23+09:00"
+    }
+  ]
+}

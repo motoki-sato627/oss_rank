@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "firebase",
+    "name": "firebase"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "Firebase Authentication Admin SDKによるパスワード強制変更",
+      "url": "https://zenn.dev/actbe_tech/articles/342ccb8660f2b4",
+      "likes": 1,
+      "published_at": "2025-09-12T17:00:02+09:00"
+    }
+  ]
+}

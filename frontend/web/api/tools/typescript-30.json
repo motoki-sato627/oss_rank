@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "typescript",
+    "name": "typescript"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 217,
+    "likes_sum": 2472,
+    "score": 2472.0
+  },
+  "articles_top": [
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
+      "url": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
+      "likes": 231,
+      "published_at": "2025-08-31T16:46:16+09:00"
+    },
+    {
+      "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+      "url": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+      "likes": 151,
+      "published_at": "2025-08-26T08:44:47+09:00"
+    },
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "JavaScript三十六景Tips集",
+      "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+      "likes": 116,
+      "published_at": "2025-09-06T22:47:31+09:00"
+    },
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
+      "url": "https://zenn.dev/adsholoko/articles/researchly-release",
+      "likes": 91,
+      "published_at": "2025-08-16T14:15:12+09:00"
+    },
+    {
+      "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
+      "url": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
+      "likes": 78,
+      "published_at": "2025-08-27T06:59:22+09:00"
+    },
+    {
+      "title": "フロントエンドの .env 管理に疲れた方へ：環境差分を Bundler で吸収する",
+      "url": "https://zenn.dev/ventus/articles/d52fd0325f689f",
+      "likes": 78,
+      "published_at": "2025-08-26T17:07:53+09:00"
+    },
+    {
+      "title": "🎨Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話",
+      "url": "https://zenn.dev/canly/articles/a40805a70ad59f",
+      "likes": 63,
+      "published_at": "2025-09-04T12:01:21+09:00"
+    }
+  ]
+}

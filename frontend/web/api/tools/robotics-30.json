@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "robotics",
+    "name": "robotics"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 136,
+    "score": 136.0
+  },
+  "articles_top": [
+    {
+      "title": "画像1枚からアノテーションレスで物体検出AIモデル開発",
+      "url": "https://zenn.dev/mkj/articles/2a0b7f9788578d",
+      "likes": 46,
+      "published_at": "2025-08-26T11:50:05+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 41,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 40,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+      "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+      "likes": 9,
+      "published_at": "2025-09-08T01:34:26+09:00"
+    }
+  ]
+}

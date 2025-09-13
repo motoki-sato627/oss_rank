@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "certification",
+    "name": "certification"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 14,
+    "score": 14.0
+  },
+  "articles_top": [
+    {
+      "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+      "likes": 14,
+      "published_at": "2025-09-10T20:05:03+09:00"
+    },
+    {
+      "title": "Google Cloud 認定資格の合格率を10%上げるかもしれない Gemini Apps のガイド付き学習を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/gemini-guided-learning-google-cloud-certification",
+      "likes": 0,
+      "published_at": "2025-09-10T20:05:03+09:00"
+    }
+  ]
+}

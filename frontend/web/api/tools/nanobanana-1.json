@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "nanobanana",
+    "name": "nanobanana"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 45,
+    "score": 45.0
+  },
+  "articles_top": [
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 23,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 22,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    }
+  ]
+}

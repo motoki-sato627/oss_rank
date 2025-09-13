@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "terminal",
+    "name": "terminal"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 110,
+    "score": 110.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "ロボット屋さんのためのUbuntuターミナル超入門",
+      "url": "https://zenn.dev/kimushun1101/articles/ros2-beginners-ubuntu-terminal",
+      "likes": 12,
+      "published_at": "2025-09-03T06:23:14+09:00"
+    },
+    {
+      "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+      "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+      "likes": 3,
+      "published_at": "2025-09-11T14:57:18+09:00"
+    },
+    {
+      "title": "毎日のTerminal操作を快適にするzshrcカスタマイズ",
+      "url": "https://zenn.dev/endotakumi/articles/ef9208aac20100",
+      "likes": 3,
+      "published_at": "2025-08-17T07:26:18+09:00"
+    },
+    {
+      "title": "日本語をなんでも猫語に変換するスクリプト",
+      "url": "https://zenn.dev/fygar256/articles/c03746bed331a0",
+      "likes": 2,
+      "published_at": "2025-09-11T06:37:29+09:00"
+    },
+    {
+      "title": "CLIでcdしすぎ問題をautojumpで解決する",
+      "url": "https://zenn.dev/ness98981010/articles/2025-08-29-autojump-cd-solution",
+      "likes": 2,
+      "published_at": "2025-08-29T23:48:42+09:00"
+    },
+    {
+      "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+      "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+      "likes": 0,
+      "published_at": "2025-09-11T14:57:18+09:00"
+    },
+    {
+      "title": "日本語をなんでも猫語に変換するスクリプト",
+      "url": "https://zenn.dev/fygar256/articles/c03746bed331a0",
+      "likes": 0,
+      "published_at": "2025-09-11T06:37:29+09:00"
+    },
+    {
+      "title": "iTerm2でCodex CLI 入力中に『110;1:3u』が出る原因と対処",
+      "url": "https://zenn.dev/woo_noo/articles/58002018de3061",
+      "likes": 0,
+      "published_at": "2025-09-10T00:28:09+09:00"
+    },
+    {
+      "title": "iTerm2でCodex CLI 入力中に『110;1:3u』が出る原因と対処",
+      "url": "https://zenn.dev/woo_noo/articles/58002018de3061",
+      "likes": 0,
+      "published_at": "2025-09-10T00:28:09+09:00"
+    }
+  ]
+}

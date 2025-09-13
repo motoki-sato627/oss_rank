@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "claudecodeaction",
+    "name": "claudecodeaction"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 8,
+    "score": 8.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    }
+  ]
+}

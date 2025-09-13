@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rust",
+    "name": "rust"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 12,
+    "score": 12.0
+  },
+  "articles_top": [
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 41,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 40,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "RUST MOON / 例え月が見えなくても",
+      "url": "https://zenn.dev/doctormate/articles/ee2f1f8bc2c76d",
+      "likes": 4,
+      "published_at": "2025-09-12T09:09:45+09:00"
+    },
+    {
+      "title": "rust の vector 操作まとめ",
+      "url": "https://zenn.dev/sawawada8/articles/a44ce136c0fd29",
+      "likes": 4,
+      "published_at": "2025-09-12T00:14:11+09:00"
+    },
+    {
+      "title": "ALDS1(01~06)の解説",
+      "url": "https://zenn.dev/hashisato/articles/c7522698276b6c",
+      "likes": 2,
+      "published_at": "2025-09-12T09:27:55+09:00"
+    },
+    {
+      "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+      "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+      "likes": 1,
+      "published_at": "2025-09-13T17:02:34+09:00"
+    },
+    {
+      "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+      "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+      "likes": 1,
+      "published_at": "2025-09-13T17:02:34+09:00"
+    },
+    {
+      "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+      "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+      "likes": 1,
+      "published_at": "2025-09-13T17:02:34+09:00"
+    },
+    {
+      "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+      "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+      "likes": 1,
+      "published_at": "2025-09-13T17:02:34+09:00"
+    },
+    {
+      "title": "PythonオブジェクトをRustで効率的に処理する - pyo3-arrowによるゼロコピー実装",
+      "url": "https://zenn.dev/driller/articles/e02c2c244b3759",
+      "likes": 1,
+      "published_at": "2025-09-13T17:02:34+09:00"
+    }
+  ]
+}

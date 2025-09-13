@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "expo",
+    "name": "expo"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 73,
+    "score": 73.0
+  },
+  "articles_top": [
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+      "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+      "likes": 2,
+      "published_at": "2025-09-08T22:56:25+09:00"
+    },
+    {
+      "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+      "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+      "likes": 0,
+      "published_at": "2025-09-08T22:56:25+09:00"
+    },
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 0,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    }
+  ]
+}

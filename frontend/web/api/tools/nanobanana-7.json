@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "nanobanana",
+    "name": "nanobanana"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 50,
+    "score": 50.0
+  },
+  "articles_top": [
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 23,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "nano-bananaでモバイルアプリUIモックアップを作る",
+      "url": "https://zenn.dev/oikon/articles/nanobanana-mobile-mock",
+      "likes": 22,
+      "published_at": "2025-09-13T12:02:29+09:00"
+    },
+    {
+      "title": "26:Nano-Bananaと作るバナー広告自動生成ツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/175b838396a01f",
+      "likes": 5,
+      "published_at": "2025-09-08T07:47:13+09:00"
+    }
+  ]
+}

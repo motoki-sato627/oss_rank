@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rails",
+    "name": "rails"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 20,
+    "likes_sum": 37,
+    "score": 37.0
+  },
+  "articles_top": [
+    {
+      "title": "Campfireのソースコードに学ぶRails Way🚀",
+      "url": "https://zenn.dev/lvflwr/articles/edc586252355fb",
+      "likes": 9,
+      "published_at": "2025-09-11T08:17:12+09:00"
+    },
+    {
+      "title": "Rails World 2025: DHHが示す開発者の完全な自律性",
+      "url": "https://zenn.dev/yamitake/articles/rails-world-2025-dhh-keynote-summary",
+      "likes": 6,
+      "published_at": "2025-09-10T13:37:39+09:00"
+    },
+    {
+      "title": "【Rails】システムスペックでplaywrightドライバとcupriteドライバを比較してみる",
+      "url": "https://zenn.dev/atsumu22/articles/66a27f049ae867",
+      "likes": 3,
+      "published_at": "2025-09-10T00:47:11+09:00"
+    },
+    {
+      "title": "Unicorn の「master と worker」を完全に理解する",
+      "url": "https://zenn.dev/masapon/articles/60684881be584a",
+      "likes": 3,
+      "published_at": "2025-09-09T02:21:08+09:00"
+    },
+    {
+      "title": "[Rails]Active Recordのアソシエーションについて",
+      "url": "https://zenn.dev/kspn/articles/fa6858f69385a4",
+      "likes": 3,
+      "published_at": "2025-09-08T19:07:13+09:00"
+    },
+    {
+      "title": "RailsとPostgreSQLのアプリをKamalでVPSにデプロイ",
+      "url": "https://zenn.dev/kaorumori/articles/6e34284ea51961",
+      "likes": 3,
+      "published_at": "2025-09-08T18:00:33+09:00"
+    },
+    {
+      "title": "RailsのActive Record モデルは原則フラットに保つ(名前空間に入れない)",
+      "url": "https://zenn.dev/shimadama/articles/6093a7f9b54774",
+      "likes": 3,
+      "published_at": "2025-09-07T19:14:42+09:00"
+    },
+    {
+      "title": "なんでなんだよRuby――初めて触って混乱したポイント5つ",
+      "url": "https://zenn.dev/spacemarket/articles/a77ff09c1a0c76",
+      "likes": 2,
+      "published_at": "2025-09-12T17:03:33+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    }
+  ]
+}

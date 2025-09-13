@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "frontend",
+    "name": "frontend"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 37,
+    "likes_sum": 833,
+    "score": 833.0
+  },
+  "articles_top": [
+    {
+      "title": "Figma MCPを攻略して最高のコード生成を実現する",
+      "url": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+      "likes": 139,
+      "published_at": "2025-08-27T10:58:53+09:00"
+    },
+    {
+      "title": "フロントエンドのテストアーキテクチャ",
+      "url": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
+      "likes": 100,
+      "published_at": "2025-09-06T09:00:01+09:00"
+    },
+    {
+      "title": "リッチテキストエディターはライブラリを活用した方が良い訳",
+      "url": "https://zenn.dev/karintou/articles/960c923a854cd9",
+      "likes": 91,
+      "published_at": "2025-08-28T21:35:07+09:00"
+    },
+    {
+      "title": "フロントエンドのモジュールを共有する手法を考える",
+      "url": "https://zenn.dev/cybozu_frontend/articles/module-share-pattern",
+      "likes": 88,
+      "published_at": "2025-09-04T09:18:07+09:00"
+    },
+    {
+      "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
+      "url": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
+      "likes": 78,
+      "published_at": "2025-08-27T06:59:22+09:00"
+    },
+    {
+      "title": "Next.js はどうやって React Compiler を実行しているのか",
+      "url": "https://zenn.dev/ishiharu/articles/how-nextjs-uses-react-compiler",
+      "likes": 53,
+      "published_at": "2025-08-22T02:48:28+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "フロントエンド開発で使う数理最適化",
+      "url": "https://zenn.dev/sumasate_tec/articles/80d7ea1669e71c",
+      "likes": 37,
+      "published_at": "2025-09-05T17:30:01+09:00"
+    },
+    {
+      "title": "なぜCSS @layerが生まれたのか Cascade Layersの背景と仕組みを理解する",
+      "url": "https://zenn.dev/ryohiy/articles/css-cascade-layers",
+      "likes": 36,
+      "published_at": "2025-08-25T07:43:33+09:00"
+    },
+    {
+      "title": "ZennのWYSIWYGエディタを作ってみた",
+      "url": "https://zenn.dev/karintou/articles/1ba996a5ca7df8",
+      "likes": 32,
+      "published_at": "2025-08-15T23:30:10+09:00"
+    }
+  ]
+}

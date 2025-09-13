@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "flutter",
+    "name": "flutter"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 63,
+    "likes_sum": 135,
+    "score": 135.0
+  },
+  "articles_top": [
+    {
+      "title": "スマホのアプリがネイティブ・Flutter・React Native製かをざっくり見分ける方法",
+      "url": "https://zenn.dev/igz0/articles/how-to-identify-native-vs-flutter-vs-react-native",
+      "likes": 77,
+      "published_at": "2025-08-23T14:10:18+09:00"
+    },
+    {
+      "title": "【Flutter】React Hooks 風の状態管理パッケージ「ReArch」の紹介",
+      "url": "https://zenn.dev/hyshu/articles/a7661c4d8430dc",
+      "likes": 12,
+      "published_at": "2025-09-01T20:49:00+09:00"
+    },
+    {
+      "title": "Android APIアップデートで詰まって気づいた、Flutterアプリのアーキテクチャ理解の重要性",
+      "url": "https://zenn.dev/assign/articles/d37be99244e310",
+      "likes": 6,
+      "published_at": "2025-09-11T14:01:19+09:00"
+    },
+    {
+      "title": "Flet1.0での大幅進化に向けて簡単アプリを作成して予習してみる",
+      "url": "https://zenn.dev/harumikun/articles/231f20befd1246",
+      "likes": 5,
+      "published_at": "2025-08-14T18:04:28+09:00"
+    },
+    {
+      "title": "Dart・FlutterのMCPサーバーについて",
+      "url": "https://zenn.dev/yagiryuuu/articles/e57ce4e5581d2a",
+      "likes": 4,
+      "published_at": "2025-08-15T20:29:59+09:00"
+    },
+    {
+      "title": "miseでFlutterバージョンを固定する：VSCodeとターミナルのバージョン不一致を解消",
+      "url": "https://zenn.dev/satorun/articles/cb411991321141",
+      "likes": 3,
+      "published_at": "2025-08-28T20:09:13+09:00"
+    },
+    {
+      "title": "Codemagicを使ってFlutter製iOS社内アプリ(ADEP)のCICD構築してみた",
+      "url": "https://zenn.dev/jins/articles/aecfe722539de7",
+      "likes": 3,
+      "published_at": "2025-08-20T12:00:01+09:00"
+    },
+    {
+      "title": "【Flutter】モダンなAudioVisualizationのパッケージ audio_flux を試す",
+      "url": "https://zenn.dev/slowhand/articles/c22e59b441d2ae",
+      "likes": 2,
+      "published_at": "2025-09-06T21:00:05+09:00"
+    },
+    {
+      "title": "Flutterで音量ボタンによるカメラシャッター機能を実装する方法",
+      "url": "https://zenn.dev/nakatatakumi/articles/927e9fa9691063",
+      "likes": 2,
+      "published_at": "2025-09-05T19:42:18+09:00"
+    },
+    {
+      "title": "個人開発の&quot;占い&quot;アプリでGuideline4.3(b)-Design-Spamを突破した",
+      "url": "https://zenn.dev/ichihos1111/articles/93de94636f6449",
+      "likes": 2,
+      "published_at": "2025-08-30T12:14:34+09:00"
+    }
+  ]
+}

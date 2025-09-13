@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ddd",
+    "name": "ddd"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 41,
+    "likes_sum": 283,
+    "score": 283.0
+  },
+  "articles_top": [
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "「ドメイン駆動設計をはじめよう」を3回読んで学んだ事をまとめる",
+      "url": "https://zenn.dev/fendo181/articles/6ed5dfc71898da",
+      "likes": 85,
+      "published_at": "2025-09-09T19:23:54+09:00"
+    },
+    {
+      "title": "【実例付き】オレオレ！ MCP Server デザインパターン【汎用Agentへの熟練知のプラグイン】",
+      "url": "https://zenn.dev/loglass/articles/b140077acdecab",
+      "likes": 50,
+      "published_at": "2025-09-05T07:53:30+09:00"
+    },
+    {
+      "title": "ドメイン駆動設計の第一歩：インターンでの学び",
+      "url": "https://zenn.dev/kentaafk/articles/52270aea9ee185",
+      "likes": 11,
+      "published_at": "2025-08-29T16:50:23+09:00"
+    },
+    {
+      "title": "DDDの実装順序を見直したら、開発速度が向上した話",
+      "url": "https://zenn.dev/akaishikiso/articles/7338391c050050",
+      "likes": 8,
+      "published_at": "2025-08-14T23:31:13+09:00"
+    },
+    {
+      "title": "事業展開とともに歩むモジュラーモノリス移行手順と構成",
+      "url": "https://zenn.dev/jcat/articles/75d419b7248f63",
+      "likes": 7,
+      "published_at": "2025-09-05T17:06:06+09:00"
+    },
+    {
+      "title": "Luup Serverチームの開発スケールのためのAI活用事例",
+      "url": "https://zenn.dev/luup_developers/articles/server-yasumoto-20250909",
+      "likes": 5,
+      "published_at": "2025-09-09T15:00:01+09:00"
+    },
+    {
+      "title": "「ドメイン駆動設計」は私の直感に反する。それでも生成 AI と共に理性で理解する。",
+      "url": "https://zenn.dev/takanari_dev/articles/2025-08-28-ddd-with-ai",
+      "likes": 4,
+      "published_at": "2025-08-29T12:27:52+09:00"
+    },
+    {
+      "title": "DDDのServiceパターンをTypeScript関数型アプローチで実装する実践ガイド",
+      "url": "https://zenn.dev/kimkiyong/articles/920d5637f5bc4f",
+      "likes": 4,
+      "published_at": "2025-08-14T12:35:28+09:00"
+    },
+    {
+      "title": "Go言語でDDDの値オブジェクトをどう表現するか",
+      "url": "https://zenn.dev/engineer38/articles/8ed57c2c083e6d",
+      "likes": 3,
+      "published_at": "2025-09-07T13:45:52+09:00"
+    }
+  ]
+}

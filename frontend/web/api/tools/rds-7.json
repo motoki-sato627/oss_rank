@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rds",
+    "name": "rds"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 17,
+    "likes_sum": 15,
+    "score": 15.0
+  },
+  "articles_top": [
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    },
+    {
+      "title": "【保存版】PostgreSQLのコマンド集",
+      "url": "https://zenn.dev/junc/articles/dba4ef795d9a02",
+      "likes": 1,
+      "published_at": "2025-09-13T16:49:54+09:00"
+    }
+  ]
+}

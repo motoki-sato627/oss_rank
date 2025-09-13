@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "claudecodeactions",
+    "name": "claudecodeactions"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 24,
+    "score": 24.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 0,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    }
+  ]
+}

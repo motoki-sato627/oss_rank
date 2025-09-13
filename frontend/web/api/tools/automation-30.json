@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "automation",
+    "name": "automation"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 81,
+    "score": 81.0
+  },
+  "articles_top": [
+    {
+      "title": "Mac miniとcodexで自動リファクタリングPRを量産する仕組み",
+      "url": "https://zenn.dev/noppe/articles/d877f5ba22e3e8",
+      "likes": 47,
+      "published_at": "2025-09-02T01:39:23+09:00"
+    },
+    {
+      "title": "非技術者のためのn8n入門：AI駆動のインテグレーションをつくる",
+      "url": "https://zenn.dev/xtm_blog/articles/597e2fbc533c67",
+      "likes": 8,
+      "published_at": "2025-09-09T20:54:15+09:00"
+    },
+    {
+      "title": "Claude Code Actionで開発効率倍増！GitHub連携AI駆動開発の実践",
+      "url": "https://zenn.dev/sompojapan_dx/articles/0af55c8bef3813",
+      "likes": 7,
+      "published_at": "2025-08-22T14:50:59+09:00"
+    },
+    {
+      "title": "ZendeskのチケットをAmazon Bedrockで解析した",
+      "url": "https://zenn.dev/mitene/articles/07e5aad5145c5b",
+      "likes": 5,
+      "published_at": "2025-09-02T15:40:11+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "AI による運用自動化の課題整理と運用スクリプトの MCP Server 化によるアプローチの検証",
+      "url": "https://zenn.dev/pepabo/articles/0b5b88d4ca8686",
+      "likes": 3,
+      "published_at": "2025-09-03T15:41:07+09:00"
+    },
+    {
+      "title": "Makefileで開発フローを統一する：そのツール、本当に必要？",
+      "url": "https://zenn.dev/deltax/articles/20250904-make-all-in-one",
+      "likes": 2,
+      "published_at": "2025-09-11T13:56:15+09:00"
+    },
+    {
+      "title": "Claude CodeのUserPromptSubmitフックでCLAUDE.mdを自動読み込みする方法",
+      "url": "https://zenn.dev/zozotech/articles/b5b662b4124e9a",
+      "likes": 2,
+      "published_at": "2025-09-02T12:59:15+09:00"
+    },
+    {
+      "title": "日常の小さな不便は、GitHub Issue に書くだけで解決。 Jules 体験記",
+      "url": "https://zenn.dev/dxc_ai_driven/articles/b25e94f28e7228",
+      "likes": 2,
+      "published_at": "2025-08-20T09:02:37+09:00"
+    },
+    {
+      "title": "Claude Codeのカスタムスラッシュコマンドを作ってみた",
+      "url": "https://zenn.dev/takesoon/articles/create-custom-slash-command",
+      "likes": 2,
+      "published_at": "2025-08-19T23:18:09+09:00"
+    }
+  ]
+}

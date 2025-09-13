@@ -21,7 +21,7 @@ import requests
 # 定数・設定
 # ===========================
 JST = timezone(timedelta(hours=9))
-DB_PATH = os.getenv("DB_PATH", "trend.db")
+DB_PATH = os.getenv("DB_PATH", os.path.abspath("trend.db"))
 
 USER_AGENT = "oss-rank-bot/1.0 (+https://example.com)"
 ZENN_ARTICLES_API = "https://zenn.dev/api/articles"  # ?order=latest&page=1
@@ -258,7 +258,7 @@ def aggregate(
     days: int, 
     tools_csv: str = "tools.csv", 
     db_path: str = DB_PATH, 
-    max_pages: int = 100, 
+    max_pages: int = 1, 
     sleep_sec: float = 0.3
 ):
     """

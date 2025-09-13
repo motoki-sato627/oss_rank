@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vim",
+    "name": "vim"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 20,
+    "likes_sum": 134,
+    "score": 134.0
+  },
+  "articles_top": [
+    {
+      "title": "実践Vim 第一部: 何となくVimを使っていた自分が見落としていたVimテクニックと考え方",
+      "url": "https://zenn.dev/cozy_corner/articles/f202dedf604edb",
+      "likes": 84,
+      "published_at": "2025-09-06T01:30:53+09:00"
+    },
+    {
+      "title": "左手デバイスからVimを操作する",
+      "url": "https://zenn.dev/nil2/articles/a88c03e37aa4c3",
+      "likes": 10,
+      "published_at": "2025-08-27T00:36:30+09:00"
+    },
+    {
+      "title": "Vimのaugroup名に `#` は使ってはいけない",
+      "url": "https://zenn.dev/vim_jp/articles/20250818_ekiden_augroup_hash",
+      "likes": 9,
+      "published_at": "2025-08-19T00:07:33+09:00"
+    },
+    {
+      "title": "Neovim 0.10のwinfixbuf対応: dduで学ぶバッファ管理の実践",
+      "url": "https://zenn.dev/gvatech_blog/articles/a891bbf9479edf",
+      "likes": 6,
+      "published_at": "2025-08-29T14:13:39+09:00"
+    },
+    {
+      "title": "実務でVimを活用して思考の速度で編集しよう！(プラグイン編)",
+      "url": "https://zenn.dev/bluezz/articles/d8d078b18e8273",
+      "likes": 6,
+      "published_at": "2025-08-23T18:04:56+09:00"
+    },
+    {
+      "title": "カーソル行のVim9 scriptを実行する",
+      "url": "https://zenn.dev/utubo/articles/20250820-run-vim9script-current-line",
+      "likes": 6,
+      "published_at": "2025-08-20T00:00:00+09:00"
+    },
+    {
+      "title": "Clojure開発者のためのEmacs設定 2025（with Vim + Claude Code）",
+      "url": "https://zenn.dev/chaploud/articles/423a0166446485",
+      "likes": 4,
+      "published_at": "2025-08-28T23:55:40+09:00"
+    },
+    {
+      "title": "実践Vim 第二部・第三部: 何となくVimを使っていた自分が見落としていたファイル操作とナビゲーション",
+      "url": "https://zenn.dev/cozy_corner/articles/59dcf27fbfff5c",
+      "likes": 3,
+      "published_at": "2025-09-09T22:17:11+09:00"
+    },
+    {
+      "title": "neovimのCursorの色が変わらないと思ったらターミナルのカラースキームのせいだった話",
+      "url": "https://zenn.dev/manzu_hwata/articles/2eb709bf2f33a9",
+      "likes": 3,
+      "published_at": "2025-08-20T22:58:03+09:00"
+    },
+    {
+      "title": "Vimの日本語入力時、left_control + open_bracketでノーマルモードにする時に、自動的に英数入力に切り替える",
+      "url": "https://zenn.dev/mtb_hiro/articles/9d433f21c61b3c",
+      "likes": 1,
+      "published_at": "2025-09-07T17:22:30+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vertexai",
+    "name": "vertexai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 104,
+    "score": 104.0
+  },
+  "articles_top": [
+    {
+      "title": "GoogleのVirtual Try-On API登場までのバーチャル試着を解説する",
+      "url": "https://zenn.dev/tsuruo/articles/21783916dd0283",
+      "likes": 31,
+      "published_at": "2025-08-22T11:23:10+09:00"
+    },
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "Nano Banana(gemini-2.5-flash-image-preview) APIを試す。",
+      "url": "https://zenn.dev/asap/articles/8d5af79e40fa4d",
+      "likes": 15,
+      "published_at": "2025-09-02T02:30:01+09:00"
+    },
+    {
+      "title": "Google Cloudで検索基盤を作ろうとして迷ったら（Vertex AI Serach,Vertex AI Vector Search）",
+      "url": "https://zenn.dev/atamaplus/articles/ea7ecbf3c6fd95",
+      "likes": 9,
+      "published_at": "2025-08-18T12:00:01+09:00"
+    },
+    {
+      "title": "【生成 AI 時代の LLMOps】プロンプト管理編",
+      "url": "https://zenn.dev/google_cloud_jp/articles/db61e6617020a4",
+      "likes": 8,
+      "published_at": "2025-08-21T18:41:36+09:00"
+    },
+    {
+      "title": "【生成 AI 時代の LLMOps】モデル マイグレーション編",
+      "url": "https://zenn.dev/google_cloud_jp/articles/67a39ee22d094f",
+      "likes": 7,
+      "published_at": "2025-08-22T12:22:24+09:00"
+    },
+    {
+      "title": "ベクトル検索を使って顧客情報の重複登録を防止する",
+      "url": "https://zenn.dev/drsprime/articles/36558596c3c7fe",
+      "likes": 6,
+      "published_at": "2025-08-26T11:16:56+09:00"
+    },
+    {
+      "title": "Google Agentspace を無料トライアルではじめませんか？",
+      "url": "https://zenn.dev/cloud_ace/articles/agentspace-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T18:00:55+09:00"
+    },
+    {
+      "title": "Vertex AI のハイエンド GPU が最大約半額に！DWS の新料金プランで GPU コストを大幅削減",
+      "url": "https://zenn.dev/google_cloud_jp/articles/dws-flex-new-skus",
+      "likes": 3,
+      "published_at": "2025-08-20T12:56:32+09:00"
+    },
+    {
+      "title": "2025年8月版：Google Cloud の AI エージェントまとめ",
+      "url": "https://zenn.dev/densan_techblog/articles/ba10640f02aff4",
+      "likes": 2,
+      "published_at": "2025-08-26T22:57:37+09:00"
+    }
+  ]
+}

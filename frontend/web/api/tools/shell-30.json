@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "shell",
+    "name": "shell"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 7,
+    "likes_sum": 135,
+    "score": 135.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "rmは危険だから代替を使うように矯正したいけど明らかに消して良いファイルに対してはrmを使いたい",
+      "url": "https://zenn.dev/kawarimidoll/articles/70e473a198badf",
+      "likes": 29,
+      "published_at": "2025-08-29T21:09:09+09:00"
+    },
+    {
+      "title": "AWKを超えて：HaskellをUnixパイプラインに持ち込む",
+      "url": "https://zenn.dev/koheiwada/articles/d10e206d9e66f0",
+      "likes": 17,
+      "published_at": "2025-08-16T13:41:11+09:00"
+    },
+    {
+      "title": "もう迷わない！.bash_profileと.bashrcの使い分けと読み込み順のメモ",
+      "url": "https://zenn.dev/meantix/articles/98a1678841de89",
+      "likes": 1,
+      "published_at": "2025-09-02T21:04:14+09:00"
+    },
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 0,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "Gitのブランチ名にシングルクォーテーションを入れたらコマンドが面倒くさくなった",
+      "url": "https://zenn.dev/pepepepepei/articles/e2d839248d99a1",
+      "likes": 0,
+      "published_at": "2025-09-06T05:27:10+09:00"
+    },
+    {
+      "title": "[WSL] 時間がかかる処理をターミナルで実行すると、終わったタイミングで画面に通知する自作コマンド",
+      "url": "https://zenn.dev/tkmfujise/articles/420bbcf72010ff",
+      "likes": 0,
+      "published_at": "2025-08-24T23:18:55+09:00"
+    }
+  ]
+}

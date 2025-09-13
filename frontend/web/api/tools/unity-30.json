@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "unity",
+    "name": "unity"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 43,
+    "likes_sum": 63,
+    "score": 63.0
+  },
+  "articles_top": [
+    {
+      "title": "【.NET】ジェネリック共有について【Unity】",
+      "url": "https://zenn.dev/aakei/articles/sharing-generics",
+      "likes": 20,
+      "published_at": "2025-08-20T23:45:22+09:00"
+    },
+    {
+      "title": "【Autoware × AWSIM】Unityでmibotを動かす！KGモーターズの自動運転開発の裏側ーPart1.",
+      "url": "https://zenn.dev/kg_motors_mibot/articles/8fc7625d5813df",
+      "likes": 5,
+      "published_at": "2025-09-03T18:44:24+09:00"
+    },
+    {
+      "title": "OpenXRとMeta Questではじめる！AR/MRアプリの現実世界との位置合わせ - Immersal編 -",
+      "url": "https://zenn.dev/meson_tech_blog/articles/openxr-meta-immersal",
+      "likes": 5,
+      "published_at": "2025-08-29T14:11:10+09:00"
+    },
+    {
+      "title": "個人開発で麻雀点数計算のゲームを作ってみた",
+      "url": "https://zenn.dev/kanamo/articles/56b4e0f03c17f3",
+      "likes": 5,
+      "published_at": "2025-08-18T19:03:04+09:00"
+    },
+    {
+      "title": "Unityでカメラを近づけるとオブジェクト、モデルが消える際の対処法と原因を考察",
+      "url": "https://zenn.dev/kawtech/articles/3e14f9c7bc1965",
+      "likes": 4,
+      "published_at": "2025-08-18T18:00:32+09:00"
+    },
+    {
+      "title": "[Unity] 効果音再生を一元管理するSoundPlayer",
+      "url": "https://zenn.dev/ushibutatory/articles/7a4e30c1f1dc75d41d28",
+      "likes": 3,
+      "published_at": "2025-08-20T00:11:41+09:00"
+    },
+    {
+      "title": "【Unity x Rider】なぜかコード解析が行われないときに試したこと",
+      "url": "https://zenn.dev/n_hidano/articles/d40430d3237f96",
+      "likes": 2,
+      "published_at": "2025-09-11T14:33:04+09:00"
+    },
+    {
+      "title": "UnityでつくったAndroidアプリを、Google Playの16KBページサイズ対応にしてアップデートしました",
+      "url": "https://zenn.dev/toto_tantanto/articles/3a3e254a5c2009",
+      "likes": 2,
+      "published_at": "2025-09-11T03:17:00+09:00"
+    },
+    {
+      "title": "Minimalから作るUnity VFX Graph 基礎編",
+      "url": "https://zenn.dev/althenasoft/articles/80888ccb77e448",
+      "likes": 2,
+      "published_at": "2025-09-06T16:08:54+09:00"
+    },
+    {
+      "title": "OpenXRとMeta Questではじめる！AR/MRアプリの現実世界との位置合わせ - ARアンカー編 -",
+      "url": "https://zenn.dev/meson_tech_blog/articles/openxr-meta-anchor",
+      "likes": 2,
+      "published_at": "2025-09-04T11:34:41+09:00"
+    }
+  ]
+}

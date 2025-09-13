@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cli",
+    "name": "cli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 201,
+    "score": 201.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+      "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+      "likes": 68,
+      "published_at": "2025-09-08T18:00:02+09:00"
+    },
+    {
+      "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+      "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+      "likes": 40,
+      "published_at": "2025-09-11T14:27:21+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "Makefileで開発フローを統一する：そのツール、本当に必要？",
+      "url": "https://zenn.dev/deltax/articles/20250904-make-all-in-one",
+      "likes": 2,
+      "published_at": "2025-09-11T13:56:15+09:00"
+    },
+    {
+      "title": "ECSの作業効率が爆上がりするツール「ecsk」の使い方",
+      "url": "https://zenn.dev/fumi_techblog/articles/b693984f3f0313",
+      "likes": 2,
+      "published_at": "2025-09-06T02:56:56+09:00"
+    },
+    {
+      "title": "ターミナルだけで完結するデータ分析環境の構築検討：Codex CLI + awk, q, duckdb",
+      "url": "https://zenn.dev/moxak/articles/05ba2a908506c6",
+      "likes": 1,
+      "published_at": "2025-09-09T07:15:48+09:00"
+    },
+    {
+      "title": "Go Cobra CLI 作成チュートリアル",
+      "url": "https://zenn.dev/nanashi123/articles/go-cobra-cli-create-tutorial",
+      "likes": 1,
+      "published_at": "2025-09-07T20:51:26+09:00"
+    },
+    {
+      "title": "LLM と組み合わせて GitHub Projects を効率管理するために gh cli 拡張 gh-pm を作ったよ",
+      "url": "https://zenn.dev/yahsan2/articles/c42e05288cfd44",
+      "likes": 1,
+      "published_at": "2025-09-07T09:43:19+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "localllm",
+    "name": "localllm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 197,
+    "score": 197.0
+  },
+  "articles_top": [
+    {
+      "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
+      "url": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
+      "likes": 183,
+      "published_at": "2025-09-02T09:53:01+09:00"
+    },
+    {
+      "title": "【Windows11／gtp-oss／OpenCode】gpt-ossを使って無料でAIエージェントを使えるコーディング環境を構築する",
+      "url": "https://zenn.dev/is0383kk/articles/460e87170f3e7e",
+      "likes": 4,
+      "published_at": "2025-08-21T05:00:05+09:00"
+    },
+    {
+      "title": "最近のSemanticKernel",
+      "url": "https://zenn.dev/yakumo3/articles/902c92641cf7f4",
+      "likes": 3,
+      "published_at": "2025-09-07T12:22:24+09:00"
+    },
+    {
+      "title": "gpt-ossが遅かったollamaが速くなった？",
+      "url": "https://zenn.dev/yakumo3/articles/c3d80fe9d06795",
+      "likes": 2,
+      "published_at": "2025-09-07T19:50:38+09:00"
+    },
+    {
+      "title": "Mac mini m4pro 64GBでGPT-OSS:120Bが動いたセッティング",
+      "url": "https://zenn.dev/tunerarticle/articles/63088ebbee17d8",
+      "likes": 2,
+      "published_at": "2025-08-28T01:11:34+09:00"
+    },
+    {
+      "title": "llama.cppでローカルLLMを超簡単に試す方法（CUDAインストール不要）",
+      "url": "https://zenn.dev/ledmirage/articles/c6aab5ea179acf",
+      "likes": 2,
+      "published_at": "2025-08-24T02:01:26+09:00"
+    },
+    {
+      "title": "Second Me をローカル LLM で動かすーmacOS で Docker は使わない方法",
+      "url": "https://zenn.dev/hirokita117/articles/7ff5bb257c41e4",
+      "likes": 1,
+      "published_at": "2025-08-17T23:49:32+09:00"
+    },
+    {
+      "title": "gpt-ossが遅かったollamaが速くなった？",
+      "url": "https://zenn.dev/yakumo3/articles/c3d80fe9d06795",
+      "likes": 0,
+      "published_at": "2025-09-07T19:50:38+09:00"
+    },
+    {
+      "title": "最近のSemanticKernel",
+      "url": "https://zenn.dev/yakumo3/articles/902c92641cf7f4",
+      "likes": 0,
+      "published_at": "2025-09-07T12:22:24+09:00"
+    },
+    {
+      "title": "CLIのみで大量のデータをローカルLLMで処理できるAPIサーバーをサクッと作る",
+      "url": "https://zenn.dev/studio_prairie/articles/e4f9b6e2d915e7",
+      "likes": 0,
+      "published_at": "2025-08-25T07:29:48+09:00"
+    }
+  ]
+}

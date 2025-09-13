@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "lua",
+    "name": "lua"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+      "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+      "likes": 10,
+      "published_at": "2025-09-12T00:02:05+09:00"
+    },
+    {
+      "title": "非数 や -0.0 は truthy?",
+      "url": "https://zenn.dev/nabetani/articles/19591496dfaadb",
+      "likes": 3,
+      "published_at": "2025-09-06T16:57:06+09:00"
+    },
+    {
+      "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+      "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+      "likes": 0,
+      "published_at": "2025-09-12T00:02:05+09:00"
+    }
+  ]
+}

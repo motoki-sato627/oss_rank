@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ruby",
+    "name": "ruby"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 27,
+    "score": 27.0
+  },
+  "articles_top": [
+    {
+      "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
+      "url": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
+      "likes": 10,
+      "published_at": "2025-09-06T18:40:53+09:00"
+    },
+    {
+      "title": "Campfireのソースコードに学ぶRails Way🚀",
+      "url": "https://zenn.dev/lvflwr/articles/edc586252355fb",
+      "likes": 9,
+      "published_at": "2025-09-11T08:17:12+09:00"
+    },
+    {
+      "title": "Rails World 2025: DHHが示す開発者の完全な自律性",
+      "url": "https://zenn.dev/yamitake/articles/rails-world-2025-dhh-keynote-summary",
+      "likes": 6,
+      "published_at": "2025-09-10T13:37:39+09:00"
+    },
+    {
+      "title": "Unicorn の「master と worker」を完全に理解する",
+      "url": "https://zenn.dev/masapon/articles/60684881be584a",
+      "likes": 3,
+      "published_at": "2025-09-09T02:21:08+09:00"
+    },
+    {
+      "title": "RailsとPostgreSQLのアプリをKamalでVPSにデプロイ",
+      "url": "https://zenn.dev/kaorumori/articles/6e34284ea51961",
+      "likes": 3,
+      "published_at": "2025-09-08T18:00:33+09:00"
+    },
+    {
+      "title": "非数 や -0.0 は truthy?",
+      "url": "https://zenn.dev/nabetani/articles/19591496dfaadb",
+      "likes": 3,
+      "published_at": "2025-09-06T16:57:06+09:00"
+    },
+    {
+      "title": "なんでなんだよRuby――初めて触って混乱したポイント5つ",
+      "url": "https://zenn.dev/spacemarket/articles/a77ff09c1a0c76",
+      "likes": 2,
+      "published_at": "2025-09-12T17:03:33+09:00"
+    },
+    {
+      "title": "[Feature #21533] AM / PM を判定する Time#am?, pm? メソッドを追加する提案",
+      "url": "https://zenn.dev/mamayukawaii/articles/20250911193335",
+      "likes": 1,
+      "published_at": "2025-09-12T00:00:06+09:00"
+    },
+    {
+      "title": "Shlink-UI-Rails を作った話｜Rails 8 × Hotwire でモダンなURL短縮UIを実装",
+      "url": "https://zenn.dev/enjoydarts/articles/af1a9569d0fca7",
+      "likes": 1,
+      "published_at": "2025-09-09T13:40:04+09:00"
+    },
+    {
+      "title": "[Bug #21538] class/module を .dup しても .initialize_dup が呼び出されないバグ報告",
+      "url": "https://zenn.dev/mamayukawaii/articles/20250908204036",
+      "likes": 1,
+      "published_at": "2025-09-09T00:00:00+09:00"
+    }
+  ]
+}

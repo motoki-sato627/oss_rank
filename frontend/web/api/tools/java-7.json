@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "java",
+    "name": "java"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 32,
+    "likes_sum": 19,
+    "score": 19.0
+  },
+  "articles_top": [
+    {
+      "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+      "url": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+      "likes": 5,
+      "published_at": "2025-09-11T19:27:28+09:00"
+    },
+    {
+      "title": "Javaのチェック例外/非チェック例外の使い分け？",
+      "url": "https://zenn.dev/masatoshi_tada/articles/24cda978a16e8f",
+      "likes": 4,
+      "published_at": "2025-09-10T11:00:23+09:00"
+    },
+    {
+      "title": "java.util.Dateとjava.sql.Dateとjava.time.LocalDateのややこしい関係",
+      "url": "https://zenn.dev/masatoshi_tada/articles/aa4eb7cf0cde36",
+      "likes": 4,
+      "published_at": "2025-09-09T18:41:30+09:00"
+    },
+    {
+      "title": "【DAY94】Javaはポートフォリオに最適？就活で強い理由",
+      "url": "https://zenn.dev/keisuke4649/articles/day94-pg-connection",
+      "likes": 2,
+      "published_at": "2025-09-12T05:42:00+09:00"
+    },
+    {
+      "title": "Mockitoでモックのメソッドが1回目・2回目・・・に呼び出されるごとに戻り値を変えるようにする",
+      "url": "https://zenn.dev/masatoshi_tada/articles/f881ecc422d3af",
+      "likes": 2,
+      "published_at": "2025-09-09T15:56:04+09:00"
+    },
+    {
+      "title": "kotlin初学者がサーバーサイド開発の検討をしてみた",
+      "url": "https://zenn.dev/favopg/articles/444adbdeaf9e28",
+      "likes": 1,
+      "published_at": "2025-09-11T12:48:28+09:00"
+    },
+    {
+      "title": "標準入力/標準出力をテストする",
+      "url": "https://zenn.dev/masatoshi_tada/articles/abf40605cd2045",
+      "likes": 1,
+      "published_at": "2025-09-09T15:20:02+09:00"
+    },
+    {
+      "title": "ローカル日時クラスまとめ&lt;前編&gt;[Java]",
+      "url": "https://zenn.dev/wakinoza/articles/3730127e016962",
+      "likes": 1,
+      "published_at": "2025-09-06T15:24:41+09:00"
+    },
+    {
+      "title": "ローカル日時クラスまとめ&lt;後編&gt;[Java]",
+      "url": "https://zenn.dev/wakinoza/articles/0b531b4f0bbe7c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:33:12+09:00"
+    },
+    {
+      "title": "ローカル日時クラスまとめ&lt;後編&gt;[Java]",
+      "url": "https://zenn.dev/wakinoza/articles/0b531b4f0bbe7c",
+      "likes": 0,
+      "published_at": "2025-09-13T14:33:12+09:00"
+    }
+  ]
+}

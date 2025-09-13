@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "terraform",
+    "name": "terraform"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 5,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "Cloudflare Zero Trust で Worker を保護する",
+      "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+      "likes": 2,
+      "published_at": "2025-09-13T00:31:03+09:00"
+    },
+    {
+      "title": "Cloudflare Zero Trust で Worker を保護する",
+      "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+      "likes": 2,
+      "published_at": "2025-09-13T00:31:03+09:00"
+    },
+    {
+      "title": "Python Flask + Terraform + AWS デプロイガイド",
+      "url": "https://zenn.dev/programing_gym/articles/1ce9f2714f4ca5",
+      "likes": 0,
+      "published_at": "2025-09-13T13:18:48+09:00"
+    },
+    {
+      "title": "Python Flask + Terraform + AWS デプロイガイド",
+      "url": "https://zenn.dev/programing_gym/articles/1ce9f2714f4ca5",
+      "likes": 0,
+      "published_at": "2025-09-13T13:18:48+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "databricks",
+    "name": "databricks"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 35,
+    "likes_sum": 110,
+    "score": 110.0
+  },
+  "articles_top": [
+    {
+      "title": "データ共有サービス比較：Snowflake Secure Data Sharing と  Databricks Delta Sharing",
+      "url": "https://zenn.dev/taro_cccmkhd/articles/a428ee1b48e1c8",
+      "likes": 25,
+      "published_at": "2025-09-02T11:02:19+09:00"
+    },
+    {
+      "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+      "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+      "likes": 23,
+      "published_at": "2025-09-10T10:00:01+09:00"
+    },
+    {
+      "title": "Databricks SQLで大量データから欲しい情報だけ取り出して可視化する",
+      "url": "https://zenn.dev/headwaters/articles/20250908dbxzorder",
+      "likes": 11,
+      "published_at": "2025-09-02T18:44:33+09:00"
+    },
+    {
+      "title": "Databricks DLTでメダリオンアーキテクチャのパイプラインを構築",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-n8n",
+      "likes": 10,
+      "published_at": "2025-09-05T18:20:08+09:00"
+    },
+    {
+      "title": "AWS Lambda×DuckDB×delta-rsによるETLの実装",
+      "url": "https://zenn.dev/penginpenguin/articles/5af90d4a5e76bb",
+      "likes": 10,
+      "published_at": "2025-08-23T07:26:40+09:00"
+    },
+    {
+      "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+      "likes": 7,
+      "published_at": "2025-09-11T08:16:04+09:00"
+    },
+    {
+      "title": "Databricks AI Assistantのアップデート紹介：ノートブック全体チェックとシステムプロンプト対応",
+      "url": "https://zenn.dev/nttdata_tech/articles/3461336f3c483f",
+      "likes": 7,
+      "published_at": "2025-08-27T10:44:32+09:00"
+    },
+    {
+      "title": "GENDAのデータサイエンティスト開発体験向上の取り組み紹介―AWS ECSからDatabricksへの移行",
+      "url": "https://zenn.dev/genda_jp/articles/724a597e8f18ff",
+      "likes": 6,
+      "published_at": "2025-09-01T09:00:01+09:00"
+    },
+    {
+      "title": "Azure DatabricksのUnity Catalogを有効化する方法",
+      "url": "https://zenn.dev/headwaters/articles/3cf430236e6180",
+      "likes": 5,
+      "published_at": "2025-08-30T13:43:36+09:00"
+    },
+    {
+      "title": "MLflow 3.0 on DatabricksでLLMの評価を行う",
+      "url": "https://zenn.dev/derbuihan/articles/378072840f917a",
+      "likes": 2,
+      "published_at": "2025-08-16T16:50:11+09:00"
+    }
+  ]
+}

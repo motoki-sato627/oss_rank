@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "tinygo",
+    "name": "tinygo"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 48,
+    "score": 48.0
+  },
+  "articles_top": [
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 46,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    },
+    {
+      "title": "TinyGo Keeb in Osaka に参加したぞ！",
+      "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+      "likes": 2,
+      "published_at": "2025-09-10T21:04:45+09:00"
+    },
+    {
+      "title": "TinyGo Keeb in Osaka に参加したぞ！",
+      "url": "https://zenn.dev/ayakobaba/articles/2a67dbc23e56f1",
+      "likes": 0,
+      "published_at": "2025-09-10T21:04:45+09:00"
+    },
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 0,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    }
+  ]
+}

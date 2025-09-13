@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "testing",
+    "name": "testing"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 227,
+    "score": 227.0
+  },
+  "articles_top": [
+    {
+      "title": "巨人に学ぶテストコードアンチパターン",
+      "url": "https://zenn.dev/rakuten_tech/articles/test_review_best_practices_ja",
+      "likes": 150,
+      "published_at": "2025-08-29T21:00:01+09:00"
+    },
+    {
+      "title": "QAエンジニアはAIに淘汰されないさ。だって実は、俺たちアーティストだから。",
+      "url": "https://zenn.dev/enjapan/articles/9df195c403730b",
+      "likes": 60,
+      "published_at": "2025-09-03T11:30:37+09:00"
+    },
+    {
+      "title": "なぜ runn に loop.until + test の警告機能を追加したのか - 実行フローから理解する",
+      "url": "https://zenn.dev/sakura_internet/articles/98a5ee5dd8b574",
+      "likes": 10,
+      "published_at": "2025-09-08T12:49:41+09:00"
+    },
+    {
+      "title": "フロントエンドのテスト方針はプロダクトの状況に応じて定めるべきという話",
+      "url": "https://zenn.dev/shun91/articles/fe-test-strategy",
+      "likes": 4,
+      "published_at": "2025-08-26T20:03:27+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "Next.jsアプリケーションにおけるテスト戦略 - Jest・React Testing Library・モック活用術",
+      "url": "https://zenn.dev/ryoushin/articles/fe53f227d57636",
+      "likes": 0,
+      "published_at": "2025-09-12T12:04:00+09:00"
+    },
+    {
+      "title": "Next.jsアプリケーションにおけるテスト戦略 - Jest・React Testing Library・モック活用術",
+      "url": "https://zenn.dev/ryoushin/articles/fe53f227d57636",
+      "likes": 0,
+      "published_at": "2025-09-12T12:04:00+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 0,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "Jest mockResolvedValueの型エラーを1分で解決",
+      "url": "https://zenn.dev/hasuto/articles/jest-typescript-mockresolvedvalue-fix",
+      "likes": 0,
+      "published_at": "2025-09-09T07:32:12+09:00"
+    },
+    {
+      "title": "Jest mockResolvedValueの型エラーを1分で解決",
+      "url": "https://zenn.dev/hasuto/articles/jest-typescript-mockresolvedvalue-fix",
+      "likes": 0,
+      "published_at": "2025-09-09T07:32:12+09:00"
+    }
+  ]
+}

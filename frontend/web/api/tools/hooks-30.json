@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "hooks",
+    "name": "hooks"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 95,
+    "score": 95.0
+  },
+  "articles_top": [
+    {
+      "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
+      "url": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
+      "likes": 78,
+      "published_at": "2025-08-27T06:59:22+09:00"
+    },
+    {
+      "title": "Claude Code Hooksで作るSlack→Notion自動サマライズ",
+      "url": "https://zenn.dev/canly/articles/550f137b8a791e",
+      "likes": 11,
+      "published_at": "2025-08-29T13:47:55+09:00"
+    },
+    {
+      "title": "C3LとClaude hooksの破壊力 - 永久開発機関の完成",
+      "url": "https://zenn.dev/tettuan/articles/2025-08-54e3b2e1df6dc6",
+      "likes": 4,
+      "published_at": "2025-08-16T18:30:02+09:00"
+    },
+    {
+      "title": "Claude CodeのUserPromptSubmitフックでCLAUDE.mdを自動読み込みする方法",
+      "url": "https://zenn.dev/zozotech/articles/b5b662b4124e9a",
+      "likes": 2,
+      "published_at": "2025-09-02T12:59:15+09:00"
+    },
+    {
+      "title": "useMemo で「カード枚数に応じた Ref 配列」を安定化する理由",
+      "url": "https://zenn.dev/heart0018/articles/49145d81a73c3f",
+      "likes": 0,
+      "published_at": "2025-09-07T20:20:29+09:00"
+    },
+    {
+      "title": "useMemo で「カード枚数に応じた Ref 配列」を安定化する理由",
+      "url": "https://zenn.dev/heart0018/articles/49145d81a73c3f",
+      "likes": 0,
+      "published_at": "2025-09-07T20:20:29+09:00"
+    },
+    {
+      "title": "Claude Code で Hooks による Slack 通知を行う",
+      "url": "https://zenn.dev/metalels86/articles/c117d3b813e4ef",
+      "likes": 0,
+      "published_at": "2025-08-30T05:23:15+09:00"
+    },
+    {
+      "title": "stateでオブジェクトを扱う #9",
+      "url": "https://zenn.dev/miry/articles/1a5e4fb258b89c",
+      "likes": 0,
+      "published_at": "2025-08-23T14:06:41+09:00"
+    },
+    {
+      "title": "stateの&quot;置き換え&quot;と&quot;更新&quot;との三角関係 #8",
+      "url": "https://zenn.dev/miry/articles/ad820e08e9687a",
+      "likes": 0,
+      "published_at": "2025-08-22T22:56:59+09:00"
+    },
+    {
+      "title": "で、実際useStateってどう動いてんの？ #3",
+      "url": "https://zenn.dev/miry/articles/723e57ed19ad8b",
+      "likes": 0,
+      "published_at": "2025-08-15T22:40:54+09:00"
+    }
+  ]
+}

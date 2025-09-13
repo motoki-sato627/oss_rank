@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "gorm",
+    "name": "gorm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 17,
+    "score": 17.0
+  },
+  "articles_top": [
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを登録する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/33503c8725ca85",
+      "likes": 5,
+      "published_at": "2025-09-08T19:00:05+09:00"
+    },
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを抽出する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/d201ac92fff76d",
+      "likes": 4,
+      "published_at": "2025-09-10T18:30:01+09:00"
+    },
+    {
+      "title": "GORM Genで解決：interface{}を使わない100%型安全なGo ORM",
+      "url": "https://zenn.dev/duckdevv/articles/85c8b8d6962ded",
+      "likes": 3,
+      "published_at": "2025-09-11T08:41:15+09:00"
+    },
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを更新する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/6853d979d73e2d",
+      "likes": 2,
+      "published_at": "2025-09-12T18:00:02+09:00"
+    },
+    {
+      "title": "【Go】GORM v1.30 ジェネリクスAPIで型安全にレコードを更新する方法",
+      "url": "https://zenn.dev/tmyhrn/articles/6853d979d73e2d",
+      "likes": 2,
+      "published_at": "2025-09-12T18:00:02+09:00"
+    },
+    {
+      "title": "GORM Gen: Nullableなカラムの扱い",
+      "url": "https://zenn.dev/duckdevv/articles/65eaff16e3ee81",
+      "likes": 1,
+      "published_at": "2025-09-12T08:20:06+09:00"
+    }
+  ]
+}

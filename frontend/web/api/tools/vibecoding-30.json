@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "vibecoding",
+    "name": "vibecoding"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 42,
+    "likes_sum": 273,
+    "score": 273.0
+  },
+  "articles_top": [
+    {
+      "title": "できるだけ無料でAIコーディング",
+      "url": "https://zenn.dev/marcosan/articles/54b3a01a7e74ca",
+      "likes": 80,
+      "published_at": "2025-08-17T23:24:04+09:00"
+    },
+    {
+      "title": "【エージェントルール】 中長期開発におけるルール設計",
+      "url": "https://zenn.dev/sonicmoov/articles/0f9e98f3539d04",
+      "likes": 41,
+      "published_at": "2025-08-28T14:58:24+09:00"
+    },
+    {
+      "title": "Groq Code CLI の分析",
+      "url": "https://zenn.dev/foxgem/articles/8260121a4b480b",
+      "likes": 35,
+      "published_at": "2025-08-16T20:26:03+09:00"
+    },
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 19,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "VibeCoding Welcome Party! @Nagoya イベントレポート",
+      "url": "https://zenn.dev/acntechjp/articles/18e5d146f239f6",
+      "likes": 9,
+      "published_at": "2025-09-08T20:27:19+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 7,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "Vibe Coding で気を付けておきたいセキュリティ脅威「パッケージハルシネーション」について理解する",
+      "url": "https://zenn.dev/su8/articles/c98b16838bbd88",
+      "likes": 7,
+      "published_at": "2025-08-15T14:40:26+09:00"
+    },
+    {
+      "title": "【VibeCodingChallenge#21】Gemini でAI OCRツール",
+      "url": "https://zenn.dev/acntechjp/articles/3e58d144fa372f",
+      "likes": 6,
+      "published_at": "2025-08-28T06:00:05+09:00"
+    },
+    {
+      "title": "【VibeCodingChallenge#19】音声で日記をかけるツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/b86aada6baf006",
+      "likes": 5,
+      "published_at": "2025-08-22T06:00:01+09:00"
+    },
+    {
+      "title": "【技術編】生成AIドリブン個人開発のすすめ〜超低コスト開発と運用〜",
+      "url": "https://zenn.dev/ykimura517/articles/c8e1e0f63699b0",
+      "likes": 4,
+      "published_at": "2025-08-31T17:54:03+09:00"
+    }
+  ]
+}

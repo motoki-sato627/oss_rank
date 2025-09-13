@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "kotlin",
+    "name": "kotlin"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 35,
+    "likes_sum": 74,
+    "score": 74.0
+  },
+  "articles_top": [
+    {
+      "title": "JetBrains公式のKotlin製AIエージェントフレームワーク&quot;Koog&quot;やるぞ",
+      "url": "https://zenn.dev/smartround_dev/articles/9faa2d870b15b2",
+      "likes": 33,
+      "published_at": "2025-08-19T09:39:47+09:00"
+    },
+    {
+      "title": "首掛け型ウェアラブルカメラ THINKLETのカメラ映像をWebでプレビューしながら写真撮影する",
+      "url": "https://zenn.dev/fairydevices/articles/fa1f6638bb7a99",
+      "likes": 15,
+      "published_at": "2025-08-21T21:00:01+09:00"
+    },
+    {
+      "title": "Androidで「1秒後に実行する」時に出てくるHandlerは何をしているのか？",
+      "url": "https://zenn.dev/aokiti/articles/5aed1cc879fffd",
+      "likes": 7,
+      "published_at": "2025-08-24T12:41:51+09:00"
+    },
+    {
+      "title": "kotlinが文法で優れているところを挙げてみる",
+      "url": "https://zenn.dev/favopg/articles/0689ccd5a999b7",
+      "likes": 4,
+      "published_at": "2025-08-15T10:27:30+09:00"
+    },
+    {
+      "title": "Jetpack compose 1.9.0 でネオンサイン風の枠線を遊びで作った",
+      "url": "https://zenn.dev/u_chan/articles/13237e68600d99",
+      "likes": 4,
+      "published_at": "2025-08-14T11:56:57+09:00"
+    },
+    {
+      "title": "jOOQ の起動後最初のクエリが遅い問題",
+      "url": "https://zenn.dev/moneyforward/articles/1b1f145593ce09",
+      "likes": 3,
+      "published_at": "2025-09-01T09:30:01+09:00"
+    },
+    {
+      "title": "Kotlinにおける快適なテスティングエコシステム",
+      "url": "https://zenn.dev/hondaya14/articles/kotlin-testing-ecosystem",
+      "likes": 2,
+      "published_at": "2025-09-05T02:24:44+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "kotlin初学者がサーバーサイド開発の検討をしてみた",
+      "url": "https://zenn.dev/favopg/articles/444adbdeaf9e28",
+      "likes": 1,
+      "published_at": "2025-09-11T12:48:28+09:00"
+    }
+  ]
+}

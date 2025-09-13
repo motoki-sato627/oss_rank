@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "kiro",
+    "name": "kiro"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 48,
+    "score": 48.0
+  },
+  "articles_top": [
+    {
+      "title": "GitHub製Spec駆動開発支援ツールSpec Kitをいろいろ試してみる",
+      "url": "https://zenn.dev/beagle/articles/7976e6ac40c762",
+      "likes": 87,
+      "published_at": "2025-09-06T14:07:20+09:00"
+    },
+    {
+      "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+      "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+      "likes": 35,
+      "published_at": "2025-09-09T17:22:06+09:00"
+    },
+    {
+      "title": "spec-workflow-mcpとは？Claude CodeでKiroのような仕様駆動開発を実現",
+      "url": "https://zenn.dev/kuronomagi/articles/what-is-spec-workflow-mcp",
+      "likes": 6,
+      "published_at": "2025-09-10T15:40:50+09:00"
+    },
+    {
+      "title": "VSCodeのmarkdown自動プレビューが仕様駆動開発時に便利",
+      "url": "https://zenn.dev/sqer/articles/1634884d3d44d6",
+      "likes": 6,
+      "published_at": "2025-09-06T18:32:07+09:00"
+    },
+    {
+      "title": "Cursorで実践するスペック駆動開発：Kiro流フローを完全再現",
+      "url": "https://zenn.dev/redamoon/articles/article23-cursor-spce",
+      "likes": 5,
+      "published_at": "2025-09-09T00:02:39+09:00"
+    },
+    {
+      "title": "Claude CodeでSDD入門してみた",
+      "url": "https://zenn.dev/mousi/articles/976358703863d5",
+      "likes": 2,
+      "published_at": "2025-09-07T23:48:30+09:00"
+    },
+    {
+      "title": "spec-workflow-mcpとは？Claude CodeでKiroのような仕様駆動開発を実現",
+      "url": "https://zenn.dev/kuronomagi/articles/what-is-spec-workflow-mcp",
+      "likes": 0,
+      "published_at": "2025-09-10T15:40:50+09:00"
+    },
+    {
+      "title": "″仕様駆動開発″というプロンプトを外付けするSpec Kit",
+      "url": "https://zenn.dev/watany/articles/46f7a8006eb054",
+      "likes": 0,
+      "published_at": "2025-09-09T17:22:06+09:00"
+    },
+    {
+      "title": "Cursorで実践するスペック駆動開発：Kiro流フローを完全再現",
+      "url": "https://zenn.dev/redamoon/articles/article23-cursor-spce",
+      "likes": 0,
+      "published_at": "2025-09-09T00:02:39+09:00"
+    },
+    {
+      "title": "Figma MCPにKiroを接続する方法",
+      "url": "https://zenn.dev/hirosukekayaba/articles/13973e9f6eb54c",
+      "likes": 0,
+      "published_at": "2025-09-08T08:59:39+09:00"
+    }
+  ]
+}

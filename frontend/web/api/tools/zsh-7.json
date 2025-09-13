@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "zsh",
+    "name": "zsh"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 88,
+    "score": 88.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 0,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+      "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+      "likes": 0,
+      "published_at": "2025-09-07T21:39:17+09:00"
+    },
+    {
+      "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+      "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+      "likes": 0,
+      "published_at": "2025-09-07T21:39:17+09:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "accessibility",
+    "name": "accessibility"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 47,
+    "score": 47.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 0,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 0,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    }
+  ]
+}

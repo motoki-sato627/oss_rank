@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zennfes2025free",
+    "name": "zennfes2025free"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 313,
+    "likes_sum": 1607,
+    "score": 1607.0
+  },
+  "articles_top": [
+    {
+      "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+      "url": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+      "likes": 151,
+      "published_at": "2025-08-26T08:44:47+09:00"
+    },
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "リッチテキストエディターはライブラリを活用した方が良い訳",
+      "url": "https://zenn.dev/karintou/articles/960c923a854cd9",
+      "likes": 91,
+      "published_at": "2025-08-28T21:35:07+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+      "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+      "likes": 70,
+      "published_at": "2025-09-08T12:07:31+09:00"
+    },
+    {
+      "title": "QAエンジニアはAIに淘汰されないさ。だって実は、俺たちアーティストだから。",
+      "url": "https://zenn.dev/enjapan/articles/9df195c403730b",
+      "likes": 60,
+      "published_at": "2025-09-03T11:30:37+09:00"
+    },
+    {
+      "title": "「Vibe Coding」から「Spec-Driven Development」仕様駆動開発（SDD）入門",
+      "url": "https://zenn.dev/nogu66/articles/spec-driven-development",
+      "likes": 59,
+      "published_at": "2025-08-31T12:34:17+09:00"
+    },
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 46,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    },
+    {
+      "title": "npmダウンロード数で見るAIエージェントCLIツール動向",
+      "url": "https://zenn.dev/oikon/articles/ai-cli-tools",
+      "likes": 46,
+      "published_at": "2025-08-29T07:02:01+09:00"
+    }
+  ]
+}

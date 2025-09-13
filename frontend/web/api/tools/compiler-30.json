@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "compiler",
+    "name": "compiler"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 121,
+    "score": 121.0
+  },
+  "articles_top": [
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 72,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプで Rust 製 RISC-V ターゲットの C コンパイラを開発した",
+      "url": "https://zenn.dev/s7/articles/37071b1a83956a",
+      "likes": 44,
+      "published_at": "2025-09-04T11:35:36+09:00"
+    },
+    {
+      "title": "なぜlaravelのbladeで@phpみたいなことができるのか",
+      "url": "https://zenn.dev/lamp_inc/articles/f9ab9659fce614",
+      "likes": 5,
+      "published_at": "2025-09-02T13:23:46+09:00"
+    },
+    {
+      "title": "Goも当然にMapよりSwitchが速い ― 制約によるコンパイル時最適化の威力",
+      "url": "https://zenn.dev/xina/articles/47ef06d049c815",
+      "likes": 0,
+      "published_at": "2025-09-07T17:48:00+09:00"
+    }
+  ]
+}

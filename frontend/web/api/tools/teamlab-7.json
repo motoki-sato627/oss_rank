@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "teamlab",
+    "name": "teamlab"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 13,
+    "score": 13.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ &amp; ほぼ全資料まとめ",
+      "url": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
+      "likes": 13,
+      "published_at": "2025-09-11T20:09:37+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ &amp; ほぼ全資料まとめ",
+      "url": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
+      "likes": 0,
+      "published_at": "2025-09-11T20:09:37+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "snowflake",
+    "name": "snowflake"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "Snowflake World Tour Tokyoコミュニティブース出展のお知らせ",
+      "url": "https://zenn.dev/rookiescamp/articles/520614831043f2",
+      "likes": 6,
+      "published_at": "2025-09-06T15:36:13+09:00"
+    },
+    {
+      "title": "Snowflake Cortex Agents：REST API 利用ガイド",
+      "url": "https://zenn.dev/tf_takada/articles/8901e890639a79",
+      "likes": 5,
+      "published_at": "2025-09-09T16:25:52+09:00"
+    },
+    {
+      "title": "【Snowflake World Tour Tokyo】Rookies Camp Demoでみたチャットボットを作ってみよう！",
+      "url": "https://zenn.dev/rookiescamp/articles/cabba71e17578b",
+      "likes": 2,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": "実践 Zero to Snowflake #5：クエリ結果キャッシュ(Query Result Cache)",
+      "url": "https://zenn.dev/shinyaa31/articles/83d637ac5f9a46",
+      "likes": 2,
+      "published_at": "2025-09-07T19:34:05+09:00"
+    },
+    {
+      "title": "実践 Zero to Snowflake #4：仮想ウェアハウス(Virtual Warehouses)の設定",
+      "url": "https://zenn.dev/shinyaa31/articles/dcc5b23f3a361a",
+      "likes": 2,
+      "published_at": "2025-09-07T00:27:53+09:00"
+    },
+    {
+      "title": "Snowflake SPCSへのn8nデプロイ手順書📝",
+      "url": "https://zenn.dev/tf_takada/articles/29d7c0283a431a",
+      "likes": 0,
+      "published_at": "2025-09-12T14:01:23+09:00"
+    },
+    {
+      "title": "Snowflake SPCSへのn8nデプロイ手順書📝",
+      "url": "https://zenn.dev/tf_takada/articles/29d7c0283a431a",
+      "likes": 0,
+      "published_at": "2025-09-12T14:01:23+09:00"
+    },
+    {
+      "title": "【Snowflake World Tour Tokyo】Rookies Camp Demoでみたチャットボットを作ってみよう！",
+      "url": "https://zenn.dev/rookiescamp/articles/cabba71e17578b",
+      "likes": 0,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": "Snowflake Cortex Agents：REST API 利用ガイド",
+      "url": "https://zenn.dev/tf_takada/articles/8901e890639a79",
+      "likes": 0,
+      "published_at": "2025-09-09T16:25:52+09:00"
+    },
+    {
+      "title": "実践 Zero to Snowflake #5：クエリ結果キャッシュ(Query Result Cache)",
+      "url": "https://zenn.dev/shinyaa31/articles/83d637ac5f9a46",
+      "likes": 0,
+      "published_at": "2025-09-07T19:34:05+09:00"
+    }
+  ]
+}

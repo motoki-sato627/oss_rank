@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "database",
+    "name": "database"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+      "url": "https://zenn.dev/su8/articles/6d87493811052b",
+      "likes": 1,
+      "published_at": "2025-09-13T14:14:36+09:00"
+    },
+    {
+      "title": "変更履歴と修正履歴が必要になったときにふと思い出せるとうれしいテンポラルデータモデリングというヒミツ道具",
+      "url": "https://zenn.dev/su8/articles/6d87493811052b",
+      "likes": 1,
+      "published_at": "2025-09-13T14:14:36+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "linebot",
+    "name": "linebot"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 11,
+    "score": 11.0
+  },
+  "articles_top": [
+    {
+      "title": "Looker Studio / GAS + LINE Bot で趣味のトレーニングを効率的に可視化した",
+      "url": "https://zenn.dev/rehabforjapan/articles/logging-training",
+      "likes": 11,
+      "published_at": "2025-09-09T21:59:55+09:00"
+    },
+    {
+      "title": "Looker Studio / GAS + LINE Bot で趣味のトレーニングを効率的に可視化した",
+      "url": "https://zenn.dev/rehabforjapan/articles/logging-training",
+      "likes": 0,
+      "published_at": "2025-09-09T21:59:55+09:00"
+    }
+  ]
+}

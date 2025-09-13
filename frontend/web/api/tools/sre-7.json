@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "sre",
+    "name": "sre"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 5,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "Terraform CI/CDを安全に：Planファイル活用とGitHub Actions",
+      "url": "https://zenn.dev/filmarks/articles/36687fa67378ac",
+      "likes": 2,
+      "published_at": "2025-09-08T11:00:01+09:00"
+    },
+    {
+      "title": "【Nursecall】チーム機能を追加しました",
+      "url": "https://zenn.dev/narii_ta/articles/f2f88ff29f6a36",
+      "likes": 1,
+      "published_at": "2025-09-11T23:06:48+09:00"
+    },
+    {
+      "title": "もしあなたが大阪・関西万博の担当エンジニアになったら？：巨大プロジェクトの課題を乗り切るための技術書ガイド",
+      "url": "https://zenn.dev/pi403/articles/9c66b75053eedb",
+      "likes": 1,
+      "published_at": "2025-09-09T13:25:34+09:00"
+    },
+    {
+      "title": "オンコール体制に真面目に向き合う",
+      "url": "https://zenn.dev/ohs30359/articles/943f9ddc9202f9",
+      "likes": 1,
+      "published_at": "2025-09-06T19:46:21+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 0,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "【Nursecall】チーム機能を追加しました",
+      "url": "https://zenn.dev/narii_ta/articles/f2f88ff29f6a36",
+      "likes": 0,
+      "published_at": "2025-09-11T23:06:48+09:00"
+    },
+    {
+      "title": "【Nursecall】Slack通知に対応しました",
+      "url": "https://zenn.dev/narii_ta/articles/b3f5dbbc96b3a0",
+      "likes": 0,
+      "published_at": "2025-09-10T19:15:21+09:00"
+    },
+    {
+      "title": "【Nursecall】Slack通知に対応しました",
+      "url": "https://zenn.dev/narii_ta/articles/b3f5dbbc96b3a0",
+      "likes": 0,
+      "published_at": "2025-09-10T19:15:21+09:00"
+    },
+    {
+      "title": "プロセス監視ツール「Nursecall」リリース",
+      "url": "https://zenn.dev/narii_ta/articles/76f2c817c493a0",
+      "likes": 0,
+      "published_at": "2025-09-09T21:27:55+09:00"
+    }
+  ]
+}

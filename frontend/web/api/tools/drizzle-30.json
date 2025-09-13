@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "drizzle",
+    "name": "drizzle"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 234,
+    "score": 234.0
+  },
+  "articles_top": [
+    {
+      "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
+      "url": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
+      "likes": 231,
+      "published_at": "2025-08-31T16:46:16+09:00"
+    },
+    {
+      "title": "UUIDって何？SQLiteで苦戦したデータベース初心者の体験記",
+      "url": "https://zenn.dev/emoba_tech/articles/da04b81816c97b",
+      "likes": 2,
+      "published_at": "2025-09-10T09:13:32+09:00"
+    },
+    {
+      "title": "Drizzle ORM × Claude Code：次世代のTypeScript開発体験",
+      "url": "https://zenn.dev/pipipi_dev/articles/20250904-drizzle-claude-dev",
+      "likes": 1,
+      "published_at": "2025-09-04T21:13:47+09:00"
+    },
+    {
+      "title": "UUIDって何？SQLiteで苦戦したデータベース初心者の体験記",
+      "url": "https://zenn.dev/emoba_tech/articles/da04b81816c97b",
+      "likes": 0,
+      "published_at": "2025-09-10T09:13:32+09:00"
+    }
+  ]
+}

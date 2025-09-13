@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "bigquery",
+    "name": "bigquery"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 25,
+    "likes_sum": 106,
+    "score": 106.0
+  },
+  "articles_top": [
+    {
+      "title": "クエリそのままパフォーマンスを改善 BigQuery パフォーマンス向上テクニック",
+      "url": "https://zenn.dev/google_cloud_jp/articles/bigquery_performance_improvement_features_2ac6f3",
+      "likes": 31,
+      "published_at": "2025-08-28T16:54:54+09:00"
+    },
+    {
+      "title": "生成AIで商談メモから「次の一手」を出す",
+      "url": "https://zenn.dev/hacobu/articles/4010bc5b9525af",
+      "likes": 23,
+      "published_at": "2025-08-21T10:31:35+09:00"
+    },
+    {
+      "title": "ADK 1.13.0 で追加された BigQueryに自然言語で問い合わせできる ask_data_insights tool",
+      "url": "https://zenn.dev/soundtricker/articles/dfd49e631b23de",
+      "likes": 11,
+      "published_at": "2025-08-28T16:47:33+09:00"
+    },
+    {
+      "title": "BigQueryML の TimesFM で学習不要な「ゼロショット」の時系列予測を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/bigquery-ml-timesfm-forecast",
+      "likes": 9,
+      "published_at": "2025-09-04T20:03:54+09:00"
+    },
+    {
+      "title": "Trocco で  App Store Connect のデータを BigQuery に連携する",
+      "url": "https://zenn.dev/medley/articles/6d175c038d140c",
+      "likes": 7,
+      "published_at": "2025-09-02T08:45:36+09:00"
+    },
+    {
+      "title": "ベクトル検索を使って顧客情報の重複登録を防止する",
+      "url": "https://zenn.dev/drsprime/articles/36558596c3c7fe",
+      "likes": 6,
+      "published_at": "2025-08-26T11:16:56+09:00"
+    },
+    {
+      "title": "AI使ってAWSインフラコスト改善案をレコメンドしてみた！",
+      "url": "https://zenn.dev/sonicmoov/articles/3cd8df03344d63",
+      "likes": 5,
+      "published_at": "2025-08-29T18:57:43+09:00"
+    },
+    {
+      "title": "【Next Tokyo 25 レポート】リアルタイム分析から生成AIまで、丸紅のGoogle Cloud DX実践ノウハウ",
+      "url": "https://zenn.dev/cloud_ace/articles/7a63eb2bf800ad",
+      "likes": 4,
+      "published_at": "2025-08-15T17:29:33+09:00"
+    },
+    {
+      "title": "BigQuery scheduled query では partitioning_field を指定できるが、公式ドキュメントがわかりにくい",
+      "url": "https://zenn.dev/mixi/articles/bigquery-scheduled-query-with-partitioning-field",
+      "likes": 2,
+      "published_at": "2025-09-01T21:05:40+09:00"
+    },
+    {
+      "title": "RAGとフィードバックを活用した、継続学習する返信生成サービスの作成",
+      "url": "https://zenn.dev/wed_engineering/articles/uc_support_ai",
+      "likes": 2,
+      "published_at": "2025-08-29T12:56:58+09:00"
+    }
+  ]
+}

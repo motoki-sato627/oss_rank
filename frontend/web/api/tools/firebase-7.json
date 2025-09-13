@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "firebase",
+    "name": "firebase"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 12,
+    "score": 12.0
+  },
+  "articles_top": [
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "Firebase Authentication Admin SDKによるパスワード強制変更",
+      "url": "https://zenn.dev/actbe_tech/articles/342ccb8660f2b4",
+      "likes": 1,
+      "published_at": "2025-09-12T17:00:02+09:00"
+    },
+    {
+      "title": "Firebase STUDIO, Angular と Next.js のどちらを使うべきか。パフォーマンス比較  速度・UI・負荷を中心に",
+      "url": "https://zenn.dev/tkmemo/articles/0cf2ca714cb5fc",
+      "likes": 1,
+      "published_at": "2025-09-09T16:44:16+09:00"
+    },
+    {
+      "title": "Firebase Analytics, RemoteConfigとCrashlyticsの概説",
+      "url": "https://zenn.dev/hsylife/articles/fe5c04774bd06c",
+      "likes": 1,
+      "published_at": "2025-09-06T09:42:56+09:00"
+    },
+    {
+      "title": "Firebase Web SDK 初期化設定（firebaseConfigの詳細、コードを書く場所など",
+      "url": "https://zenn.dev/tkmemo/articles/974d65f982f89c",
+      "likes": 0,
+      "published_at": "2025-09-10T10:33:21+09:00"
+    },
+    {
+      "title": "Flutter × Firebase ガイド",
+      "url": "https://zenn.dev/hsylife/articles/713b7461055c96",
+      "likes": 0,
+      "published_at": "2025-09-07T10:00:05+09:00"
+    }
+  ]
+}

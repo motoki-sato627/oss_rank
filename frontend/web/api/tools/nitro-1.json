@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "nitro",
+    "name": "nitro"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 4,
+    "score": 4.0
+  },
+  "articles_top": [
+    {
+      "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+      "likes": 2,
+      "published_at": "2025-09-13T10:12:49+09:00"
+    },
+    {
+      "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+      "likes": 2,
+      "published_at": "2025-09-13T10:12:49+09:00"
+    }
+  ]
+}

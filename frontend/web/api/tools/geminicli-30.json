@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "geminicli",
+    "name": "geminicli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 31,
+    "likes_sum": 126,
+    "score": 126.0
+  },
+  "articles_top": [
+    {
+      "title": "npmダウンロード数で見るAIエージェントCLIツール動向",
+      "url": "https://zenn.dev/oikon/articles/ai-cli-tools",
+      "likes": 46,
+      "published_at": "2025-08-29T07:02:01+09:00"
+    },
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 11,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    },
+    {
+      "title": "[2025年8月15日] Keep4o運動が示す人間とAIの未来 (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/f2984a9e4628f3",
+      "likes": 9,
+      "published_at": "2025-08-15T16:51:21+09:00"
+    },
+    {
+      "title": "[Gemini CLI] コードレビュー用のGemini CLIカスタムコマンドを作る",
+      "url": "https://zenn.dev/soundtricker/articles/e06e5a770d6c2a",
+      "likes": 8,
+      "published_at": "2025-09-03T17:03:02+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 7,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "Claude Code入門の次の一歩：これから活用していくための設定方法と考え方",
+      "url": "https://zenn.dev/fukurou_labo/articles/e80b0ba3a4a4d6",
+      "likes": 6,
+      "published_at": "2025-08-29T10:43:40+09:00"
+    },
+    {
+      "title": "ZedでClaude Code、Gemini CLIが利用可能に",
+      "url": "https://zenn.dev/explaza/articles/008c0d49cb480f",
+      "likes": 5,
+      "published_at": "2025-09-05T17:31:21+09:00"
+    },
+    {
+      "title": "Gemini CLI Companion - Gemini CLI用のVSCode拡張機能",
+      "url": "https://zenn.dev/kazuk_super/articles/gemini-cli-companion",
+      "likes": 5,
+      "published_at": "2025-08-28T16:24:36+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 4,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "Gemini CLI sandboxを使うためのPodmanセットアップ手順（Windows）",
+      "url": "https://zenn.dev/fujihide/articles/2a60f66134a1bd",
+      "likes": 3,
+      "published_at": "2025-09-05T13:44:57+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "snowflake",
+    "name": "snowflake"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 47,
+    "likes_sum": 277,
+    "score": 277.0
+  },
+  "articles_top": [
+    {
+      "title": "Tier定義で実現するAI-Readyなデータ利活用",
+      "url": "https://zenn.dev/dely_jp/articles/dely-ai-ready-dataops-tier",
+      "likes": 51,
+      "published_at": "2025-09-01T10:51:05+09:00"
+    },
+    {
+      "title": "Snowflake MCP Server で Cursor から高度なデータ分析を実現する",
+      "url": "https://zenn.dev/tsubasa_tech/articles/70ab5fb2b5ed99",
+      "likes": 29,
+      "published_at": "2025-09-01T13:33:17+09:00"
+    },
+    {
+      "title": "データ共有サービス比較：Snowflake Secure Data Sharing と  Databricks Delta Sharing",
+      "url": "https://zenn.dev/taro_cccmkhd/articles/a428ee1b48e1c8",
+      "likes": 25,
+      "published_at": "2025-09-02T11:02:19+09:00"
+    },
+    {
+      "title": "SnowflakeのAWS PrivateLink接続つまずきポイント",
+      "url": "https://zenn.dev/finatext/articles/snowflake-privatelink-pit-traps",
+      "likes": 14,
+      "published_at": "2025-08-29T10:27:37+09:00"
+    },
+    {
+      "title": "SnowflakeでGET_LINEAGEを拡張して深いリネージュ分析を可能にするアプリを作ってみた",
+      "url": "https://zenn.dev/nttdata_tech/articles/20bd9742815995",
+      "likes": 10,
+      "published_at": "2025-08-25T12:41:45+09:00"
+    },
+    {
+      "title": "【Snowflake × Terraform】Cortex Analyst 用の Account Role を作る方法",
+      "url": "https://zenn.dev/finatext/articles/how-to-create-role-cortex-analsyt",
+      "likes": 9,
+      "published_at": "2025-08-28T13:13:42+09:00"
+    },
+    {
+      "title": "Snowflake Cortex Analyst徹底検証 #1：Text-to-SQLの基本と単表/マルチターン精度を上げる設計",
+      "url": "https://zenn.dev/nttdata_tech/articles/b7e27f17e348a7",
+      "likes": 8,
+      "published_at": "2025-09-02T16:24:27+09:00"
+    },
+    {
+      "title": "Snowflake新AI関数: 日本語対応のAI_EXTRACTとAI_PARSE_DOCUMENTを使ってみた",
+      "url": "https://zenn.dev/tf_takada/articles/9d391febbb7448",
+      "likes": 8,
+      "published_at": "2025-08-31T14:32:39+09:00"
+    },
+    {
+      "title": "650点(不合格)から857点(合格)へ！SnowPro Advanced Architect 合格までの道のり",
+      "url": "https://zenn.dev/nttdata_tech/articles/b4e11d046715c1",
+      "likes": 8,
+      "published_at": "2025-08-19T16:24:55+09:00"
+    },
+    {
+      "title": "Snowflake Cortex Analyst徹底検証 #2：JOIN編と検証から見えた設計上の考慮事項",
+      "url": "https://zenn.dev/nttdata_tech/articles/305a605eac9f61",
+      "likes": 7,
+      "published_at": "2025-09-02T16:24:46+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "claude",
+    "name": "claude"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 27,
+    "likes_sum": 241,
+    "score": 241.0
+  },
+  "articles_top": [
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "Claudeの学習モードを使ってコードのリファクタリングをした",
+      "url": "https://zenn.dev/hamworks/articles/45053f7c0efef7",
+      "likes": 26,
+      "published_at": "2025-09-09T10:28:28+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 17,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    },
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "【翻訳】Writing effective tools for agents — with agents",
+      "url": "https://zenn.dev/aws_japan/articles/b340a0a9df239d",
+      "likes": 6,
+      "published_at": "2025-09-12T10:42:12+09:00"
+    },
+    {
+      "title": "vercelさんのdev3000を試してみた。",
+      "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+      "likes": 6,
+      "published_at": "2025-09-11T17:37:56+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 6,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    },
+    {
+      "title": "Claudeで PDF ファイルが作れるようになったので、プレゼン資料を作らせてみた",
+      "url": "https://zenn.dev/digitalcube/articles/3efb5340ea821b",
+      "likes": 5,
+      "published_at": "2025-09-11T15:12:05+09:00"
+    },
+    {
+      "title": "ローカル環境で動作確認しづらいプロジェクトの開発で、AIに結果を検証させてから実際に動作確認してみるようにした",
+      "url": "https://zenn.dev/rescuenow/articles/c130e970629687",
+      "likes": 5,
+      "published_at": "2025-09-11T13:54:26+09:00"
+    },
+    {
+      "title": "Luup Serverチームの開発スケールのためのAI活用事例",
+      "url": "https://zenn.dev/luup_developers/articles/server-yasumoto-20250909",
+      "likes": 5,
+      "published_at": "2025-09-09T15:00:01+09:00"
+    }
+  ]
+}

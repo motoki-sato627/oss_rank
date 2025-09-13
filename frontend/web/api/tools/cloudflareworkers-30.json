@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "cloudflareworkers",
+    "name": "cloudflareworkers"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 147,
+    "score": 147.0
+  },
+  "articles_top": [
+    {
+      "title": "Webアプリのベンチマークについて",
+      "url": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
+      "likes": 104,
+      "published_at": "2025-09-03T05:26:52+09:00"
+    },
+    {
+      "title": "Next.js on Cloudflare Workers（OpenNext）でフルスタックアプリケーションを開発した",
+      "url": "https://zenn.dev/shinaps/articles/5806c6579c5aeb",
+      "likes": 18,
+      "published_at": "2025-08-19T05:28:44+09:00"
+    },
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 14,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    },
+    {
+      "title": "Cloudflare Workers Tech Talks in Hokkaido 2025参加してきた！スライドまとめ",
+      "url": "https://zenn.dev/tsuku_dev/articles/6b36ddebdc8798",
+      "likes": 6,
+      "published_at": "2025-09-04T22:56:41+09:00"
+    },
+    {
+      "title": "OpenNextでCloudflare Workersの複数環境を使う",
+      "url": "https://zenn.dev/itome/articles/c985596c5a5910",
+      "likes": 3,
+      "published_at": "2025-09-04T15:54:32+09:00"
+    },
+    {
+      "title": "Cloudflare Pages× Workers、GitHub Actionsとは？　初学者インターン生がわかりやすくまとめてみた。",
+      "url": "https://zenn.dev/emoba_tech/articles/4fa9d86dbcb02f",
+      "likes": 2,
+      "published_at": "2025-08-20T11:49:44+09:00"
+    },
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 0,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    },
+    {
+      "title": "Cloudflare WorkerのRPC Bindingをmonorepoかつ型付きでやるtips",
+      "url": "https://zenn.dev/sev3e3e/articles/1d890fb4d1a925",
+      "likes": 0,
+      "published_at": "2025-08-31T00:18:41+09:00"
+    },
+    {
+      "title": "GitHub から Cloudflare Workers へ自動デプロイ",
+      "url": "https://zenn.dev/k586/articles/2aaa2b172f910a",
+      "likes": 0,
+      "published_at": "2025-08-29T01:15:58+09:00"
+    }
+  ]
+}

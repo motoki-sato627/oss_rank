@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "sre",
+    "name": "sre"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 27,
+    "likes_sum": 68,
+    "score": 68.0
+  },
+  "articles_top": [
+    {
+      "title": "マルチプロダクト構成を支える KANNA のインフラアーキテクチャ",
+      "url": "https://zenn.dev/aldagram_tech/articles/98351f4a862301",
+      "likes": 13,
+      "published_at": "2025-08-28T10:23:29+09:00"
+    },
+    {
+      "title": "開発者とSREで行う定期システムモニタリングの実践と効果",
+      "url": "https://zenn.dev/dely_jp/articles/bd4423efabe67d",
+      "likes": 13,
+      "published_at": "2025-08-26T14:57:09+09:00"
+    },
+    {
+      "title": "Enabling SREの加速をAI活用で模索する",
+      "url": "https://zenn.dev/globis/articles/globis-improve-enabling-sre-with-ai",
+      "likes": 9,
+      "published_at": "2025-08-28T10:19:57+09:00"
+    },
+    {
+      "title": "Rehab for JAPANで進めるSRE文化醸成活動とその工夫",
+      "url": "https://zenn.dev/rehabforjapan/articles/sre-cultivating-culture-20250818",
+      "likes": 9,
+      "published_at": "2025-08-20T08:03:37+09:00"
+    },
+    {
+      "title": "EKSでNext.jsを安定運用するためのSRE実践ノウハウ",
+      "url": "https://zenn.dev/quicksilversel/articles/nextjs-sre-pov",
+      "likes": 7,
+      "published_at": "2025-08-14T14:16:35+09:00"
+    },
+    {
+      "title": "MOVO VistaにおけるSLI/SLO策定と運用 〜ユーザー視点でサービス品質を見える化する取り組み〜",
+      "url": "https://zenn.dev/hacobu/articles/10604ab75c4232",
+      "likes": 7,
+      "published_at": "2025-08-14T09:00:01+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 5,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "Datadog SLO  metricsベースとtime sliceの比較",
+      "url": "https://zenn.dev/tokium_dev/articles/e6cb9456a7bb47",
+      "likes": 4,
+      "published_at": "2025-08-29T17:58:02+09:00"
+    },
+    {
+      "title": "「マイクロモビリティシェアサービスを支えるプラットフォームアーキテクチャ」という題で登壇しました",
+      "url": "https://zenn.dev/luup_developers/articles/sre-gr1m0h-20250905",
+      "likes": 3,
+      "published_at": "2025-09-05T11:00:02+09:00"
+    },
+    {
+      "title": "そろそろ2025年の夏（暦の上では）も終わりですね🎐",
+      "url": "https://zenn.dev/yuta_k0911/articles/f3e5f9fcdf4d31",
+      "likes": 3,
+      "published_at": "2025-08-26T18:18:18+09:00"
+    }
+  ]
+}

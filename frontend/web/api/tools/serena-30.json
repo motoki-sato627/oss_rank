@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "serena",
+    "name": "serena"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 406,
+    "score": 406.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
+      "url": "https://zenn.dev/ficilcom/articles/da858df304b588",
+      "likes": 97,
+      "published_at": "2025-08-19T01:00:05+09:00"
+    },
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "なぜSerenaからLaravel Boostに変えるとAIの精度が上がるのか",
+      "url": "https://zenn.dev/aun_phonogram/articles/a602649ff478cf",
+      "likes": 74,
+      "published_at": "2025-08-22T06:19:43+09:00"
+    },
+    {
+      "title": "Codex CLI をプロジェクトに詳しい相棒にする",
+      "url": "https://zenn.dev/innovation/articles/bc05ab1116adb7",
+      "likes": 61,
+      "published_at": "2025-08-20T16:00:01+09:00"
+    },
+    {
+      "title": "Serena有効化でClaude Code実行時にAcceptを求められるのをやめる",
+      "url": "https://zenn.dev/soramarjr/articles/732e16561d6eb6",
+      "likes": 50,
+      "published_at": "2025-08-21T21:46:30+09:00"
+    },
+    {
+      "title": "SerenaのRubyサポートをRuby LSPに移行した",
+      "url": "https://zenn.dev/mitene/articles/e4c6cec7bdae4e",
+      "likes": 12,
+      "published_at": "2025-08-28T15:01:49+09:00"
+    },
+    {
+      "title": "Claude Code MCP Serena &amp; Cipher 導入ガイド",
+      "url": "https://zenn.dev/aki1990/articles/a7db63dbc99848",
+      "likes": 12,
+      "published_at": "2025-08-23T20:31:21+09:00"
+    },
+    {
+      "title": "claude codeにスマホからplanさせて家に帰ったら実装させる",
+      "url": "https://zenn.dev/ushironoko/articles/f3174dc545d4bc",
+      "likes": 4,
+      "published_at": "2025-09-08T20:14:11+09:00"
+    },
+    {
+      "title": "Windows（WSL） + Codex CLI で Serena を使う手順",
+      "url": "https://zenn.dev/sator_imaging/articles/5e4168334b7268",
+      "likes": 4,
+      "published_at": "2025-08-17T16:49:34+09:00"
+    },
+    {
+      "title": "AIコーディング道場で開発コンテナを活用した並列開発をやってみた",
+      "url": "https://zenn.dev/modokkin/articles/zenn-2025-09-03-ai-coding-dojo",
+      "likes": 3,
+      "published_at": "2025-09-03T15:41:53+09:00"
+    }
+  ]
+}

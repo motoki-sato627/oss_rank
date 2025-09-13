@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "jax",
+    "name": "jax"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 25,
+    "score": 25.0
+  },
+  "articles_top": [
+    {
+      "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+      "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+      "likes": 25,
+      "published_at": "2025-09-11T07:30:38+09:00"
+    },
+    {
+      "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+      "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+      "likes": 0,
+      "published_at": "2025-09-11T07:30:38+09:00"
+    }
+  ]
+}

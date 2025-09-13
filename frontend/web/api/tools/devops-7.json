@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "devops",
+    "name": "devops"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 26,
+    "score": 26.0
+  },
+  "articles_top": [
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 25,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    },
+    {
+      "title": "Render BlueprintsのfromGroupで環境変数を効率的に管理する",
+      "url": "https://zenn.dev/yamitake/articles/render-blueprints-from-group",
+      "likes": 1,
+      "published_at": "2025-09-09T01:05:40+09:00"
+    },
+    {
+      "title": "CI/CD入門第1回 なぜ今DevOpsが重要なのか？〜CI/CDの全体像〜",
+      "url": "https://zenn.dev/oasys/articles/2c228a7fb533de",
+      "likes": 0,
+      "published_at": "2025-09-12T14:27:08+09:00"
+    },
+    {
+      "title": "CI/CD入門第1回 なぜ今DevOpsが重要なのか？〜CI/CDの全体像〜",
+      "url": "https://zenn.dev/oasys/articles/2c228a7fb533de",
+      "likes": 0,
+      "published_at": "2025-09-12T14:27:08+09:00"
+    },
+    {
+      "title": "Turing MLOpsチームの誕生秘話",
+      "url": "https://zenn.dev/turing_motors/articles/af10c5e32ea013",
+      "likes": 0,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    },
+    {
+      "title": "Render BlueprintsのfromGroupで環境変数を効率的に管理する",
+      "url": "https://zenn.dev/yamitake/articles/render-blueprints-from-group",
+      "likes": 0,
+      "published_at": "2025-09-09T01:05:40+09:00"
+    }
+  ]
+}

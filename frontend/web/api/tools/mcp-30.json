@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "mcp",
+    "name": "mcp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 134,
+    "likes_sum": 2045,
+    "score": 2045.0
+  },
+  "articles_top": [
+    {
+      "title": "ObsidianとClaude Codeを使ったドキュメント活用",
+      "url": "https://zenn.dev/oikon/articles/obsidian-claude-code",
+      "likes": 199,
+      "published_at": "2025-08-15T07:01:01+09:00"
+    },
+    {
+      "title": "最近のClaude Codeの使い方",
+      "url": "https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454",
+      "likes": 188,
+      "published_at": "2025-08-29T16:38:59+09:00"
+    },
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "Figma MCPを攻略して最高のコード生成を実現する",
+      "url": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+      "likes": 139,
+      "published_at": "2025-08-27T10:58:53+09:00"
+    },
+    {
+      "title": "AIはスピードアップできるがショートカットはできない",
+      "url": "https://zenn.dev/taroosg/articles/20250820142926-5e83111b52b2f0",
+      "likes": 105,
+      "published_at": "2025-08-20T15:04:01+09:00"
+    },
+    {
+      "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
+      "url": "https://zenn.dev/ficilcom/articles/da858df304b588",
+      "likes": 97,
+      "published_at": "2025-08-19T01:00:05+09:00"
+    },
+    {
+      "title": "なぜSerenaからLaravel Boostに変えるとAIの精度が上がるのか",
+      "url": "https://zenn.dev/aun_phonogram/articles/a602649ff478cf",
+      "likes": 74,
+      "published_at": "2025-08-22T06:19:43+09:00"
+    },
+    {
+      "title": "複数 AI エージェントの MCP サーバーの設定を一元管理する「mmcp」の紹介",
+      "url": "https://zenn.dev/kou_pg_0131/articles/mmcp-introduction",
+      "likes": 68,
+      "published_at": "2025-09-08T18:00:02+09:00"
+    },
+    {
+      "title": "🎨Figma MCPの構造化問題を改善！「Layermate」でデザイン再現率を向上させた話",
+      "url": "https://zenn.dev/canly/articles/a40805a70ad59f",
+      "likes": 63,
+      "published_at": "2025-09-04T12:01:21+09:00"
+    },
+    {
+      "title": "any-script-mcp で任意のコマンドを MCP Tool にする",
+      "url": "https://zenn.dev/layerx/articles/fdc7174d9a9386",
+      "likes": 63,
+      "published_at": "2025-08-22T09:45:36+09:00"
+    }
+  ]
+}

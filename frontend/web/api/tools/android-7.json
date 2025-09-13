@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "android",
+    "name": "android"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 83,
+    "score": 83.0
+  },
+  "articles_top": [
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "GitHubで公開されているOSSのAndroidアプリをGemini Deep Researchにいっぱい探してもらう",
+      "url": "https://zenn.dev/operando_os/articles/49f53cc658a1aa",
+      "likes": 3,
+      "published_at": "2025-09-11T16:01:42+09:00"
+    },
+    {
+      "title": "Predictive back gesture対応のハマりどころ",
+      "url": "https://zenn.dev/k4zy/articles/f9512beebac1be",
+      "likes": 3,
+      "published_at": "2025-09-08T15:57:00+09:00"
+    },
+    {
+      "title": "UnityでつくったAndroidアプリを、Google Playの16KBページサイズ対応にしてアップデートしました",
+      "url": "https://zenn.dev/toto_tantanto/articles/3a3e254a5c2009",
+      "likes": 2,
+      "published_at": "2025-09-11T03:17:00+09:00"
+    },
+    {
+      "title": "【Flutter】モダンなAudioVisualizationのパッケージ audio_flux を試す",
+      "url": "https://zenn.dev/slowhand/articles/c22e59b441d2ae",
+      "likes": 2,
+      "published_at": "2025-09-06T21:00:05+09:00"
+    },
+    {
+      "title": "Androidアプリのクローズドテストとは？実際に使ってわかった活用方法",
+      "url": "https://zenn.dev/closedtest/articles/2025-09-10-what-android-closed-test",
+      "likes": 1,
+      "published_at": "2025-09-10T19:13:44+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][C++][JNI][OpenGL]動画再生を板ポリ上で実行するサンプルコードを作ってみた。",
+      "url": "https://zenn.dev/rg687076/articles/dfb295182545ef",
+      "likes": 1,
+      "published_at": "2025-09-08T20:54:21+09:00"
+    },
+    {
+      "title": "FlutterからlocalhostのAPIサーバーに接続したい",
+      "url": "https://zenn.dev/fasca/articles/f8ccae868501ca",
+      "likes": 1,
+      "published_at": "2025-09-06T16:23:49+09:00"
+    },
+    {
+      "title": "Firebase Analytics, RemoteConfigとCrashlyticsの概説",
+      "url": "https://zenn.dev/hsylife/articles/fe5c04774bd06c",
+      "likes": 1,
+      "published_at": "2025-09-06T09:42:56+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][Vuforia][AR]Vuforia11.4.4の公式サンプルコードを動かしてみた。",
+      "url": "https://zenn.dev/rg687076/articles/1e46e1bd60b2fe",
+      "likes": 0,
+      "published_at": "2025-09-13T13:35:26+09:00"
+    }
+  ]
+}

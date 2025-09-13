@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "chatsense",
+    "name": "chatsense"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 149,
+    "score": 149.0
+  },
+  "articles_top": [
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 149,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    },
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 0,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    }
+  ]
+}

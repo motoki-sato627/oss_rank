@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "claude",
+    "name": "claude"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 152,
+    "likes_sum": 1705,
+    "score": 1705.0
+  },
+  "articles_top": [
+    {
+      "title": "ObsidianとClaude Codeを使ったドキュメント活用",
+      "url": "https://zenn.dev/oikon/articles/obsidian-claude-code",
+      "likes": 199,
+      "published_at": "2025-08-15T07:01:01+09:00"
+    },
+    {
+      "title": "ClaudeCodeで挑むコンテキストエンジニアリング実践",
+      "url": "https://zenn.dev/aki_think/articles/66f6fc7530467a",
+      "likes": 175,
+      "published_at": "2025-08-17T00:04:04+09:00"
+    },
+    {
+      "title": "Figma MCPを攻略して最高のコード生成を実現する",
+      "url": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+      "likes": 139,
+      "published_at": "2025-08-27T10:58:53+09:00"
+    },
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "AIはスピードアップできるがショートカットはできない",
+      "url": "https://zenn.dev/taroosg/articles/20250820142926-5e83111b52b2f0",
+      "likes": 105,
+      "published_at": "2025-08-20T15:04:01+09:00"
+    },
+    {
+      "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
+      "url": "https://zenn.dev/ficilcom/articles/da858df304b588",
+      "likes": 97,
+      "published_at": "2025-08-19T01:00:05+09:00"
+    },
+    {
+      "title": "【公開終了】当記事の公開を終了しました（更新履歴のみ）",
+      "url": "https://zenn.dev/studio_prairie/articles/0c0cc762996079",
+      "likes": 79,
+      "published_at": "2025-08-18T09:35:39+09:00"
+    },
+    {
+      "title": "技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短フロー",
+      "url": "https://zenn.dev/furedea/articles/53b5117b389454",
+      "likes": 65,
+      "published_at": "2025-08-15T23:02:23+09:00"
+    },
+    {
+      "title": "【徹底解説】Claude Code UI と Cloudflare Tunnelでスマホから快適にAIコーディング",
+      "url": "https://zenn.dev/nogu66/articles/claudecodeui",
+      "likes": 58,
+      "published_at": "2025-08-30T20:50:12+09:00"
+    },
+    {
+      "title": "自然言語でワークフロー作成？Claude Code、n8n、n8n-mcpを組み合わせた開発体験レポート",
+      "url": "https://zenn.dev/xtm_blog/articles/d8085c176f0040",
+      "likes": 54,
+      "published_at": "2025-08-14T16:11:32+09:00"
+    }
+  ]
+}

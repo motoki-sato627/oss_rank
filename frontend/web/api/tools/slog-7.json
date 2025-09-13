@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "slog",
+    "name": "slog"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 13,
+    "score": 13.0
+  },
+  "articles_top": [
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 13,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 0,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    }
+  ]
+}

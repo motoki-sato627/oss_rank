@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "npm",
+    "name": "npm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 23,
+    "likes_sum": 258,
+    "score": 258.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "Claude Codeをネイティブインストールしたらめっちゃ面倒くさかったのでnpmに戻す方法",
+      "url": "https://zenn.dev/minato86/articles/8493ffc8d3975c",
+      "likes": 26,
+      "published_at": "2025-08-31T18:05:13+09:00"
+    },
+    {
+      "title": "AI時代の開発では npm より pnpm の方が良いかも",
+      "url": "https://zenn.dev/uzu_tech/articles/ai-worktree-npm-pnpm",
+      "likes": 10,
+      "published_at": "2025-09-02T12:32:01+09:00"
+    },
+    {
+      "title": "npm-check-updates (ncu) が便利だった話",
+      "url": "https://zenn.dev/team_delta/articles/a0e9840ad4dce3",
+      "likes": 6,
+      "published_at": "2025-09-01T17:37:46+09:00"
+    },
+    {
+      "title": "PRレビューを一括取得して学習資料化するnpmを公開",
+      "url": "https://zenn.dev/dragon1208/articles/1e1917d3c16c72",
+      "likes": 5,
+      "published_at": "2025-09-05T11:12:11+09:00"
+    },
+    {
+      "title": "【Nix】`nodePackages`は廃止されていくらしいよ",
+      "url": "https://zenn.dev/kometan/articles/c21fb15c44af79",
+      "likes": 5,
+      "published_at": "2025-08-31T00:26:38+09:00"
+    },
+    {
+      "title": "npmのArtifact Registryに対する認証を構成する方法：実践ガイドと注意点解説",
+      "url": "https://zenn.dev/acntechjp/articles/12f8537aff41b3",
+      "likes": 3,
+      "published_at": "2025-09-07T12:32:00+09:00"
+    },
+    {
+      "title": "Nix × Node.js 環境構築",
+      "url": "https://zenn.dev/trifolium/articles/6678b0c0fb0d27",
+      "likes": 3,
+      "published_at": "2025-09-02T07:01:01+09:00"
+    },
+    {
+      "title": "node2nix で Nixpkgs 非登録の Node ライブラリを管理する",
+      "url": "https://zenn.dev/trifolium/articles/32ff89d4e14815",
+      "likes": 3,
+      "published_at": "2025-09-02T07:00:01+09:00"
+    },
+    {
+      "title": "Claude Code CLIで「Auto-update failed」になった原因と対処",
+      "url": "https://zenn.dev/ness98981010/articles/2025-08-31-claude-code-auto-update-failed",
+      "likes": 3,
+      "published_at": "2025-08-31T06:00:26+09:00"
+    }
+  ]
+}

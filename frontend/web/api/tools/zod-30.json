@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "zod",
+    "name": "zod"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 85,
+    "score": 85.0
+  },
+  "articles_top": [
+    {
+      "title": "TypeScriptのas型アサーションをZodで型安全に置き換える",
+      "url": "https://zenn.dev/pepabo/articles/b61931ca6820ef",
+      "likes": 59,
+      "published_at": "2025-08-18T19:57:04+09:00"
+    },
+    {
+      "title": "OpenAPI 定義の管理方法を zod-to-openapi に変えた",
+      "url": "https://zenn.dev/kei_acarroll/articles/a2d18868638f0c",
+      "likes": 14,
+      "published_at": "2025-08-29T20:06:03+09:00"
+    },
+    {
+      "title": "Firebase × TypeScript の最適解？FirestoreTyped のご紹介",
+      "url": "https://zenn.dev/info_lounge/articles/64d949c3b8b4a1",
+      "likes": 5,
+      "published_at": "2025-09-03T15:32:45+09:00"
+    },
+    {
+      "title": "ZodやValibotで書いたスキーマの型のテストを書く(Vitestで)",
+      "url": "https://zenn.dev/relayhub/articles/0faf0ab523a841",
+      "likes": 3,
+      "published_at": "2025-08-30T16:22:33+09:00"
+    },
+    {
+      "title": "【TS/JS】 Zodライブラリで始めるデータ検証とスキーマ宣言まとめ",
+      "url": "https://zenn.dev/hyoni/articles/a2a87aff9a0b2f",
+      "likes": 2,
+      "published_at": "2025-08-18T15:22:34+09:00"
+    },
+    {
+      "title": "react-routerでデータ取得場所に迷ったときのメモ",
+      "url": "https://zenn.dev/tamon_kondo/articles/9ff454133cdfa5",
+      "likes": 1,
+      "published_at": "2025-08-30T10:00:01+09:00"
+    },
+    {
+      "title": "zodでスキーマが可変のときのバリデーションを実装する",
+      "url": "https://zenn.dev/baba0119/articles/a766a9db54df8f",
+      "likes": 1,
+      "published_at": "2025-08-19T15:22:18+09:00"
+    },
+    {
+      "title": "Zod Mini 移行は怖くない",
+      "url": "https://zenn.dev/beingish/articles/7fa821ea067017",
+      "likes": 0,
+      "published_at": "2025-09-12T11:38:33+09:00"
+    },
+    {
+      "title": "Zod Mini 移行は怖くない",
+      "url": "https://zenn.dev/beingish/articles/7fa821ea067017",
+      "likes": 0,
+      "published_at": "2025-09-12T11:38:33+09:00"
+    }
+  ]
+}

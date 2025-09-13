@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "satto",
+    "name": "satto"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 57,
+    "score": 57.0
+  },
+  "articles_top": [
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 27,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 17,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 13,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 0,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 0,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    },
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 0,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    }
+  ]
+}

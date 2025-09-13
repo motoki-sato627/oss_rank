@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "csharp",
+    "name": "csharp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 34,
+    "score": 34.0
+  },
+  "articles_top": [
+    {
+      "title": "レガシーC#開発者がDevinと向き合った現実",
+      "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+      "likes": 20,
+      "published_at": "2025-09-11T15:06:49+09:00"
+    },
+    {
+      "title": "最近のSemanticKernel",
+      "url": "https://zenn.dev/yakumo3/articles/902c92641cf7f4",
+      "likes": 3,
+      "published_at": "2025-09-07T12:22:24+09:00"
+    },
+    {
+      "title": "【Unity x Rider】なぜかコード解析が行われないときに試したこと",
+      "url": "https://zenn.dev/n_hidano/articles/d40430d3237f96",
+      "likes": 2,
+      "published_at": "2025-09-11T14:33:04+09:00"
+    },
+    {
+      "title": "Blazor Server でブラウザを閉じても処理を継続する",
+      "url": "https://zenn.dev/tetr4lab/articles/17363f5880f0f2",
+      "likes": 2,
+      "published_at": "2025-09-08T11:28:05+09:00"
+    },
+    {
+      "title": "リファクタリングをソリューションやプロジェクトに一括適用する方法",
+      "url": "https://zenn.dev/semicolon/articles/c20ecc44f4d546",
+      "likes": 1,
+      "published_at": "2025-09-12T19:01:35+09:00"
+    },
+    {
+      "title": "リファクタリングをソリューションやプロジェクトに一括適用する方法",
+      "url": "https://zenn.dev/semicolon/articles/c20ecc44f4d546",
+      "likes": 1,
+      "published_at": "2025-09-12T19:01:35+09:00"
+    },
+    {
+      "title": "Unity｜備忘録｜パーリンノイズ（Perlin noise）",
+      "url": "https://zenn.dev/stoy/articles/3ea95823699733",
+      "likes": 1,
+      "published_at": "2025-09-12T10:33:53+09:00"
+    },
+    {
+      "title": "Entra External ID + Blazor App + Web API でB2C認証を実装する",
+      "url": "https://zenn.dev/hat_kotap/articles/a3345e9ad3d9e8",
+      "likes": 1,
+      "published_at": "2025-09-11T12:25:31+09:00"
+    },
+    {
+      "title": "Visual Studio 2026 Insider が公開！起動と動作が速いのでさっそく普段使いのエディタにできそうです",
+      "url": "https://zenn.dev/suusanex/articles/1c174f217d4e41",
+      "likes": 1,
+      "published_at": "2025-09-10T09:27:24+09:00"
+    },
+    {
+      "title": "Entity FrameworkのChangeTrackerによるメモリ管理の仕組み",
+      "url": "https://zenn.dev/mahi1203/articles/6aa32ebdb2ae15",
+      "likes": 1,
+      "published_at": "2025-09-07T19:18:57+09:00"
+    }
+  ]
+}

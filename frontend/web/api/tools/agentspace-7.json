@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "agentspace",
+    "name": "agentspace"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    }
+  ]
+}

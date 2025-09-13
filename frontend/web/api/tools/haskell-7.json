@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "haskell",
+    "name": "haskell"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 14,
+    "score": 14.0
+  },
+  "articles_top": [
+    {
+      "title": "Haskeller のための AtCoder 言語アップデート 2025",
+      "url": "https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025",
+      "likes": 9,
+      "published_at": "2025-09-12T01:45:50+09:00"
+    },
+    {
+      "title": "n-gramをHaskellで実装する",
+      "url": "https://zenn.dev/shundeveloper/articles/ffde255a36a7c0",
+      "likes": 5,
+      "published_at": "2025-09-09T20:27:11+09:00"
+    },
+    {
+      "title": "Haskeller のための AtCoder 言語アップデート 2025",
+      "url": "https://zenn.dev/toyboot4e/articles/haskell-on-atcoder-2025",
+      "likes": 0,
+      "published_at": "2025-09-12T01:45:50+09:00"
+    },
+    {
+      "title": "n-gramをHaskellで実装する",
+      "url": "https://zenn.dev/shundeveloper/articles/ffde255a36a7c0",
+      "likes": 0,
+      "published_at": "2025-09-09T20:27:11+09:00"
+    }
+  ]
+}

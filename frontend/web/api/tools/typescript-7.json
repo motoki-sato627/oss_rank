@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "typescript",
+    "name": "typescript"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 79,
+    "likes_sum": 733,
+    "score": 733.0
+  },
+  "articles_top": [
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "JavaScript三十六景Tips集",
+      "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+      "likes": 116,
+      "published_at": "2025-09-06T22:47:31+09:00"
+    },
+    {
+      "title": "バックエンドTypeScriptでオニオンアーキテクチャを運用してわかった手応えと反省点",
+      "url": "https://zenn.dev/ficilcom/articles/4e16d9b523e480",
+      "likes": 108,
+      "published_at": "2025-09-11T01:00:02+09:00"
+    },
+    {
+      "title": "TypeScriptの型推論でCLIバリデーションをなくせた話",
+      "url": "https://zenn.dev/hongminhee/articles/27bce6eb777dea",
+      "likes": 40,
+      "published_at": "2025-09-11T14:27:21+09:00"
+    },
+    {
+      "title": "Claudeの学習モードを使ってコードのリファクタリングをした",
+      "url": "https://zenn.dev/hamworks/articles/45053f7c0efef7",
+      "likes": 26,
+      "published_at": "2025-09-09T10:28:28+09:00"
+    },
+    {
+      "title": "Cloudflare Agentsコトハジメ",
+      "url": "https://zenn.dev/tkithrta/articles/d5ab8579a527e9",
+      "likes": 14,
+      "published_at": "2025-09-07T07:06:15+09:00"
+    },
+    {
+      "title": "TypeScript + Phaser で古典的なゲームAIを実装してみた",
+      "url": "https://zenn.dev/kondroid00/articles/bf10cec130f510",
+      "likes": 12,
+      "published_at": "2025-09-08T08:00:01+09:00"
+    },
+    {
+      "title": "Bluesky をもっと楽しくする新アプリ &quot;SkyBeMoreBlue&quot; を公開しました",
+      "url": "https://zenn.dev/so_asano/articles/cd26a3fde5cfe3",
+      "likes": 11,
+      "published_at": "2025-09-11T00:49:19+09:00"
+    },
+    {
+      "title": "VoltAgentで作るAIエージェント",
+      "url": "https://zenn.dev/gemcook/articles/507e6b9f538729",
+      "likes": 11,
+      "published_at": "2025-09-10T14:20:39+09:00"
+    }
+  ]
+}

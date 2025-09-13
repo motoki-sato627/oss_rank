@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "java",
+    "name": "java"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 67,
+    "likes_sum": 199,
+    "score": 199.0
+  },
+  "articles_top": [
+    {
+      "title": "巨人に学ぶテストコードアンチパターン",
+      "url": "https://zenn.dev/rakuten_tech/articles/test_review_best_practices_ja",
+      "likes": 150,
+      "published_at": "2025-08-29T21:00:01+09:00"
+    },
+    {
+      "title": "VS Code と Docker で始める！シンプルな Java 開発入門",
+      "url": "https://zenn.dev/hiro345/articles/20250910_vscode_java",
+      "likes": 5,
+      "published_at": "2025-09-11T19:27:28+09:00"
+    },
+    {
+      "title": "Javaのチェック例外/非チェック例外の使い分け？",
+      "url": "https://zenn.dev/masatoshi_tada/articles/24cda978a16e8f",
+      "likes": 4,
+      "published_at": "2025-09-10T11:00:23+09:00"
+    },
+    {
+      "title": "java.util.Dateとjava.sql.Dateとjava.time.LocalDateのややこしい関係",
+      "url": "https://zenn.dev/masatoshi_tada/articles/aa4eb7cf0cde36",
+      "likes": 4,
+      "published_at": "2025-09-09T18:41:30+09:00"
+    },
+    {
+      "title": "kotlinが文法で優れているところを挙げてみる",
+      "url": "https://zenn.dev/favopg/articles/0689ccd5a999b7",
+      "likes": 4,
+      "published_at": "2025-08-15T10:27:30+09:00"
+    },
+    {
+      "title": "Rust Async完全攻略：TokioとFuturesで高性能を引き出す10のTips",
+      "url": "https://zenn.dev/taiga_yamamoto/articles/611cbf623f8133",
+      "likes": 3,
+      "published_at": "2025-09-03T23:49:28+09:00"
+    },
+    {
+      "title": "Rust Web アプリをレベルアップ：開発者向け上級テク10選",
+      "url": "https://zenn.dev/taiga_yamamoto/articles/d57984d41afc42",
+      "likes": 3,
+      "published_at": "2025-09-03T00:05:45+09:00"
+    },
+    {
+      "title": "jOOQ の起動後最初のクエリが遅い問題",
+      "url": "https://zenn.dev/moneyforward/articles/1b1f145593ce09",
+      "likes": 3,
+      "published_at": "2025-09-01T09:30:01+09:00"
+    },
+    {
+      "title": "【DAY94】Javaはポートフォリオに最適？就活で強い理由",
+      "url": "https://zenn.dev/keisuke4649/articles/day94-pg-connection",
+      "likes": 2,
+      "published_at": "2025-09-12T05:42:00+09:00"
+    },
+    {
+      "title": "Mockitoでモックのメソッドが1回目・2回目・・・に呼び出されるごとに戻り値を変えるようにする",
+      "url": "https://zenn.dev/masatoshi_tada/articles/f881ecc422d3af",
+      "likes": 2,
+      "published_at": "2025-09-09T15:56:04+09:00"
+    }
+  ]
+}

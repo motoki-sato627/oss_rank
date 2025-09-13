@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "codexcli",
+    "name": "codexcli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 26,
+    "likes_sum": 94,
+    "score": 94.0
+  },
+  "articles_top": [
+    {
+      "title": "npmダウンロード数で見るAIエージェントCLIツール動向",
+      "url": "https://zenn.dev/oikon/articles/ai-cli-tools",
+      "likes": 46,
+      "published_at": "2025-08-29T07:02:01+09:00"
+    },
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "Codex CLIでもセッションの再開（resume）を簡単にするためのCLIツール、「cdxresume」を作った",
+      "url": "https://zenn.dev/sasazame/articles/7b66fce66a0e85",
+      "likes": 7,
+      "published_at": "2025-09-03T22:52:45+09:00"
+    },
+    {
+      "title": "ChatGPTプランでのCodex CLIのレート制限",
+      "url": "https://zenn.dev/is0383kk/articles/ac9e6895727fb0",
+      "likes": 7,
+      "published_at": "2025-08-30T12:08:52+09:00"
+    },
+    {
+      "title": "gpt-5 をラップした CLI で、生成AIによる軽作業をターミナルに分離した",
+      "url": "https://zenn.dev/yourstand_blog/articles/gpt-5-cli-for-easy-task",
+      "likes": 6,
+      "published_at": "2025-09-06T15:27:07+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 4,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "Codex CLI から Figma MCP サーバーを利用する",
+      "url": "https://zenn.dev/imokeeeenpi/articles/7c42c9f550805a",
+      "likes": 4,
+      "published_at": "2025-09-05T02:58:00+09:00"
+    },
+    {
+      "title": "Windows（WSL） + Codex CLI で Serena を使う手順",
+      "url": "https://zenn.dev/sator_imaging/articles/5e4168334b7268",
+      "likes": 4,
+      "published_at": "2025-08-17T16:49:34+09:00"
+    },
+    {
+      "title": "より良いWeb検索を求めてClaude CodeからCodex CLIのWeb検索を使ってみたが、o3-search-mcpに戻った話",
+      "url": "https://zenn.dev/rarandeyo/articles/dbefefb8de5668",
+      "likes": 3,
+      "published_at": "2025-09-09T10:50:01+09:00"
+    },
+    {
+      "title": "Chat-GPT Plus プランでの Codex CLI 制限",
+      "url": "https://zenn.dev/yueno/articles/a6efb9952123ad",
+      "likes": 2,
+      "published_at": "2025-09-11T06:01:29+09:00"
+    }
+  ]
+}

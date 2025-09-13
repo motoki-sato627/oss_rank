@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "devsecops",
+    "name": "devsecops"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "マルチステージCIとGitOpsで実現するマイクロサービスのCI/CD戦略",
+      "url": "https://zenn.dev/suwash/articles/microservices_cicd_20250912",
+      "likes": 0,
+      "published_at": "2025-09-12T00:00:00+09:00"
+    }
+  ]
+}

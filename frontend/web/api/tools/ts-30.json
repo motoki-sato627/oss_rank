@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "ts",
+    "name": "ts"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 90,
+    "score": 90.0
+  },
+  "articles_top": [
+    {
+      "title": "【フロントエンド向け】JWTの安全な保管場所とCSRF・XSS対策の技術解説",
+      "url": "https://zenn.dev/wyuma/articles/4c9ca1eedca8e9",
+      "likes": 85,
+      "published_at": "2025-08-31T02:03:40+09:00"
+    },
+    {
+      "title": "React用のデバイス判別フック作ったので、みんなに共有",
+      "url": "https://zenn.dev/locu/articles/c01e05f4549056",
+      "likes": 2,
+      "published_at": "2025-09-08T12:50:57+09:00"
+    },
+    {
+      "title": "複数の有名OSSにコントリビュートしてわかったこと ─ Docker Compose, Gin, 他...",
+      "url": "https://zenn.dev/keitosuwahara/articles/e3994b11712b0d",
+      "likes": 2,
+      "published_at": "2025-08-16T23:09:57+09:00"
+    },
+    {
+      "title": "useQuery の queryFn における型推論の問題と解決策",
+      "url": "https://zenn.dev/wyuma/articles/291ed6a57ce80a",
+      "likes": 1,
+      "published_at": "2025-09-07T16:29:53+09:00"
+    },
+    {
+      "title": "オプションを渡しても渡さなくても動く関数",
+      "url": "https://zenn.dev/ksyunnnn/articles/095c1dea25e31f",
+      "likes": 0,
+      "published_at": "2025-09-09T17:02:10+09:00"
+    },
+    {
+      "title": "オプションを渡しても渡さなくても動く関数",
+      "url": "https://zenn.dev/ksyunnnn/articles/095c1dea25e31f",
+      "likes": 0,
+      "published_at": "2025-09-09T17:02:10+09:00"
+    },
+    {
+      "title": "React用のデバイス判別フック作ったので、みんなに共有",
+      "url": "https://zenn.dev/locu/articles/c01e05f4549056",
+      "likes": 0,
+      "published_at": "2025-09-08T12:50:57+09:00"
+    },
+    {
+      "title": "useQuery の queryFn における型推論の問題と解決策",
+      "url": "https://zenn.dev/wyuma/articles/291ed6a57ce80a",
+      "likes": 0,
+      "published_at": "2025-09-07T16:29:53+09:00"
+    },
+    {
+      "title": "React Router Outlet とは？用途を簡潔に解説 !",
+      "url": "https://zenn.dev/wyuma/articles/bfc8fa48a0f54d",
+      "likes": 0,
+      "published_at": "2025-08-28T12:25:00+09:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "startup",
+    "name": "startup"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 478,
+    "score": 478.0
+  },
+  "articles_top": [
+    {
+      "title": "13,600スターのOSSでバーンアウトした俺が、AIでOSSの経済を根本から変えようとしている話",
+      "url": "https://zenn.dev/gunta/articles/a4da171cd06b5a",
+      "likes": 472,
+      "published_at": "2025-08-25T13:33:53+09:00"
+    },
+    {
+      "title": "「キャリア」という概念",
+      "url": "https://zenn.dev/hariby/articles/71b25bdd0ff32f",
+      "likes": 6,
+      "published_at": "2025-08-23T19:45:30+09:00"
+    }
+  ]
+}

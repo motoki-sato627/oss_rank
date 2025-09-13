@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cursor",
+    "name": "cursor"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 78,
+    "likes_sum": 1073,
+    "score": 1073.0
+  },
+  "articles_top": [
+    {
+      "title": "Figma MCPを攻略して最高のコード生成を実現する",
+      "url": "https://zenn.dev/reiwatravel/articles/13828b9659798a",
+      "likes": 139,
+      "published_at": "2025-08-27T10:58:53+09:00"
+    },
+    {
+      "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+      "url": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+      "likes": 136,
+      "published_at": "2025-08-26T10:26:05+09:00"
+    },
+    {
+      "title": "国産の仕様駆動開発ツール cc-sdd を推していきたい",
+      "url": "https://zenn.dev/kokushing/articles/7468d5f195e54c",
+      "likes": 135,
+      "published_at": "2025-09-09T18:39:36+09:00"
+    },
+    {
+      "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
+      "url": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
+      "likes": 107,
+      "published_at": "2025-08-19T11:13:51+09:00"
+    },
+    {
+      "title": "ルールファイルはプロジェクトの暗黙知を減らすから今すぐ書け",
+      "url": "https://zenn.dev/ficilcom/articles/7212c8e120b2d6",
+      "likes": 105,
+      "published_at": "2025-08-25T10:00:02+09:00"
+    },
+    {
+      "title": "Claude Code を Serena MCP で強化しよう！Cursorとも連携するよ。",
+      "url": "https://zenn.dev/ficilcom/articles/da858df304b588",
+      "likes": 97,
+      "published_at": "2025-08-19T01:00:05+09:00"
+    },
+    {
+      "title": "【エージェントルール】 中長期開発におけるルール設計",
+      "url": "https://zenn.dev/sonicmoov/articles/0f9e98f3539d04",
+      "likes": 41,
+      "published_at": "2025-08-28T14:58:24+09:00"
+    },
+    {
+      "title": "AIで要件精度を高めてチーム生産性を向上させる具体的な実践方法 ─ Cursor × MCP活用の実践録",
+      "url": "https://zenn.dev/fastdoctor/articles/b8bee72dec1147",
+      "likes": 36,
+      "published_at": "2025-08-28T10:20:27+09:00"
+    },
+    {
+      "title": "Snowflake MCP Server で Cursor から高度なデータ分析を実現する",
+      "url": "https://zenn.dev/tsubasa_tech/articles/70ab5fb2b5ed99",
+      "likes": 29,
+      "published_at": "2025-09-01T13:33:17+09:00"
+    },
+    {
+      "title": "Cursor Tab Suggestionの確定キーを変更する",
+      "url": "https://zenn.dev/knowledgework/articles/95533c09099e56",
+      "likes": 25,
+      "published_at": "2025-09-05T12:00:01+09:00"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "modelcontextprotoc",
+    "name": "modelcontextprotoc"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 70,
+    "score": 70.0
+  },
+  "articles_top": [
+    {
+      "title": "Codex CLI をプロジェクトに詳しい相棒にする",
+      "url": "https://zenn.dev/innovation/articles/bc05ab1116adb7",
+      "likes": 61,
+      "published_at": "2025-08-20T16:00:01+09:00"
+    },
+    {
+      "title": "Claude CodeでAIメンターを自分好みにカスタマイズする",
+      "url": "https://zenn.dev/nami_y/articles/cb9b7deb0550b8",
+      "likes": 6,
+      "published_at": "2025-08-16T15:11:40+09:00"
+    },
+    {
+      "title": "MCPの認可に画期的な仕様が追加された",
+      "url": "https://zenn.dev/demouth/articles/57f8444c7a487f",
+      "likes": 2,
+      "published_at": "2025-09-07T02:30:50+09:00"
+    },
+    {
+      "title": "AWS LambdaでClaudeのカスタムコネクタを実装する方法",
+      "url": "https://zenn.dev/virtualcraft/articles/remote-mcp-lambda",
+      "likes": 1,
+      "published_at": "2025-08-28T09:34:46+09:00"
+    },
+    {
+      "title": "MCPの認可に画期的な仕様が追加された",
+      "url": "https://zenn.dev/demouth/articles/57f8444c7a487f",
+      "likes": 0,
+      "published_at": "2025-09-07T02:30:50+09:00"
+    }
+  ]
+}

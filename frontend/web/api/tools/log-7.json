@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "log",
+    "name": "log"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 18,
+    "score": 18.0
+  },
+  "articles_top": [
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 13,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "Auzreのリソースグループに日本語名を付けてはいけない理由",
+      "url": "https://zenn.dev/relims7165/articles/bff6b10b352e4c",
+      "likes": 5,
+      "published_at": "2025-09-11T08:10:09+09:00"
+    },
+    {
+      "title": "Auzreのリソースグループに日本語名を付けてはいけない理由",
+      "url": "https://zenn.dev/relims7165/articles/bff6b10b352e4c",
+      "likes": 0,
+      "published_at": "2025-09-11T08:10:09+09:00"
+    },
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 0,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    }
+  ]
+}

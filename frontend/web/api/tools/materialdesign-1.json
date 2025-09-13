@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "materialdesign",
+    "name": "materialdesign"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    }
+  ]
+}

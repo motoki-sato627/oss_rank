@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "react",
+    "name": "react"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 59,
+    "likes_sum": 425,
+    "score": 425.0
+  },
+  "articles_top": [
+    {
+      "title": "余計なuseMemoを1つ消したらtscが135秒高速化した話",
+      "url": "https://zenn.dev/meijin/articles/typescript-usememo-performance-pitfall",
+      "likes": 283,
+      "published_at": "2025-09-08T17:44:49+09:00"
+    },
+    {
+      "title": "TanStack DB ~状態管理の新しい考え方~",
+      "url": "https://zenn.dev/bmth/articles/tanstack-db-csq",
+      "likes": 141,
+      "published_at": "2025-09-06T03:06:46+09:00"
+    },
+    {
+      "title": "Vercel製AIツール三種の神器で実現する - モダンなAIチャット開発",
+      "url": "https://zenn.dev/chot/articles/997bb34bab0062",
+      "likes": 70,
+      "published_at": "2025-09-08T12:07:31+09:00"
+    },
+    {
+      "title": "OSS・依存ソフトのサポート期限をまとめて確認できる「EOL Timeline」を作りました",
+      "url": "https://zenn.dev/ksuke_0322/articles/b519896ad1f988",
+      "likes": 7,
+      "published_at": "2025-09-11T20:42:17+09:00"
+    },
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "Next.jsでのURL状態管理を楽にするnuqsの使い方",
+      "url": "https://zenn.dev/shintaro/articles/0a3d0f7aabfe85",
+      "likes": 6,
+      "published_at": "2025-09-07T10:40:59+09:00"
+    },
+    {
+      "title": "【札幌開催】React Server Componentsハンズオン イベントレポート",
+      "url": "https://zenn.dev/react_tokyo/articles/2d6194fddaabaa",
+      "likes": 4,
+      "published_at": "2025-09-11T11:27:15+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンスin北海道 2025 に参加したらチームの視座が爆上がりした話",
+      "url": "https://zenn.dev/idealog/articles/82eb77014ba046",
+      "likes": 4,
+      "published_at": "2025-09-08T18:48:31+09:00"
+    },
+    {
+      "title": "ブラウザストレージの状態管理をzustandで行うと簡単かつ高機能で便利",
+      "url": "https://zenn.dev/uzu_tech/articles/browser-storage-zustand",
+      "likes": 4,
+      "published_at": "2025-09-08T12:30:05+09:00"
+    }
+  ]
+}

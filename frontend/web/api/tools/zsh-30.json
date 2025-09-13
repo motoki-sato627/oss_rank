@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "zsh",
+    "name": "zsh"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 188,
+    "score": 188.0
+  },
+  "articles_top": [
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 88,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "Git/GitHub 複数アカウントを手軽に切り替えるための設定方法",
+      "url": "https://zenn.dev/karaage0703/articles/55f39f761321dc",
+      "likes": 86,
+      "published_at": "2025-08-24T17:39:47+09:00"
+    },
+    {
+      "title": "よく使うディレクトリやGitHubのリポジトリに素早く移動する",
+      "url": "https://zenn.dev/arm_techblog/articles/ea9560facb7c09",
+      "likes": 8,
+      "published_at": "2025-08-15T11:26:47+09:00"
+    },
+    {
+      "title": "毎日のTerminal操作を快適にするzshrcカスタマイズ",
+      "url": "https://zenn.dev/endotakumi/articles/ef9208aac20100",
+      "likes": 3,
+      "published_at": "2025-08-17T07:26:18+09:00"
+    },
+    {
+      "title": "Git で Ctrl+S を押すだけのクイックセーブを実現する",
+      "url": "https://zenn.dev/studio/articles/git-quicksave",
+      "likes": 3,
+      "published_at": "2025-08-15T14:48:57+09:00"
+    },
+    {
+      "title": "楽しく開発するための私のターミナル設定",
+      "url": "https://zenn.dev/chot/articles/1d10f3a40332ab",
+      "likes": 0,
+      "published_at": "2025-09-09T09:00:01+09:00"
+    },
+    {
+      "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+      "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+      "likes": 0,
+      "published_at": "2025-09-07T21:39:17+09:00"
+    },
+    {
+      "title": "zshのコマンドが失敗したら履歴を残さない(precmdフックを使う)",
+      "url": "https://zenn.dev/shimo_s3/articles/0-2025-09-zsh-history-remove-fail",
+      "likes": 0,
+      "published_at": "2025-09-07T21:39:17+09:00"
+    },
+    {
+      "title": "M1チップのmacOSでError: Cannot find module &#x27;*/cli-darwin-x64/*&#x27;が発生した",
+      "url": "https://zenn.dev/ho_ri/articles/c2adaa84f04a1f",
+      "likes": 0,
+      "published_at": "2025-09-02T00:44:09+09:00"
+    },
+    {
+      "title": "macOS で houdini_setup をそこそこ簡単に読み込ませる zsh の function 書いた",
+      "url": "https://zenn.dev/hige/articles/72ff7d8fbfef58",
+      "likes": 0,
+      "published_at": "2025-08-14T02:22:40+09:00"
+    }
+  ]
+}

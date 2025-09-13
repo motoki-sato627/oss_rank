@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "llm",
+    "name": "llm"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 18,
+    "score": 18.0
+  },
+  "articles_top": [
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "Agentspace を Custom Runtime で構築した Agent Engine で拡張する",
+      "url": "https://zenn.dev/dannya/articles/a3d4aade52097d",
+      "likes": 5,
+      "published_at": "2025-09-12T20:33:11+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "AI共創論：確率的創造の原理",
+      "url": "https://zenn.dev/eitoatsuta/articles/1fa1116949ba75",
+      "likes": 2,
+      "published_at": "2025-09-13T07:36:20+09:00"
+    },
+    {
+      "title": "AI共創論：確率的創造の原理",
+      "url": "https://zenn.dev/eitoatsuta/articles/1fa1116949ba75",
+      "likes": 2,
+      "published_at": "2025-09-13T07:36:20+09:00"
+    },
+    {
+      "title": "LangGraph Supervisorのwatsonxの挙動",
+      "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+      "likes": 2,
+      "published_at": "2025-09-12T20:09:19+09:00"
+    },
+    {
+      "title": "LangGraph Supervisorのwatsonxの挙動",
+      "url": "https://zenn.dev/dxclab/articles/4f4cc24b11700b",
+      "likes": 2,
+      "published_at": "2025-09-12T20:09:19+09:00"
+    },
+    {
+      "title": "モデルとエージェントの進化を評価する：SWE-bench とは",
+      "url": "https://zenn.dev/sparkleai_blog/articles/8586c95abd971a",
+      "likes": 1,
+      "published_at": "2025-09-12T12:16:34+09:00"
+    },
+    {
+      "title": "AWS Knowledge MCP ServerとAWS Documentation MCP Serverの違いと試してみた",
+      "url": "https://zenn.dev/fusic/articles/e11f00e1425fe3",
+      "likes": 0,
+      "published_at": "2025-09-13T12:06:00+09:00"
+    }
+  ]
+}

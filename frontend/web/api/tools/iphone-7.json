@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "iphone",
+    "name": "iphone"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 9,
+    "score": 9.0
+  },
+  "articles_top": [
+    {
+      "title": "[Xcode] SimulatorのiPhoneとApple Watchを連携する",
+      "url": "https://zenn.dev/oka_yuuji/articles/906e1247e44b3c",
+      "likes": 5,
+      "published_at": "2025-09-11T18:42:05+09:00"
+    },
+    {
+      "title": "【iphoneショートカット】毎日天気予報をLINEに通知させるオートメーションを作り、QOLが上がった話",
+      "url": "https://zenn.dev/pulasqa/articles/pulasqaaa-001",
+      "likes": 4,
+      "published_at": "2025-09-09T08:30:01+09:00"
+    },
+    {
+      "title": "[Xcode] SimulatorのiPhoneとApple Watchを連携する",
+      "url": "https://zenn.dev/oka_yuuji/articles/906e1247e44b3c",
+      "likes": 0,
+      "published_at": "2025-09-11T18:42:05+09:00"
+    },
+    {
+      "title": "【iphoneショートカット】毎日天気予報をLINEに通知させるオートメーションを作り、QOLが上がった話",
+      "url": "https://zenn.dev/pulasqa/articles/pulasqaaa-001",
+      "likes": 0,
+      "published_at": "2025-09-09T08:30:01+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ios",
+    "name": "ios"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 111,
+    "score": 111.0
+  },
+  "articles_top": [
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "Background Tasksフレームワーク入門",
+      "url": "https://zenn.dev/shu223/articles/background-tasks",
+      "likes": 21,
+      "published_at": "2025-09-06T07:27:08+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 14,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 13,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "[Xcode] SimulatorのiPhoneとApple Watchを連携する",
+      "url": "https://zenn.dev/oka_yuuji/articles/906e1247e44b3c",
+      "likes": 5,
+      "published_at": "2025-09-11T18:42:05+09:00"
+    },
+    {
+      "title": "iOSDC Japan 2025 シルバースポンサー実施・社員2名登壇・パンフレット記事寄稿のお知らせ",
+      "url": "https://zenn.dev/genda_jp/articles/ef92574f02b9e2",
+      "likes": 4,
+      "published_at": "2025-09-08T12:59:43+09:00"
+    },
+    {
+      "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+      "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+      "likes": 2,
+      "published_at": "2025-09-08T22:56:25+09:00"
+    },
+    {
+      "title": "【Flutter】モダンなAudioVisualizationのパッケージ audio_flux を試す",
+      "url": "https://zenn.dev/slowhand/articles/c22e59b441d2ae",
+      "likes": 2,
+      "published_at": "2025-09-06T21:00:05+09:00"
+    },
+    {
+      "title": "Firebase Analytics, RemoteConfigとCrashlyticsの概説",
+      "url": "https://zenn.dev/hsylife/articles/fe5c04774bd06c",
+      "likes": 1,
+      "published_at": "2025-09-06T09:42:56+09:00"
+    },
+    {
+      "title": "DroidKaigi2025のカンファレンスアプリを改善するIssueを106件作成しました(約一ヶ月間継続貢献)",
+      "url": "https://zenn.dev/todayama_r/articles/6a4f24033ba7be",
+      "likes": 0,
+      "published_at": "2025-09-10T17:00:01+09:00"
+    }
+  ]
+}

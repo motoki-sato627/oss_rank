@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "web",
+    "name": "web"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 37,
+    "likes_sum": 72,
+    "score": 72.0
+  },
+  "articles_top": [
+    {
+      "title": "なぜCSS @layerが生まれたのか Cascade Layersの背景と仕組みを理解する",
+      "url": "https://zenn.dev/ryohiy/articles/css-cascade-layers",
+      "likes": 36,
+      "published_at": "2025-08-25T07:43:33+09:00"
+    },
+    {
+      "title": "ウェザーニューズにおけるPlatform Engineering",
+      "url": "https://zenn.dev/weathernews/articles/3cf569a23a76b3",
+      "likes": 26,
+      "published_at": "2025-08-14T13:39:55+09:00"
+    },
+    {
+      "title": "Full Weak Engineer CTF 2025 作問者Writeup (Web)",
+      "url": "https://zenn.dev/alphe/articles/aa23ae6300af8f",
+      "likes": 6,
+      "published_at": "2025-09-03T12:48:53+09:00"
+    },
+    {
+      "title": "FastAPIで外部APIリクエストやI/O処理を行う際に気をつけること",
+      "url": "https://zenn.dev/unemployed/articles/fast-api-event-loop",
+      "likes": 4,
+      "published_at": "2025-08-30T17:14:58+09:00"
+    },
+    {
+      "title": "WebアプリケーションのUI構築のポイント",
+      "url": "https://zenn.dev/tomokusaba/articles/c37aadf984fcd0",
+      "likes": 4,
+      "published_at": "2025-08-18T21:13:51+09:00"
+    },
+    {
+      "title": "なぜエンジニアはコードを消せないのか、そして消すべき理由",
+      "url": "https://zenn.dev/hayato98/articles/20250908_20250908_even-ai-cant-answer-5",
+      "likes": 2,
+      "published_at": "2025-09-08T18:03:16+09:00"
+    },
+    {
+      "title": "複雑なJoin句を使用せず、アプリケーションロジックで構成・集計した",
+      "url": "https://zenn.dev/hayato98/articles/20250903_20250830_even-ai-cant-answer-3",
+      "likes": 2,
+      "published_at": "2025-09-03T10:32:00+09:00"
+    },
+    {
+      "title": "Geminiにはんだ付けをサポートするサイトを作ってもらった",
+      "url": "https://zenn.dev/k42uma/articles/kicad-solder-tool",
+      "likes": 2,
+      "published_at": "2025-09-03T07:26:49+09:00"
+    },
+    {
+      "title": "WixStudioでVeloを使う Step 41 「GoogleFontsの適用」",
+      "url": "https://zenn.dev/niibori/articles/veloonwixstudio-beginner-0041",
+      "likes": 2,
+      "published_at": "2025-08-27T18:12:24+09:00"
+    },
+    {
+      "title": "WixStudioでVeloを使う Step 39 「マルチステートボックス」",
+      "url": "https://zenn.dev/niibori/articles/veloonwixstudio-beginner-0039",
+      "likes": 2,
+      "published_at": "2025-08-19T17:22:35+09:00"
+    }
+  ]
+}

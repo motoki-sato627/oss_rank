@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "dotnetframework",
+    "name": "dotnetframework"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 20,
+    "score": 20.0
+  },
+  "articles_top": [
+    {
+      "title": "レガシーC#開発者がDevinと向き合った現実",
+      "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+      "likes": 20,
+      "published_at": "2025-09-11T15:06:49+09:00"
+    },
+    {
+      "title": "レガシーC#開発者がDevinと向き合った現実",
+      "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+      "likes": 0,
+      "published_at": "2025-09-11T15:06:49+09:00"
+    }
+  ]
+}

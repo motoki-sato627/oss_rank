@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "swift",
+    "name": "swift"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0
+  },
+  "articles_top": [
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 14,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 13,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    }
+  ]
+}

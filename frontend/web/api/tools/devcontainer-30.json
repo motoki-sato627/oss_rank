@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "devcontainer",
+    "name": "devcontainer"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 93,
+    "score": 93.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude Codeをなるべく安全に動かすためのDev Containerを構築した",
+      "url": "https://zenn.dev/backpaper0/articles/038838c4cec2a8",
+      "likes": 78,
+      "published_at": "2025-08-19T06:48:37+09:00"
+    },
+    {
+      "title": "Devcontainer.jsonの基本的な書き方と設計について",
+      "url": "https://zenn.dev/twatanabe0808/articles/devcontainer-json-basics",
+      "likes": 7,
+      "published_at": "2025-08-17T18:11:44+09:00"
+    },
+    {
+      "title": "GitHub Codespacesのススメ (イベント参加者向け)",
+      "url": "https://zenn.dev/bububutasan/articles/65059536febaa1",
+      "likes": 2,
+      "published_at": "2025-09-09T08:57:43+09:00"
+    },
+    {
+      "title": "SSHコマンドを切り替える .gitconfig の工夫",
+      "url": "https://zenn.dev/ashita_team/articles/56d1a216ec92b8",
+      "likes": 2,
+      "published_at": "2025-08-29T07:37:37+09:00"
+    },
+    {
+      "title": "devcontainer 内の claude code の利用も ccusage で見たい",
+      "url": "https://zenn.dev/dev_shimada/articles/devcontainer-ccusage",
+      "likes": 2,
+      "published_at": "2025-08-27T20:17:00+09:00"
+    },
+    {
+      "title": "SerenaをMacのVSCodeで起動したDev Containerで使いたい",
+      "url": "https://zenn.dev/jnxjez/articles/5c0ba66c5054f4",
+      "likes": 2,
+      "published_at": "2025-08-24T22:19:44+09:00"
+    },
+    {
+      "title": "GitHub Codespacesのススメ (イベント参加者向け)",
+      "url": "https://zenn.dev/bububutasan/articles/65059536febaa1",
+      "likes": 0,
+      "published_at": "2025-09-09T08:57:43+09:00"
+    },
+    {
+      "title": "WindowsのVS CodeでDev Container開発環境を構築する手順",
+      "url": "https://zenn.dev/sunnydrop/articles/7981d21447df03",
+      "likes": 0,
+      "published_at": "2025-08-21T08:50:47+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "linux",
+    "name": "linux"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    },
+    {
+      "title": "UbuntuではなくUbuntuServerを選ぶ理由",
+      "url": "https://zenn.dev/takeda_dev/articles/e353c912d5fa1d",
+      "likes": 1,
+      "published_at": "2025-09-12T22:55:12+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "Debianのスワップサイズを変更",
+      "url": "https://zenn.dev/kaorumori/articles/8d32f011492b4e",
+      "likes": 1,
+      "published_at": "2025-09-12T11:38:22+09:00"
+    },
+    {
+      "title": "ターミナルでもsemantic layerの恩恵を受ける",
+      "url": "https://zenn.dev/kiwamizamurai/articles/7ae52af007dd6d",
+      "likes": 0,
+      "published_at": "2025-09-13T16:24:23+09:00"
+    },
+    {
+      "title": "ターミナルでもsemantic layerの恩恵を受ける",
+      "url": "https://zenn.dev/kiwamizamurai/articles/7ae52af007dd6d",
+      "likes": 0,
+      "published_at": "2025-09-13T16:24:23+09:00"
+    },
+    {
+      "title": "ターミナルでもsemantic layerの恩恵を受ける",
+      "url": "https://zenn.dev/kiwamizamurai/articles/7ae52af007dd6d",
+      "likes": 0,
+      "published_at": "2025-09-13T16:24:23+09:00"
+    },
+    {
+      "title": "ターミナルでもsemantic layerの恩恵を受ける",
+      "url": "https://zenn.dev/kiwamizamurai/articles/7ae52af007dd6d",
+      "likes": 0,
+      "published_at": "2025-09-13T16:24:23+09:00"
+    },
+    {
+      "title": "ターミナルでもsemantic layerの恩恵を受ける",
+      "url": "https://zenn.dev/kiwamizamurai/articles/7ae52af007dd6d",
+      "likes": 0,
+      "published_at": "2025-09-13T16:24:23+09:00"
+    }
+  ]
+}

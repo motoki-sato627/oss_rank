@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "gpt",
+    "name": "gpt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 71,
+    "score": 71.0
+  },
+  "articles_top": [
+    {
+      "title": "信頼できるLLM-as-a-Judgeの構築に向けた研究動向",
+      "url": "https://zenn.dev/tsurubee/articles/1383f86eee4825",
+      "likes": 42,
+      "published_at": "2025-09-04T09:41:20+09:00"
+    },
+    {
+      "title": "【ChatGPT】- 旧モデルを選択できるようにしたい！",
+      "url": "https://zenn.dev/headwaters/articles/a46da4f8bf6c37",
+      "likes": 6,
+      "published_at": "2025-09-02T08:37:47+09:00"
+    },
+    {
+      "title": "GPT-5 のコーディングチートシート解説と GPT-4 との比較",
+      "url": "https://zenn.dev/techno_koki/articles/f2b20f950c43c5",
+      "likes": 4,
+      "published_at": "2025-08-22T10:10:36+09:00"
+    },
+    {
+      "title": "Windows（WSL） + Codex CLI で Serena を使う手順",
+      "url": "https://zenn.dev/sator_imaging/articles/5e4168334b7268",
+      "likes": 4,
+      "published_at": "2025-08-17T16:49:34+09:00"
+    },
+    {
+      "title": "GPT-5時代の「大規模言語モデル(LLM)」超入門",
+      "url": "https://zenn.dev/ryofrontenginer/articles/102ae44170f0b1",
+      "likes": 3,
+      "published_at": "2025-08-30T09:48:57+09:00"
+    },
+    {
+      "title": "Firestoreの設定でGPTと喧嘩した",
+      "url": "https://zenn.dev/rucco/articles/2deeda7f7837c1",
+      "likes": 2,
+      "published_at": "2025-09-05T06:26:00+09:00"
+    },
+    {
+      "title": "Claude CodeからCodex CLIへ移行した話 — モバイル/SRE/クラウド視点",
+      "url": "https://zenn.dev/zuzuzu/articles/claude_code_to_codex_cli",
+      "likes": 2,
+      "published_at": "2025-09-04T19:38:41+09:00"
+    },
+    {
+      "title": "gpt-oss:20bでpromptfooのテストケースを試してみる",
+      "url": "https://zenn.dev/rounda_blog/articles/a03ee2f656c6cc",
+      "likes": 2,
+      "published_at": "2025-08-25T12:41:25+09:00"
+    },
+    {
+      "title": "旅行アプリ開発記録④　LLMを組み込んだアプリでのセキュリティ対応",
+      "url": "https://zenn.dev/nnnwa/articles/3557b980ba593c",
+      "likes": 2,
+      "published_at": "2025-08-18T22:21:33+09:00"
+    },
+    {
+      "title": "GPT-4/音声/画像/動画対応！Python Flask で作る AI チャット！",
+      "url": "https://zenn.dev/knbzyh/articles/e1d4b9aa477823",
+      "likes": 1,
+      "published_at": "2025-08-25T17:18:38+09:00"
+    }
+  ]
+}

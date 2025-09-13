@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "zed",
+    "name": "zed"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 141,
+    "score": 141.0
+  },
+  "articles_top": [
+    {
+      "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+      "url": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+      "likes": 136,
+      "published_at": "2025-08-26T10:26:05+09:00"
+    },
+    {
+      "title": "ZedでClaude Code、Gemini CLIが利用可能に",
+      "url": "https://zenn.dev/explaza/articles/008c0d49cb480f",
+      "likes": 5,
+      "published_at": "2025-09-05T17:31:21+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "geminicli",
+    "name": "geminicli"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 24,
+    "score": 24.0
+  },
+  "articles_top": [
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 11,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 7,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 4,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "Gemini CLIのサンドボックス機能の紹介",
+      "url": "https://zenn.dev/emp_tech_blog/articles/302681dc8d25b7",
+      "likes": 2,
+      "published_at": "2025-09-10T18:02:58+09:00"
+    },
+    {
+      "title": "Gemini CLIのサンドボックス機能の紹介",
+      "url": "https://zenn.dev/emp_tech_blog/articles/302681dc8d25b7",
+      "likes": 0,
+      "published_at": "2025-09-10T18:02:58+09:00"
+    },
+    {
+      "title": "Spec Kitを日本語化して試してみる",
+      "url": "https://zenn.dev/n_san/articles/e1fcdd79d1af32",
+      "likes": 0,
+      "published_at": "2025-09-09T17:32:27+09:00"
+    },
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 0,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    },
+    {
+      "title": "Codex CLI / Claude Code CLI / Gemini CLIでMAGIシステムっぽいもの作ったときのメモ",
+      "url": "https://zenn.dev/kayato/articles/7f17e20f989fd5",
+      "likes": 0,
+      "published_at": "2025-09-08T12:55:48+09:00"
+    },
+    {
+      "title": "週刊AI駆動開発 - 2025年09月07日",
+      "url": "https://zenn.dev/pppp303/articles/weekly_ai_20250907",
+      "likes": 0,
+      "published_at": "2025-09-07T22:22:16+09:00"
+    },
+    {
+      "title": "週刊AI駆動開発 - 2025年09月07日",
+      "url": "https://zenn.dev/pppp303/articles/weekly_ai_20250907",
+      "likes": 0,
+      "published_at": "2025-09-07T22:22:16+09:00"
+    }
+  ]
+}

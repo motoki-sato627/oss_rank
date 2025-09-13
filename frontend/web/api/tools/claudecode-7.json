@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "claudecode",
+    "name": "claudecode"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 80,
+    "likes_sum": 396,
+    "score": 396.0
+  },
+  "articles_top": [
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "Claude Code 探訪: Opus と Sonnet を使い比べて気がついたこととその違い",
+      "url": "https://zenn.dev/readyfor_blog/articles/11d4e6b6129428",
+      "likes": 56,
+      "published_at": "2025-09-11T11:57:48+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+      "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+      "likes": 24,
+      "published_at": "2025-09-10T21:36:48+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "Spec KitのタスクリストをVibe Kanbanでカンバン管理する",
+      "url": "https://zenn.dev/watany/articles/78a06904f681dd",
+      "likes": 19,
+      "published_at": "2025-09-11T11:32:35+09:00"
+    },
+    {
+      "title": "Spec Kitを使って簡単な家計簿アプリ実装してみた",
+      "url": "https://zenn.dev/acntechjp/articles/1d35658b0114b6",
+      "likes": 14,
+      "published_at": "2025-09-09T14:01:27+09:00"
+    },
+    {
+      "title": "スクラム開発でスクラムベロシティを最大2倍超に高めた改善プロセス",
+      "url": "https://zenn.dev/canly/articles/734f57b897a4a1",
+      "likes": 12,
+      "published_at": "2025-09-10T10:06:15+09:00"
+    },
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "生産性4倍？実際の開発現場でAIエージェントを用いた開発を振り返る～2025年4月末～（Cline + Github Copilot編）",
+      "url": "https://zenn.dev/rehabforjapan/articles/ai-development-productivity-cline-copilot-202504",
+      "likes": 11,
+      "published_at": "2025-09-09T08:54:45+09:00"
+    }
+  ]
+}

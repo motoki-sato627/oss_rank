@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "aiagent",
+    "name": "aiagent"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 16,
+    "likes_sum": 28,
+    "score": 28.0
+  },
+  "articles_top": [
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    },
+    {
+      "title": "Anthropicの最新記事「Writing tools for agents」を読み解く",
+      "url": "https://zenn.dev/acntechjp/articles/f37db275523a79",
+      "likes": 2,
+      "published_at": "2025-09-13T14:45:03+09:00"
+    }
+  ]
+}

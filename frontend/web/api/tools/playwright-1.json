@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "playwright",
+    "name": "playwright"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 3,
+    "score": 3.0
+  },
+  "articles_top": [
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 1,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    }
+  ]
+}

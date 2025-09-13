@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "microsoft",
+    "name": "microsoft"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 16,
+    "likes_sum": 91,
+    "score": 91.0
+  },
+  "articles_top": [
+    {
+      "title": "Microsoftから登場したVibeVoice凄すぎ",
+      "url": "https://zenn.dev/headwaters/articles/98f63259349ba7",
+      "likes": 34,
+      "published_at": "2025-08-30T19:08:40+09:00"
+    },
+    {
+      "title": "AI Foundry で Browser Automation Tool を使ってみた",
+      "url": "https://zenn.dev/microsoft/articles/493e35659c59d6",
+      "likes": 12,
+      "published_at": "2025-08-14T21:29:30+09:00"
+    },
+    {
+      "title": "GitHub Copilot認定試験の対策",
+      "url": "https://zenn.dev/headwaters/articles/5de9c5711dc799",
+      "likes": 9,
+      "published_at": "2025-09-02T20:02:00+09:00"
+    },
+    {
+      "title": "Microsoft「Mu」モデル発表の技術解析",
+      "url": "https://zenn.dev/headwaters/articles/61d87329b3b8cd",
+      "likes": 8,
+      "published_at": "2025-08-15T11:48:52+09:00"
+    },
+    {
+      "title": "Microsoft認定資格「GitHub Copilot」を取得してみた",
+      "url": "https://zenn.dev/ncdc/articles/a17d86e2415671",
+      "likes": 7,
+      "published_at": "2025-08-23T20:00:07+09:00"
+    },
+    {
+      "title": "【合格体験記】GitHub Copilot 認定資格を受験してみて",
+      "url": "https://zenn.dev/luxiar/articles/cca4135840c70e",
+      "likes": 6,
+      "published_at": "2025-08-28T13:57:10+09:00"
+    },
+    {
+      "title": "Azure Deep Research × Chainlit 実装：長時間処理のAIエージェントの安定化・UX設計",
+      "url": "https://zenn.dev/dxclab/articles/f634fffc41c9b7",
+      "likes": 4,
+      "published_at": "2025-09-03T11:22:54+09:00"
+    },
+    {
+      "title": "解説：Azure で VM 使うときの近接配置グループ（PPG）",
+      "url": "https://zenn.dev/microsoft/articles/43aebac8aca769",
+      "likes": 3,
+      "published_at": "2025-08-23T17:13:23+09:00"
+    },
+    {
+      "title": "Tips) Azure Files でファイルを「変更・移動・削除ができない」時の対処メモ",
+      "url": "https://zenn.dev/microsoft/articles/a27eed869b61b2",
+      "likes": 3,
+      "published_at": "2025-08-15T14:51:12+09:00"
+    },
+    {
+      "title": "Copilot Studio AI エージェント実行時のリアルタイム保護",
+      "url": "https://zenn.dev/microsoft/articles/2e8d07ce83939e",
+      "likes": 2,
+      "published_at": "2025-09-10T09:12:42+09:00"
+    }
+  ]
+}

@@ -6,6 +6,7 @@ import 'package:go_router/go_router.dart';
 import 'package:intl/intl.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'package:google_fonts/google_fonts.dart';
+import 'package:flutter_localizations/flutter_localizations.dart';
 
 /// バックエンドのベースURLを --dart-define で差し込めます。
 /// 例) flutter run -d chrome --dart-define=BACKEND_BASE=https://your-backend
@@ -13,6 +14,7 @@ const backendBase = String.fromEnvironment(
   'BACKEND_BASE',
   defaultValue: 'http://127.0.0.1:8000',
 );
+const apiBase = String.fromEnvironment('API_BASE', defaultValue: '/api');
 
 void main() => runApp(const App());
 
@@ -21,13 +23,13 @@ final _router = GoRouter(
     GoRoute(path: '/', builder: (_, __) => const RankingPage()),
     GoRoute(
       path: '/tool/:slug',
-      builder: (_, s) {
+      builder: (context, s) {
         final slug = s.pathParameters['slug']!;
         final name = s.uri.queryParameters['name'];
         final qDays = int.tryParse(s.uri.queryParameters['days'] ?? '');
         return DetailPage(slug: slug, nameHint: name, initialDays: qDays ?? 30);
       },
-    ),
+    )
   ],
 );
 
@@ -93,11 +95,19 @@ class App extends StatelessWidget {
     return MaterialApp.router(
       title: 'Devツール／OSS 注目度ランキング',
       locale: const Locale('ja', 'JP'),
-      supportedLocales: const [Locale('ja', 'JP'), Locale('en', 'US')],
+      supportedLocales: const [
+        Locale('ja', 'JP'),
+        Locale('en', 'US'),
+      ],
+      localizationsDelegates: const [
+        GlobalMaterialLocalizations.delegate,
+        GlobalWidgetsLocalizations.delegate,
+        GlobalCupertinoLocalizations.delegate,
+      ],
       theme: theme,
       routerConfig: _router,
     );
-  }
+      }
 }
 
 /* ===================== モデル ===================== */
@@ -279,17 +289,37 @@ class _RankingPageState extends State<RankingPage> {
 
   Future<void> fetchRanking() async {
     setState(() => loading = true);
-    final r = await http.get(Uri.parse('$backendBase/rankings?days=$days'));
-    final List data = jsonDecode(r.body);
-    items = data.map((e) => RankingItem.fromJson(e)).toList().cast<RankingItem>();
 
+    List data;
+    String? updated;
+
+    // ① 静的JSONを優先
     try {
-      final rs = await http.get(Uri.parse('$backendBase/stats?days=$days'));
-      final m = jsonDecode(rs.body) as Map<String, dynamic>;
-      lastUpdated = m['last_updated'] as String?;
+      final r = await http.get(Uri.parse('$apiBase/rankings_$days.json'));
+      if (r.statusCode == 200) {
+        data = jsonDecode(r.body) as List;
+        try {
+          final rs = await http.get(Uri.parse('$apiBase/stats_$days.json'));
+          if (rs.statusCode == 200) {
+            updated = (jsonDecode(rs.body) as Map<String, dynamic>)['last_updated'] as String?;
+          }
+        } catch (_) {}
+      } else {
+        throw Exception('static rankings $days not found');
+      }
     } catch (_) {
-      lastUpdated = null;
+      // ② 失敗したらバックエンドにフォールバック
+      final r = await http.get(Uri.parse('$backendBase/rankings?days=$days'));
+      data = jsonDecode(r.body) as List;
+
+      try {
+        final rs = await http.get(Uri.parse('$backendBase/stats?days=$days'));
+        updated = (jsonDecode(rs.body) as Map<String, dynamic>)['last_updated'] as String?;
+      } catch (_) {}
     }
+
+    items = data.map((e) => RankingItem.fromJson(e as Map<String, dynamic>)).toList();
+    lastUpdated = updated;
 
     setState(() => loading = false);
   }
@@ -318,7 +348,7 @@ class _RankingPageState extends State<RankingPage> {
                   const Icon(Icons.auto_awesome, size: 64, color: Colors.white),
                   const SizedBox(height: 16),
                   Text(
-                    'Devツール／OSS ランキング100選',
+                    'Devツール／OSS ランキング100',
                     style: Theme.of(context).textTheme.headlineSmall!.copyWith(
                         color: Colors.white, fontWeight: FontWeight.bold),
                     textAlign: TextAlign.center,
@@ -496,9 +526,31 @@ class _DetailPageState extends State<DetailPage> {
 
   Future<void> fetchDetail() async {
     setState(() => loading = true);
-    final r = await http.get(Uri.parse('$backendBase/tool/${widget.slug}?days=$days'));
-    data = jsonDecode(r.body) as Map<String, dynamic>;
-    setState(() => loading = false);
+    try {
+      // ① 静的JSONを優先
+      final urlStatic = Uri.parse('$apiBase/tools/${widget.slug}-${days}.json');
+      final rs = await http.get(urlStatic);
+      if (rs.statusCode == 200) {
+        data = jsonDecode(rs.body) as Map<String, dynamic>;
+      } else {
+        // ② 失敗したらバックエンドへ
+        final urlApi = Uri.parse('$backendBase/tool/${widget.slug}?days=$days');
+        final ra = await http.get(urlApi);
+        if (ra.statusCode != 200) {
+          throw Exception('detail not found (static:${rs.statusCode}, api:${ra.statusCode})');
+        }
+        data = jsonDecode(ra.body) as Map<String, dynamic>;
+      }
+    } catch (e) {
+      data = {
+        'tool': {'slug': widget.slug, 'name': widget.nameHint ?? widget.slug},
+        'metric': {'score': 0, 'articles': 0, 'likes_sum': 0, 'date': null},
+        'articles_top': <dynamic>[],
+        'error': e.toString(),
+      };
+    } finally {
+      setState(() => loading = false);
+    }
   }
 
   String _fmtDate(DateTime? dt) =>

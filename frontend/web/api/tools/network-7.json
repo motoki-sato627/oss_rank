@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "network",
+    "name": "network"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 38,
+    "score": 38.0
+  },
+  "articles_top": [
+    {
+      "title": "中学生がBGPで経路交換して遊んでみた",
+      "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+      "likes": 35,
+      "published_at": "2025-09-08T00:11:04+09:00"
+    },
+    {
+      "title": "自宅ポート開放のためのプロバイダ選び",
+      "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+      "likes": 3,
+      "published_at": "2025-09-11T13:07:33+09:00"
+    },
+    {
+      "title": "自宅ポート開放のためのプロバイダ選び",
+      "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+      "likes": 0,
+      "published_at": "2025-09-11T13:07:33+09:00"
+    },
+    {
+      "title": "1話 ルーティング設定してみた",
+      "url": "https://zenn.dev/karasunomori/articles/42b1e145966a7e",
+      "likes": 0,
+      "published_at": "2025-09-10T01:27:49+09:00"
+    },
+    {
+      "title": "1話 ルーティング設定してみた",
+      "url": "https://zenn.dev/karasunomori/articles/42b1e145966a7e",
+      "likes": 0,
+      "published_at": "2025-09-10T01:27:49+09:00"
+    },
+    {
+      "title": "OPNsense を再起動すると WireGuard が動作しない",
+      "url": "https://zenn.dev/bad_company/articles/fc50a7ab8ea8e3",
+      "likes": 0,
+      "published_at": "2025-09-08T12:08:20+09:00"
+    },
+    {
+      "title": "OPNsense を再起動すると WireGuard が動作しない",
+      "url": "https://zenn.dev/bad_company/articles/fc50a7ab8ea8e3",
+      "likes": 0,
+      "published_at": "2025-09-08T12:08:20+09:00"
+    },
+    {
+      "title": "中学生がBGPで経路交換して遊んでみた",
+      "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+      "likes": 0,
+      "published_at": "2025-09-08T00:11:04+09:00"
+    }
+  ]
+}

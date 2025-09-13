@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "lerobot",
+    "name": "lerobot"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 9,
+    "score": 9.0
+  },
+  "articles_top": [
+    {
+      "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+      "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+      "likes": 9,
+      "published_at": "2025-09-08T01:34:26+09:00"
+    },
+    {
+      "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+      "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+      "likes": 0,
+      "published_at": "2025-09-08T01:34:26+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "neovim",
+    "name": "neovim"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 11,
+    "likes_sum": 144,
+    "score": 144.0
+  },
+  "articles_top": [
+    {
+      "title": "実践Vim 第一部: 何となくVimを使っていた自分が見落としていたVimテクニックと考え方",
+      "url": "https://zenn.dev/cozy_corner/articles/f202dedf604edb",
+      "likes": 84,
+      "published_at": "2025-09-06T01:30:53+09:00"
+    },
+    {
+      "title": "イケてるGo版JSX,templを知っているか!?(feat. neovimでの設定)",
+      "url": "https://zenn.dev/sirasagi62/articles/0f873debabf232",
+      "likes": 17,
+      "published_at": "2025-08-18T00:21:30+09:00"
+    },
+    {
+      "title": "Neovim 0.12（開発版）でcopilot-language-serverを設定してみたぞ（脱copilot.lua）",
+      "url": "https://zenn.dev/vim_jp/articles/a6839f7204a611",
+      "likes": 14,
+      "published_at": "2025-09-01T00:02:01+09:00"
+    },
+    {
+      "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+      "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+      "likes": 10,
+      "published_at": "2025-09-12T00:02:05+09:00"
+    },
+    {
+      "title": "Neovim 0.10のwinfixbuf対応: dduで学ぶバッファ管理の実践",
+      "url": "https://zenn.dev/gvatech_blog/articles/a891bbf9479edf",
+      "likes": 6,
+      "published_at": "2025-08-29T14:13:39+09:00"
+    },
+    {
+      "title": "実務でVimを活用して思考の速度で編集しよう！(プラグイン編)",
+      "url": "https://zenn.dev/bluezz/articles/d8d078b18e8273",
+      "likes": 6,
+      "published_at": "2025-08-23T18:04:56+09:00"
+    },
+    {
+      "title": "実践Vim 第二部・第三部: 何となくVimを使っていた自分が見落としていたファイル操作とナビゲーション",
+      "url": "https://zenn.dev/cozy_corner/articles/59dcf27fbfff5c",
+      "likes": 3,
+      "published_at": "2025-09-09T22:17:11+09:00"
+    },
+    {
+      "title": "neovimのCursorの色が変わらないと思ったらターミナルのカラースキームのせいだった話",
+      "url": "https://zenn.dev/manzu_hwata/articles/2eb709bf2f33a9",
+      "likes": 3,
+      "published_at": "2025-08-20T22:58:03+09:00"
+    },
+    {
+      "title": "最低限しかしたくない〜VS CodeからNeovimに移るためにしたこと 🧘‍♀️",
+      "url": "https://zenn.dev/azukibeats/articles/8df712c95752f2",
+      "likes": 1,
+      "published_at": "2025-09-04T00:14:10+09:00"
+    },
+    {
+      "title": "Neovim luaのlsとしてemmyluaを使ってみる",
+      "url": "https://zenn.dev/vim_jp/articles/56bc5db545f47b",
+      "likes": 0,
+      "published_at": "2025-09-12T00:02:05+09:00"
+    }
+  ]
+}

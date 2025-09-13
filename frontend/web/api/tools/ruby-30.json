@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "ruby",
+    "name": "ruby"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 95,
+    "likes_sum": 170,
+    "score": 170.0
+  },
+  "articles_top": [
+    {
+      "title": "PythonのuvライクなRuby用インストーラーのrvについて",
+      "url": "https://zenn.dev/gatechnologies/articles/22237405af6bde",
+      "likes": 18,
+      "published_at": "2025-09-01T22:30:16+09:00"
+    },
+    {
+      "title": "Ruby製バックエンドのgemを一括アップデートした話",
+      "url": "https://zenn.dev/aldagram_tech/articles/b16fd28a008945",
+      "likes": 17,
+      "published_at": "2025-08-21T13:00:01+09:00"
+    },
+    {
+      "title": "全文検索導入に向けた設計と実践ガイド【Rails×OpenSearch】",
+      "url": "https://zenn.dev/medley/articles/opensearch_with_rails",
+      "likes": 13,
+      "published_at": "2025-09-04T10:15:01+09:00"
+    },
+    {
+      "title": "SerenaのRubyサポートをRuby LSPに移行した",
+      "url": "https://zenn.dev/mitene/articles/e4c6cec7bdae4e",
+      "likes": 12,
+      "published_at": "2025-08-28T15:01:49+09:00"
+    },
+    {
+      "title": "【入門】Rails エンジニアが知っておきたい Action Cable で実現するリアルタイム機能",
+      "url": "https://zenn.dev/linkedge/articles/d151bfa92df988",
+      "likes": 11,
+      "published_at": "2025-09-01T18:47:27+09:00"
+    },
+    {
+      "title": "Google Calendarの色毎に時間を集計するMCPサーバーを作った話",
+      "url": "https://zenn.dev/go_furu93/articles/gcal-color-time-tracker-mcp",
+      "likes": 10,
+      "published_at": "2025-09-06T18:40:53+09:00"
+    },
+    {
+      "title": "【Ruby】CORS の origin を動的に判断したい",
+      "url": "https://zenn.dev/socialplus/articles/f203ab3abc5539",
+      "likes": 10,
+      "published_at": "2025-08-28T18:00:00+09:00"
+    },
+    {
+      "title": "Campfireのソースコードに学ぶRails Way🚀",
+      "url": "https://zenn.dev/lvflwr/articles/edc586252355fb",
+      "likes": 9,
+      "published_at": "2025-09-11T08:17:12+09:00"
+    },
+    {
+      "title": "Railsチュートリアルを終えた感想",
+      "url": "https://zenn.dev/kspn/articles/b62d6cfb623c54",
+      "likes": 7,
+      "published_at": "2025-09-01T20:03:16+09:00"
+    },
+    {
+      "title": "Rails World 2025: DHHが示す開発者の完全な自律性",
+      "url": "https://zenn.dev/yamitake/articles/rails-world-2025-dhh-keynote-summary",
+      "likes": 6,
+      "published_at": "2025-09-10T13:37:39+09:00"
+    }
+  ]
+}

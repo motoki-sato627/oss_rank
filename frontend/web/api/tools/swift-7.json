@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "swift",
+    "name": "swift"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 27,
+    "score": 27.0
+  },
+  "articles_top": [
+    {
+      "title": "Background Tasksフレームワーク入門",
+      "url": "https://zenn.dev/shu223/articles/background-tasks",
+      "likes": 21,
+      "published_at": "2025-09-06T07:27:08+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 14,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 13,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "Scroll-Reverserのようなアプリを自作してみる",
+      "url": "https://zenn.dev/nhirabay/articles/52bb389e68b88b",
+      "likes": 0,
+      "published_at": "2025-09-07T18:38:22+09:00"
+    }
+  ]
+}

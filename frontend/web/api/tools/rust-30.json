@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rust",
+    "name": "rust"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 100,
+    "likes_sum": 736,
+    "score": 736.0
+  },
+  "articles_top": [
+    {
+      "title": "Rust で型推論を高速かつ安全に実装",
+      "url": "https://zenn.dev/toga/articles/rust-type-inference",
+      "likes": 90,
+      "published_at": "2025-08-22T00:25:38+09:00"
+    },
+    {
+      "title": "Next.js はどうやって React Compiler を実行しているのか",
+      "url": "https://zenn.dev/ishiharu/articles/how-nextjs-uses-react-compiler",
+      "likes": 53,
+      "published_at": "2025-08-22T02:48:28+09:00"
+    },
+    {
+      "title": "セキュリティ・キャンプで Rust 製 RISC-V ターゲットの C コンパイラを開発した",
+      "url": "https://zenn.dev/s7/articles/37071b1a83956a",
+      "likes": 44,
+      "published_at": "2025-09-04T11:35:36+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 41,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "dora-rs: これがAI時代のロボティクスミドルウェアだ！",
+      "url": "https://zenn.dev/dieu_detruit/articles/cbb7b682647e0b",
+      "likes": 40,
+      "published_at": "2025-09-12T21:08:47+09:00"
+    },
+    {
+      "title": "Position Based Dynamics で作るソフトボディ&amp;流体シミュレーション",
+      "url": "https://zenn.dev/sparkle/articles/c9cd3bd4ec80be",
+      "likes": 31,
+      "published_at": "2025-08-17T15:21:31+09:00"
+    },
+    {
+      "title": "Vibe codingでStreamDeck互換機を自作した",
+      "url": "https://zenn.dev/hiiraginil/articles/396fb53521d8d8",
+      "likes": 28,
+      "published_at": "2025-08-20T01:22:27+09:00"
+    },
+    {
+      "title": "Go+Vue2 のOSSデスクトップアプリをRust/tauriに移行した",
+      "url": "https://zenn.dev/hiiraginil/articles/b926c0e94b3fdc",
+      "likes": 22,
+      "published_at": "2025-08-23T02:39:06+09:00"
+    },
+    {
+      "title": "Rustのnewtypeパターンを簡潔に：newer-type crateの紹介",
+      "url": "https://zenn.dev/yasuo_ozu/articles/newer-type-tech",
+      "likes": 21,
+      "published_at": "2025-09-07T22:39:52+09:00"
+    },
+    {
+      "title": "Rustのproc-macroを書き続けて3年が経った",
+      "url": "https://zenn.dev/yasuo_ozu/articles/my-3yrs-of-proc-macro",
+      "likes": 20,
+      "published_at": "2025-09-08T16:53:54+09:00"
+    }
+  ]
+}

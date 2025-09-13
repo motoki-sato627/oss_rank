@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "tech",
+    "name": "tech"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 39,
+    "score": 39.0
+  },
+  "articles_top": [
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 27,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 2,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "なぜエンジニアはコードを消せないのか、そして消すべき理由",
+      "url": "https://zenn.dev/hayato98/articles/20250908_20250908_even-ai-cant-answer-5",
+      "likes": 2,
+      "published_at": "2025-09-08T18:03:16+09:00"
+    },
+    {
+      "title": "Claude CodeでSDD入門してみた",
+      "url": "https://zenn.dev/mousi/articles/976358703863d5",
+      "likes": 2,
+      "published_at": "2025-09-07T23:48:30+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - Create Slides with mcp",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision-en",
+      "likes": 1,
+      "published_at": "2025-09-13T06:52:32+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - mcpでスライドをつくる",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+      "likes": 1,
+      "published_at": "2025-09-13T05:59:08+09:00"
+    },
+    {
+      "title": "MulmoCast Vision - mcpでスライドをつくる",
+      "url": "https://zenn.dev/singularity/articles/mulmocast-vision",
+      "likes": 1,
+      "published_at": "2025-09-13T05:59:08+09:00"
+    },
+    {
+      "title": "「AI開発、今注目の「Codex/Claude」と「SDD」あなたはどっち派？」～【ai】今週の人気記事TOP5（2025/09/07）",
+      "url": "https://zenn.dev/carenet/articles/zenn-weekly-ai-articles-2025-09",
+      "likes": 1,
+      "published_at": "2025-09-11T10:17:29+09:00"
+    },
+    {
+      "title": "「コスト削減、Lambda、AI…AWS、次の一手は？」～【aws】今週の人気記事TOP5（2025/09/07）",
+      "url": "https://zenn.dev/carenet/articles/zenn-weekly-aws-articles-2025-09",
+      "likes": 1,
+      "published_at": "2025-09-10T10:15:37+09:00"
+    },
+    {
+      "title": "「Polars、試してみた？ Pandasからの移行、あり？なし？」～【python】今週の人気記事TOP5（2025/09/07）",
+      "url": "https://zenn.dev/carenet/articles/zenn-weekly-python-articles-2025-09",
+      "likes": 1,
+      "published_at": "2025-09-08T10:20:24+09:00"
+    }
+  ]
+}

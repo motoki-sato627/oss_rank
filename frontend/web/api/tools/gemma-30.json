@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "gemma",
+    "name": "gemma"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 84,
+    "score": 84.0
+  },
+  "articles_top": [
+    {
+      "title": "Gemma3:270Mをファインチューニングして使ってみた",
+      "url": "https://zenn.dev/mixi/articles/1a6a7c1856c206",
+      "likes": 83,
+      "published_at": "2025-08-19T21:00:59+09:00"
+    },
+    {
+      "title": "llama.cpp × Gemma3nでlogprobs出力！詳細な確率分析（GoogleColab📒ノートブック付）",
+      "url": "https://zenn.dev/sunwood_ai_labs/articles/llama-cpp-gemma3n-logprobs-probability-analysis",
+      "likes": 1,
+      "published_at": "2025-08-31T00:06:50+09:00"
+    }
+  ]
+}

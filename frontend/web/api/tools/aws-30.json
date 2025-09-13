@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "aws",
+    "name": "aws"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 287,
+    "likes_sum": 684,
+    "score": 684.0
+  },
+  "articles_top": [
+    {
+      "title": "Terraform で AWS Lambda をデプロイしようとする際にぶつかる現実",
+      "url": "https://zenn.dev/tkg216/articles/54e8ef75f3fdcc",
+      "likes": 54,
+      "published_at": "2025-09-01T21:13:37+09:00"
+    },
+    {
+      "title": "Amazon S3 の月額コストを約30%削減したアプローチ",
+      "url": "https://zenn.dev/finatext/articles/aws-cost-savings-s3-phase1",
+      "likes": 50,
+      "published_at": "2025-09-01T12:48:56+09:00"
+    },
+    {
+      "title": "組織で使うためのClaude Code Action via Amazon Bedrock（認証・ログ分析・クラウド破産防止）",
+      "url": "https://zenn.dev/cybozu_ept/articles/org-use-claude-code-action",
+      "likes": 36,
+      "published_at": "2025-08-20T08:00:06+09:00"
+    },
+    {
+      "title": "Amazon S3 Vectorsを試してみた",
+      "url": "https://zenn.dev/fusic/articles/14a98be48d9266",
+      "likes": 29,
+      "published_at": "2025-08-25T18:53:26+09:00"
+    },
+    {
+      "title": "ウェザーニューズにおけるPlatform Engineering",
+      "url": "https://zenn.dev/weathernews/articles/3cf569a23a76b3",
+      "likes": 26,
+      "published_at": "2025-08-14T13:39:55+09:00"
+    },
+    {
+      "title": "生成 AI のアプリ構築を基礎から学べる書籍を出します",
+      "url": "https://zenn.dev/ivry/articles/492e8e19de3906",
+      "likes": 21,
+      "published_at": "2025-08-18T12:32:49+09:00"
+    },
+    {
+      "title": "WEBサーバの一部として Mountpoint for Amazon S3 を使えないか検討したが、Amazon EFS に落ち着いた。",
+      "url": "https://zenn.dev/levtech/articles/1bb891456680b3",
+      "likes": 19,
+      "published_at": "2025-08-18T14:30:05+09:00"
+    },
+    {
+      "title": "LocalStackでAWSをローカル再現してみた",
+      "url": "https://zenn.dev/weel_techblog/articles/39e3e205d91427",
+      "likes": 18,
+      "published_at": "2025-08-20T10:04:26+09:00"
+    },
+    {
+      "title": "マルチプロダクト構成を支える KANNA のインフラアーキテクチャ",
+      "url": "https://zenn.dev/aldagram_tech/articles/98351f4a862301",
+      "likes": 13,
+      "published_at": "2025-08-28T10:23:29+09:00"
+    },
+    {
+      "title": "AWS Lambda×DuckDB×delta-rsによるETLの実装",
+      "url": "https://zenn.dev/penginpenguin/articles/5af90d4a5e76bb",
+      "likes": 10,
+      "published_at": "2025-08-23T07:26:40+09:00"
+    }
+  ]
+}

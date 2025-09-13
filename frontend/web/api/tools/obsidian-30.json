@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "obsidian",
+    "name": "obsidian"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 14,
+    "likes_sum": 404,
+    "score": 404.0
+  },
+  "articles_top": [
+    {
+      "title": "ObsidianとClaude Codeを使ったドキュメント活用",
+      "url": "https://zenn.dev/oikon/articles/obsidian-claude-code",
+      "likes": 199,
+      "published_at": "2025-08-15T07:01:01+09:00"
+    },
+    {
+      "title": "技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短フロー",
+      "url": "https://zenn.dev/furedea/articles/53b5117b389454",
+      "likes": 65,
+      "published_at": "2025-08-15T23:02:23+09:00"
+    },
+    {
+      "title": "ObsidianとSupermemory MCPをつなぐ知識管理ワークフロー",
+      "url": "https://zenn.dev/minewo/articles/obsidian-supermemory-mcp",
+      "likes": 61,
+      "published_at": "2025-08-30T03:49:18+09:00"
+    },
+    {
+      "title": "Raycast × OpenAI API × Obsidian で始めるお手軽ジャーナリング",
+      "url": "https://zenn.dev/ashita_team/articles/raycast-openai-obisidian-journaling",
+      "likes": 50,
+      "published_at": "2025-08-25T19:12:29+09:00"
+    },
+    {
+      "title": "Obsidian × Claude Code やさしいローカル接続ガイド",
+      "url": "https://zenn.dev/kalubi/articles/b696138474c488",
+      "likes": 14,
+      "published_at": "2025-08-18T09:50:13+09:00"
+    },
+    {
+      "title": "Obsidianのすすめ（フォルダ構成と環境構築）",
+      "url": "https://zenn.dev/atman/articles/255327dafb6405",
+      "likes": 5,
+      "published_at": "2025-08-31T21:04:01+09:00"
+    },
+    {
+      "title": "Zettelkasten × Obsidianで実現する創発的パーソナルナレッジマネジメント",
+      "url": "https://zenn.dev/kentakashima/articles/25c51a1c9eb510",
+      "likes": 3,
+      "published_at": "2025-09-01T07:00:01+09:00"
+    },
+    {
+      "title": "Obsidian Heatmap Calendarで習慣を可視化する方法",
+      "url": "https://zenn.dev/tonote/articles/obsidian-heatmap-calendar-habit-tracker",
+      "likes": 3,
+      "published_at": "2025-08-24T16:16:15+09:00"
+    },
+    {
+      "title": "Obsidian × ローカルLLMでタグ生成",
+      "url": "https://zenn.dev/yuta_haruna/articles/aaa21eda1ad675",
+      "likes": 3,
+      "published_at": "2025-08-22T15:50:45+09:00"
+    },
+    {
+      "title": "Vimの日本語入力時、left_control + open_bracketでノーマルモードにする時に、自動的に英数入力に切り替える",
+      "url": "https://zenn.dev/mtb_hiro/articles/9d433f21c61b3c",
+      "likes": 1,
+      "published_at": "2025-09-07T17:22:30+09:00"
+    }
+  ]
+}

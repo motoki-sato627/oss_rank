@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "rag",
+    "name": "rag"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 55,
+    "likes_sum": 772,
+    "score": 772.0
+  },
+  "articles_top": [
+    {
+      "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
+      "url": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
+      "likes": 183,
+      "published_at": "2025-09-02T09:53:01+09:00"
+    },
+    {
+      "title": "ClaudeCodeで挑むコンテキストエンジニアリング実践",
+      "url": "https://zenn.dev/aki_think/articles/66f6fc7530467a",
+      "likes": 175,
+      "published_at": "2025-08-17T00:04:04+09:00"
+    },
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 149,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    },
+    {
+      "title": "AIエージェントに「過去の失敗」を教えて、精度を上げる",
+      "url": "https://zenn.dev/knowledgesense/articles/9f55a757e6af15",
+      "likes": 63,
+      "published_at": "2025-08-26T08:00:06+09:00"
+    },
+    {
+      "title": "RAGでLLMの内部パラメータを活用する方法",
+      "url": "https://zenn.dev/knowledgesense/articles/0712abdd04a4f6",
+      "likes": 36,
+      "published_at": "2025-08-19T09:58:52+09:00"
+    },
+    {
+      "title": "JetBrains公式のKotlin製AIエージェントフレームワーク&quot;Koog&quot;やるぞ",
+      "url": "https://zenn.dev/smartround_dev/articles/9faa2d870b15b2",
+      "likes": 33,
+      "published_at": "2025-08-19T09:39:47+09:00"
+    },
+    {
+      "title": "ローカルファイルやGist,GitHub Repoをベクトル検索する",
+      "url": "https://zenn.dev/ushironoko/articles/7001411d4dca41",
+      "likes": 30,
+      "published_at": "2025-08-23T09:56:34+09:00"
+    },
+    {
+      "title": "Amazon S3 Vectorsを試してみた",
+      "url": "https://zenn.dev/fusic/articles/14a98be48d9266",
+      "likes": 29,
+      "published_at": "2025-08-25T18:53:26+09:00"
+    },
+    {
+      "title": "Meta-RAG Framework MCP Phase 1: 研究技術を実装したRAG基盤",
+      "url": "https://zenn.dev/satto_workspace/articles/c313d977e6b56b",
+      "likes": 13,
+      "published_at": "2025-09-10T16:04:12+09:00"
+    },
+    {
+      "title": "Agentic RAGと従来のRAGの根本的な違いを理解する",
+      "url": "https://zenn.dev/acntechjp/articles/a779d98cfa1a3b",
+      "likes": 11,
+      "published_at": "2025-09-01T19:09:04+09:00"
+    }
+  ]
+}

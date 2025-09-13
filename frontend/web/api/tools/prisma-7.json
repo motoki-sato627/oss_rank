@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "prisma",
+    "name": "prisma"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 44,
+    "score": 44.0
+  },
+  "articles_top": [
+    {
+      "title": "【Prisma】findFirst をユニーク検索に使うと危ない",
+      "url": "https://zenn.dev/chot/articles/prisma-dangerous-find-first",
+      "likes": 31,
+      "published_at": "2025-09-08T10:37:37+09:00"
+    },
+    {
+      "title": "Prisma で作る ActiveRecord ライクな in_batches: 大量データを効率的に処理しよう",
+      "url": "https://zenn.dev/spacemarket/articles/af0ac52661df50",
+      "likes": 6,
+      "published_at": "2025-09-11T11:36:16+09:00"
+    },
+    {
+      "title": "生成AI「だけ」で作る 〜第二弾: DB設計やれよ〜",
+      "url": "https://zenn.dev/sonicmoov/articles/bad1564f0b266f",
+      "likes": 6,
+      "published_at": "2025-09-10T12:54:44+09:00"
+    },
+    {
+      "title": "Prisma findUniqueの正しい理解 - バッチング最適化とGraphQLでの注意点",
+      "url": "https://zenn.dev/autumn_m/articles/30c218b53d74e9",
+      "likes": 1,
+      "published_at": "2025-09-10T23:17:22+09:00"
+    },
+    {
+      "title": "ログインやアカウント登録も不要なイベントスケジュール公開機能",
+      "url": "https://zenn.dev/benjuwan/articles/e6c5b0ac590d71",
+      "likes": 0,
+      "published_at": "2025-09-12T14:42:05+09:00"
+    },
+    {
+      "title": "ログインやアカウント登録も不要なイベントスケジュール公開機能",
+      "url": "https://zenn.dev/benjuwan/articles/e6c5b0ac590d71",
+      "likes": 0,
+      "published_at": "2025-09-12T14:42:05+09:00"
+    },
+    {
+      "title": "Prisma で作る ActiveRecord ライクな in_batches: 大量データを効率的に処理しよう",
+      "url": "https://zenn.dev/spacemarket/articles/af0ac52661df50",
+      "likes": 0,
+      "published_at": "2025-09-11T11:36:16+09:00"
+    },
+    {
+      "title": "Prisma findUniqueの正しい理解 - バッチング最適化とGraphQLでの注意点",
+      "url": "https://zenn.dev/autumn_m/articles/30c218b53d74e9",
+      "likes": 0,
+      "published_at": "2025-09-10T23:17:22+09:00"
+    },
+    {
+      "title": "生成AI「だけ」で作る 〜第二弾: DB設計やれよ〜",
+      "url": "https://zenn.dev/sonicmoov/articles/bad1564f0b266f",
+      "likes": 0,
+      "published_at": "2025-09-10T12:54:44+09:00"
+    },
+    {
+      "title": "子ども向け学習アプリ開発ログ：学習カードのUIとDB設計（Next.js + Prisma）",
+      "url": "https://zenn.dev/hyoni/articles/79d5c295aa1191",
+      "likes": 0,
+      "published_at": "2025-09-09T13:48:41+09:00"
+    }
+  ]
+}

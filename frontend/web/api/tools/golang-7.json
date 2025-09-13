@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "golang",
+    "name": "golang"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 24,
+    "score": 24.0
+  },
+  "articles_top": [
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 13,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "なぜ runn に loop.until + test の警告機能を追加したのか - 実行フローから理解する",
+      "url": "https://zenn.dev/sakura_internet/articles/98a5ee5dd8b574",
+      "likes": 10,
+      "published_at": "2025-09-08T12:49:41+09:00"
+    },
+    {
+      "title": "Go言語 defer Close()の謎を1分で解決",
+      "url": "https://zenn.dev/hasuto/articles/go-defer-close-mystery",
+      "likes": 1,
+      "published_at": "2025-09-07T15:59:57+09:00"
+    },
+    {
+      "title": "Go 1.25以降でのslogについて",
+      "url": "https://zenn.dev/drsprime/articles/f8cc13820e6a93",
+      "likes": 0,
+      "published_at": "2025-09-09T07:30:01+09:00"
+    },
+    {
+      "title": "なぜ runn に loop.until + test の警告機能を追加したのか - 実行フローから理解する",
+      "url": "https://zenn.dev/sakura_internet/articles/98a5ee5dd8b574",
+      "likes": 0,
+      "published_at": "2025-09-08T12:49:41+09:00"
+    },
+    {
+      "title": "Go言語 defer Close()の謎を1分で解決",
+      "url": "https://zenn.dev/hasuto/articles/go-defer-close-mystery",
+      "likes": 0,
+      "published_at": "2025-09-07T15:59:57+09:00"
+    }
+  ]
+}

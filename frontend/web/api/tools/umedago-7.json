@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "umedago",
+    "name": "umedago"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 46,
+    "score": 46.0
+  },
+  "articles_top": [
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 46,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    },
+    {
+      "title": "TinyGo Keeb に参加してキーボードを作ってきた",
+      "url": "https://zenn.dev/mattn/articles/3cedeb7cbd261d",
+      "likes": 0,
+      "published_at": "2025-09-07T23:34:13+09:00"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "mcpserver",
+    "name": "mcpserver"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 35,
+    "score": 35.0
+  },
+  "articles_top": [
+    {
+      "title": "Claude CodeのMCPサーバのON/OFF切り替えツール紹介",
+      "url": "https://zenn.dev/karaage0703/articles/93e469b342d012",
+      "likes": 24,
+      "published_at": "2025-09-10T21:36:48+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "MCPサーバーの公式オープンカタログ&quot;MCP Registry&quot;がプレビュー公開されました",
+      "url": "https://zenn.dev/headwaters/articles/edc113c56d8850",
+      "likes": 4,
+      "published_at": "2025-09-12T18:05:23+09:00"
+    },
+    {
+      "title": "MCPサーバー - 一時メール",
+      "url": "https://zenn.dev/qoder/articles/fc4f19b89d286f",
+      "likes": 3,
+      "published_at": "2025-09-08T15:05:38+09:00"
+    }
+  ]
+}

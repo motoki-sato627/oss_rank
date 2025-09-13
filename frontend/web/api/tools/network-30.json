@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "network",
+    "name": "network"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 17,
+    "likes_sum": 61,
+    "score": 61.0
+  },
+  "articles_top": [
+    {
+      "title": "中学生がBGPで経路交換して遊んでみた",
+      "url": "https://zenn.dev/techfish4/articles/4b4d60f875cf1b",
+      "likes": 35,
+      "published_at": "2025-09-08T00:11:04+09:00"
+    },
+    {
+      "title": "FortiGateVM on Azure：Azure Route ServerとSD-WAN/ADVPN2.0 on AWSを統合する",
+      "url": "https://zenn.dev/nttdata_tech/articles/0379bb64b341c8",
+      "likes": 6,
+      "published_at": "2025-09-04T15:00:01+09:00"
+    },
+    {
+      "title": "Google Cloud NCC の落とし穴と実践的な使い方",
+      "url": "https://zenn.dev/cloud_ace/articles/c38c2652b7a866",
+      "likes": 4,
+      "published_at": "2025-09-02T15:30:13+09:00"
+    },
+    {
+      "title": "JANOG56に若者支援プログラムで参加した話",
+      "url": "https://zenn.dev/joho0724/articles/sankaku0724-newcreate47",
+      "likes": 4,
+      "published_at": "2025-08-23T12:00:01+09:00"
+    },
+    {
+      "title": "自宅ポート開放のためのプロバイダ選び",
+      "url": "https://zenn.dev/atsushi570/articles/3ac7fb8d49fc76",
+      "likes": 3,
+      "published_at": "2025-09-11T13:07:33+09:00"
+    },
+    {
+      "title": "QUICを活用したスマートフォンアプリでのRTT測定手法",
+      "url": "https://zenn.dev/mixi/articles/32a5f3e5686f0b",
+      "likes": 3,
+      "published_at": "2025-08-22T15:13:26+09:00"
+    },
+    {
+      "title": "WSL で手を動かして覚える TCP/IP 入門",
+      "url": "https://zenn.dev/sfx/articles/67b2ed73ed6401",
+      "likes": 3,
+      "published_at": "2025-08-17T19:21:27+09:00"
+    },
+    {
+      "title": "PagerDuty認定資格を取ろう！FOUNDATIONAL Practitioner 試験対策まとめ",
+      "url": "https://zenn.dev/hebere_k/articles/420d1cd019858c",
+      "likes": 1,
+      "published_at": "2025-08-21T20:59:44+09:00"
+    },
+    {
+      "title": "Network Security Perimeters (ネットワーク セキュリティ境界) の使い方",
+      "url": "https://zenn.dev/microsoft/articles/ebcfb089ffbb64",
+      "likes": 1,
+      "published_at": "2025-08-21T18:24:30+09:00"
+    },
+    {
+      "title": "【書評】『図解 Amazon Web Servicesの仕組みとサービスがたった1日でよくわかる』を読んだ",
+      "url": "https://zenn.dev/hiroto_ohira/articles/1a7930dd793695",
+      "likes": 1,
+      "published_at": "2025-08-19T21:31:12+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "security",
+    "name": "security"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 25,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "生成AI時代だからこそ必要なDevSecOps:概念から実践例まで",
+      "url": "https://zenn.dev/yuriemori/articles/85fd12c7020aae",
+      "likes": 1,
+      "published_at": "2025-09-13T11:21:42+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    },
+    {
+      "title": "ghtkn でローカル開発用に GitHub Access Token をセキュアに生成して PAT から卒業する",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/ghtkn-secure-github-token",
+      "likes": 0,
+      "published_at": "2025-09-13T20:47:59+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "aws",
+    "name": "aws"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 86,
+    "likes_sum": 116,
+    "score": 116.0
+  },
+  "articles_top": [
+    {
+      "title": "人間に優しくないjson形式の通知をBedrockで可読化する",
+      "url": "https://zenn.dev/aws_japan/articles/dd14382be4a56b",
+      "likes": 7,
+      "published_at": "2025-09-11T22:12:53+09:00"
+    },
+    {
+      "title": "AWSによるマイクロサービスの基本アーキテクチャ",
+      "url": "https://zenn.dev/rescuenow/articles/4fe4c86cfd1a2c",
+      "likes": 6,
+      "published_at": "2025-09-11T15:07:25+09:00"
+    },
+    {
+      "title": "minimoでのLLMを使った掲載審査の裏側",
+      "url": "https://zenn.dev/mixi/articles/d0dcfb2b05667f",
+      "likes": 6,
+      "published_at": "2025-09-11T12:35:57+09:00"
+    },
+    {
+      "title": "【アップデート】CloudFrontの署名付きURLでECDSA鍵を利用可能に！──実測で91%高速化、55%のURL短縮効果",
+      "url": "https://zenn.dev/issy/articles/update-aws-cloudfront-ecdsa-signed-urls",
+      "likes": 6,
+      "published_at": "2025-09-11T00:43:15+09:00"
+    },
+    {
+      "title": "はじめての AWSネットワーク構築を GUI → CloudFormation で“再現”する手順【初心者向け・IaC入門】",
+      "url": "https://zenn.dev/secondselection/articles/beginner-aws-cfn",
+      "likes": 6,
+      "published_at": "2025-09-08T05:00:01+09:00"
+    },
+    {
+      "title": "Vercelデプロイの内部構造",
+      "url": "https://zenn.dev/teradox_blog/articles/fe1542dc960c54",
+      "likes": 5,
+      "published_at": "2025-09-11T12:43:58+09:00"
+    },
+    {
+      "title": "AWS IAMの「IDプロバイダ」を置換しても反映されない？",
+      "url": "https://zenn.dev/morisawa/articles/aws-iam-id-provider-update-issue",
+      "likes": 5,
+      "published_at": "2025-09-11T11:13:54+09:00"
+    },
+    {
+      "title": "【クラウド】IaaSからFaaSまで、5つのサービス形態の違いと使い分け",
+      "url": "https://zenn.dev/n_haru2/articles/1b2a27b447835d",
+      "likes": 5,
+      "published_at": "2025-09-06T04:07:03+09:00"
+    },
+    {
+      "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+      "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+      "likes": 4,
+      "published_at": "2025-09-12T15:56:05+09:00"
+    },
+    {
+      "title": "ECS×FireLens（Fluent Bit v1.8.3）でSIGSEGV──回避のためのpreflightログ戦略",
+      "url": "https://zenn.dev/levtech/articles/4c92406150d3df",
+      "likes": 4,
+      "published_at": "2025-09-10T12:17:54+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "githubaction",
+    "name": "githubaction"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 16,
+    "likes_sum": 192,
+    "score": 192.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    },
+    {
+      "title": "GitHub Actionsでタグとリリースを作成する",
+      "url": "https://zenn.dev/h_yamazaki/articles/c215549eb22989",
+      "likes": 0,
+      "published_at": "2025-09-13T19:26:28+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "reactnative",
+    "name": "reactnative"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 303,
+    "score": 303.0
+  },
+  "articles_top": [
+    {
+      "title": "React Nativeでアプリを作るときは、bluesky-social/social-appを参考にしよう！",
+      "url": "https://zenn.dev/tellernovel_inc/articles/cdec85f50c8442",
+      "likes": 85,
+      "published_at": "2025-09-03T11:21:46+09:00"
+    },
+    {
+      "title": "スマホのアプリがネイティブ・Flutter・React Native製かをざっくり見分ける方法",
+      "url": "https://zenn.dev/igz0/articles/how-to-identify-native-vs-flutter-vs-react-native",
+      "likes": 77,
+      "published_at": "2025-08-23T14:10:18+09:00"
+    },
+    {
+      "title": "React Nativeで実現できないことはあるのか？",
+      "url": "https://zenn.dev/tellernovel_inc/articles/56141dbde4d6f2",
+      "likes": 71,
+      "published_at": "2025-09-08T13:28:07+09:00"
+    },
+    {
+      "title": "保守を1年半サボったExpo製のアプリを、最新化してリリースするのに半年かかった話",
+      "url": "https://zenn.dev/wheatandcat/articles/20250816-expo",
+      "likes": 52,
+      "published_at": "2025-08-25T09:33:14+09:00"
+    },
+    {
+      "title": "Expo SDK 54 Betaまとめ: iOSビルド爆速化 &amp; Liquid Glass対応など",
+      "url": "https://zenn.dev/gemcook/articles/cdc31522d02339",
+      "likes": 11,
+      "published_at": "2025-08-22T11:54:25+09:00"
+    },
+    {
+      "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+      "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+      "likes": 2,
+      "published_at": "2025-09-08T22:56:25+09:00"
+    },
+    {
+      "title": "React Nativeでreact-useを正しくimportするためのBiome / ESLintの設定",
+      "url": "https://zenn.dev/ryonakae/articles/30c3990b1ada40",
+      "likes": 2,
+      "published_at": "2025-09-03T11:32:49+09:00"
+    },
+    {
+      "title": "3日間でサービスをリリースした話 ― ミッカソンとSpotly",
+      "url": "https://zenn.dev/snory/articles/4ed04000cf1bc0",
+      "likes": 2,
+      "published_at": "2025-08-18T22:38:02+09:00"
+    },
+    {
+      "title": "React Native Skiaでペイント機能を実現する",
+      "url": "https://zenn.dev/motoshira4/articles/fceb8f124c152b",
+      "likes": 1,
+      "published_at": "2025-08-17T21:22:55+09:00"
+    },
+    {
+      "title": "React Native + ExpoのアプリをXcode 26 Betaでローカル/リモートビルドする",
+      "url": "https://zenn.dev/ryonakae/articles/f4edac80dfca97",
+      "likes": 0,
+      "published_at": "2025-09-08T22:56:25+09:00"
+    }
+  ]
+}

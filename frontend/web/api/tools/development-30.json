@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "development",
+    "name": "development"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 86,
+    "score": 86.0
+  },
+  "articles_top": [
+    {
+      "title": "できるだけ無料でAIコーディング",
+      "url": "https://zenn.dev/marcosan/articles/54b3a01a7e74ca",
+      "likes": 80,
+      "published_at": "2025-08-17T23:24:04+09:00"
+    },
+    {
+      "title": "開発全般に生成AIを使ってみて思うこと",
+      "url": "https://zenn.dev/arata_n/articles/24ba1239704899",
+      "likes": 3,
+      "published_at": "2025-08-25T14:19:57+09:00"
+    },
+    {
+      "title": "AIと組織が共創する時代へ：AI Dev Leadersからの学び",
+      "url": "https://zenn.dev/aircloset/articles/cb5a24487a7905",
+      "likes": 2,
+      "published_at": "2025-08-29T19:12:29+09:00"
+    },
+    {
+      "title": "Webhook連携で実現するノーコード業務改善の自動最適化",
+      "url": "https://zenn.dev/ootanl/articles/webhook-9x48-20250711",
+      "likes": 1,
+      "published_at": "2025-09-08T17:14:20+09:00"
+    },
+    {
+      "title": "Webhook連携で実現するノーコード業務改善の自動最適化",
+      "url": "https://zenn.dev/ootanl/articles/webhook-9x48-20250711",
+      "likes": 0,
+      "published_at": "2025-09-08T17:14:20+09:00"
+    },
+    {
+      "title": "IPFSとEthereumで実現する著作権保護型動画配信網",
+      "url": "https://zenn.dev/ootanl/articles/ipfsethereum-20250907",
+      "likes": 0,
+      "published_at": "2025-09-07T09:50:37+09:00"
+    },
+    {
+      "title": "IPFSとEthereumで実現する著作権保護型動画配信網",
+      "url": "https://zenn.dev/ootanl/articles/ipfsethereum-20250907",
+      "likes": 0,
+      "published_at": "2025-09-07T09:50:37+09:00"
+    },
+    {
+      "title": "EthereumとIPFSで実現する動画著作権保護の実践設計",
+      "url": "https://zenn.dev/ootanl/articles/ethereumipfs-20250901",
+      "likes": 0,
+      "published_at": "2025-09-01T09:57:23+09:00"
+    },
+    {
+      "title": "NFTとスマコンで革新する社内資料アクセス制御設計",
+      "url": "https://zenn.dev/ootanl/articles/nft-xjaem8jl-20250827",
+      "likes": 0,
+      "published_at": "2025-08-27T09:46:52+09:00"
+    },
+    {
+      "title": "ご対応のお願い：Distribution証明書の有効期限まであと30日です 対処法 備忘録",
+      "url": "https://zenn.dev/ainellc/articles/3ec4ad369408f4",
+      "likes": 0,
+      "published_at": "2025-08-21T12:08:38+09:00"
+    }
+  ]
+}

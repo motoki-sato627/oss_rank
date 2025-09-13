@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "swift",
+    "name": "swift"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 29,
+    "likes_sum": 342,
+    "score": 342.0
+  },
+  "articles_top": [
+    {
+      "title": "FigmaMCP＋Cursorで直感的にUIを作成してみる🎨",
+      "url": "https://zenn.dev/jambo_dev/articles/f383623d5cafd1",
+      "likes": 107,
+      "published_at": "2025-08-19T11:13:51+09:00"
+    },
+    {
+      "title": "エンジニア向けAI情報収集アプリResearchlyをリリースしました",
+      "url": "https://zenn.dev/adsholoko/articles/researchly-release",
+      "likes": 91,
+      "published_at": "2025-08-16T14:15:12+09:00"
+    },
+    {
+      "title": "Swift × Kiro × ClaudeCode",
+      "url": "https://zenn.dev/jambo_dev/articles/34fe2c1db1ae05",
+      "likes": 24,
+      "published_at": "2025-08-29T12:18:33+09:00"
+    },
+    {
+      "title": "2025年にRxSwiftと向き合った設計",
+      "url": "https://zenn.dev/sakiyamak/articles/1a936ff161424ad40aaa",
+      "likes": 24,
+      "published_at": "2025-08-16T22:05:37+09:00"
+    },
+    {
+      "title": "Background Tasksフレームワーク入門",
+      "url": "https://zenn.dev/shu223/articles/background-tasks",
+      "likes": 21,
+      "published_at": "2025-09-06T07:27:08+09:00"
+    },
+    {
+      "title": "Swiftで自在な開発用スクリプト定義を管理しよう",
+      "url": "https://zenn.dev/nextbeat/articles/01e659e5447252",
+      "likes": 20,
+      "published_at": "2025-09-04T14:56:47+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 14,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "SceneDelegate対応した手順や参考にした情報",
+      "url": "https://zenn.dev/oka_yuuji/articles/ff6b0e1bd76566",
+      "likes": 13,
+      "published_at": "2025-09-12T19:20:20+09:00"
+    },
+    {
+      "title": "SwiftUIでautomaticスタイルのViewModifierを作る方法",
+      "url": "https://zenn.dev/noppe/articles/5cc3610d45243e",
+      "likes": 8,
+      "published_at": "2025-08-27T16:20:26+09:00"
+    },
+    {
+      "title": "SwiftUI.BlurとLazyV(H)Stackの(描画パフォーマンス的)アンチパターン",
+      "url": "https://zenn.dev/sosuiii/articles/a7788f7d627db1",
+      "likes": 5,
+      "published_at": "2025-08-26T17:29:32+09:00"
+    }
+  ]
+}

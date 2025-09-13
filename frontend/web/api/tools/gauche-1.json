@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "gauche",
+    "name": "gauche"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "Gauche の実行環境を Docker で構築",
+      "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+      "likes": 1,
+      "published_at": "2025-09-13T02:52:27+09:00"
+    },
+    {
+      "title": "Gauche の実行環境を Docker で構築",
+      "url": "https://zenn.dev/onimen/articles/f0353dbb784015",
+      "likes": 1,
+      "published_at": "2025-09-13T02:52:27+09:00"
+    }
+  ]
+}

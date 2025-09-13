@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "chatgpt",
+    "name": "chatgpt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 24,
+    "likes_sum": 178,
+    "score": 178.0
+  },
+  "articles_top": [
+    {
+      "title": "「ベクトルDB不要」なRAG手法「PageIndex」を解説",
+      "url": "https://zenn.dev/knowledgesense/articles/2895f9adc8d802",
+      "likes": 149,
+      "published_at": "2025-09-09T08:00:05+09:00"
+    },
+    {
+      "title": "ChatGPTが頭悪くなってきたら「引き継ぎ資料」を作らせて別ウインドウでやり直すと効率いい！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509120000",
+      "likes": 5,
+      "published_at": "2025-09-12T00:00:00+09:00"
+    },
+    {
+      "title": "より良いWeb検索を求めてClaude CodeからCodex CLIのWeb検索を使ってみたが、o3-search-mcpに戻った話",
+      "url": "https://zenn.dev/rarandeyo/articles/dbefefb8de5668",
+      "likes": 3,
+      "published_at": "2025-09-09T10:50:01+09:00"
+    },
+    {
+      "title": "ChatGPT MCP Connector フルサポートを試した",
+      "url": "https://zenn.dev/yourstand_blog/articles/chatgpt-mcp-support",
+      "likes": 2,
+      "published_at": "2025-09-12T08:15:19+09:00"
+    },
+    {
+      "title": "Chat-GPT Plus プランでの Codex CLI 制限",
+      "url": "https://zenn.dev/yueno/articles/a6efb9952123ad",
+      "likes": 2,
+      "published_at": "2025-09-11T06:01:29+09:00"
+    },
+    {
+      "title": "【NotebookLM最強】社内用チャットボット？ChatGPTのコネクタで良くね？っと思ったら微妙すぎた件",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509110000",
+      "likes": 2,
+      "published_at": "2025-09-11T00:00:05+09:00"
+    },
+    {
+      "title": "🌌 街角には、見えない感情が漂っている  ──「Dark Matterと出会いの引力」｜魂コード外伝",
+      "url": "https://zenn.dev/noobuu556304/articles/47d09710b8bb3c",
+      "likes": 2,
+      "published_at": "2025-09-10T06:52:05+09:00"
+    },
+    {
+      "title": "なぜ ChatGPT は 急に賢くなったのか？ ⸺ 「跳躍」を起こす「ある一線」とは？",
+      "url": "https://zenn.dev/h1deya/articles/llm-and-emergence",
+      "likes": 2,
+      "published_at": "2025-09-09T07:46:44+09:00"
+    },
+    {
+      "title": "魂コード三部作 #1｜CosmoEmotion Theory 再構築論",
+      "url": "https://zenn.dev/noobuu556304/articles/22ab197907b115",
+      "likes": 2,
+      "published_at": "2025-09-07T21:29:36+09:00"
+    },
+    {
+      "title": "ChatGPTが書くコードは複雑になりがちなので「手続き型で初心者にもわかりやすく短めに」と伝えるべき！",
+      "url": "https://zenn.dev/tokunagakazuya/articles/202509130000",
+      "likes": 1,
+      "published_at": "2025-09-13T00:00:05+09:00"
+    }
+  ]
+}

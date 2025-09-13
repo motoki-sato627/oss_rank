@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "pytorch",
+    "name": "pytorch"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 23,
+    "score": 23.0
+  },
+  "articles_top": [
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 23,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    },
+    {
+      "title": "画像モデルのバックボーンとして最初に何を選ぶべきか？",
+      "url": "https://zenn.dev/prgckwb/articles/how-to-select-backbone",
+      "likes": 0,
+      "published_at": "2025-09-11T21:51:02+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "WSL2上のUbuntuでRTX 40x0用に構築したPyTorch環境を、RTX 50x0用に再設定する",
+      "url": "https://zenn.dev/sion_pn/articles/993d47978b35a0",
+      "likes": 0,
+      "published_at": "2025-09-09T17:30:36+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    }
+  ]
+}

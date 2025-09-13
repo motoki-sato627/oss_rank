@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "orval",
+    "name": "orval"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 231,
+    "score": 231.0
+  },
+  "articles_top": [
+    {
+      "title": "少人数で3つのWebアプリを支える技術 - Hono × Cloudflare で実現する最高のDeveloper Experience",
+      "url": "https://zenn.dev/miravy/articles/d5c59c27f01b4e",
+      "likes": 231,
+      "published_at": "2025-08-31T16:46:16+09:00"
+    }
+  ]
+}

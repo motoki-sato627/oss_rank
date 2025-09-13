@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "codingagent",
+    "name": "codingagent"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 75,
+    "score": 75.0
+  },
+  "articles_top": [
+    {
+      "title": "サブスクリプションが始まったKiroに関する最近の事情",
+      "url": "https://zenn.dev/beagle/articles/5360946ada5607",
+      "likes": 44,
+      "published_at": "2025-08-18T11:34:51+09:00"
+    },
+    {
+      "title": "Alibaba製AI IDEのQoderを試してみる",
+      "url": "https://zenn.dev/beagle/articles/52fb87f10d537f",
+      "likes": 26,
+      "published_at": "2025-08-25T12:00:37+09:00"
+    },
+    {
+      "title": "9/10まで無料プロモーション中のコスパに優れたコーディングモデル grok-code-fast-1 を試してみる",
+      "url": "https://zenn.dev/beagle/articles/a21382c507331a",
+      "likes": 5,
+      "published_at": "2025-09-02T17:09:37+09:00"
+    },
+    {
+      "title": "Coding Agent と作業ディレクトリ迷子問題を避ける",
+      "url": "https://zenn.dev/zawawahoge/articles/avoid-directory-confusion-in-coding-agent",
+      "likes": 0,
+      "published_at": "2025-08-24T20:06:38+09:00"
+    }
+  ]
+}

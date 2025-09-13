@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "lambda",
+    "name": "lambda"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Lambda SnapStart でベンチマークをとって効果検証をしてみた",
+      "url": "https://zenn.dev/rescuenow/articles/d7a514b090923a",
+      "likes": 3,
+      "published_at": "2025-09-11T08:51:31+09:00"
+    },
+    {
+      "title": "CLI から Go アプリケーションを Lambda にデプロイしてみた",
+      "url": "https://zenn.dev/mn87/articles/110b789a81b120",
+      "likes": 2,
+      "published_at": "2025-09-12T07:30:01+09:00"
+    },
+    {
+      "title": "EventBridge × Lambdaで作る指定したタイミングでAWSリソースを動かす方法",
+      "url": "https://zenn.dev/nari_rina/articles/e87fb18572ff35",
+      "likes": 2,
+      "published_at": "2025-09-10T21:28:46+09:00"
+    },
+    {
+      "title": "AWS Lambdaとfreee APIでPixiv Boothの売上登録を自動化する（S3トリガー・Node.js版）",
+      "url": "https://zenn.dev/qryuu/articles/4d2338dbcecc2d",
+      "likes": 2,
+      "published_at": "2025-09-06T21:05:32+09:00"
+    },
+    {
+      "title": "[CDK] 内部的に自動生成されるLambdaのランタイムバージョンを上げたい",
+      "url": "https://zenn.dev/ncdc/articles/3aaa74ecaa7908",
+      "likes": 1,
+      "published_at": "2025-09-09T18:26:45+09:00"
+    },
+    {
+      "title": "CLI から Go アプリケーションを Lambda にデプロイしてみた",
+      "url": "https://zenn.dev/mn87/articles/110b789a81b120",
+      "likes": 0,
+      "published_at": "2025-09-12T07:30:01+09:00"
+    },
+    {
+      "title": "Lambda SnapStart でベンチマークをとって効果検証をしてみた",
+      "url": "https://zenn.dev/rescuenow/articles/d7a514b090923a",
+      "likes": 0,
+      "published_at": "2025-09-11T08:51:31+09:00"
+    },
+    {
+      "title": "EventBridge × Lambdaで作る指定したタイミングでAWSリソースを動かす方法",
+      "url": "https://zenn.dev/nari_rina/articles/e87fb18572ff35",
+      "likes": 0,
+      "published_at": "2025-09-10T21:28:46+09:00"
+    },
+    {
+      "title": "[CDK] 内部的に自動生成されるLambdaのランタイムバージョンを上げたい",
+      "url": "https://zenn.dev/ncdc/articles/3aaa74ecaa7908",
+      "likes": 0,
+      "published_at": "2025-09-09T18:26:45+09:00"
+    },
+    {
+      "title": "AWS Lambdaとfreee APIでPixiv Boothの売上登録を自動化する（S3トリガー・Node.js版）",
+      "url": "https://zenn.dev/qryuu/articles/4d2338dbcecc2d",
+      "likes": 0,
+      "published_at": "2025-09-06T21:05:32+09:00"
+    }
+  ]
+}

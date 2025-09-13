@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "gpu",
+    "name": "gpu"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 26,
+    "score": 26.0
+  },
+  "articles_top": [
+    {
+      "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+      "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+      "likes": 25,
+      "published_at": "2025-09-11T07:30:38+09:00"
+    },
+    {
+      "title": "NVIDIA GPUアーキテクチャの核心を理解する - なぜGPUはこんなに速いのか？",
+      "url": "https://zenn.dev/nakano_teppei51/articles/038f9af8800f10",
+      "likes": 1,
+      "published_at": "2025-09-08T16:46:20+09:00"
+    },
+    {
+      "title": "NVIDIA DGX Spark か Jetson Thor Dev. Kit か（AI PC)",
+      "url": "https://zenn.dev/19931/articles/99a3398038ab01",
+      "likes": 1,
+      "published_at": "2025-09-06T16:10:39+09:00"
+    },
+    {
+      "title": "Triton を使って CUDA を書かずに高速な GPU カーネルを実装する",
+      "url": "https://zenn.dev/zaburo_ch/articles/252522d9e4aa3d",
+      "likes": 0,
+      "published_at": "2025-09-11T07:30:38+09:00"
+    },
+    {
+      "title": "NVIDIA GPUアーキテクチャの核心を理解する - なぜGPUはこんなに速いのか？",
+      "url": "https://zenn.dev/nakano_teppei51/articles/038f9af8800f10",
+      "likes": 0,
+      "published_at": "2025-09-08T16:46:20+09:00"
+    }
+  ]
+}

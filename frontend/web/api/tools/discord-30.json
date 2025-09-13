@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "discord",
+    "name": "discord"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 62,
+    "score": 62.0
+  },
+  "articles_top": [
+    {
+      "title": "Discord MCPを使って一撃でバイブコーディングするBot開発術",
+      "url": "https://zenn.dev/discorders/articles/discord-mcp-technique",
+      "likes": 45,
+      "published_at": "2025-08-15T16:44:22+09:00"
+    },
+    {
+      "title": "【レポート記事】Meta QuestからDiscordに画面共有ができるようになったので検証をしてみました！（画面共有、YouTube配信）",
+      "url": "https://zenn.dev/yushimatenjin/articles/quest-standalone-livestream",
+      "likes": 6,
+      "published_at": "2025-09-06T23:28:21+09:00"
+    },
+    {
+      "title": "claude codeにスマホからplanさせて家に帰ったら実装させる",
+      "url": "https://zenn.dev/ushironoko/articles/f3174dc545d4bc",
+      "likes": 4,
+      "published_at": "2025-09-08T20:14:11+09:00"
+    },
+    {
+      "title": "【導入数500突破！】多機能で読み上げ速度の速いBOT、Vocalisの魅力や使い方を徹底解説！【VOICEVOX対応】",
+      "url": "https://zenn.dev/vocalisapp/articles/d09986999efc2f",
+      "likes": 3,
+      "published_at": "2025-08-22T03:16:23+09:00"
+    },
+    {
+      "title": "【Discord】ミーティングのリマインドbotを作りました",
+      "url": "https://zenn.dev/tesseract/articles/27f3fc29d63852",
+      "likes": 2,
+      "published_at": "2025-09-11T12:02:58+09:00"
+    },
+    {
+      "title": "proxmoxによるk8sクラスタの構築でDiscord TTS Botとマイクラサーバーの建て方",
+      "url": "https://zenn.dev/alecjp02/articles/63fc504974219d",
+      "likes": 2,
+      "published_at": "2025-08-14T13:59:01+09:00"
+    },
+    {
+      "title": "【2025年最新】Discord読み上げBOT おすすめ8選 - 徹底比較とパフォーマンステスト結果",
+      "url": "https://zenn.dev/wish/articles/3c81080bd381d8",
+      "likes": 1,
+      "published_at": "2025-09-04T20:00:01+09:00"
+    },
+    {
+      "title": "【discord.py】新しいコンポーネントの使い方【基礎編】",
+      "url": "https://zenn.dev/ap12/articles/251fd50cd44d7e",
+      "likes": 1,
+      "published_at": "2025-08-31T03:11:09+09:00"
+    },
+    {
+      "title": "【Discord】ミーティングのリマインドbotを作りました",
+      "url": "https://zenn.dev/tesseract/articles/27f3fc29d63852",
+      "likes": 0,
+      "published_at": "2025-09-11T12:02:58+09:00"
+    },
+    {
+      "title": "claude codeにスマホからplanさせて家に帰ったら実装させる",
+      "url": "https://zenn.dev/ushironoko/articles/f3174dc545d4bc",
+      "likes": 0,
+      "published_at": "2025-09-08T20:14:11+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "frontend",
+    "name": "frontend"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 110,
+    "score": 110.0
+  },
+  "articles_top": [
+    {
+      "title": "フロントエンドのテストアーキテクチャ",
+      "url": "https://zenn.dev/toms74209200/articles/frontend-test-architecture",
+      "likes": 100,
+      "published_at": "2025-09-06T09:00:01+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道2025 オンライン参加レポート（鮮度優先）",
+      "url": "https://zenn.dev/taigakiyokawa/articles/20250906-frontend-conference-hokkaido",
+      "likes": 37,
+      "published_at": "2025-09-06T21:41:26+09:00"
+    },
+    {
+      "title": "AI駆動開発時代の新しいフロントエンド：デザインシステムとMCPが生み出す一貫性",
+      "url": "https://zenn.dev/satto_workspace/articles/e2af289d015705",
+      "likes": 17,
+      "published_at": "2025-09-09T11:20:12+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道2025 に参加してきました！ &amp; ほぼ全資料まとめ",
+      "url": "https://zenn.dev/teamlab_fe/articles/270cf15431490b",
+      "likes": 13,
+      "published_at": "2025-09-11T20:09:37+09:00"
+    },
+    {
+      "title": "フロントエンドカンファレンス北海道で登壇してきた",
+      "url": "https://zenn.dev/stafes_blog/articles/nano72mkn-frontend-conference-hokkaido-2025",
+      "likes": 8,
+      "published_at": "2025-09-09T23:53:11+09:00"
+    },
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "[React Router] ページ離脱時のアラートを表示する機能をラクに導入できるようにカスタムフック化する🔧",
+      "url": "https://zenn.dev/ispec_inc/articles/c977f2e6d5b469",
+      "likes": 6,
+      "published_at": "2025-09-12T18:29:23+09:00"
+    },
+    {
+      "title": "vercelさんのdev3000を試してみた。",
+      "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+      "likes": 6,
+      "published_at": "2025-09-11T17:37:56+09:00"
+    },
+    {
+      "title": "【札幌開催】React Server Componentsハンズオン イベントレポート",
+      "url": "https://zenn.dev/react_tokyo/articles/2d6194fddaabaa",
+      "likes": 4,
+      "published_at": "2025-09-11T11:27:15+09:00"
+    },
+    {
+      "title": "【React Query】queryFnでundefinedをreturnしてはいけない理由と解決策",
+      "url": "https://zenn.dev/communitio/articles/react-query-queryfn-undefined",
+      "likes": 3,
+      "published_at": "2025-09-12T14:57:27+09:00"
+    }
+  ]
+}

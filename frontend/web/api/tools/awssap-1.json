@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "awssap",
+    "name": "awssap"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+      "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+      "likes": 1,
+      "published_at": "2025-09-13T14:21:35+09:00"
+    },
+    {
+      "title": "AWS Certified Solutions Architect - Professional (SAP-C02) 合格記",
+      "url": "https://zenn.dev/nmi_zzz/articles/d93e3afab9973e",
+      "likes": 1,
+      "published_at": "2025-09-13T14:21:35+09:00"
+    }
+  ]
+}

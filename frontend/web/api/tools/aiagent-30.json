@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "aiagent",
+    "name": "aiagent"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 44,
+    "likes_sum": 167,
+    "score": 167.0
+  },
+  "articles_top": [
+    {
+      "title": "AIAgentにAI最新情報まとめ資料を作ってもらう会【LangGraph&amp;LangSmith】",
+      "url": "https://zenn.dev/microsoft/articles/create_doc_by_aiagent",
+      "likes": 32,
+      "published_at": "2025-09-06T18:20:08+09:00"
+    },
+    {
+      "title": "GitHub ActionsのComposite ActionによるAIコードレビュー基盤",
+      "url": "https://zenn.dev/reality_tech/articles/5980dfc645dd5d",
+      "likes": 16,
+      "published_at": "2025-09-09T16:25:47+09:00"
+    },
+    {
+      "title": "なぜAI Agentは失敗するのか？正確率を上げるアプローチまとめました",
+      "url": "https://zenn.dev/acntechjp/articles/78e1e89e59bd36",
+      "likes": 13,
+      "published_at": "2025-08-25T17:05:31+09:00"
+    },
+    {
+      "title": "ADK 1.13.0 で追加された BigQueryに自然言語で問い合わせできる ask_data_insights tool",
+      "url": "https://zenn.dev/soundtricker/articles/dfd49e631b23de",
+      "likes": 11,
+      "published_at": "2025-08-28T16:47:33+09:00"
+    },
+    {
+      "title": "Terraform + Slack + AIで権限管理を自動化",
+      "url": "https://zenn.dev/finatext/articles/0f82881007ac66",
+      "likes": 9,
+      "published_at": "2025-09-09T15:04:25+09:00"
+    },
+    {
+      "title": "書籍紹介「AWS生成AIアプリ構築実践ガイド」",
+      "url": "https://zenn.dev/hariby/articles/efa8b76b15e096",
+      "likes": 7,
+      "published_at": "2025-08-20T08:41:03+09:00"
+    },
+    {
+      "title": "Agent Development Kit 1.12.0で追加された Pythonコード不要でAgentが作成できるAgent Config",
+      "url": "https://zenn.dev/soundtricker/articles/02dec857826f55",
+      "likes": 6,
+      "published_at": "2025-08-21T23:58:38+09:00"
+    },
+    {
+      "title": "[AI Agent Jump Start：応用編#1] 失敗しないAIエージェント設計：段階的導入と目的に応じたデザインパターンの選び方",
+      "url": "https://zenn.dev/dxclab/articles/808efaaa7db736",
+      "likes": 5,
+      "published_at": "2025-08-19T15:54:31+09:00"
+    },
+    {
+      "title": "Azure Deep Research × Chainlit 実装：長時間処理のAIエージェントの安定化・UX設計",
+      "url": "https://zenn.dev/dxclab/articles/f634fffc41c9b7",
+      "likes": 4,
+      "published_at": "2025-09-03T11:22:54+09:00"
+    },
+    {
+      "title": "Mastra/Next.jsで作るモデレータAIが治安維持するSNS",
+      "url": "https://zenn.dev/yokomachi/articles/20250830_mastra_moderator_ai_agent",
+      "likes": 4,
+      "published_at": "2025-08-30T19:39:43+09:00"
+    }
+  ]
+}

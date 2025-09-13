@@ -1,0 +1,68 @@
+{
+  "tool": {
+    "slug": "transformer",
+    "name": "transformer"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 186,
+    "score": 186.0
+  },
+  "articles_top": [
+    {
+      "title": "RAGで「無関係な」文書をいれると性能が向上する理由を解明",
+      "url": "https://zenn.dev/knowledgesense/articles/5cd465176ae45a",
+      "likes": 183,
+      "published_at": "2025-09-02T09:53:01+09:00"
+    },
+    {
+      "title": "Transformer に触れてみる (2) — ViT もどき",
+      "url": "https://zenn.dev/derwind/articles/dwd-transformer02",
+      "likes": 1,
+      "published_at": "2025-09-07T01:49:49+09:00"
+    },
+    {
+      "title": "なぜ Transformer はすごいのか？ざっくり直感でつかむ解説",
+      "url": "https://zenn.dev/h4gi/articles/93bf5464f84757",
+      "likes": 1,
+      "published_at": "2025-08-30T23:37:40+09:00"
+    },
+    {
+      "title": "NVIDIA Nemotron Nano 2とは何か？",
+      "url": "https://zenn.dev/m_nakano_teppei/articles/46ed3191efd022",
+      "likes": 1,
+      "published_at": "2025-08-23T17:53:48+09:00"
+    },
+    {
+      "title": "なぜ ChatGPT は「賢い」のか？AI の歴史を 70 年遡って見えた真実",
+      "url": "https://zenn.dev/imkohenauser/articles/a774d8ef563d66",
+      "likes": 0,
+      "published_at": "2025-09-13T13:09:03+09:00"
+    },
+    {
+      "title": "なぜ ChatGPT は「賢い」のか？AI の歴史を 70 年遡って見えた真実",
+      "url": "https://zenn.dev/imkohenauser/articles/a774d8ef563d66",
+      "likes": 0,
+      "published_at": "2025-09-13T13:09:03+09:00"
+    },
+    {
+      "title": "AI 革命の中心にある「トランスフォーマー」を、誰でもわかるように解説する",
+      "url": "https://zenn.dev/imkohenauser/articles/6f1ffd606fcddb",
+      "likes": 0,
+      "published_at": "2025-09-13T12:45:14+09:00"
+    },
+    {
+      "title": "AI 革命の中心にある「トランスフォーマー」を、誰でもわかるように解説する",
+      "url": "https://zenn.dev/imkohenauser/articles/6f1ffd606fcddb",
+      "likes": 0,
+      "published_at": "2025-09-13T12:45:14+09:00"
+    },
+    {
+      "title": "Transformer に触れてみる (1)",
+      "url": "https://zenn.dev/derwind/articles/dwd-transformer01",
+      "likes": 0,
+      "published_at": "2025-08-31T21:53:39+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "flutter",
+    "name": "flutter"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "Android APIアップデートで詰まって気づいた、Flutterアプリのアーキテクチャ理解の重要性",
+      "url": "https://zenn.dev/assign/articles/d37be99244e310",
+      "likes": 6,
+      "published_at": "2025-09-11T14:01:19+09:00"
+    },
+    {
+      "title": "【Flutter】モダンなAudioVisualizationのパッケージ audio_flux を試す",
+      "url": "https://zenn.dev/slowhand/articles/c22e59b441d2ae",
+      "likes": 2,
+      "published_at": "2025-09-06T21:00:05+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "【Dart入門(6)】制御フロー｜条件分岐(if else, if case)",
+      "url": "https://zenn.dev/kurutazoku/articles/26b1df164dbe46",
+      "likes": 1,
+      "published_at": "2025-09-10T01:30:17+09:00"
+    },
+    {
+      "title": "Flutter公式のアーキテクチャの概要まとめ",
+      "url": "https://zenn.dev/rionishino/articles/acab05d60ea559",
+      "likes": 1,
+      "published_at": "2025-09-07T16:21:54+09:00"
+    },
+    {
+      "title": "FlutterからlocalhostのAPIサーバーに接続したい",
+      "url": "https://zenn.dev/fasca/articles/f8ccae868501ca",
+      "likes": 1,
+      "published_at": "2025-09-06T16:23:49+09:00"
+    },
+    {
+      "title": "今モバイルアプリを開発するならFlutter x バイブコーディングで決まり☆",
+      "url": "https://zenn.dev/odinsoft/articles/9cad3b13be223c",
+      "likes": 1,
+      "published_at": "2025-09-06T15:52:43+09:00"
+    },
+    {
+      "title": "Firebase Analytics, RemoteConfigとCrashlyticsの概説",
+      "url": "https://zenn.dev/hsylife/articles/fe5c04774bd06c",
+      "likes": 1,
+      "published_at": "2025-09-06T09:42:56+09:00"
+    },
+    {
+      "title": "【Flutter】Building with plugins requres symlink supporrt. エラーが出た時の対処法",
+      "url": "https://zenn.dev/nsystk/articles/07d8efc9e4fb6e",
+      "likes": 0,
+      "published_at": "2025-09-13T18:48:49+09:00"
+    }
+  ]
+}

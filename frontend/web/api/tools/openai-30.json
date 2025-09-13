@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "openai",
+    "name": "openai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 57,
+    "likes_sum": 810,
+    "score": 810.0
+  },
+  "articles_top": [
+    {
+      "title": "Codex CLIを使いこなすための機能・設定まとめ",
+      "url": "https://zenn.dev/dely_jp/articles/codex-cli-matome",
+      "likes": 529,
+      "published_at": "2025-09-02T17:15:42+09:00"
+    },
+    {
+      "title": "GPT-5 の教科書",
+      "url": "https://zenn.dev/microsoft/articles/openai_gpt5_textbook",
+      "likes": 59,
+      "published_at": "2025-08-16T21:09:52+09:00"
+    },
+    {
+      "title": "Raycast × OpenAI API × Obsidian で始めるお手軽ジャーナリング",
+      "url": "https://zenn.dev/ashita_team/articles/raycast-openai-obisidian-journaling",
+      "likes": 50,
+      "published_at": "2025-08-25T19:12:29+09:00"
+    },
+    {
+      "title": "日本語ラップから俳句を生成するアプリを作った（フリースタイルバトルを俳句バトルとして楽しむ） 🤖",
+      "url": "https://zenn.dev/xtm_blog/articles/64b92177b0719d",
+      "likes": 23,
+      "published_at": "2025-08-19T08:19:01+09:00"
+    },
+    {
+      "title": "GPT-5 APIが遅いので応答速度の実験と使用時の注意点について",
+      "url": "https://zenn.dev/gotalab/articles/b361e77b7739ed",
+      "likes": 19,
+      "published_at": "2025-08-14T05:30:01+09:00"
+    },
+    {
+      "title": "OpenAIの最新研究からわかったハルシネーションの原因まとめ",
+      "url": "https://zenn.dev/headwaters/articles/2dbb79ef2f46b1",
+      "likes": 14,
+      "published_at": "2025-09-09T13:12:19+09:00"
+    },
+    {
+      "title": "gpt-2からgpt-ossへの進化をモデル構造から読む",
+      "url": "https://zenn.dev/finatext/articles/evoluation-from-gpt2-to-gptoss",
+      "likes": 13,
+      "published_at": "2025-09-08T15:52:27+09:00"
+    },
+    {
+      "title": "ついに正式版が出たOpenAIの音声AI『Realtime API』の概要とベータ版との比較",
+      "url": "https://zenn.dev/forward/articles/92b3c81f2ed90c",
+      "likes": 11,
+      "published_at": "2025-08-29T11:13:44+09:00"
+    },
+    {
+      "title": "オープンな LLM モデルの悪意ある使用のリスクに関する論文を読んだ",
+      "url": "https://zenn.dev/fusic/articles/paper-reading-risk-of-open-weight-llms",
+      "likes": 8,
+      "published_at": "2025-09-04T04:12:34+09:00"
+    },
+    {
+      "title": "”gpt-realtime”について",
+      "url": "https://zenn.dev/headwaters/articles/18c34435edd6e4",
+      "likes": 8,
+      "published_at": "2025-08-31T20:55:59+09:00"
+    }
+  ]
+}

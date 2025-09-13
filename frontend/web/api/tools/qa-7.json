@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "qa",
+    "name": "qa"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 10,
+    "likes_sum": 22,
+    "score": 22.0
+  },
+  "articles_top": [
+    {
+      "title": "自律的組織の設計図：ジャズに学ぶ5つの原則",
+      "url": "https://zenn.dev/loglass/articles/b16719deb45941",
+      "likes": 8,
+      "published_at": "2025-09-12T09:52:24+09:00"
+    },
+    {
+      "title": "品質は対話から生まれる ― QAユニットのなんでも相談会",
+      "url": "https://zenn.dev/aldagram_tech/articles/f605c27cdfd100",
+      "likes": 8,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 3,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "未経験QAでも入社初月からテスト設計に参加できる Claude Code を活用した仕組みづくり",
+      "url": "https://zenn.dev/lil_ikeda/articles/5b4ff343a60855",
+      "likes": 2,
+      "published_at": "2025-09-07T19:28:25+09:00"
+    },
+    {
+      "title": "- QAとUXの境界を越える体験を - ビットキーは「JaSST’25 Niigata」にブースを出展します！",
+      "url": "https://zenn.dev/bitkey_dev/articles/cb57955118d3c7",
+      "likes": 1,
+      "published_at": "2025-09-09T11:30:04+09:00"
+    },
+    {
+      "title": "自律的組織の設計図：ジャズに学ぶ5つの原則",
+      "url": "https://zenn.dev/loglass/articles/b16719deb45941",
+      "likes": 0,
+      "published_at": "2025-09-12T09:52:24+09:00"
+    },
+    {
+      "title": "品質は対話から生まれる ― QAユニットのなんでも相談会",
+      "url": "https://zenn.dev/aldagram_tech/articles/f605c27cdfd100",
+      "likes": 0,
+      "published_at": "2025-09-11T11:00:05+09:00"
+    },
+    {
+      "title": "非エンジニアでも自動テストが作れる、MagicPodを使ってみた",
+      "url": "https://zenn.dev/aun_phonogram/articles/magicpod-testing-trial",
+      "likes": 0,
+      "published_at": "2025-09-10T10:31:26+09:00"
+    },
+    {
+      "title": "- QAとUXの境界を越える体験を - ビットキーは「JaSST’25 Niigata」にブースを出展します！",
+      "url": "https://zenn.dev/bitkey_dev/articles/cb57955118d3c7",
+      "likes": 0,
+      "published_at": "2025-09-09T11:30:04+09:00"
+    },
+    {
+      "title": "未経験QAでも入社初月からテスト設計に参加できる Claude Code を活用した仕組みづくり",
+      "url": "https://zenn.dev/lil_ikeda/articles/5b4ff343a60855",
+      "likes": 0,
+      "published_at": "2025-09-07T19:28:25+09:00"
+    }
+  ]
+}

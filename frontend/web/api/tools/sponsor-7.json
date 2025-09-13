@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "sponsor",
+    "name": "sponsor"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 13,
+    "score": 13.0
+  },
+  "articles_top": [
+    {
+      "title": "EGSTOCKは Biome と Readouble のスポンサーになりました！",
+      "url": "https://zenn.dev/egstock_inc/articles/805cbc049c35c7",
+      "likes": 9,
+      "published_at": "2025-09-12T12:00:05+09:00"
+    },
+    {
+      "title": "iOSDC Japan 2025 シルバースポンサー実施・社員2名登壇・パンフレット記事寄稿のお知らせ",
+      "url": "https://zenn.dev/genda_jp/articles/ef92574f02b9e2",
+      "likes": 4,
+      "published_at": "2025-09-08T12:59:43+09:00"
+    },
+    {
+      "title": "EGSTOCKは Biome と Readouble のスポンサーになりました！",
+      "url": "https://zenn.dev/egstock_inc/articles/805cbc049c35c7",
+      "likes": 0,
+      "published_at": "2025-09-12T12:00:05+09:00"
+    },
+    {
+      "title": "iOSDC Japan 2025 シルバースポンサー実施・社員2名登壇・パンフレット記事寄稿のお知らせ",
+      "url": "https://zenn.dev/genda_jp/articles/ef92574f02b9e2",
+      "likes": 0,
+      "published_at": "2025-09-08T12:59:43+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "security",
+    "name": "security"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 85,
+    "likes_sum": 764,
+    "score": 764.0
+  },
+  "articles_top": [
+    {
+      "title": "npmパッケージ/GitHub Actionsを利用する側/公開する側でサプライチェーン攻撃を防ぐためにやることメモ",
+      "url": "https://zenn.dev/azu/articles/ad168118524135",
+      "likes": 192,
+      "published_at": "2025-09-09T23:25:31+09:00"
+    },
+    {
+      "title": "パスワードマネージャへのクリックジャッキング攻撃に対して、いま私たちが出来ること",
+      "url": "https://zenn.dev/trustdock/articles/ff2c5282b00fe3",
+      "likes": 134,
+      "published_at": "2025-08-21T20:37:52+09:00"
+    },
+    {
+      "title": "ゼロ知識から挑んだ DMARC「none」から「reject」 へ、そしてBIMI導入までの取り組み",
+      "url": "https://zenn.dev/wn_engineering/articles/9ffbdd02cb624e",
+      "likes": 93,
+      "published_at": "2025-08-18T12:00:01+09:00"
+    },
+    {
+      "title": "GitHub の Immutable Releases を有効にしてセキュリティインシデントを防ごう",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/github-immutable-release",
+      "likes": 85,
+      "published_at": "2025-09-04T21:00:25+09:00"
+    },
+    {
+      "title": "リモートデスクトップPCが1日5000回も攻撃されていた！実体験で学ぶセキュリティ対策",
+      "url": "https://zenn.dev/zenzoe/articles/fd75e5cf80ba74",
+      "likes": 43,
+      "published_at": "2025-08-25T12:50:00+09:00"
+    },
+    {
+      "title": "GitHub Actions の Enforce SHA Pinning の検証",
+      "url": "https://zenn.dev/shunsuke_suzuki/articles/github-actions-enforce-sha-pinning",
+      "likes": 31,
+      "published_at": "2025-08-17T20:50:32+09:00"
+    },
+    {
+      "title": "NXの脆弱性『s1ngularity』でAI CLI を利用した攻撃を調査したら勉強になった話",
+      "url": "https://zenn.dev/taroman_zenn/articles/4631130aec3861",
+      "likes": 28,
+      "published_at": "2025-09-03T07:25:01+09:00"
+    },
+    {
+      "title": "Dependabotに様子見期間を！サプライチェーン攻撃から身を守るパッケージ更新戦略を考える",
+      "url": "https://zenn.dev/yamachu/articles/7e59341013fd10",
+      "likes": 18,
+      "published_at": "2025-09-09T13:46:16+09:00"
+    },
+    {
+      "title": "Google Cloud で休眠状態のサービスアカウントを見つける",
+      "url": "https://zenn.dev/fairydevices/articles/70679c69481b7e",
+      "likes": 15,
+      "published_at": "2025-08-25T16:30:53+09:00"
+    },
+    {
+      "title": "SnowflakeのAWS PrivateLink接続つまずきポイント",
+      "url": "https://zenn.dev/finatext/articles/snowflake-privatelink-pit-traps",
+      "likes": 14,
+      "published_at": "2025-08-29T10:27:37+09:00"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "prosemirror",
+    "name": "prosemirror"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 92,
+    "score": 92.0
+  },
+  "articles_top": [
+    {
+      "title": "リッチテキストエディターはライブラリを活用した方が良い訳",
+      "url": "https://zenn.dev/karintou/articles/960c923a854cd9",
+      "likes": 91,
+      "published_at": "2025-08-28T21:35:07+09:00"
+    },
+    {
+      "title": "Zenn記法のマークダウン -&gt; WYSIWYGのHTML への変換",
+      "url": "https://zenn.dev/karintou/articles/3a8e87375f4642",
+      "likes": 1,
+      "published_at": "2025-08-18T21:59:06+09:00"
+    }
+  ]
+}

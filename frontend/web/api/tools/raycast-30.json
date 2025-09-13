@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "raycast",
+    "name": "raycast"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 63,
+    "score": 63.0
+  },
+  "articles_top": [
+    {
+      "title": "Raycast × OpenAI API × Obsidian で始めるお手軽ジャーナリング",
+      "url": "https://zenn.dev/ashita_team/articles/raycast-openai-obisidian-journaling",
+      "likes": 50,
+      "published_at": "2025-08-25T19:12:29+09:00"
+    },
+    {
+      "title": "全Macユーザーに入れて欲しいアプリ「Raycast」の紹介",
+      "url": "https://zenn.dev/medicalforce/articles/4a833e40980f06",
+      "likes": 13,
+      "published_at": "2025-08-22T15:14:14+09:00"
+    },
+    {
+      "title": "RaycastとAlfredを徹底比較して、Raycastを推す理由",
+      "url": "https://zenn.dev/yahat/articles/d08149135ecfd6",
+      "likes": 0,
+      "published_at": "2025-09-01T19:00:01+09:00"
+    },
+    {
+      "title": "【Raycast】「英かな」の再起動コマンドをラクに実行したい！カスタムスクリプトの設定方法",
+      "url": "https://zenn.dev/ryota_09/articles/raycast-eikana-restart",
+      "likes": 0,
+      "published_at": "2025-08-14T15:07:15+09:00"
+    }
+  ]
+}

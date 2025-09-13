@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "softbank",
+    "name": "softbank"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 27,
+    "score": 27.0
+  },
+  "articles_top": [
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 27,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    },
+    {
+      "title": "satto workspaceを支える技術基盤について",
+      "url": "https://zenn.dev/satto_workspace/articles/43446e79670cea",
+      "likes": 0,
+      "published_at": "2025-09-08T15:57:14+09:00"
+    }
+  ]
+}

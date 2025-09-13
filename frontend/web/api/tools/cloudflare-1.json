@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cloudflare",
+    "name": "cloudflare"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 18,
+    "likes_sum": 8,
+    "score": 8.0
+  },
+  "articles_top": [
+    {
+      "title": "Cloudflare Browser Renderingに入門してみる",
+      "url": "https://zenn.dev/oda/articles/0939ce0b844a6f",
+      "likes": 4,
+      "published_at": "2025-09-12T01:31:58+09:00"
+    },
+    {
+      "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+      "likes": 2,
+      "published_at": "2025-09-13T10:12:49+09:00"
+    },
+    {
+      "title": "Nuxt設定ファイルにあるcompatibilityDateとは何か？",
+      "url": "https://zenn.dev/comm_vue_nuxt/articles/what-is-nuxt-compatibility-date-config",
+      "likes": 2,
+      "published_at": "2025-09-13T10:12:49+09:00"
+    },
+    {
+      "title": "Cloudflare Zero Trust で Worker を保護する",
+      "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+      "likes": 2,
+      "published_at": "2025-09-13T00:31:03+09:00"
+    },
+    {
+      "title": "Cloudflare Zero Trust で Worker を保護する",
+      "url": "https://zenn.dev/jj/articles/zero-trust-with-github",
+      "likes": 2,
+      "published_at": "2025-09-13T00:31:03+09:00"
+    },
+    {
+      "title": "🍞 Next.js を OpenNext で Cloudflare Workers にデプロイする",
+      "url": "https://zenn.dev/taksnr/articles/5b4108ad14fcad",
+      "likes": 0,
+      "published_at": "2025-09-13T14:37:36+09:00"
+    },
+    {
+      "title": "🍞 Next.js を OpenNext で Cloudflare Workers にデプロイする",
+      "url": "https://zenn.dev/taksnr/articles/5b4108ad14fcad",
+      "likes": 0,
+      "published_at": "2025-09-13T14:37:36+09:00"
+    },
+    {
+      "title": "🍞 Next.js を OpenNext で Cloudflare Workers にデプロイする",
+      "url": "https://zenn.dev/taksnr/articles/5b4108ad14fcad",
+      "likes": 0,
+      "published_at": "2025-09-13T14:37:36+09:00"
+    },
+    {
+      "title": "🍞 Next.js を OpenNext で Cloudflare Workers にデプロイする",
+      "url": "https://zenn.dev/taksnr/articles/5b4108ad14fcad",
+      "likes": 0,
+      "published_at": "2025-09-13T14:37:36+09:00"
+    },
+    {
+      "title": "🍞 Next.js を OpenNext で Cloudflare Workers にデプロイする",
+      "url": "https://zenn.dev/taksnr/articles/5b4108ad14fcad",
+      "likes": 0,
+      "published_at": "2025-09-13T14:37:36+09:00"
+    }
+  ]
+}

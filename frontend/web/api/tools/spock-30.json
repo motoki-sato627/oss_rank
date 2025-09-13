@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "spock",
+    "name": "spock"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 150,
+    "score": 150.0
+  },
+  "articles_top": [
+    {
+      "title": "巨人に学ぶテストコードアンチパターン",
+      "url": "https://zenn.dev/rakuten_tech/articles/test_review_best_practices_ja",
+      "likes": 150,
+      "published_at": "2025-08-29T21:00:01+09:00"
+    }
+  ]
+}

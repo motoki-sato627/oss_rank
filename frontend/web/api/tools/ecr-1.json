@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "ecr",
+    "name": "ecr"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 0,
+    "likes_sum": 0,
+    "score": 0.0
+  },
+  "articles_top": [
+    {
+      "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+      "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+      "likes": 4,
+      "published_at": "2025-09-12T15:56:05+09:00"
+    },
+    {
+      "title": "プライベートサブネットからDockerイメージを安全に取得する方法：ECR Pull Through Cache活用ガイド",
+      "url": "https://zenn.dev/sonicmoov/articles/5b47e5bf528346",
+      "likes": 0,
+      "published_at": "2025-09-12T15:56:05+09:00"
+    }
+  ]
+}

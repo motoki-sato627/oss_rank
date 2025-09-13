@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "rhel",
+    "name": "rhel"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "RHEL/CentOS系ローカルYUM/DNFリポジトリサーバーの構築と運用ガイド",
+      "url": "https://zenn.dev/iikanash1/articles/rhel-local-yum-repo-guide",
+      "likes": 1,
+      "published_at": "2025-09-12T21:07:52+09:00"
+    },
+    {
+      "title": "Apacheアップデート後に「421 Misdirected Request」が発生した話",
+      "url": "https://zenn.dev/kacchan822/articles/c23c965d0a3312",
+      "likes": 0,
+      "published_at": "2025-09-12T16:07:57+09:00"
+    }
+  ]
+}

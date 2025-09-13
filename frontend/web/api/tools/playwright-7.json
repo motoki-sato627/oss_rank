@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "playwright",
+    "name": "playwright"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 189,
+    "score": 189.0
+  },
+  "articles_top": [
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "Playwrightで経費精算をやってみる",
+      "url": "https://zenn.dev/machomacho/articles/b74dd07726e743",
+      "likes": 5,
+      "published_at": "2025-09-07T15:37:12+09:00"
+    },
+    {
+      "title": "【Rails】システムスペックでplaywrightドライバとcupriteドライバを比較してみる",
+      "url": "https://zenn.dev/atsumu22/articles/66a27f049ae867",
+      "likes": 3,
+      "published_at": "2025-09-10T00:47:11+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 1,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    }
+  ]
+}

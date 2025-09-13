@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "azure",
+    "name": "azure"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 90,
+    "likes_sum": 209,
+    "score": 209.0
+  },
+  "articles_top": [
+    {
+      "title": "Tailscale on Azureでオンプレミスとの閉域接続を月1,000円で実現する",
+      "url": "https://zenn.dev/yotan/articles/43abdc5e48c0f6",
+      "likes": 16,
+      "published_at": "2025-09-08T10:29:43+09:00"
+    },
+    {
+      "title": "AI Foundry で Browser Automation Tool を使ってみた",
+      "url": "https://zenn.dev/microsoft/articles/493e35659c59d6",
+      "likes": 12,
+      "published_at": "2025-08-14T21:29:30+09:00"
+    },
+    {
+      "title": "Github Copilot Chat の Agent モードで Azure をいじってみる",
+      "url": "https://zenn.dev/headwaters/articles/a5f20cabb964bb",
+      "likes": 11,
+      "published_at": "2025-08-23T11:58:44+09:00"
+    },
+    {
+      "title": "【Azure AI Foundry Agent Service】- Computer useをToolとして使えるように",
+      "url": "https://zenn.dev/headwaters/articles/30708915ab844f",
+      "likes": 10,
+      "published_at": "2025-08-22T09:52:04+09:00"
+    },
+    {
+      "title": "なんで VNet の subnet は一つじゃあダメなんですかね",
+      "url": "https://zenn.dev/skmkzyk/articles/why-subnet-is-not-only-one-or-two",
+      "likes": 9,
+      "published_at": "2025-08-31T16:25:10+09:00"
+    },
+    {
+      "title": "既存の MCP サーバーを最小限の変更で Azure Functions にホストしてみよう",
+      "url": "https://zenn.dev/microsoft/articles/host-existing-mcp-server-on-azure-functions",
+      "likes": 7,
+      "published_at": "2025-08-24T01:31:47+09:00"
+    },
+    {
+      "title": "Certiport経由で取得した資格はMicrosoft Learnに紐づけられないらしい",
+      "url": "https://zenn.dev/headwaters/articles/20250817certiport",
+      "likes": 7,
+      "published_at": "2025-08-19T15:36:41+09:00"
+    },
+    {
+      "title": "AI Foundry Browser Automation Tool で定常業務を自動化してみよう！",
+      "url": "https://zenn.dev/nomhiro/articles/browser-automation-ai-foundry-poc",
+      "likes": 7,
+      "published_at": "2025-08-15T01:50:36+09:00"
+    },
+    {
+      "title": "『エージェンティックWeb』と『MCP 入門』- Azure Functions でハンズオン開発への実践ガイド",
+      "url": "https://zenn.dev/yamadakz/articles/mcp-instraction-guid",
+      "likes": 6,
+      "published_at": "2025-09-08T16:15:19+09:00"
+    },
+    {
+      "title": "AzureFunctionsのMCPサーバで生成AIドリブンな一歩を踏み出そう！ ～ManagedIDアクセスを添えて～",
+      "url": "https://zenn.dev/nomhiro/articles/azure-functions-mcp-managed-id",
+      "likes": 6,
+      "published_at": "2025-09-07T21:54:18+09:00"
+    }
+  ]
+}

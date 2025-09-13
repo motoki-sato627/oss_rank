@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "csharp",
+    "name": "csharp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 36,
+    "likes_sum": 156,
+    "score": 156.0
+  },
+  "articles_top": [
+    {
+      "title": "Windows標準だけでGUIを作成 ― PowerShell＋.NET Framework",
+      "url": "https://zenn.dev/y_a_y/articles/ps_gui_b9685efa3cc1ea",
+      "likes": 44,
+      "published_at": "2025-08-16T18:22:50+09:00"
+    },
+    {
+      "title": "レガシーC#開発者がDevinと向き合った現実",
+      "url": "https://zenn.dev/nexta_/articles/c17665d97e28a0",
+      "likes": 20,
+      "published_at": "2025-09-11T15:06:49+09:00"
+    },
+    {
+      "title": "【.NET】ジェネリック共有について【Unity】",
+      "url": "https://zenn.dev/aakei/articles/sharing-generics",
+      "likes": 20,
+      "published_at": "2025-08-20T23:45:22+09:00"
+    },
+    {
+      "title": "C#：P/Invoke 越しに非同期関数を呼ぶ",
+      "url": "https://zenn.dev/ruccho/articles/dc7bc7bb9c0e74",
+      "likes": 20,
+      "published_at": "2025-08-16T22:28:39+09:00"
+    },
+    {
+      "title": ".NETアプリケーションのMSIXインストーラー作成時のエラー対応方法",
+      "url": "https://zenn.dev/luxiar/articles/59bfd1088884b2",
+      "likes": 11,
+      "published_at": "2025-09-05T10:57:25+09:00"
+    },
+    {
+      "title": "C# × WASM化を使用してVS Code の拡張機能を作りたい(VS Code ローカル)",
+      "url": "https://zenn.dev/srtia2318/articles/organize-info9-vscode-ex-wasm-234e65e86bee87",
+      "likes": 5,
+      "published_at": "2025-08-17T18:52:22+09:00"
+    },
+    {
+      "title": "C#でSystem.CommandLine v2 previewを試す",
+      "url": "https://zenn.dev/shundeveloper/articles/97211d78b10c3c",
+      "likes": 5,
+      "published_at": "2025-08-14T13:03:40+09:00"
+    },
+    {
+      "title": "Azure OpenAI の Responses API を .NET で使う方法",
+      "url": "https://zenn.dev/microsoft/articles/aoai-response-api-dotnet",
+      "likes": 4,
+      "published_at": "2025-08-31T20:57:49+09:00"
+    },
+    {
+      "title": "C# × WASM化を使用してVS Code の拡張機能を作りたい(VS Code for Web)",
+      "url": "https://zenn.dev/srtia2318/articles/organize-info10-vscode-ex-wasm-f408da65b14e2f",
+      "likes": 4,
+      "published_at": "2025-08-24T18:33:34+09:00"
+    },
+    {
+      "title": "最近のSemanticKernel",
+      "url": "https://zenn.dev/yakumo3/articles/902c92641cf7f4",
+      "likes": 3,
+      "published_at": "2025-09-07T12:22:24+09:00"
+    }
+  ]
+}

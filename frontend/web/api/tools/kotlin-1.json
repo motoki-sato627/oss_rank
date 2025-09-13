@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "kotlin",
+    "name": "kotlin"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "【Flutter】Material3 Expressive をJetPack Composeで実装してみた！【DroidKaigi2025】",
+      "url": "https://zenn.dev/pochipochitudoi/articles/613f4a96bdb5c1",
+      "likes": 1,
+      "published_at": "2025-09-12T21:52:06+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][Vuforia][AR]Vuforia11.4.4の公式サンプルコードを動かしてみた。",
+      "url": "https://zenn.dev/rg687076/articles/1e46e1bd60b2fe",
+      "likes": 0,
+      "published_at": "2025-09-13T13:35:26+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][Vuforia][AR]Vuforia11.4.4の公式サンプルコードを動かしてみた。",
+      "url": "https://zenn.dev/rg687076/articles/1e46e1bd60b2fe",
+      "likes": 0,
+      "published_at": "2025-09-13T13:35:26+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][Vuforia][AR]Vuforiaで動画再生ARを実装してみた。",
+      "url": "https://zenn.dev/rg687076/articles/e382b1224a97dd",
+      "likes": 0,
+      "published_at": "2025-09-13T00:24:19+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][Vuforia][AR]Vuforiaで動画再生ARを実装してみた。",
+      "url": "https://zenn.dev/rg687076/articles/e382b1224a97dd",
+      "likes": 0,
+      "published_at": "2025-09-13T00:24:19+09:00"
+    }
+  ]
+}

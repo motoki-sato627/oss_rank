@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "dev3000",
+    "name": "dev3000"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 234,
+    "score": 234.0
+  },
+  "articles_top": [
+    {
+      "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+      "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+      "likes": 228,
+      "published_at": "2025-09-08T05:58:04+09:00"
+    },
+    {
+      "title": "vercelさんのdev3000を試してみた。",
+      "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+      "likes": 6,
+      "published_at": "2025-09-11T17:37:56+09:00"
+    },
+    {
+      "title": "vercelさんのdev3000を試してみた。",
+      "url": "https://zenn.dev/jcat/articles/2d8ffc791a6914",
+      "likes": 0,
+      "published_at": "2025-09-11T17:37:56+09:00"
+    },
+    {
+      "title": "🚀 dev3000: フロントエンド開発のデバッグ体験を根本から変えるツール&quot;",
+      "url": "https://zenn.dev/gunta/articles/6382859d69cb30",
+      "likes": 0,
+      "published_at": "2025-09-08T05:58:04+09:00"
+    }
+  ]
+}

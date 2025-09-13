@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cursor",
+    "name": "cursor"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 20,
+    "likes_sum": 17,
+    "score": 17.0
+  },
+  "articles_top": [
+    {
+      "title": "恋に落ちる前に読む、AIコーディングツール選定術",
+      "url": "https://zenn.dev/aun_phonogram/articles/3890939ba26591",
+      "likes": 11,
+      "published_at": "2025-09-12T08:00:01+09:00"
+    },
+    {
+      "title": "Cursor + 社内汎用MCP + Playwright MCPによるテスト実行実験",
+      "url": "https://zenn.dev/knowledgework/articles/6efdcfe3b6809f",
+      "likes": 2,
+      "published_at": "2025-09-13T12:00:01+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    },
+    {
+      "title": "VS Codeで1ウィンドウに複数プロジェクトをまとめる方法",
+      "url": "https://zenn.dev/tech_discovery/articles/3a4670172cd8ac",
+      "likes": 1,
+      "published_at": "2025-09-13T17:36:28+09:00"
+    }
+  ]
+}

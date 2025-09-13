@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "copilot",
+    "name": "copilot"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 35,
+    "likes_sum": 45,
+    "score": 45.0
+  },
+  "articles_top": [
+    {
+      "title": "Awesome GitHub Copilot MCP Server で GitHub Copilot を強くする",
+      "url": "https://zenn.dev/microsoft/articles/awesome-github-copilot-mcp-server",
+      "likes": 30,
+      "published_at": "2025-09-11T13:01:44+09:00"
+    },
+    {
+      "title": "GitHub Copilot Agent を初めて使い、寝ている間に Issue を解決してもらった話",
+      "url": "https://zenn.dev/j_sakamoto/articles/8f36048134f867",
+      "likes": 4,
+      "published_at": "2025-09-08T21:34:21+09:00"
+    },
+    {
+      "title": "ゼロから作る『ローカルMCP』- Azure FunctionsでローカルMCPサーバーを起動する",
+      "url": "https://zenn.dev/yamadakz/articles/mcp-local-server",
+      "likes": 3,
+      "published_at": "2025-09-09T17:17:47+09:00"
+    },
+    {
+      "title": "VS Code v1.104 新機能ざっくりまとめ",
+      "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+      "likes": 2,
+      "published_at": "2025-09-12T18:25:45+09:00"
+    },
+    {
+      "title": "VS Code v1.104 新機能ざっくりまとめ",
+      "url": "https://zenn.dev/rakuten_tech/articles/vscode-1-104-overview",
+      "likes": 2,
+      "published_at": "2025-09-12T18:25:45+09:00"
+    },
+    {
+      "title": "Copilot Studio AI エージェント実行時のリアルタイム保護",
+      "url": "https://zenn.dev/microsoft/articles/2e8d07ce83939e",
+      "likes": 2,
+      "published_at": "2025-09-10T09:12:42+09:00"
+    },
+    {
+      "title": "ゼロから作る『APIM構築』- Remote MCPをAPIMで公開する 実戦ハンズオン",
+      "url": "https://zenn.dev/yamadakz/articles/mcp-apim-azure-functions",
+      "likes": 1,
+      "published_at": "2025-09-12T15:53:07+09:00"
+    },
+    {
+      "title": "AEONで使える(?)AIエージェント「がっかりリスト」（進化を願って✨）",
+      "url": "https://zenn.dev/aeonpeople/articles/aec7fd46c47388",
+      "likes": 1,
+      "published_at": "2025-09-11T01:08:10+09:00"
+    },
+    {
+      "title": "Teams アプリで「このアプリは、Web バージョンの Teams で問題が発生している可能性があります」と表示される",
+      "url": "https://zenn.dev/karamem0/articles/2025_09_13_090000",
+      "likes": 0,
+      "published_at": "2025-09-13T19:00:01+09:00"
+    },
+    {
+      "title": "Teams アプリで「このアプリは、Web バージョンの Teams で問題が発生している可能性があります」と表示される",
+      "url": "https://zenn.dev/karamem0/articles/2025_09_13_090000",
+      "likes": 0,
+      "published_at": "2025-09-13T19:00:01+09:00"
+    }
+  ]
+}

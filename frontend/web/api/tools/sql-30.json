@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "sql",
+    "name": "sql"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 43,
+    "likes_sum": 136,
+    "score": 136.0
+  },
+  "articles_top": [
+    {
+      "title": "Snowflake MCP Server で Cursor から高度なデータ分析を実現する",
+      "url": "https://zenn.dev/tsubasa_tech/articles/70ab5fb2b5ed99",
+      "likes": 29,
+      "published_at": "2025-09-01T13:33:17+09:00"
+    },
+    {
+      "title": "店舗検索のスロークエリを改善してDB負荷を下げた話",
+      "url": "https://zenn.dev/canly/articles/6b3bf38aa6e99b",
+      "likes": 15,
+      "published_at": "2025-08-27T11:25:48+09:00"
+    },
+    {
+      "title": "Databricks SQLで大量データから欲しい情報だけ取り出して可視化する",
+      "url": "https://zenn.dev/headwaters/articles/20250908dbxzorder",
+      "likes": 11,
+      "published_at": "2025-09-02T18:44:33+09:00"
+    },
+    {
+      "title": "Redashでダッシュボードを実際に作ってみて便利だった機能",
+      "url": "https://zenn.dev/peoplex_blog/articles/a20961e1057cbc",
+      "likes": 11,
+      "published_at": "2025-09-02T09:00:43+09:00"
+    },
+    {
+      "title": "Redash の QRDS でクエリパラメータを使う方法",
+      "url": "https://zenn.dev/egstock_inc/articles/117e8e218cac6a",
+      "likes": 11,
+      "published_at": "2025-09-01T10:00:01+09:00"
+    },
+    {
+      "title": "docker上でSQLを使う方法まとめ",
+      "url": "https://zenn.dev/appleshinja/articles/7abb64829c4f24",
+      "likes": 11,
+      "published_at": "2025-08-31T22:15:18+09:00"
+    },
+    {
+      "title": "BigQueryML の TimesFM で学習不要な「ゼロショット」の時系列予測を試してみた",
+      "url": "https://zenn.dev/cloud_ace/articles/bigquery-ml-timesfm-forecast",
+      "likes": 9,
+      "published_at": "2025-09-04T20:03:54+09:00"
+    },
+    {
+      "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+      "likes": 7,
+      "published_at": "2025-09-11T08:16:04+09:00"
+    },
+    {
+      "title": "PostgreSQL 注目機能改善 #3: 実行計画編",
+      "url": "https://zenn.dev/forcia_tech/articles/postgres_improve_03",
+      "likes": 6,
+      "published_at": "2025-08-22T13:00:01+09:00"
+    },
+    {
+      "title": "SQL Serverのsql_variant型で複数行INSERTしたら型が変わった話とAIによる仕様改善の比較",
+      "url": "https://zenn.dev/nexta_/articles/d233db6ead6734",
+      "likes": 3,
+      "published_at": "2025-09-05T10:00:01+09:00"
+    }
+  ]
+}

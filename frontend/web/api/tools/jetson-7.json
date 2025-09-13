@@ -1,0 +1,62 @@
+{
+  "tool": {
+    "slug": "jetson",
+    "name": "jetson"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 8,
+    "likes_sum": 9,
+    "score": 9.0
+  },
+  "articles_top": [
+    {
+      "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+      "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+      "likes": 9,
+      "published_at": "2025-09-08T01:34:26+09:00"
+    },
+    {
+      "title": "LeRobot SO-101で模倣学習してワニワニパニック",
+      "url": "https://zenn.dev/karaage0703/articles/df8a01214f9f5f",
+      "likes": 0,
+      "published_at": "2025-09-08T01:34:26+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にYOLOとCUDA対応のPyTorchを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/d8336667bd9f52",
+      "likes": 0,
+      "published_at": "2025-09-07T22:28:04+09:00"
+    },
+    {
+      "title": "JetPack 6.2でCUDA対応のOpenCVをビルドする方法",
+      "url": "https://zenn.dev/ryuya0124/articles/766cbe737eb281",
+      "likes": 0,
+      "published_at": "2025-09-07T21:56:40+09:00"
+    },
+    {
+      "title": "JetPack 6.2でCUDA対応のOpenCVをビルドする方法",
+      "url": "https://zenn.dev/ryuya0124/articles/766cbe737eb281",
+      "likes": 0,
+      "published_at": "2025-09-07T21:56:40+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にChromiumを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/4c55d239e8090b",
+      "likes": 0,
+      "published_at": "2025-09-07T21:28:27+09:00"
+    },
+    {
+      "title": "Jetson JetPack 6.2にChromiumを導入する方法",
+      "url": "https://zenn.dev/ryuya0124/articles/4c55d239e8090b",
+      "likes": 0,
+      "published_at": "2025-09-07T21:28:27+09:00"
+    }
+  ]
+}

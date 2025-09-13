@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "effect",
+    "name": "effect"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 215,
+    "score": 215.0
+  },
+  "articles_top": [
+    {
+      "title": "AIファーストで全てを書き直す：エンジニアが知るべき新パラダイム",
+      "url": "https://zenn.dev/gunta/articles/5b7a081fef8c71",
+      "likes": 151,
+      "published_at": "2025-08-26T08:44:47+09:00"
+    },
+    {
+      "title": "Effect.tsのpipe()関数は、なにか",
+      "url": "https://zenn.dev/optimind/articles/pipe-in-typescript-effect-fpts",
+      "likes": 41,
+      "published_at": "2025-08-15T18:08:01+09:00"
+    },
+    {
+      "title": "Algebraic Effects と Extensible Effects：6つの言語で学ぶエフェクトシステムの違いと共通点",
+      "url": "https://zenn.dev/funnycat/articles/9587e5dc09e4c4",
+      "likes": 12,
+      "published_at": "2025-09-04T07:49:23+09:00"
+    },
+    {
+      "title": "Effect-Tsいいよ みんなも使おう Effect Effect",
+      "url": "https://zenn.dev/flinters_blog/articles/14981767173c7d",
+      "likes": 9,
+      "published_at": "2025-08-29T12:00:05+09:00"
+    },
+    {
+      "title": "あっ、こんなところにEffect-TSが",
+      "url": "https://zenn.dev/2_daiki_ando/articles/b9bdb8195e1c73",
+      "likes": 2,
+      "published_at": "2025-08-30T23:03:44+09:00"
+    }
+  ]
+}

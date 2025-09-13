@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "management",
+    "name": "management"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 126,
+    "score": 126.0
+  },
+  "articles_top": [
+    {
+      "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+      "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+      "likes": 101,
+      "published_at": "2025-09-09T10:37:47+09:00"
+    },
+    {
+      "title": "AI時代のエンジニア育成 - 依存ではなく活用を促進するための3つの実践的アプローチ",
+      "url": "https://zenn.dev/drsprime/articles/engineer-development-by-using-ai",
+      "likes": 22,
+      "published_at": "2025-09-02T07:43:46+09:00"
+    },
+    {
+      "title": "SIerとWeb系での15年のキャリアを振り返る",
+      "url": "https://zenn.dev/mosugi/articles/career-15years-retrospective",
+      "likes": 3,
+      "published_at": "2025-09-02T00:26:03+09:00"
+    },
+    {
+      "title": "あなたが居ないと困るのは、その程度しか属人化していないから",
+      "url": "https://zenn.dev/max_qae/articles/ea5d212a540924",
+      "likes": 0,
+      "published_at": "2025-09-09T10:37:47+09:00"
+    }
+  ]
+}

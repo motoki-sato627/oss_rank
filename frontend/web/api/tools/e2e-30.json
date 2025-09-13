@@ -1,0 +1,50 @@
+{
+  "tool": {
+    "slug": "e2e",
+    "name": "e2e"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 161,
+    "score": 161.0
+  },
+  "articles_top": [
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "フロントエンドのテスト方針はプロダクトの状況に応じて定めるべきという話",
+      "url": "https://zenn.dev/shun91/articles/fe-test-strategy",
+      "likes": 4,
+      "published_at": "2025-08-26T20:03:27+09:00"
+    },
+    {
+      "title": "E2EテストをAIエージェントに任せ、軌跡をコード化する",
+      "url": "https://zenn.dev/genda_jp/articles/c2d1cf9d475511",
+      "likes": 2,
+      "published_at": "2025-08-29T13:24:34+09:00"
+    },
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 0,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+      "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+      "likes": 0,
+      "published_at": "2025-09-07T00:41:29+09:00"
+    },
+    {
+      "title": "AIChallenge 2025の活動記 (番外編：AI教材を動かしてみよう)",
+      "url": "https://zenn.dev/iasl/articles/076dc503ab8d83",
+      "likes": 0,
+      "published_at": "2025-09-07T00:41:29+09:00"
+    }
+  ]
+}

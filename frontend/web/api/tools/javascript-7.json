@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "javascript",
+    "name": "javascript"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 86,
+    "likes_sum": 187,
+    "score": 187.0
+  },
+  "articles_top": [
+    {
+      "title": "JavaScript三十六景Tips集",
+      "url": "https://zenn.dev/kenjimorita/articles/3e18a07dda529b",
+      "likes": 116,
+      "published_at": "2025-09-06T22:47:31+09:00"
+    },
+    {
+      "title": "AIによる大量コードのマイグレーションスクリプト作成の試行錯誤と知見",
+      "url": "https://zenn.dev/cybozu_frontend/articles/ai-migration-script-muzui",
+      "likes": 36,
+      "published_at": "2025-09-11T00:00:05+09:00"
+    },
+    {
+      "title": "『ウェブアクセシビリティクックブック』感想 — フロントエンド実装を美味しくする20のレシピ",
+      "url": "https://zenn.dev/kalubi/articles/6dda7001f8fdcf",
+      "likes": 10,
+      "published_at": "2025-09-07T09:14:49+09:00"
+    },
+    {
+      "title": "勝手に「JavaScript三十六景 裏富士」",
+      "url": "https://zenn.dev/aya_koto/articles/33c9a2baf75d8a",
+      "likes": 7,
+      "published_at": "2025-09-10T15:15:33+09:00"
+    },
+    {
+      "title": "ArrayBufferって何なんだろう。",
+      "url": "https://zenn.dev/dotlog_techblog/articles/6e636824e7dd16",
+      "likes": 5,
+      "published_at": "2025-09-08T23:47:12+09:00"
+    },
+    {
+      "title": "非数 や -0.0 は truthy?",
+      "url": "https://zenn.dev/nabetani/articles/19591496dfaadb",
+      "likes": 3,
+      "published_at": "2025-09-06T16:57:06+09:00"
+    },
+    {
+      "title": "コピペ地獄よ、さようなら！選択範囲のリンクを根こそぎ引っこ抜く「link-copier-bookmarklet」を開発した話",
+      "url": "https://zenn.dev/hosoyayusaku/articles/80e8cb4b898ff6",
+      "likes": 2,
+      "published_at": "2025-09-11T23:20:43+09:00"
+    },
+    {
+      "title": "「型安全」なデータ管理、TypeScriptのRecord型について理解する",
+      "url": "https://zenn.dev/1stscratch/articles/a507566562a201",
+      "likes": 2,
+      "published_at": "2025-09-11T10:00:05+09:00"
+    },
+    {
+      "title": "ESLint + Prettier から Biome への移行（Powered by Rust）",
+      "url": "https://zenn.dev/duckdevv/articles/77133b4dcfd1e0",
+      "likes": 2,
+      "published_at": "2025-09-09T11:15:24+09:00"
+    },
+    {
+      "title": "Docker 開発での node_modules マウント、Anonymous Volume という選択肢",
+      "url": "https://zenn.dev/duckdevv/articles/1f680e4debbf2d",
+      "likes": 2,
+      "published_at": "2025-09-09T10:11:27+09:00"
+    }
+  ]
+}

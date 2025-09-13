@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "datadog",
+    "name": "datadog"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 6,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 5,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "ECS×FireLens（Fluent Bit v1.8.3）でSIGSEGV──回避のためのpreflightログ戦略",
+      "url": "https://zenn.dev/levtech/articles/4c92406150d3df",
+      "likes": 4,
+      "published_at": "2025-09-10T12:17:54+09:00"
+    },
+    {
+      "title": "ローカルLLMで一次トリアージを自動化：SD-WAN時代のヘルプデスク設計",
+      "url": "https://zenn.dev/tmnrssk/articles/1eb00548b65bf7",
+      "likes": 1,
+      "published_at": "2025-09-10T06:00:01+09:00"
+    },
+    {
+      "title": "SLO のセルフサービス化を推進している話",
+      "url": "https://zenn.dev/knowledgework/articles/505097eb081c52",
+      "likes": 0,
+      "published_at": "2025-09-12T12:26:50+09:00"
+    },
+    {
+      "title": "ECS×FireLens（Fluent Bit v1.8.3）でSIGSEGV──回避のためのpreflightログ戦略",
+      "url": "https://zenn.dev/levtech/articles/4c92406150d3df",
+      "likes": 0,
+      "published_at": "2025-09-10T12:17:54+09:00"
+    },
+    {
+      "title": "ローカルLLMで一次トリアージを自動化：SD-WAN時代のヘルプデスク設計",
+      "url": "https://zenn.dev/tmnrssk/articles/1eb00548b65bf7",
+      "likes": 0,
+      "published_at": "2025-09-10T06:00:01+09:00"
+    },
+    {
+      "title": "OpenTelemetryでの分散トレーシングでTraceについて学んだので整理する",
+      "url": "https://zenn.dev/skmn/articles/05a196c02b3fed",
+      "likes": 0,
+      "published_at": "2025-09-06T12:55:30+09:00"
+    }
+  ]
+}

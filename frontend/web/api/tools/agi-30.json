@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "agi",
+    "name": "agi"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 9,
+    "likes_sum": 61,
+    "score": 61.0
+  },
+  "articles_top": [
+    {
+      "title": "GPT-5 の教科書",
+      "url": "https://zenn.dev/microsoft/articles/openai_gpt5_textbook",
+      "likes": 59,
+      "published_at": "2025-08-16T21:09:52+09:00"
+    },
+    {
+      "title": "RAGに次ぐ情報拡張技術の提案【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/730665adeab19b",
+      "likes": 4,
+      "published_at": "2025-08-14T11:26:01+09:00"
+    },
+    {
+      "title": "AIエージェントの走りとなったAutoGen【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/a00b949a9f29b8",
+      "likes": 1,
+      "published_at": "2025-09-07T21:01:45+09:00"
+    },
+    {
+      "title": "小データ小メモリ高性能なモデルマージ手法の提案【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/6b9d119ee307b7",
+      "likes": 1,
+      "published_at": "2025-08-20T17:06:39+09:00"
+    },
+    {
+      "title": "AIエージェントの走りとなったAutoGen【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/a00b949a9f29b8",
+      "likes": 0,
+      "published_at": "2025-09-07T21:01:45+09:00"
+    },
+    {
+      "title": "AGI（人工汎用知能）って何？専門家の定義から見える、ちょっと便利になる未来の話",
+      "url": "https://zenn.dev/dotext/articles/fef6055408d655",
+      "likes": 0,
+      "published_at": "2025-09-04T08:16:43+09:00"
+    },
+    {
+      "title": "異なるアーキテクチャを持つGANをマージする方法【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/34084d4fb63c17",
+      "likes": 0,
+      "published_at": "2025-08-31T19:11:23+09:00"
+    },
+    {
+      "title": "モデルマージ研究の最先端について【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/67bc3003357c9b",
+      "likes": 0,
+      "published_at": "2025-08-21T14:54:51+09:00"
+    },
+    {
+      "title": "現実環境において高性能AIを作成する手法：蒸留【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/064cc3dad9bda6",
+      "likes": 0,
+      "published_at": "2025-08-17T12:01:11+09:00"
+    },
+    {
+      "title": "AIの目となり得るモデルマージを利用したマルチモーダルモデル【論文要約】",
+      "url": "https://zenn.dev/zenn_mita/articles/e7036085d4397f",
+      "likes": 0,
+      "published_at": "2025-08-16T17:22:22+09:00"
+    }
+  ]
+}

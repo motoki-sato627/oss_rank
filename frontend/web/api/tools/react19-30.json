@@ -1,0 +1,26 @@
+{
+  "tool": {
+    "slug": "react19",
+    "name": "react19"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 2,
+    "likes_sum": 79,
+    "score": 79.0
+  },
+  "articles_top": [
+    {
+      "title": "【React 19】useImperativeHandleが格段に使いやすくなった！子コンポーネントの機能を「公開」する方法",
+      "url": "https://zenn.dev/uguisu_blog/articles/react-imperativehandle",
+      "likes": 78,
+      "published_at": "2025-08-27T06:59:22+09:00"
+    },
+    {
+      "title": "[React 19] useActionState を使用したフォームの実装",
+      "url": "https://zenn.dev/chocolat5/articles/34c89c1d6a28c5",
+      "likes": 1,
+      "published_at": "2025-08-19T05:17:41+09:00"
+    }
+  ]
+}

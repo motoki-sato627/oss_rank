@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "anthropic",
+    "name": "anthropic"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 21,
+    "likes_sum": 242,
+    "score": 242.0
+  },
+  "articles_top": [
+    {
+      "title": "話題のMCPサーバー「Serena」をClaude Codeで使ってみた",
+      "url": "https://zenn.dev/mixi/articles/4b77baf024d8fc",
+      "likes": 75,
+      "published_at": "2025-09-09T19:28:06+09:00"
+    },
+    {
+      "title": "【初心者向け】Claude Codeの脱初心者の考察",
+      "url": "https://zenn.dev/oikon/articles/claude-code-bigineer",
+      "likes": 50,
+      "published_at": "2025-08-23T07:03:02+09:00"
+    },
+    {
+      "title": "Anthropicがデータ利用方針をオプトアウト方式へ変更するよ",
+      "url": "https://zenn.dev/shirochan/articles/476419f488669b",
+      "likes": 31,
+      "published_at": "2025-08-29T17:37:12+09:00"
+    },
+    {
+      "title": "Claude Code GitHub Actionsを用いて不要になったコードを削除するPull Requestを自動生成する",
+      "url": "https://zenn.dev/knowledgework/articles/e83c6af97c9fbd",
+      "likes": 24,
+      "published_at": "2025-09-11T12:00:02+09:00"
+    },
+    {
+      "title": "ニューラルネットワークの蒸留で、教師モデルの明示されない隠れた特性が生徒モデルに伝播するのか？",
+      "url": "https://zenn.dev/horiyuki42/articles/aa18f3c9448494",
+      "likes": 14,
+      "published_at": "2025-08-18T21:36:50+09:00"
+    },
+    {
+      "title": "Claude Codeはネイティブインストールがおすすめ（移行手順付き）",
+      "url": "https://zenn.dev/miup/articles/cc_native_install",
+      "likes": 12,
+      "published_at": "2025-08-23T14:05:49+09:00"
+    },
+    {
+      "title": "Claude Code入門の次の一歩：これから活用していくための設定方法と考え方",
+      "url": "https://zenn.dev/fukurou_labo/articles/e80b0ba3a4a4d6",
+      "likes": 6,
+      "published_at": "2025-08-29T10:43:40+09:00"
+    },
+    {
+      "title": "Claude Codeのスラッシュコマンドとサブエージェントの使い分け",
+      "url": "https://zenn.dev/sun_asterisk/articles/cc_subagents_commands",
+      "likes": 5,
+      "published_at": "2025-08-27T13:05:42+09:00"
+    },
+    {
+      "title": "【VibeCodingChallenge#19】音声で日記をかけるツールを作ってみた",
+      "url": "https://zenn.dev/acntechjp/articles/b86aada6baf006",
+      "likes": 5,
+      "published_at": "2025-08-22T06:00:01+09:00"
+    },
+    {
+      "title": "[AI Agent Jump Start：応用編#1] 失敗しないAIエージェント設計：段階的導入と目的に応じたデザインパターンの選び方",
+      "url": "https://zenn.dev/dxclab/articles/808efaaa7db736",
+      "likes": 5,
+      "published_at": "2025-08-19T15:54:31+09:00"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "playwright",
+    "name": "playwright"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 15,
+    "likes_sum": 229,
+    "score": 229.0
+  },
+  "articles_top": [
+    {
+      "title": "Playwright MCPを使ってE2Eテストを楽に書く",
+      "url": "https://zenn.dev/knowledgework/articles/d859f65a77fc3c",
+      "likes": 155,
+      "published_at": "2025-09-10T12:00:02+09:00"
+    },
+    {
+      "title": "あるべき場所に帰ろう！ReActに立ち返りClaude Code + Playwright MCP + Figma MCPでデザインを反映",
+      "url": "https://zenn.dev/rgbkids/articles/e93e6e9ade48f2",
+      "likes": 23,
+      "published_at": "2025-09-12T13:45:05+09:00"
+    },
+    {
+      "title": "AI Foundry で Browser Automation Tool を使ってみた",
+      "url": "https://zenn.dev/microsoft/articles/493e35659c59d6",
+      "likes": 12,
+      "published_at": "2025-08-14T21:29:30+09:00"
+    },
+    {
+      "title": "【Playwright】ブラウザの自動操作をしてみようとしたが...",
+      "url": "https://zenn.dev/headwaters/articles/2fba78f05c6644",
+      "likes": 8,
+      "published_at": "2025-08-19T23:24:24+09:00"
+    },
+    {
+      "title": "AI Foundry Browser Automation Tool で定常業務を自動化してみよう！",
+      "url": "https://zenn.dev/nomhiro/articles/browser-automation-ai-foundry-poc",
+      "likes": 7,
+      "published_at": "2025-08-15T01:50:36+09:00"
+    },
+    {
+      "title": "Playwrightで経費精算をやってみる",
+      "url": "https://zenn.dev/machomacho/articles/b74dd07726e743",
+      "likes": 5,
+      "published_at": "2025-09-07T15:37:12+09:00"
+    },
+    {
+      "title": "Next.js App Router時代のAI-driven TDD：実践的な最小ループと具体的な実装パターン",
+      "url": "https://zenn.dev/minewo/articles/ai-driven-tdd-nextjs",
+      "likes": 4,
+      "published_at": "2025-08-27T02:05:25+09:00"
+    },
+    {
+      "title": "【Rails】システムスペックでplaywrightドライバとcupriteドライバを比較してみる",
+      "url": "https://zenn.dev/atsumu22/articles/66a27f049ae867",
+      "likes": 3,
+      "published_at": "2025-09-10T00:47:11+09:00"
+    },
+    {
+      "title": "AIコーディング道場で開発コンテナを活用した並列開発をやってみた",
+      "url": "https://zenn.dev/modokkin/articles/zenn-2025-09-03-ai-coding-dojo",
+      "likes": 3,
+      "published_at": "2025-09-03T15:41:53+09:00"
+    },
+    {
+      "title": "MCPサーバー（Serena、Context7、 Playwright）を活用してバイブコーディングをしてみる",
+      "url": "https://zenn.dev/n_san/articles/f432e910c797cf",
+      "likes": 3,
+      "published_at": "2025-08-28T17:14:17+09:00"
+    }
+  ]
+}

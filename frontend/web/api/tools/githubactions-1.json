@@ -1,0 +1,56 @@
+{
+  "tool": {
+    "slug": "githubactions",
+    "name": "githubactions"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 10,
+    "score": 10.0
+  },
+  "articles_top": [
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "tfaction を段階的に導入した",
+      "url": "https://zenn.dev/socialplus/articles/769cab32c22e58",
+      "likes": 10,
+      "published_at": "2025-09-12T19:00:01+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Actionの初期設定を見直す",
+      "url": "https://zenn.dev/grooves/articles/7da391500fdc39",
+      "likes": 4,
+      "published_at": "2025-09-12T19:04:17+09:00"
+    },
+    {
+      "title": "Claude Code Action + AWS MCPサーバーを用いたインフラコストの事前要約",
+      "url": "https://zenn.dev/mixi/articles/a5d5c54dbd4004",
+      "likes": 4,
+      "published_at": "2025-09-12T13:23:26+09:00"
+    },
+    {
+      "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+      "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+      "likes": 1,
+      "published_at": "2025-09-13T13:36:17+09:00"
+    },
+    {
+      "title": "GitHub Actionsでmainブランチへのプルリクエストを自動クローズする方法",
+      "url": "https://zenn.dev/haru_iida/articles/github-actions-prevent-main-pr",
+      "likes": 1,
+      "published_at": "2025-09-13T13:36:17+09:00"
+    }
+  ]
+}

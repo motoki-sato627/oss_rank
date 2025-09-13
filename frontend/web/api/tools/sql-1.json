@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "sql",
+    "name": "sql"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 2,
+    "score": 2.0
+  },
+  "articles_top": [
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "[SQL] パフォーマンスチューニング countにソートは要らない",
+      "url": "https://zenn.dev/archibase/articles/7126a0595a73f8",
+      "likes": 1,
+      "published_at": "2025-09-13T04:42:12+09:00"
+    },
+    {
+      "title": "クエリの可視化で理解を深めるには",
+      "url": "https://zenn.dev/atsushimemet/articles/df2b14d23a7cef",
+      "likes": 1,
+      "published_at": "2025-09-12T11:11:36+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    },
+    {
+      "title": "インデックスは万能じゃない！DB高速化の落とし穴",
+      "url": "https://zenn.dev/hi_kuma79/articles/59c40f636c234b",
+      "likes": 0,
+      "published_at": "2025-09-13T03:06:49+09:00"
+    }
+  ]
+}

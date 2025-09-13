@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "databricks",
+    "name": "databricks"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 12,
+    "likes_sum": 33,
+    "score": 33.0
+  },
+  "articles_top": [
+    {
+      "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+      "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+      "likes": 23,
+      "published_at": "2025-09-10T10:00:01+09:00"
+    },
+    {
+      "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+      "likes": 7,
+      "published_at": "2025-09-11T08:16:04+09:00"
+    },
+    {
+      "title": "メダリオンアーキテクチャ2.0：次世代データプラットフォームの設計と進化",
+      "url": "https://zenn.dev/suwash/articles/medallion_architecture_2_20250911",
+      "likes": 1,
+      "published_at": "2025-09-11T00:00:00+09:00"
+    },
+    {
+      "title": "DatabricksダッシュボードのAI予測機能ハンズオン",
+      "url": "https://zenn.dev/riwata/articles/70bc4ef124c600",
+      "likes": 1,
+      "published_at": "2025-09-08T19:00:05+09:00"
+    },
+    {
+      "title": "Unity Catalogのメタデータを取得する",
+      "url": "https://zenn.dev/yoshitaka903/articles/65074112c23781",
+      "likes": 1,
+      "published_at": "2025-09-07T17:53:08+09:00"
+    },
+    {
+      "title": "Unity CatalogのQuery Historyを活用して「よく使うクエリ」を保存＆再利用",
+      "url": "https://zenn.dev/headwaters/articles/20250912databricks-viewtest",
+      "likes": 0,
+      "published_at": "2025-09-11T08:16:04+09:00"
+    },
+    {
+      "title": "メダリオンアーキテクチャ2.0：次世代データプラットフォームの設計と進化",
+      "url": "https://zenn.dev/suwash/articles/medallion_architecture_2_20250911",
+      "likes": 0,
+      "published_at": "2025-09-11T00:00:00+09:00"
+    },
+    {
+      "title": "自然言語でのデータ分析を当たり前に：IVRyのDatabricks Genie運用の現在地（インターン視点）",
+      "url": "https://zenn.dev/ivry/articles/9e65e9cea6c8c1",
+      "likes": 0,
+      "published_at": "2025-09-10T10:00:01+09:00"
+    },
+    {
+      "title": "dbt DocsとUnity Catalog：データガバナンスの「設計図」と「竣工図」",
+      "url": "https://zenn.dev/suwash/articles/unitiy_catalog_dbt_docs_20250908",
+      "likes": 0,
+      "published_at": "2025-09-10T00:00:00+09:00"
+    },
+    {
+      "title": "dbt DocsとUnity Catalog：データガバナンスの「設計図」と「竣工図」",
+      "url": "https://zenn.dev/suwash/articles/unitiy_catalog_dbt_docs_20250908",
+      "likes": 0,
+      "published_at": "2025-09-10T00:00:00+09:00"
+    }
+  ]
+}

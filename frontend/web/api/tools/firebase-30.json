@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "firebase",
+    "name": "firebase"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 30,
+    "likes_sum": 104,
+    "score": 104.0
+  },
+  "articles_top": [
+    {
+      "title": "保守を1年半サボったExpo製のアプリを、最新化してリリースするのに半年かかった話",
+      "url": "https://zenn.dev/wheatandcat/articles/20250816-expo",
+      "likes": 52,
+      "published_at": "2025-08-25T09:33:14+09:00"
+    },
+    {
+      "title": "AI駆動開発でネットミーム検索サイト作ろうとしたら、結局俺駆動開発だった話",
+      "url": "https://zenn.dev/gen_shun/articles/d349ae906aca73",
+      "likes": 15,
+      "published_at": "2025-09-05T22:20:00+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "「ぞうのあしあと」を開発しました",
+      "url": "https://zenn.dev/nnishi425/articles/a0c39288049955",
+      "likes": 5,
+      "published_at": "2025-09-12T19:52:02+09:00"
+    },
+    {
+      "title": "Firebase × TypeScript の最適解？FirestoreTyped のご紹介",
+      "url": "https://zenn.dev/info_lounge/articles/64d949c3b8b4a1",
+      "likes": 5,
+      "published_at": "2025-09-03T15:32:45+09:00"
+    },
+    {
+      "title": "個人開発で麻雀点数計算のゲームを作ってみた",
+      "url": "https://zenn.dev/kanamo/articles/56b4e0f03c17f3",
+      "likes": 5,
+      "published_at": "2025-08-18T19:03:04+09:00"
+    },
+    {
+      "title": "各ホスティングサービスでNext.jsを静的ファイルとして配信できるか検証してみた",
+      "url": "https://zenn.dev/castingone_dev/articles/nextjs_pages_ssg_hosting",
+      "likes": 3,
+      "published_at": "2025-08-22T11:48:31+09:00"
+    },
+    {
+      "title": "Firebaseのセキュリティルール問題",
+      "url": "https://zenn.dev/501a/articles/c7d26cb0c90191",
+      "likes": 2,
+      "published_at": "2025-09-01T07:56:43+09:00"
+    },
+    {
+      "title": "0から独学でReact × TypeScript × Firebaseで映画検索アプリを作ってVercelでデプロイするまでの4ヶ月間の記録",
+      "url": "https://zenn.dev/rkmrdse/articles/a51296d1750812",
+      "likes": 2,
+      "published_at": "2025-08-28T16:40:08+09:00"
+    },
+    {
+      "title": "【DAY67】セキュリティ強化から始めるWebアプリ改修",
+      "url": "https://zenn.dev/keisuke4649/articles/day67-pg-connection",
+      "likes": 2,
+      "published_at": "2025-08-16T05:42:00+09:00"
+    }
+  ]
+}

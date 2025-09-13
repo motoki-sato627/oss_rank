@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "cpp",
+    "name": "cpp"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 31,
+    "likes_sum": 61,
+    "score": 61.0
+  },
+  "articles_top": [
+    {
+      "title": "C/C++の世界に閉じこもっていたオジサンがPythonに触れてみる 　~基礎編~ 第3/10回",
+      "url": "https://zenn.dev/nttdata_tech/articles/b5b597856b0321",
+      "likes": 15,
+      "published_at": "2025-09-01T18:18:22+09:00"
+    },
+    {
+      "title": "C/C++の世界に閉じこもっていたオジサンがPythonに触れてみる 　~基礎編~ 第2/10回",
+      "url": "https://zenn.dev/nttdata_tech/articles/f9307b7ffcdeea",
+      "likes": 15,
+      "published_at": "2025-08-19T16:24:09+09:00"
+    },
+    {
+      "title": "関数とメソッド",
+      "url": "https://zenn.dev/nabetani/articles/6b447c2c25679d",
+      "likes": 14,
+      "published_at": "2025-08-23T18:28:24+09:00"
+    },
+    {
+      "title": "M5Stack用のピコピコ音源モジュール、五音ピコを作る",
+      "url": "https://zenn.dev/nananauno/articles/fee7497dda0fa3",
+      "likes": 3,
+      "published_at": "2025-08-26T23:14:54+09:00"
+    },
+    {
+      "title": "文字列の参照はstd::string_view！",
+      "url": "https://zenn.dev/spacesolver/articles/c9123f51360988",
+      "likes": 2,
+      "published_at": "2025-08-25T11:01:38+09:00"
+    },
+    {
+      "title": "build-gcc で djgpp をビルドする",
+      "url": "https://zenn.dev/tenka/articles/building_djgpp_with_build-gcc",
+      "likes": 2,
+      "published_at": "2025-08-16T19:37:40+09:00"
+    },
+    {
+      "title": "【C++】純粋仮想関数と抽象クラス",
+      "url": "https://zenn.dev/satokun_5309/articles/0d39da68712fda",
+      "likes": 1,
+      "published_at": "2025-09-09T12:36:55+09:00"
+    },
+    {
+      "title": "[Android][Kotlin][C++][JNI][OpenGL]動画再生を板ポリ上で実行するサンプルコードを作ってみた。",
+      "url": "https://zenn.dev/rg687076/articles/dfb295182545ef",
+      "likes": 1,
+      "published_at": "2025-09-08T20:54:21+09:00"
+    },
+    {
+      "title": "【ABC422】AtCoder Beginner Contest 422【C++】",
+      "url": "https://zenn.dev/testcampus/articles/df554d69bcd6c0",
+      "likes": 1,
+      "published_at": "2025-09-08T13:11:06+09:00"
+    },
+    {
+      "title": "Windows UAC と VirtualStore",
+      "url": "https://zenn.dev/chai0917/articles/daf09e9e1527c2",
+      "likes": 1,
+      "published_at": "2025-09-01T13:34:33+09:00"
+    }
+  ]
+}

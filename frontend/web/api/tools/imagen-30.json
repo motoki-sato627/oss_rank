@@ -1,0 +1,44 @@
+{
+  "tool": {
+    "slug": "imagen",
+    "name": "imagen"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 5,
+    "likes_sum": 68,
+    "score": 68.0
+  },
+  "articles_top": [
+    {
+      "title": "GoogleのVirtual Try-On API登場までのバーチャル試着を解説する",
+      "url": "https://zenn.dev/tsuruo/articles/21783916dd0283",
+      "likes": 31,
+      "published_at": "2025-08-22T11:23:10+09:00"
+    },
+    {
+      "title": "Virtual Try-On APIをPythonで試す方法",
+      "url": "https://zenn.dev/asap/articles/6889008b8c2cb3",
+      "likes": 21,
+      "published_at": "2025-08-22T23:10:59+09:00"
+    },
+    {
+      "title": "Google GenAI SDK の非公式ドキュメント | Gemini / Imagen / Veo を使う",
+      "url": "https://zenn.dev/prgckwb/articles/google-genai-sdk",
+      "likes": 12,
+      "published_at": "2025-08-25T23:12:57+09:00"
+    },
+    {
+      "title": "【Next Tokyo 25 レポート】Veo と Imagen で広がるショートアニメ / CM 制作の可能性",
+      "url": "https://zenn.dev/cloud_ace/articles/google-cloud-next-tokyo-2025-report-veo-imagen",
+      "likes": 3,
+      "published_at": "2025-08-18T17:28:58+09:00"
+    },
+    {
+      "title": "GPT-4/音声/画像/動画対応！Python Flask で作る AI チャット！",
+      "url": "https://zenn.dev/knbzyh/articles/e1d4b9aa477823",
+      "likes": 1,
+      "published_at": "2025-08-25T17:18:38+09:00"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "tool": {
+    "slug": "cerebras",
+    "name": "cerebras"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 3,
+    "likes_sum": 62,
+    "score": 62.0
+  },
+  "articles_top": [
+    {
+      "title": "お前もCerebras推しにならないか？",
+      "url": "https://zenn.dev/jnst/articles/cerebras-is-my-fave",
+      "likes": 57,
+      "published_at": "2025-08-23T07:57:17+09:00"
+    },
+    {
+      "title": "爆誕‼️爆速ClaudeCode‼️",
+      "url": "https://zenn.dev/yuichi_ai/articles/175a9624ab7b35",
+      "likes": 3,
+      "published_at": "2025-08-19T20:45:14+09:00"
+    },
+    {
+      "title": "定額プランで高速開発を行う具体的方法",
+      "url": "https://zenn.dev/yuichi_ai/articles/876443d4cc0477",
+      "likes": 2,
+      "published_at": "2025-08-18T09:36:55+09:00"
+    }
+  ]
+}

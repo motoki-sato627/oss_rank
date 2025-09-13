@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "deno",
+    "name": "deno"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 116,
+    "score": 116.0
+  },
+  "articles_top": [
+    {
+      "title": "Webアプリのベンチマークについて",
+      "url": "https://zenn.dev/yusukebe/articles/adc3afc1fd0684",
+      "likes": 104,
+      "published_at": "2025-09-03T05:26:52+09:00"
+    },
+    {
+      "title": "deno で WebTransport(unstable) を触ってみた記事がなかったので自分でやってみた",
+      "url": "https://zenn.dev/yamayuski/articles/48e829862ff48f",
+      "likes": 6,
+      "published_at": "2025-08-24T18:40:21+09:00"
+    },
+    {
+      "title": "any-script-mcp で  Deno や Python で気軽に MCP tool を作る",
+      "url": "https://zenn.dev/layerx/articles/bd887445cbcb41",
+      "likes": 4,
+      "published_at": "2025-08-26T11:57:21+09:00"
+    },
+    {
+      "title": "Deno.serveを使った中継用APサーバー",
+      "url": "https://zenn.dev/ojk/articles/deno-apserver",
+      "likes": 2,
+      "published_at": "2025-08-24T12:07:40+09:00"
+    }
+  ]
+}

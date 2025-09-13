@@ -1,0 +1,20 @@
+{
+  "tool": {
+    "slug": "producthunt",
+    "name": "producthunt"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 1,
+    "likes_sum": 83,
+    "score": 83.0
+  },
+  "articles_top": [
+    {
+      "title": "弱小OSSがGitHub Starを集める方法",
+      "url": "https://zenn.dev/kirohi/articles/227345b7ed54d5",
+      "likes": 83,
+      "published_at": "2025-08-28T10:00:02+09:00"
+    }
+  ]
+}

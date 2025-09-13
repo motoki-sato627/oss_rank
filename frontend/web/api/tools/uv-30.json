@@ -1,0 +1,38 @@
+{
+  "tool": {
+    "slug": "uv",
+    "name": "uv"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 4,
+    "likes_sum": 255,
+    "score": 255.0
+  },
+  "articles_top": [
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 207,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    },
+    {
+      "title": "`uv pip install torch --torch-backend=auto`で互換性の高いPyTorchをインストールする流れ",
+      "url": "https://zenn.dev/turing_motors/articles/ab155fe6653660",
+      "likes": 48,
+      "published_at": "2025-08-29T11:30:39+09:00"
+    },
+    {
+      "title": "AIエンジニアリング入門：Pythonによる開発の基礎（uv, Ruff, dataclass, Pyright, Git hooks）",
+      "url": "https://zenn.dev/dalab/articles/61f06f6b516f4e",
+      "likes": 0,
+      "published_at": "2025-09-06T23:16:43+09:00"
+    },
+    {
+      "title": "uv環境でのGenesisセットアップ - LuisaRenderのビルドまで",
+      "url": "https://zenn.dev/oyatomo/articles/ee5f6e77a23e2f",
+      "likes": 0,
+      "published_at": "2025-08-24T18:56:35+09:00"
+    }
+  ]
+}

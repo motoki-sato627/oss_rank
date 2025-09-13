@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "genai",
+    "name": "genai"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 21,
+    "likes_sum": 86,
+    "score": 86.0
+  },
+  "articles_top": [
+    {
+      "title": "マルチエージェントシステムのアーキテクチャーを紐解く",
+      "url": "https://zenn.dev/google_cloud_jp/articles/5410925dc984b1",
+      "likes": 87,
+      "published_at": "2025-08-14T10:43:50+09:00"
+    },
+    {
+      "title": "A2A リモートエージェント対応のマルチエージェントシステム",
+      "url": "https://zenn.dev/google_cloud_jp/articles/d24a22a87a84f8",
+      "likes": 27,
+      "published_at": "2025-08-16T04:30:18+09:00"
+    },
+    {
+      "title": "いまさら聞けない？ Function calling を Agent Development Kit (ADK) で理解する",
+      "url": "https://zenn.dev/cloud_ace/articles/59452ca3e1dfc8",
+      "likes": 13,
+      "published_at": "2025-09-08T16:41:45+09:00"
+    },
+    {
+      "title": "LLM は二次資料？情報源としての LLM との向き合い方",
+      "url": "https://zenn.dev/toga/articles/llm-as-a-source",
+      "likes": 11,
+      "published_at": "2025-08-20T00:59:59+09:00"
+    },
+    {
+      "title": "【生成 AI 時代の LLMOps】プロンプト管理編",
+      "url": "https://zenn.dev/google_cloud_jp/articles/db61e6617020a4",
+      "likes": 8,
+      "published_at": "2025-08-21T18:41:36+09:00"
+    },
+    {
+      "title": "【生成 AI 時代の LLMOps】モデル マイグレーション編",
+      "url": "https://zenn.dev/google_cloud_jp/articles/67a39ee22d094f",
+      "likes": 7,
+      "published_at": "2025-08-22T12:22:24+09:00"
+    },
+    {
+      "title": "「キャリア」という概念",
+      "url": "https://zenn.dev/hariby/articles/71b25bdd0ff32f",
+      "likes": 6,
+      "published_at": "2025-08-23T19:45:30+09:00"
+    },
+    {
+      "title": "今週の生成AIニュース(9/1 ~ 9/7)",
+      "url": "https://zenn.dev/ugongone/articles/2c11c2f31197a6",
+      "likes": 3,
+      "published_at": "2025-09-08T12:32:32+09:00"
+    },
+    {
+      "title": "RAGのハイブリッド検索についてまとめてみた",
+      "url": "https://zenn.dev/ugongone/articles/93d2ccf98d87e6",
+      "likes": 2,
+      "published_at": "2025-08-26T13:26:56+09:00"
+    },
+    {
+      "title": "『Document AIが生成AI活用のカギ』になる理由を事例ベースで解説",
+      "url": "https://zenn.dev/fusic/articles/8adbc1f7fe1db9",
+      "likes": 2,
+      "published_at": "2025-08-19T22:20:10+09:00"
+    }
+  ]
+}

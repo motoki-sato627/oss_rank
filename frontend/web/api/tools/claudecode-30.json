@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "claudecode",
+    "name": "claudecode"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 259,
+    "likes_sum": 3618,
+    "score": 3618.0
+  },
+  "articles_top": [
+    {
+      "title": "ObsidianとClaude Codeを使ったドキュメント活用",
+      "url": "https://zenn.dev/oikon/articles/obsidian-claude-code",
+      "likes": 199,
+      "published_at": "2025-08-15T07:01:01+09:00"
+    },
+    {
+      "title": "Claude Code をブラウザから操作できるクライアントを自作したらめちゃくちゃ捗った",
+      "url": "https://zenn.dev/bm_sms/articles/claude_code_viewer",
+      "likes": 192,
+      "published_at": "2025-09-03T21:23:11+09:00"
+    },
+    {
+      "title": "最近のClaude Codeの使い方",
+      "url": "https://zenn.dev/sun_asterisk/articles/7dafd83f1d0454",
+      "likes": 188,
+      "published_at": "2025-08-29T16:38:59+09:00"
+    },
+    {
+      "title": "ClaudeCodeで挑むコンテキストエンジニアリング実践",
+      "url": "https://zenn.dev/aki_think/articles/66f6fc7530467a",
+      "likes": 175,
+      "published_at": "2025-08-17T00:04:04+09:00"
+    },
+    {
+      "title": "Spec Kit で仕様書駆動開発を体験する",
+      "url": "https://zenn.dev/rakuten_tech/articles/try-github-spec-kit",
+      "likes": 165,
+      "published_at": "2025-09-04T09:04:12+09:00"
+    },
+    {
+      "title": "Claude Codeを用いて仕様書の自動更新の仕組みを構築した話",
+      "url": "https://zenn.dev/dely_jp/articles/f6a6ce32406851",
+      "likes": 137,
+      "published_at": "2025-09-03T16:08:34+09:00"
+    },
+    {
+      "title": "AI搭載エディタから開放されたので、軽量なZedに再挑戦したら快適でした",
+      "url": "https://zenn.dev/globis/articles/03bb90c9aec4a4",
+      "likes": 136,
+      "published_at": "2025-08-26T10:26:05+09:00"
+    },
+    {
+      "title": "私の好きなClaude Codeの使い方",
+      "url": "https://zenn.dev/frontendflat/articles/acc1095edc0d6d",
+      "likes": 129,
+      "published_at": "2025-08-31T18:19:33+09:00"
+    },
+    {
+      "title": "[2025年9月5日] Codexしか勝たん気がしてきた（手のひら返し） (週刊AI)",
+      "url": "https://zenn.dev/carenet/articles/051136f8622e05",
+      "likes": 127,
+      "published_at": "2025-09-05T17:57:47+09:00"
+    },
+    {
+      "title": "ルールファイルはプロジェクトの暗黙知を減らすから今すぐ書け",
+      "url": "https://zenn.dev/ficilcom/articles/7212c8e120b2d6",
+      "likes": 105,
+      "published_at": "2025-08-25T10:00:02+09:00"
+    }
+  ]
+}

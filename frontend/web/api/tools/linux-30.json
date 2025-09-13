@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "linux",
+    "name": "linux"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 94,
+    "likes_sum": 92,
+    "score": 92.0
+  },
+  "articles_top": [
+    {
+      "title": "Linuxを安全に学び始めるための準備（VirtualBox＆Ubuntu）",
+      "url": "https://zenn.dev/headwaters/articles/20250830linuxpractice",
+      "likes": 13,
+      "published_at": "2025-08-25T12:47:17+09:00"
+    },
+    {
+      "title": "ロボット屋さんのためのUbuntuターミナル超入門",
+      "url": "https://zenn.dev/kimushun1101/articles/ros2-beginners-ubuntu-terminal",
+      "likes": 12,
+      "published_at": "2025-09-03T06:23:14+09:00"
+    },
+    {
+      "title": "Proxmox VE のライブマイグレーションの実力を試す(Proxmox VE インストール ～ ライブマイグレーション実行まで)",
+      "url": "https://zenn.dev/seita621/articles/e0dcd29e8440a0",
+      "likes": 6,
+      "published_at": "2025-09-11T15:56:17+09:00"
+    },
+    {
+      "title": "作業環境を移行する技術",
+      "url": "https://zenn.dev/tan_t/articles/3d16efa515a07c",
+      "likes": 4,
+      "published_at": "2025-08-17T23:05:41+09:00"
+    },
+    {
+      "title": "Proxmox VE 9.0 入門 第1回インストール",
+      "url": "https://zenn.dev/gigooo_blog/articles/20250813_pve01",
+      "likes": 4,
+      "published_at": "2025-08-15T17:37:51+09:00"
+    },
+    {
+      "title": "STM32をUbuntuから書き込みたい",
+      "url": "https://zenn.dev/nonnoise/articles/4034cf78955d05",
+      "likes": 3,
+      "published_at": "2025-09-07T22:38:48+09:00"
+    },
+    {
+      "title": "Rust/GoアプリケーションのAWS Lambda向けクロスビルド方法",
+      "url": "https://zenn.dev/lucidfrontier45/articles/8bc8afee49472f",
+      "likes": 3,
+      "published_at": "2025-09-07T01:34:29+09:00"
+    },
+    {
+      "title": "Macは大文字小文字を区別しない。Linuxは区別する。でハマった話",
+      "url": "https://zenn.dev/toshiki003/articles/2bebff45bbaa78",
+      "likes": 2,
+      "published_at": "2025-09-05T18:09:01+09:00"
+    },
+    {
+      "title": "🔥 OpenFOAM v2312 (ESI版) を WSL2 (Ubuntu 22.04) にソースコードからインストールする手順",
+      "url": "https://zenn.dev/takukichi_zenn/articles/2abb3feac5095a",
+      "likes": 2,
+      "published_at": "2025-09-04T23:35:38+09:00"
+    },
+    {
+      "title": "デバイスドライバ開発に入門してみた",
+      "url": "https://zenn.dev/shu_kitamura/articles/3829dc564b007b",
+      "likes": 2,
+      "published_at": "2025-09-01T00:55:18+09:00"
+    }
+  ]
+}

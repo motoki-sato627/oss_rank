@@ -1,0 +1,74 @@
+{
+  "tool": {
+    "slug": "nodejs",
+    "name": "nodejs"
+  },
+  "metric": {
+    "date": "2025-09-13",
+    "articles": 33,
+    "likes_sum": 115,
+    "score": 115.0
+  },
+  "articles_top": [
+    {
+      "title": "CommonJS アプリケーションを ESM に移行する。ついでに Vitest にも移行する",
+      "url": "https://zenn.dev/chot/articles/migrate-from-cjs-jest-to-esm-vitest",
+      "likes": 57,
+      "published_at": "2025-08-25T13:51:34+09:00"
+    },
+    {
+      "title": "MastraのMemory機能を深掘る 〜AIエージェントの記憶システム実践ガイド〜",
+      "url": "https://zenn.dev/nextbeat/articles/mastra-memory-storage",
+      "likes": 30,
+      "published_at": "2025-08-18T13:28:54+09:00"
+    },
+    {
+      "title": "【令和最新版】Windows PC 環境構築手順書（PowerShell）",
+      "url": "https://zenn.dev/moxak/articles/ac9eeec9819500",
+      "likes": 3,
+      "published_at": "2025-09-11T14:57:18+09:00"
+    },
+    {
+      "title": "LINEでFlex Messageを送信する",
+      "url": "https://zenn.dev/ak2ie/articles/42308c50c2e609",
+      "likes": 3,
+      "published_at": "2025-09-06T21:35:12+09:00"
+    },
+    {
+      "title": "JavaScriptのコールバック関数を理解する - Express.jsの実装から学ぶ非同期処理の基本",
+      "url": "https://zenn.dev/cloud_ace/articles/804c0d088d2535",
+      "likes": 3,
+      "published_at": "2025-09-04T20:51:47+09:00"
+    },
+    {
+      "title": "Nix × Node.js 環境構築",
+      "url": "https://zenn.dev/trifolium/articles/6678b0c0fb0d27",
+      "likes": 3,
+      "published_at": "2025-09-02T07:01:01+09:00"
+    },
+    {
+      "title": "node2nix で Nixpkgs 非登録の Node ライブラリを管理する",
+      "url": "https://zenn.dev/trifolium/articles/32ff89d4e14815",
+      "likes": 3,
+      "published_at": "2025-09-02T07:00:01+09:00"
+    },
+    {
+      "title": "ブラウザでAPIを叩くのに苦戦した話",
+      "url": "https://zenn.dev/shicoku/articles/c937aa222d96f8",
+      "likes": 2,
+      "published_at": "2025-09-05T18:31:25+09:00"
+    },
+    {
+      "title": "LINE BotでNode.jsを使うときに署名検証する",
+      "url": "https://zenn.dev/ak2ie/articles/f74fdbe0a3d9b6",
+      "likes": 2,
+      "published_at": "2025-08-21T23:57:14+09:00"
+    },
+    {
+      "title": "Cloud LoggingのログにOpenTelemetryのspan情報を埋め込む方法の確認",
+      "url": "https://zenn.dev/spir/articles/29d442c78903d6",
+      "likes": 2,
+      "published_at": "2025-08-18T14:41:05+09:00"
+    }
+  ]
+}
