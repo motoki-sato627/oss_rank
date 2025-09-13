@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <base href="/" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="Content-Language" content="ja" />
+  <meta name="robots" content="index,follow" />
+
+  <!-- ▼ サイト検証を使う場合はここを差し替え -->
+  <!-- <meta name="google-site-verification" content="YOUR_TOKEN_HERE" /> -->
+
+  <!-- ▼ ページタイトル / ディスクリプション（トップ：一覧用） -->
+  <title>Devツール・OSS 人気ランキング｜ZennのLGTMと記事数で可視化</title>
+  <meta name="description" content="Zennの新着記事を横断収集し、技術タグごとの記事数とLGTM（いいね）を集計。直近1日/7日/30日の『注目度スコア』でDevツール・OSSをランキング。FastAPI/Flutter/Next.jsなどの最新トレンドが一目で分かります。">
+
+  <!-- ▼ Canonical（公開URLに置き換え） -->
+  <link rel="canonical" href="https://oss-rank.example/" />
+
+  <!-- ▼ OGP -->
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Devツール・OSS 人気ランキング">
+  <meta property="og:title" content="Devツール・OSS 人気ランキング｜ZennのLGTMと記事数で可視化">
+  <meta property="og:description" content="Zennの新着記事を横断収集し、技術タグの注目度スコアでランキング。1日/7日/30日で最新トレンドを確認できます。">
+  <meta property="og:url" content="https://oss-rank.example/">
+  <meta property="og:image" content="https://oss-rank.example/ogp.png">
+  <meta property="og:locale" content="ja_JP">
+
+  <!-- ▼ Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Devツール・OSS 人気ランキング">
+  <meta name="twitter:description" content="ZennのLGTMと記事数をもとに注目度を可視化。最新トレンドを毎日更新。">
+  <meta name="twitter:image" content="https://oss-rank.example/ogp.png">
+
+  <!-- ▼ PWA / Icons（必要に応じて差し替え） -->
+  <meta name="theme-color" content="#4F46E5">
+  <link rel="icon" type="image/png" href="/icons/favicon.png">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <link rel="manifest" href="manifest.json">
+
+  <!-- ▼ WebSite 構造化データ（サイト全体） -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Devツール・OSS 人気ランキング",
+    "url": "https://oss-rank.example/",
+    "inLanguage": "ja",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://oss-rank.example/?q={query}",
+      "query-input": "required name=query"
+    }
+  }
+  </script>
+
+  <!-- ▼ CollectionPage 構造化データ（トップ＝一覧ページ想定） -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Devツール・OSS 人気ランキング",
+    "url": "https://oss-rank.example/",
+    "about": ["Devツール","OSS","Zenn","LGTM","ランキング","技術タグ","トレンド"],
+    "isPartOf": {
+      "@type": "WebSite",
+      "name": "Devツール・OSS 人気ランキング",
+      "url": "https://oss-rank.example/"
+    },
+    "description": "Zennの新着記事を横断収集し、技術タグごとの記事数とLGTMを集計。直近1日/7日/30日の注目度スコアでランキング化。"
+  }
+  </script>
+
+  <!-- ▼ （任意）フォントの先読みなど -->
+  <!-- <link rel="preload" href="/fonts/NotoSansJP.woff2" as="font" type="font/woff2" crossorigin> -->
+
+  <!-- ▼ Flutter Web 必須 -->
+  <script src="flutter.js" defer></script>
+</head>
+<body>
+  <!-- Flutter アプリ起動 -->
+  <script>
+    window.addEventListener('load', function () {
+      _flutter.loader.loadEntrypoint({}).then(function (engineInitializer) {
+        return engineInitializer.initializeEngine();
+      }).then(function (appRunner) {
+        return appRunner.runApp();
+      });
+    });
+  </script>
+</body>
+</html>
