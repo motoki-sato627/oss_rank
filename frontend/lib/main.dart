@@ -75,7 +75,7 @@ class App extends StatelessWidget {
         ),
       ),
 
-      cardTheme: CardTheme(
+      cardTheme: const CardThemeData(
         elevation: 0,
         color: base.colorScheme.surface,
         surfaceTintColor: base.colorScheme.primary,
