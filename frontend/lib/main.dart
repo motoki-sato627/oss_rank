@@ -75,7 +75,7 @@ class App extends StatelessWidget {
         ),
       ),
 
-      cardTheme: const CardThemeData(
+      cardTheme: CardTheme(
         elevation: 0,
         color: base.colorScheme.surface,
         surfaceTintColor: base.colorScheme.primary,
@@ -93,7 +93,7 @@ class App extends StatelessWidget {
     );
 
     return MaterialApp.router(
-      title: 'Devツール／OSS 注目度ランキング',
+      title: 'Devツール／OSS 毎日更新ランキング',
       locale: const Locale('ja', 'JP'),
       supportedLocales: const [
         Locale('ja', 'JP'),
